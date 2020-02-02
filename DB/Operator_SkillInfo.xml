@@ -1,0 +1,689 @@
+<SKillList>
+  <Info id="0" OpName="첸" name="칼집 타격" rang="0" need="E0" spType="공격시" tirrger="자동" info="칼집으로 공격하며 다음 공격은 공격력의/물리 피해를 입히고, 적을/초간 기절 시킨다.">
+    <lv level="1" needLv="1레벨" data="200%/1" sp="7" fsp="0" submat="" time="0" />
+    <lv level="2" needLv="1레벨" data="210%/1" sp="7" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="1레벨" data="220%/1" sp="7" fsp="0" submat="기술개요·1권/5/원암/6/파손장치/4" time="0" />
+    <lv level="4" needLv="1레벨" data="230%/1.25" sp="6" fsp="0" submat="기술개요·2권/8/설탕/5" time="0" />
+    <lv level="5" needLv="정예화1차" data="240%/1.25" sp="6" fsp="0" submat="기술개요·2권/8/폴리에스테르/4/이철/4" time="0" />
+    <lv level="6" needLv="정예화1차" data="250%/1.25" sp="6" fsp="0" submat="기술개요·2권/8/개조장치/4" time="0" />
+    <lv level="7" needLv="정예화1차" data="260%/1.5" sp="5" fsp="0" submat="기술개요·3권/8/레조에틸렌/5/케톤 세트/4" time="0" />
+    <lv level="8" needLv="정예화2차" data="280%/1.5" sp="5" fsp="0" submat="기술개요·3권/8/깁사이트/4/개조장치/4" time="8" />
+    <lv level="9" needLv="정예화2차" data="300%/1.5" sp="5" fsp="0" submat="기술개요·3권/12/정제원암/4/오수연마석/9" time="16" />
+    <lv level="10" needLv="정예화2차" data="320%/1.5" sp="4" fsp="0" submat="기술개요·3권/15/중합제/6/에틸렌바이마/7" time="24" />
+  </Info>
+  <Info id="2" OpName="첸" name="적소·발도" rang="1" need="E1" spType="공격시" tirrger="자동" info="전방의 최대/명의 적에게 공격력의/만큼의 물리 및 마법 피해를 입힌다.">
+    <lv level="1" needLv="정예화1차" data="4/330%" sp="27" fsp="10" submat="" time="0" />
+    <lv level="2" needLv="정예화1차" data="4/340%" sp="27" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="정예화1차" data="4/350%" sp="27" fsp="10" submat="기술개요·1권/5/원암/6/파손장치/4" time="0" />
+    <lv level="4" needLv="정예화1차" data="5/370%" sp="26" fsp="12" submat="기술개요·2권/8/설탕/5" time="0" />
+    <lv level="5" needLv="정예화1차" data="5/380%" sp="26" fsp="12" submat="기술개요·2권/8/폴리에스테르/4/이철/4" time="0" />
+    <lv level="6" needLv="정예화1차" data="5/390%" sp="26" fsp="12" submat="기술개요·2권/8/개조장치/4" time="0" />
+    <lv level="7" needLv="정예화1차" data="6/410%" sp="25" fsp="14" submat="기술개요·3권/8/레조에틸렌/5/케톤 세트/4" time="0" />
+    <lv level="8" needLv="정예화2차" data="6/440%" sp="23" fsp="15" submat="기술개요·3권/8/오수연마석/4/레조에틸렌/7" time="8" />
+    <lv level="9" needLv="정예화2차" data="6/470%" sp="21" fsp="16" submat="기술개요·3권/12/설탕 박스/4/RMA70-24/8" time="16" />
+    <lv level="10" needLv="정예화2차" data="7/500%" sp="20" fsp="20" submat="기술개요·3권/15/D32강/6/폴리에스테르 박스/6" time="24" />
+  </Info>
+  <Info id="2" OpName="첸" name="적소·절영" rang="2" need="E2" spType="공격시" tirrger="자동" info="가장 가까운 적을 찾아 공격력의/에 해당하는 물리피해를/번 입힌다. 마지막 공격은 적을/초간 기절 시킨다.">
+    <lv level="1" needLv="정예화2차" data="200%/10/2" sp="40" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="정예화2차" data="210%/10/2" sp="40" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="정예화2차" data="220%/10/2" sp="40" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="정예화2차" data="230%/10/2.5" sp="38" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="정예화2차" data="240%/10/2.5" sp="38" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="정예화2차" data="250%/10/2.5" sp="38" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="정예화2차" data="260%/10/3" sp="36" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="정예화2차" data="280%/10/3" sp="34" fsp="13" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="정예화2차" data="300%/10/3" sp="32" fsp="16" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="정예화2차" data="320%/10/4" sp="30" fsp="20" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="시즈" name="돌격지령" rang="0" need="E0" spType="자동회복" tirrger="자동" info="배치 코스트/즉시 획득">
+    <lv level="1" needLv="E0_1" data="12" sp="44" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="12" sp="43" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="12" sp="42" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="12" sp="41" fsp="12" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="12" sp="40" fsp="12" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="12" sp="39" fsp="12" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="12" sp="38" fsp="14" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="12" sp="37" fsp="16" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="12" sp="36" fsp="18" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="12" sp="35" fsp="20" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="4" OpName="시즈" name="점핑 해머" rang="1" need="E1" spType="자동회복" tirrger="자동" info="다음 공격이 주위의 모든 적에게 공격력의/만큼의 물리 대미지를 주고, 배치 코스트를/획득한다/회 충전 가능">
+    <lv level="1" needLv="E1_1" data="220%/3/1" sp="12" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="230%/3/1" sp="12" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="240%/3/1" sp="12" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="250%/3/2" sp="11" fsp="3" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="260%/3/2" sp="11" fsp="3" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="270%/3/2" sp="11" fsp="3" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="280%/3/3" sp="11" fsp="6" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="300%/3/3" sp="10" fsp="7" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="320%/3/3" sp="10" fsp="8" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="340%/3/3" sp="10" fsp="10" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="5" OpName="시즈" name="스컬 크래시" rang="0" need="E2" spType="자동회복" tirrger="수동" info="공격 딜레이/초 증가, 공격 시 공격력이/까지 상승하고, /확률로 공격한 적을/초간 기절시킨다.">
+    <lv level="1" needLv="E2_1" data="1/260%/40%/0.5" sp="30" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="1/270%/40%/0.5" sp="30" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="1/280%/40%/0.5" sp="30" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="1/290%/40%/0.8" sp="30" fsp="5" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="1/300%/40%/0.8" sp="30" fsp="5" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="1/310%/40%/0.8" sp="30" fsp="5" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="1/320%/40%/1.1" sp="30" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="1/340%/40%/1.2" sp="30" fsp="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="1/360%/40%/1.3" sp="30" fsp="20" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="1/380%/40%/1.5" sp="30" fsp="25" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="6" OpName="샤이닝" name="신조" rang="0" need="E0" spType="자동회복" tirrger="수동" info="공격력/, 공격속도/">
+    <lv level="1" needLv="E0_1" data="+45%/+10" sp="50" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="+48%/+10" sp="49" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="+50%/+10" sp="48" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="+58%/+10" sp="47" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+61%/+10" sp="46" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+64%/+10" sp="45" fsp="10" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+67%/+20" sp="44" fsp="14" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+70%/+20" sp="43" fsp="16" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+75%/+20" sp="42" fsp="18" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+80%/+20" sp="40" fsp="20" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="7" OpName="샤이닝" name="자동엄호" rang="0" need="E1" spType="자동회복" tirrger="자동" info="다음 치료가 목표에게/초간 보호막 부여. 보호막은 샤이닝의 공격력의/만큼 데미지를 흡수하고 대상의 방어력/. /회 충전 가능">
+    <lv level="1" needLv="E1_1" data="2/20%/+20%/1" sp="8" fsp="0" e_time="2" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="2/23%/+20%/1" sp="8" fsp="0" e_time="2" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="2/25%/+20%/1" sp="8" fsp="0" e_time="2" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="2/28%/+25%/1" sp="7" fsp="0" e_time="2" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="2/30%/+25%/1" sp="7" fsp="0" e_time="2" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="2/33%/+25%/1" sp="7" fsp="0" e_time="2" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="3/35%/+35%/2" sp="7" fsp="0" e_time="3" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="3/40%/+35%/2" sp="6" fsp="0" e_time="3" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="3/45%/+35%/2" sp="6" fsp="0" e_time="3" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="3/50%/+50%/3" sp="5" fsp="0" e_time="3" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="8" OpName="샤이닝" name="교조역장" rang="0" need="E2" spType="자동회복" tirrger="수동" info="공격력/, 공격 범위 내 모든 아군 방어력/">
+    <lv level="1" needLv="E2_1" data="+20%/+30%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="+20%/+35%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="+20%/+40%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="+30%/+45%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="+30%/+50%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="+30%/+55%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="+40%/+60%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+40%/+70%" sp="120" fsp="105" e_time="60" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+40%/+80%" sp="120" fsp="110" e_time="60" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+50%/+100%" sp="120" fsp="115" e_time="60" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="9" OpName="나이팅게일" name="회복강화·γ형" rang="0" need="E0" spType="자동회복" tirrger="수동" info="공격력/ ">
+    <lv level="1" needLv="E0_1" data="+40%" sp="40" fsp="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="+45%" sp="40" fsp="20" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="+50%" sp="40" fsp="20" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="+55%" sp="35" fsp="20" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+60%" sp="35" fsp="20" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+65%" sp="35" fsp="20" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+70%" sp="32" fsp="20" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+75%" sp="32" fsp="20" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+80%" sp="32" fsp="20" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+90%" sp="30" fsp="20" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="10" OpName="나이팅게일" name="마법 방패" rang="0" need="E1" spType="자동회복" tirrger="자동" info="다음 회복 대상은/초간 지속되는 방패효과를 얻는다. 이 효과는 나이팅게일 공격력/만큼의 마법 피해를 흡수하며, 마법 저항/를 얻는다. /회 충전 가능">
+    <lv level="1" needLv="E1_1" data="3/40%/5/1" sp="11" fsp="0" e_time="3" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="3/43%/5/1" sp="11" fsp="0" e_time="3" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="3/46%/5/1" sp="11" fsp="0" e_time="3" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="3.5/50%/10/2" sp="10" fsp="0" e_time="3.5" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="3.5/53%/10/2" sp="10" fsp="0" e_time="3.5" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="3.5/56%/10/2" sp="10" fsp="0" e_time="3.5" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="4/60%/15/2" sp="10" fsp="0" e_time="4" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="4/70%/15/3" sp="9" fsp="0" e_time="4" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="4/80%/15/3" sp="9" fsp="0" e_time="4" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="5/90%/20/3" sp="8" fsp="0" e_time="5" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="11" OpName="나이팅게일" name="성역" rang="1" need="E2" spType="자동회복" tirrger="수동" info="공격 범위가 증가하고 공격력이/증가하고 공격 범위 내 아군은 마법 저항력이/증가하며 마법 공격 회피율/를 얻는다.">
+    <lv level="1" needLv="E2_1" data="30%/75%/10%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="30%/80%/10%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="30%/85%/10%" sp="120" fsp="100" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="40%/90%/15%" sp="120" fsp="105" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="40%/95%/15%" sp="120" fsp="105" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="40%/100%/15%" sp="120" fsp="105" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="50%/105%/20%" sp="120" fsp="110" e_time="60" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="60%/120%/20%" sp="120" fsp="110" e_time="60" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="70%/135%/20%" sp="120" fsp="110" e_time="60" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="80%/150%/25%" sp="120" fsp="115" e_time="60" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="12" OpName="엑시아" name="어설트 모드" rang="0" need="E0" spType="공격시" tirrger="자동" info="다음 공격이/연사가 되며, 발당 공격력이/로 증가한다.">
+    <lv level="1" needLv="E0_1" data="3/105%" sp="5" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="3/107%" sp="5" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="3/109%" sp="5" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="3/113%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="3/115%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="3/117%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="3/121%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="3/129%" sp="4" fsp="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="3/137%" sp="4" fsp="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="3/145%" sp="4" fsp="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="13" OpName="엑시아" name="슈팅 모드" rang="0" need="E1" spType="자동회복" tirrger="수동" info="다음 공격이/연사가 되며, 발당 공격력이/로 증가한다.">
+    <lv level="1" needLv="E1_1" data="4/100%" sp="45" fsp="15" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="4/100%" sp="44" fsp="15" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="4/100%" sp="43" fsp="15" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="4/105%" sp="42" fsp="15" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="4/105%" sp="41" fsp="15" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="4/105%" sp="40" fsp="15" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="4/110%" sp="39" fsp="18" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="4/115%" sp="38" fsp="20" e_time="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="4/120%" sp="37" fsp="22" e_time="15" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="4/125%" sp="35" fsp="25" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="14" OpName="엑시아" name="과부하 모드" rang="0" need="E2" spType="자동회복" tirrger="자동" info="공격이 /연사가 되고, 발당 공격력이 /로 증가하며, 공격 딜레이가 /초 감소한다.">
+    <lv level="1" needLv="E2_1" data="5/0%/0" sp="50" fsp="20" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="5/0%/0" sp="48" fsp="20" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="5/0%/0" sp="46" fsp="20" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="5/0%/0.05" sp="44" fsp="20" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="5/0%/0.05" sp="42" fsp="20" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="5/0%/0.05" sp="40" fsp="20" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="5/0%/0.08" sp="38" fsp="20" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="5/103%/0.08" sp="36" fsp="20" e_time="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="5/107%/0.08" sp="34" fsp="20" e_time="15" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="5/110%/0.11" sp="30" fsp="20" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="12" OpName="슈바르츠" name="강노" rang="0" need="E0" spType="공격시" tirrger="자동" info="다음 공격은 /의 공격력으로 공격하고, 재능 발동 확률이 /로 상승한다.">
+    <lv level="1" needLv="E0_1" data="160%/50%" sp="5" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="165%/50%" sp="5" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="170%/50%" sp="5" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="175%/60%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="180%/60%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="185%/60%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="190%/70%" sp="4" fsp="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="200%/73%" sp="4" fsp="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="210%/76%" sp="4" fsp="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="220%/80%" sp="3" fsp="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="13" OpName="슈바르츠" name="황혼의 눈동자" rang="0" need="E1" spType="자동회복" tirrger="수동" info="공격력이 /추가로 증가하고, 재능 발동 확률이 /로 상승한다.">
+    <lv level="1" needLv="E1_1" data="70%/35%" sp="40" fsp="10" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="75%/35%" sp="39" fsp="10" e_time="31" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="80%/35%" sp="38" fsp="10" e_time="32" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="85%/40%" sp="37" fsp="13" e_time="33" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="90%/40%" sp="36" fsp="13" e_time="34" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="95%/40%" sp="35" fsp="13" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="100%/45%" sp="34" fsp="16" e_time="36" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="110%/45%" sp="33" fsp="17" e_time="37" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="120%/45%" sp="32" fsp="18" e_time="38" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="130%/50%" sp="30" fsp="20" e_time="40" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="14" OpName="슈바르츠" name="최후의 전술" rang="0" need="E2" spType="자동회복" tirrger="수동" info="지속 시간 동안 공격 범위가 전방 /칸으로 변경되고 공격 속도가 /초 줄어들며 공격력이 /추가로 상승한다. 또한 재능 발동 확률이 /로 상승한다.">
+    <lv level="1" needLv="E2_1" data="3/0.4/100%/100%" sp="35" fsp="5" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="3/0.4/105%/100%" sp="34" fsp="5" e_time="16" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="3/0.4/110%/100%" sp="33" fsp="5" e_time="17" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="3/0.4/120%/100%" sp="32" fsp="5" e_time="18" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="3/0.4/125%/100%" sp="31" fsp="7" e_time="19" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="3/0.4/130%/100%" sp="30" fsp="7" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="3/0.4/140%/100%" sp="29" fsp="9" e_time="21" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="4/0.4/150%/100%" sp="28" fsp="10" e_time="22" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="4/0.4/160%/100%" sp="27" fsp="11" e_time="23" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="4/0.4/180%/100%" sp="25" fsp="12" e_time="25" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="12" OpName="에이야퍄들라" name="듀엣 아리아" rang="0" need="E0" spType="자동회복" tirrger="수동" info="공격 속도 /, /회 이상 스킬 사용 시 공격력 / 효과 추가">
+    <lv level="1" needLv="E0_1" data="+30%/2/+30%" sp="45" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="+32%/2/+32%" sp="44" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="+35%/2/+35%" sp="43" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="+38%/2/+38%" sp="42" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+40%/2/+40%" sp="41" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+42%/2/+42%" sp="40" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+45%/2/+45%" sp="39" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+50%/2/+50%" sp="38" fsp="25" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+55%/2/+55%" sp="37" fsp="25" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+60%/2/+60%" sp="35" fsp="25" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="13" OpName="에이야퍄들라" name="이그니션" rang="0" need="E1" spType="자동회복" tirrger="자동" info="다음 공격이 공격력의 /만큼의 마법 대미지를 주며, 명중된 목표 주위의 적에게는 절반의 폭발 대미지를 입히고, /초간 마법 저항력 /, /회 충전 가능">
+    <lv level="1" needLv="E1_1" data="240%/6/-10%/1" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="250%/6/-10%/1" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="260%/6/-10%/1" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="275%/6/-15%/2" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="285%/6/-15%/2" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="295%/6/-15%/2" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="310%/6/-20%/2" sp="6" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="330%/6/-20%/3" sp="6" fsp="0" e_time="6" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="350%/6/-20%/3" sp="6" fsp="0" e_time="6" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="370%/6/-25%/3" sp="5" fsp="0" e_time="6" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="14" OpName="에이야퍄들라" name="볼케이노" rang="1" need="E2" spType="자동회복" tirrger="수동" info="공격력 /, 공격 범위 확대, 공격 딜레이 대폭 감소(/초), 공격이 무작위로 공격 범위 내 최대 /명에게 용암을 발사하게 된다">
+    <lv level="1" needLv="E2_1" data="+55%/-1.1/3" sp="80" fsp="30" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="+60%/-1.1/3" sp="80" fsp="31" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="+65%/-1.1/3" sp="80" fsp="32" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="+70%/-1.1/4" sp="80" fsp="33" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="+75%/-1.1/4" sp="80" fsp="34" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="+80%/-1.1/4" sp="80" fsp="35" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="+85%/-1.1/5" sp="80" fsp="40" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+100%/-1.1/5" sp="80" fsp="45" e_time="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+115%/-1.1/5" sp="80" fsp="50" e_time="15" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+130%/-1.1/6" sp="80" fsp="55" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="12" OpName="이프리트" name="듀엣 아리아" rang="0" need="E0" spType="자동회복" tirrger="수동" info="공격 속도 /, /회 이상 스킬 사용 시 공격력 / 효과 추가">
+    <lv level="1" needLv="E0_1" data="+30%/2/+30%" sp="45" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="+32%/2/+32%" sp="44" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="+35%/2/+35%" sp="43" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="+38%/2/+38%" sp="42" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+40%/2/+40%" sp="41" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+42%/2/+42%" sp="40" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+45%/2/+45%" sp="39" fsp="25" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+50%/2/+50%" sp="38" fsp="25" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+55%/2/+55%" sp="37" fsp="25" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+60%/2/+60%" sp="35" fsp="25" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="13" OpName="이프리트" name="이그니션" rang="0" need="E1" spType="자동회복" tirrger="자동" info="다음 공격이 공격력의 /만큼의 마법 대미지를 주며, 명중된 목표 주위의 적에게는 절반의 폭발 대미지를 입히고, /초간 마법 저항력 /, /회 충전 가능">
+    <lv level="1" needLv="E1_1" data="240%/6/-10%/1" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="250%/6/-10%/1" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="260%/6/-10%/1" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="275%/6/-15%/2" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="285%/6/-15%/2" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="295%/6/-15%/2" sp="7" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="310%/6/-20%/2" sp="6" fsp="0" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="330%/6/-20%/3" sp="6" fsp="0" e_time="6" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="350%/6/-20%/3" sp="6" fsp="0" e_time="6" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="370%/6/-25%/3" sp="5" fsp="0" e_time="6" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="14" OpName="이프리트" name="볼케이노" rang="0" need="E2" spType="자동회복" tirrger="수동" info="공격력 /, 공격 범위 확대, 공격 딜레이 대폭 감소(/초), 공격이 무작위로 공격 범위 내 최대 /명에게 용암을 발사하게 된다">
+    <lv level="1" needLv="E2_1" data="+55%/-1.1/3" sp="80" fsp="30" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="+60%/-1.1/3" sp="80" fsp="31" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="+65%/-1.1/3" sp="80" fsp="32" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="+70%/-1.1/4" sp="80" fsp="33" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="+75%/-1.1/4" sp="80" fsp="34" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="+80%/-1.1/4" sp="80" fsp="35" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="+85%/-1.1/5" sp="80" fsp="40" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+100%/-1.1/5" sp="80" fsp="45" e_time="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+115%/-1.1/5" sp="80" fsp="50" e_time="15" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+130%/-1.1/6" sp="80" fsp="55" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="모스티마" name="공격력 강화·γ형" rang="0" need="E0" spType="자동회복" tirrger="수동" info="공격력이 / 향상된다">
+    <lv level="1" needLv="E0_1" data="30%" sp="40" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="35%" sp="40" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="40%" sp="40" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="45%" sp="37" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="50%" sp="37" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="55%" sp="37" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="60%" sp="35" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="75%" sp="34" fsp="30" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="90%" sp="33" fsp="30" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="100%" sp="30" fsp="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="모스티마" name="잃어버린 시간의 자물쇠" rang="0" need="E1" spType="자동회복" tirrger="수동" info="공격 범위 내 적들을 기절시키고, 초당 공격력의 /에 해당하는 마법 피해를 입힌다">
+    <lv level="1" needLv="E1_1" data="80%" sp="65" fsp="5" e_time="4" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="90%" sp="64" fsp="7" e_time="4" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="100%" sp="63" fsp="9" e_time="4" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="100%" sp="61" fsp="11" e_time="5" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="110%" sp="59" fsp="13" e_time="5" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="120%" sp="58" fsp="15" e_time="5" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="120%" sp="56" fsp="17" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="130%" sp="54" fsp="20" e_time="6" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="130%" sp="52" fsp="23" e_time="7" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="140%" sp="50" fsp="30" e_time="7" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="모스티마" name="되찾은 시간의 열쇠" rang="1" need="E2" spType="자동회복" tirrger="수동" info="공격력 /, 공격 범위 증가, 공격이 퍼지는 형태로 변환되며 두 번째 재능 효과를 /배로 올린다. 그리고 공격대상을 조금 밀친다">
+    <lv level="1" needLv="E2_1" data="+60%/3" sp="110" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="+70%/3" sp="110" fsp="52" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="+80%/3" sp="110" fsp="54" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="+90%/3" sp="110" fsp="56" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="+100%/3" sp="110" fsp="58" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="+110%/3" sp="110" fsp="60" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="+120%/3" sp="110" fsp="62" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+135%/3" sp="110" fsp="68" e_time="25" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+150%/3" sp="110" fsp="72" e_time="26" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+170%/3" sp="110" fsp="80" e_time="27" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="블레이즈" name="강타·γ형" rang="0" need="E0" spType="공격시" tirrger="자동" info="다음 공격의 공격력이 /증가한다.">
+    <lv level="1" needLv="E0_1" data="190%" sp="40" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="195%" sp="40" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="200%" sp="40" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="205%" sp="37" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="210%" sp="37" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="215%" sp="37" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="225%" sp="35" fsp="30" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="245%" sp="34" fsp="30" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="265%" sp="33" fsp="30" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="290%" sp="30" fsp="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="블레이즈" name="전기톱 연장 모듈" rang="1" need="E1" spType="자동회복" tirrger="자동" info="공격력 /, 방어력 /, 공격 범위가 전방 한 칸 길어진다.(지속시간 무한)">
+    <lv level="1" needLv="E1_1" data="+40%/+10%" sp="65" fsp="5" e_time="4" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="+45%/+10%" sp="64" fsp="7" e_time="4" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="+50%/+10%" sp="63" fsp="9" e_time="4" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="+55%/+15%" sp="61" fsp="11" e_time="5" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+60%/+15%" sp="59" fsp="13" e_time="5" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+65%/+15%" sp="58" fsp="15" e_time="5" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+70%/+20%" sp="56" fsp="17" e_time="6" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+80%/+25%" sp="54" fsp="20" e_time="6" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+90%/+30%" sp="52" fsp="23" e_time="7" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+100%/+35%" sp="50" fsp="30" e_time="7" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="블레이즈" name="끓어오르는 폭발" rang="0" need="E2" spType="자동회복" tirrger="수동" info="	스킬 발동 시 공격력과 방어력이 /까지 점점 증가하며 적들을 절단한다. 스킬이 종료된 후 근처의 모든 적에게 공격력의 /의 물리 피해를 입히고 자신의 생명력이 /만큼 감소한다.">
+    <lv level="1" needLv="E2_1" data="30%/300%/*25%" sp="110" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="35%/300%/*25%" sp="110" fsp="52" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="40%/300%/*25%" sp="110" fsp="54" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="45%/320%/*25%" sp="110" fsp="56" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="50%/320%/*25%" sp="110" fsp="58" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="55%/320%/*25%" sp="110" fsp="60" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="60%/340%/*25%" sp="110" fsp="62" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="65%/360%/*25%" sp="110" fsp="68" e_time="25" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="70%/380%/*25%" sp="110" fsp="72" e_time="26" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="80%/400%/*25%" sp="110" fsp="80" e_time="27" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="스카디" name="빠른 타격·γ형" rang="0" need="E0" spType="자동회복" tirrger="수동" info="스킬 지속시간동안 공격력이 /추가로 증가하며, 공격속도가 /증가한다.">
+    <lv level="1" needLv="E0_1" data="20%/20" sp="45" fsp="0" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="22%/20" sp="44" fsp="0" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="24%/20" sp="43" fsp="0" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="27%/25" sp="42" fsp="5" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="29%/25" sp="41" fsp="5" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="31%/25" sp="40" fsp="5" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="34%/35" sp="39" fsp="10" e_time="35" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="37%/35" sp="38" fsp="10" e_time="35" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="40%/35" sp="37" fsp="10" e_time="35" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="45%/45" sp="35" fsp="15" e_time="35" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="스카디" name="파도타기" rang="0" need="E1" spType="패시브" tirrger="자동" info="배치 후 /초 동안 공격력이 /추가로증가한다.">
+    <lv level="1" needLv="E1_1" data="15/80%" sp="0" fsp="0" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="16/85%" sp="0" fsp="0" e_time="16" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="17/90%" sp="0" fsp="0" e_time="17" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="20/100%" sp="0" fsp="0" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="21/105%" sp="0" fsp="0" e_time="21" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="22/110%" sp="0" fsp="0" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="25/120%" sp="0" fsp="0" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="27/135%" sp="0" fsp="0" e_time="27" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="28/150%" sp="0" fsp="0" e_time="28" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="30/170%" sp="0" fsp="0" e_time="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="스카디" name="물결치는 비가" rang="0" need="E2" spType="자동회복" tirrger="수동" info="스킬 지속시간동안 공격력, 방어력 및 생명력이 /추가로 증가한다.">
+    <lv level="1" needLv="E2_1" data="70%" sp="90" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="75%" sp="90" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="80%" sp="90" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="85%" sp="90" fsp="55" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="90%" sp="90" fsp="55" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="95%" sp="90" fsp="55" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="100%" sp="90" fsp="60" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="110%" sp="90" fsp="63" e_time="25" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="120%" sp="90" fsp="66" e_time="26" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="130%" sp="90" fsp="70" e_time="27" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="실버애쉬" name="강타γ" rang="0" need="E0" spType="공격시" tirrger="자동" info="다음 공격의 공격력이 /까지 상승">
+    <lv level="1" needLv="E0_1" data="190%" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="195%" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="200%" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="205%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="210%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="215%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="225%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="245%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="265%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="290%" sp="2" fsp="0" e_time="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="실버애쉬" name="히라 생존 법칙" rang="0" need="E1" spType="자동회복" tirrger="수동" info="초기 상태와 다음 상태간 전환 가능 > 공격 범위 축소, 방어력 /, 매 초마다 최대 HP의 /만큼 HP 회복">
+    <lv level="1" needLv="E1_1" data="+35%/3.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="+40%/3.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="+45%/3.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="+50%/4.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+55%/4.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+60%/4.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+65%/4.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+75%/5.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+85%/5.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+100%/6.0%" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="실버애쉬" name="진은참" rang="0" need="E2" spType="자동회복" tirrger="수동" info="방어력 /, 공격력 /, 공격 범위 확대, 목표를 최대 /명까지 동시 공격 (근거리 공격 판정)">
+    <lv level="1" needLv="E2_1" data="*-70%/+110%/3" sp="90" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="*-70%/+115%/3" sp="90" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="*-70%/+120%/3" sp="90" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="*-70%/+125%/4" sp="90" fsp="55" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="*-70%/+130%/4" sp="90" fsp="55" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="*-70%/+135%/4" sp="90" fsp="55" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="*-70%/+140%/5" sp="90" fsp="60" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="*-70%/+160%/5" sp="90" fsp="65" e_time="25" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="*-70%/+180%/5" sp="90" fsp="70" e_time="26" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="*-70%/+200%/6" sp="90" fsp="75" e_time="27" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="헬라그" name="초승달" rang="0" need="E0" spType="공격시" tirrger="자동" info="다음 공격은 공격력의 /만큼 두 번 공격 한다.">
+    <lv level="1" needLv="E0_1" data="110%" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="115%" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="120%" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="125%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="130%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="135%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="145%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="155%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="165%" sp="3" fsp="0" e_time="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="175%" sp="2" fsp="0" e_time="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="헬라그" name="그믐달" rang="0" need="E1" spType="자동회복" tirrger="수동" info="스킬 지속시간동안 공격이 /회타격이 되며, 공격력이 /추가로 증가하고 스킬 지속시간동안 /확률의 물리공격에 대한 회피능력 부여">
+    <lv level="1" needLv="E1_1" data="2/20%/75%" sp="35" fsp="0" e_time="10" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="2/25%/75%" sp="34" fsp="0" e_time="10" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="2/30%/75%" sp="33" fsp="0" e_time="10" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="2/35%/75%" sp="32" fsp="5" e_time="11" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="2/40%/75%" sp="31" fsp="5" e_time="11" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="2/45%/75%" sp="30" fsp="5" e_time="11" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="2/50%/75%" sp="29" fsp="10" e_time="12" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="2/60%/75%" sp="28" fsp="11" e_time="12" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="2/70%/75%" sp="27" fsp="12" e_time="12" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="2/80%/75%" sp="25" fsp="15" e_time="13" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="헬라그" name="보름달" rang="0" need="E2" spType="자동회복" tirrger="수동" info="공격력이 /추가로 증가하고, 공격 범위가 앞 /칸 늘어나며, 범위 내 최대/명의 적을 공격할 수 있다.">
+    <lv level="1" needLv="E2_1" data="40%/1/3" sp="45" fsp="15" e_time="12" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="45%/1/3" sp="45" fsp="15" e_time="12" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="50%/1/3" sp="45" fsp="15" e_time="12" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="55%/1/3" sp="43" fsp="15" e_time="13" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="60%/1/3" sp="43" fsp="15" e_time="13" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="65%/1/3" sp="43" fsp="15" e_time="13" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="70%/1/3" sp="41" fsp="15" e_time="14" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="80%/2/3" sp="39" fsp="15" e_time="14" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="90%/2/3" sp="37" fsp="15" e_time="14" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="100%/2/3" sp="35" fsp="15" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="호시구마" name="전의" rang="0" need="E0" spType="자동회복" tirrger="수동" info="방어력 /, 공격력 /">
+    <lv level="1" needLv="E0_1" data="+35%/+10%" sp="50" fsp="20" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="+40%/+10%" sp="49" fsp="20" e_time="21" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="+45%/+10%" sp="48" fsp="20" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="+50%/+20%" sp="47" fsp="20" e_time="23" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+55%/+20%" sp="46" fsp="20" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+60%/+20%" sp="45" fsp="20" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+65%/+30%" sp="44" fsp="20" e_time="26" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+70%/+30%" sp="43" fsp="20" e_time="27" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+75%/+30%" sp="42" fsp="20" e_time="28" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+80%/+40%" sp="40" fsp="20" e_time="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="호시구마" name="가시덤불" rang="0" need="E1" spType="패시브" tirrger="NULL" info="방어력 /, 공격을 받을 때마다 목표에게 호시구마의 공격력의 /만큼 물리 대미지를 준다">
+    <lv level="1" needLv="E1_1" data="+5%/50%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="+7%/55%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="+9%/60%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="+13%/65%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+15%/70%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+17%/75%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+21%/80%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+24%/85%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+27%/90%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+30%/100%" sp="0" fsp="0" e_time="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="호시구마" name="반야회전참" rang="0" need="E2" spType="자동회복" tirrger="수동" info="공격력 /, 방어력 /, 방패를 회전시켜 전방 /칸에 있는 모든 적을 동시에 공격한다">
+    <lv level="1" needLv="E2_1" data="+65%/+40%/1" sp="60" fsp="20" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="+70%/+40%/1" sp="59" fsp="20" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="+75%/+40%/1" sp="58" fsp="20" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="+80%/+50%/1" sp="57" fsp="23" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="+85%/+50%/1" sp="56" fsp="23" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="+90%/+50%/1" sp="55" fsp="23" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="+95%/+60%/1" sp="54" fsp="26" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+110%/+70%/1" sp="53" fsp="27" e_time="25" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+125%/+80%/1" sp="52" fsp="28" e_time="25" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+140%/+90%/1" sp="50" fsp="30" e_time="25" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="사리아" name="응급 처치" rang="1" need="E0" spType="자동회복" tirrger="자동" info="다음 공격 시 주변에 체력이 절반 미만인 아군 한 명을 치료하고, 회복량은 공격력의 /만큼 회복시킨다. /회 충전 가능">
+    <lv level="1" needLv="E0_1" data="110%/1" sp="6" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="115%/1" sp="6" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="120%/1" sp="6" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="130%/1" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="135%/1" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="140%/1" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="150%/2" sp="5" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="160%/2" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="170%/2" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="180%/3" sp="4" fsp="0" e_time="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="사리아" name="약물 배치" rang="2" need="E1" spType="자동회복" tirrger="자동" info="범위 내의 모든 아군을 치료하고, 회복량은 공격력의 /만큼 회복시킨다.">
+    <lv level="1" needLv="E1_1" data="80%" sp="10" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="85%" sp="10" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="90%" sp="10" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="95%" sp="9" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="100%" sp="9" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="105%" sp="9" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="110%" sp="8" fsp="0" e_time="0" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="120%" sp="8" fsp="0" e_time="0" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="130%" sp="8" fsp="0" e_time="0" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="140%" sp="7" fsp="0" e_time="0" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="사리아" name="칼슘화" rang="3" need="E2" spType="자동회복" tirrger="수동" info="인근의 아군은 자신의 공격력의 /에 해당하는 체력을 초당 회복하고, 인근의 모든 적군이 받는 마법 피해는 /증가하고 이동 속도는 /감소한다.">
+    <lv level="1" needLv="E2_1" data="10%/20%/60%" sp="80" fsp="45" e_time="10" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="10%/20%/60%" sp="80" fsp="45" e_time="12" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="10%/20%/60%" sp="80" fsp="45" e_time="14" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="15%/30%/60%" sp="80" fsp="50" e_time="16" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="15%/30%/60%" sp="80" fsp="50" e_time="18" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="15%/30%/60%" sp="80" fsp="50" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="20%/40%/60%" sp="80" fsp="55" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="25%/45%/60%" sp="80" fsp="60" e_time="24" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="30%/50%/60%" sp="80" fsp="65" e_time="27" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="35%/55%/60%" sp="80" fsp="70" e_time="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="니엔" name="은빛" rang="0" need="E0" spType="자동회복" tirrger="수동" info="방어력 /, 공격력 /, 일반공격이 마법 피해를 입힌다.">
+    <lv level="1" needLv="E0_1" data="+25%/+10%" sp="30" fsp="10" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="+30%/+10%" sp="30" fsp="10" e_time="21" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="+35%/+10%" sp="30" fsp="10" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="+40%/+20%" sp="30" fsp="10" e_time="23" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+45%/+20%" sp="30" fsp="10" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+50%/+20%" sp="30" fsp="10" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+55%/+30%" sp="30" fsp="10" e_time="26" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+60%/+35%" sp="30" fsp="10" e_time="27" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+65%/+40%" sp="30" fsp="10" e_time="28" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+70%/+45%" sp="30" fsp="10" e_time="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="니엔" name="동인" rang="0" need="E1" spType="자동회복" tirrger="수동" info="공격을 중지한다. 방어력 /, 저지 수 /, 공격을 받을 때마다 공격한 대상에게 공격할 때마다 공격력의 /의 마법 피해를 입히고 특수 능력을 /초간 상실시킨다.">
+    <lv level="1" needLv="E1_1" data="+60%/+1/50%/3" sp="50" fsp="25" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="+65%/+1/50%/3" sp="50" fsp="26" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="+70%/+1/50%/3" sp="50" fsp="27" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="+80%/+1/60%/3" sp="50" fsp="28" e_time="31" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+85%/+1/60%/3" sp="50" fsp="29" e_time="31" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+90%/+1/60%/3" sp="50" fsp="30" e_time="31" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+100%/+1/70%/3" sp="50" fsp="31" e_time="32" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+110%/+1/70%/4" sp="50" fsp="32" e_time="33" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+120%/+1/80%/4" sp="50" fsp="33" e_time="34" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+130%/+1/90%/5" sp="50" fsp="35" e_time="35" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="니엔" name="견고한 방어" rang="1" need="E2" spType="자동회복" tirrger="수동" info="공격력 /, 해당 범위 내 아군 방어력 /, 저지 수 / 그리고 저항을 얻는다. (기절, 추위 및 동결의 지속시간 50% 감소)">
+    <lv level="1" needLv="E2_1" data="+55%/+30%/+1" sp="85" fsp="40" e_time="40" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="+55%/+30%/+1" sp="85" fsp="42" e_time="40" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="+60%/+30%/+1" sp="85" fsp="44" e_time="40" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="+65%/+40%/+1" sp="85" fsp="48" e_time="40" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="+70%/+40%/+1" sp="85" fsp="50" e_time="40" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="+75%/+40%/+1" sp="85" fsp="52" e_time="40" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="+80%/+50%/+1" sp="85" fsp="56" e_time="40" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+90%/+60%/+1" sp="85" fsp="60" e_time="41" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+100%/+70%/+1" sp="85" fsp="74" e_time="42" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+120%/+80%/+1" sp="85" fsp="70" e_time="45" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="안젤리나" name="아케인스태프·충전" rang="0" need="E0" spType="공격시" tirrger="자동" info="공격력 /, 스킬 자동 시전.">
+    <lv level="1" needLv="E0_1" data="+40%" sp="10" fsp="0" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="+45%" sp="10" fsp="0" e_time="21" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="+50%" sp="10" fsp="0" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="+60%" sp="10" fsp="0" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="+65%" sp="10" fsp="0" e_time="26" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="+70%" sp="10" fsp="0" e_time="27" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="+80%" sp="10" fsp="0" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+90%" sp="10" fsp="0" e_time="31" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+100%" sp="10" fsp="0" e_time="33" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+110%" sp="10" fsp="0" e_time="35" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="안젤리나" name="아케인스태프·미립자" rang="0" need="E1" spType="자동회복" tirrger="수동" info="공격 딜레이가 대폭 감소하지만(/초로 감소), 매 회 공격이 공격력의 /만큼의 마법 대미지만 주게 됨. 스킬 미발동 시 일반 공격 사용 불가">
+    <lv level="1" needLv="E1_1" data="0.15/30%" sp="20" fsp="0" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="0.15/30%" sp="20" fsp="1" e_time="21" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="0.15/30%" sp="20" fsp="2" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="0.15/35%" sp="20" fsp="3" e_time="23" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="0.15/35%" sp="20" fsp="4" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="0.15/35%" sp="20" fsp="5" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="0.15/40%" sp="20" fsp="6" e_time="26" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="0.15/40%" sp="19" fsp="7" e_time="27" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="0.15/40%" sp="18" fsp="8" e_time="28" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="0.15/45%" sp="15" fsp="10" e_time="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="안젤리나" name="아케인스태프·반중력" rang="1" need="E2" spType="자동회복" tirrger="수동" info="공격 범위가 확대되며, 공격 범위 내의 모든 적의 무게가 /감소하고, 공격력이 /추가로 증가하며 /명의 적을 동시에 공격할 수 있다. 스킬이 발동 하지 않은 경우 일반 공격이 불가능">
+    <lv level="1" needLv="E2_1" data="1/75%/4" sp="25" fsp="0" e_time="10" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="1/80%/4" sp="25" fsp="0" e_time="11" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="1/85%/4" sp="25" fsp="0" e_time="12" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="1/90%/4" sp="25" fsp="3" e_time="14" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="1/95%/4" sp="25" fsp="3" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="1/100%/4" sp="25" fsp="3" e_time="16" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="1/105%/5" sp="25" fsp="6" e_time="18" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="1/120%/5" sp="25" fsp="7" e_time="20" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="1/135%/5" sp="25" fsp="8" e_time="22" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="1/150%/5" sp="25" fsp="10" e_time="25" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="마젤란" name="고효율 냉각 모듈" rang="0" need="E0" spType="자동회복" tirrger="수동" info="스킬 미발동 : 자신과 드론 공격 범위 내의 적을 /초마다 /초 정지시킨다.
+스킬 발동 : 정지가 /초 동결로 바뀌고 스킬 종료시 모든 드론을 회수한다.">
+    <lv level="1" needLv="E0_1" data="3/0.7/1.6" sp="30" fsp="10" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="3/0.7/1.7" sp="30" fsp="11" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="3/0.7/1.8" sp="30" fsp="12" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="3/0.8/1.9" sp="30" fsp="13" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="3/0.8/2.0" sp="30" fsp="14" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="3/0.8/2.1" sp="30" fsp="15" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="3/0.9/2.2" sp="30" fsp="16" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="3/0.9/2.3" sp="30" fsp="17" e_time="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="3/0.9/2.4" sp="30" fsp="18" e_time="15" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="3/1.0/2.5" sp="30" fsp="20" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="마젤란" name="레이저 채굴 모듈" rang="0" need="E1" spType="자동회복" tirrger="수동" info="스킬 미발동 : 무인기를 근거리에 배치할 수 있으며, 단일 대상에게 마법 피해를 입힌다.
+스킬 발동 : 마젤란과 드론 공격속도가 /증가하고, 드론의 공격이 범위 공격으로 전환되며, 스킬 종료시 모든 드론을 회수한다.">
+    <lv level="1" needLv="E1_1" data="60" sp="50" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="65" sp="49" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="70" sp="48" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="80" sp="47" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="85" sp="46" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="90" sp="45" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="100" sp="44" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="115" sp="42" fsp="25" e_time="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="130" sp="40" fsp="25" e_time="15" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="150" sp="38" fsp="25" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="마젤란" name="무장 공격 모듈" rang="0" need="E2" spType="자동회복" tirrger="수동" info="스킬 미발동 : 드론을 원거리에 배치할 수 있으며, 범위 물리 피해를 입힌다.
+스킬 발동 : 마젤란과 드론의 공격력이 /추가로 증가하고, 드론 공격의 폭발 범위가 증가하며, 스킬 종료 시 모든 드론을 회수한다.">
+    <lv level="1" needLv="E2_1" data="60%" sp="50" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="65%" sp="49" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="70%" sp="48" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="80%" sp="47" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="85%" sp="46" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="90%" sp="45" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="100%" sp="44" fsp="25" e_time="15" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="115%" sp="42" fsp="25" e_time="15" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="130%" sp="40" fsp="25" e_time="15" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="150%" sp="38" fsp="25" e_time="15" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="1" OpName="아크" name="쾌속사격" rang="0" need="E0" spType="자동회복" tirrger="수동" info="공격속도 /">
+    <lv level="1" needLv="E0_1" data="30" sp="30" fsp="15" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E0_1" data="35" sp="30" fsp="15" e_time="21" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E0_1" data="40" sp="30" fsp="15" e_time="22" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E0_1" data="50" sp="30" fsp="16" e_time="23" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="55" sp="30" fsp="16" e_time="24" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="60" sp="30" fsp="16" e_time="25" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="70" sp="30" fsp="17" e_time="26" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="80" sp="30" fsp="18" e_time="27" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="90" sp="30" fsp="19" e_time="28" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="100" sp="30" fsp="20" e_time="29" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="2" OpName="아크" name="폭발제·γ형" rang="0" need="E1" spType="자동회복" tirrger="수동" info="전방에 가장 가까운 아군을 500의 공격력으로 15회 공격한 후, 지속 시간 동안 자신과 대상의 방어력과 최대 생명력을 /만큼 증가시킨다">
+    <lv level="1" needLv="E1_1" data="30%" sp="40" fsp="20" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E1_1" data="30%" sp="39" fsp="20" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E1_1" data="30%" sp="38" fsp="20" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E1_1" data="40%" sp="37" fsp="21" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E1_1" data="40%" sp="36" fsp="21" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E1_1" data="40%" sp="35" fsp="21" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E1_1" data="50%" sp="34" fsp="22" e_time="30" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="60%" sp="33" fsp="23" e_time="30" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="70%" sp="32" fsp="24" e_time="30" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="80%" sp="30" fsp="25" e_time="30" submat="기술개요·1권/5" time="24" />
+  </Info>
+  <Info id="3" OpName="아크" name="폭발제·두리안 맛" rang="0" need="E2" spType="자동회복" tirrger="수동" info="전방에 가장 가까운 아군을 500의 공격력으로 15회 공격한 후 지속 시간 동안 공격력 /, 공격 속도 /">
+    <lv level="1" needLv="E2_1" data="+25%/+25" sp="47" fsp="25" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="2" needLv="E2_1" data="+25%/+25" sp="46" fsp="25" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="3" needLv="E2_1" data="+25%/+25" sp="45" fsp="25" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="4" needLv="E2_1" data="+30%/+30" sp="44" fsp="26" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="5" needLv="E2_1" data="+30%/+30" sp="43" fsp="26" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="6" needLv="E2_1" data="+30%/+30" sp="42" fsp="26" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="7" needLv="E2_1" data="+35%/+35" sp="41" fsp="27" e_time="20" submat="기술개요·1권/5" time="0" />
+    <lv level="8" needLv="E2_1" data="+40%/+40" sp="39" fsp="28" e_time="20" submat="기술개요·1권/5" time="8" />
+    <lv level="9" needLv="E2_1" data="+45%/+45" sp="37" fsp="29" e_time="20" submat="기술개요·1권/5" time="16" />
+    <lv level="10" needLv="E2_1" data="+50%/+50" sp="35" fsp="30" e_time="20" submat="기술개요·1권/5" time="24" />
+  </Info>
+</SKillList>
