@@ -12,7 +12,7 @@
       <lv level="9" needLv="정예화2차" data="300%/1.5" sp="5" fsp="0" submat="기술개요·3권/12/정제원암/4/오수연마석/9" time="16" />
       <lv level="10" needLv="정예화2차" data="320%/1.5" sp="4" fsp="0" submat="기술개요·3권/15/중합제/6/에틸렌바이마/7" time="24" />
     </Info>
-    <Info id="2" OpName="첸" name="적소·발도" rang="1" need="E1" spType="공격시" tirrger="자동" info="전방의 최대/명의 적에게 공격력의/만큼의 물리 및 마법 피해를 입힌다.">
+    <Info id="2" OpName="첸" name="적소·발도" rang="1" need="E1" spType="공격시" tirrger="수동" info="전방의 최대/명의 적에게 공격력의/만큼의 물리 및 마법 피해를 입힌다.">
       <lv level="1" needLv="정예화1차" data="4/330%" sp="27" fsp="10" submat="" time="0" />
       <lv level="2" needLv="정예화1차" data="4/340%" sp="27" fsp="10" submat="기술개요·1권/5" time="0" />
       <lv level="3" needLv="정예화1차" data="4/350%" sp="27" fsp="10" submat="기술개요·1권/5/원암/6/파손장치/4" time="0" />
@@ -24,7 +24,7 @@
       <lv level="9" needLv="정예화2차" data="6/470%" sp="21" fsp="16" submat="기술개요·3권/12/설탕 박스/4/RMA70-24/8" time="16" />
       <lv level="10" needLv="정예화2차" data="7/500%" sp="20" fsp="20" submat="기술개요·3권/15/D32강/6/폴리에스테르 박스/6" time="24" />
     </Info>
-    <Info id="2" OpName="첸" name="적소·절영" rang="2" need="E2" spType="공격시" tirrger="자동" info="가장 가까운 적을 찾아 공격력의/에 해당하는 물리피해를/번 입힌다. 마지막 공격은 적을/초간 기절 시킨다.">
+    <Info id="2" OpName="첸" name="적소·절영" rang="2" need="E2" spType="공격시" tirrger="수동" info="가장 가까운 적을 찾아 공격력의/에 해당하는 물리피해를/번 입힌다. 마지막 공격은 적을/초간 기절 시킨다.">
       <lv level="1" needLv="정예화2차" data="200%/10/2" sp="40" fsp="10" submat="기술개요·1권/5" time="0" />
       <lv level="2" needLv="정예화2차" data="210%/10/2" sp="40" fsp="10" submat="기술개요·1권/5" time="0" />
       <lv level="3" needLv="정예화2차" data="220%/10/2" sp="40" fsp="10" submat="기술개요·1권/5" time="0" />
