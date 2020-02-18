@@ -89,4 +89,9 @@
   <Info name="비글" en_name="Beagle" rare="3" skill_icon="S0" />
   <Info name="카디건" en_name="Cardigan" rare="3" skill_icon="S0" />
   <Info name="오키드" en_name="Orchid" rare="3" skill_icon="S0" />
+  <Info name="야토" en_name="Yato" rare="2" skill_icon="" />
+  <Info name="레인저" en_name="Ranger" rare="2" skill_icon="" />
+  <Info name="12F" en_name="12F" rare="2" skill_icon="" />
+  <Info name="두린" en_name="Durin" rare="2" skill_icon="" />
+  <Info name="느와르 코르네" en_name="Noir_corne" rare="2" skill_icon="" />
 </ChractorList>
