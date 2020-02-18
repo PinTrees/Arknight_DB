@@ -94,4 +94,6 @@
   <Info name="12F" en_name="12F" rare="2" skill_icon="" />
   <Info name="두린" en_name="Durin" rare="2" skill_icon="" />
   <Info name="느와르 코르네" en_name="Noir_corne" rare="2" skill_icon="" />
+  <Info name="LANCET-2" en_name="Lancet-2" rare="1" skill_icon="" />
+  <Info name="CASTLE-3" en_name="Castle-3" rare="1" skill_icon="" />
 </ChractorList>
