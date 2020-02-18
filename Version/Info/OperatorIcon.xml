@@ -75,4 +75,18 @@
   <Info name="그라벨" en_name="Gravel" rare="4" skill_icon="S0/S1" />
   <Info name="로프" en_name="Rope" rare="4" skill_icon="S0/S1/S1_R" />
   <Info name="쇼" en_name="Shaw" rare="4" skill_icon="S0/S1/S1_R" />
+  <Info name="팽" en_name="Fang" rare="3" skill_icon="S0" />
+  <Info name="플룸" en_name="Plume" rare="3" skill_icon="S0" />
+  <Info name="바닐라" en_name="Vanilla" rare="3" skill_icon="S0" />
+  <Info name="아드나키엘" en_name="Adnaciel" rare="3" skill_icon="S0" />
+  <Info name="캐터펄트" en_name="Catapult" rare="3" skill_icon="S0" />
+  <Info name="크루스" en_name="Kroos" rare="3" skill_icon="S0" />
+  <Info name="안셀" en_name="Ansel" rare="3" skill_icon="S0" />
+  <Info name="히비스커스" en_name="Hibiscus" rare="3" skill_icon="S0" />
+  <Info name="라바" en_name="Lava" rare="3" skill_icon="S0" />
+  <Info name="스튜어드" en_name="Steward" rare="3" skill_icon="S0" />
+  <Info name="멜란사" en_name="Melantha" rare="3" skill_icon="S0" />
+  <Info name="비글" en_name="Beagle" rare="3" skill_icon="S0" />
+  <Info name="카디건" en_name="Cardigan" rare="3" skill_icon="S0" />
+  <Info name="오키드" en_name="Orchid" rare="3" skill_icon="S0" />
 </ChractorList>
