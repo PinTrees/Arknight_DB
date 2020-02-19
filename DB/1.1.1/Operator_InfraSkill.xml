@@ -1,0 +1,77 @@
+<ChractorList>
+  <Info name="첸" en_name="Chen">
+    <Infra id="1" name="덕재겸비" lock="E0" icon="" target="통제실" info="통제실 배치 시, 통제실 내 용문근위국 대원 수만큼 제어 중추 내의 모든 대원들의 기분은 시간당 용문근위국 대원의 수*-0.05"/>
+    <Infra id="2" name="경찰" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 +25%"/>
+  </Info>
+  <Info name="시즈" en_name="Siege">
+    <Infra id="1" name="지도자" lock="E0" icon="" target="기숙사" info="기숙사 배치 시 기숙사 내 모든 대원의 기분 시간당 회복 +0.15 (동종효과 중 가장 높은 하나만 적용)"/>
+    <Infra id="1" name="라이온킹" lock="E2" icon="" target="기숙사" info="기숙사 배치 시 기숙사 내 모든 대원의 기분 시간당 회복 +0.2 (동종효과 중 가장 높은 하나만 적용)"/>
+  </Info>
+  <Info name="엑시아" en_name="Exusiai">
+    <Infra id="1" name="펭귄 로지스·α" lock="E0" icon="" target="무역소" info="거래소 배치 시 주문 효율 + 20%"/>
+    <Infra id="1" name="물류 전문가" lock="E2" icon="" target="무역소" info="거래소 배치 시 주문 효율 + 35%"/>
+  </Info>
+  <Info name="슈바르츠" en_name="Schwarz">
+    <Infra id="1" name="차 우리기" lock="E0" icon="" target="기숙사" info="기숙사에 입소할 때, 이 기숙사에서 자신을 제외하고 기분이 좋지 않은 대원의 기분을 시간당 +0.55 (동종효과가 가장 높으며 추가효과는 제외) , 목표 대원이 실론일 경우 회복효과 추가 +0.45"/>
+    <Infra id="2" name="검은 화살" lock="E2" icon="" target="훈련실" info="훈련실 배치 시 저격대원의 스킬 훈련속도 +60%"/>
+  </Info>
+  <Info name="나이팅게일" en_name="Nightingale">
+    <Infra id="1" name="고무" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 해당 숙소 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도+0.1"/>
+    <Infra id="1" name="램프를 든 여신" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 해당 숙소 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도+0.2"/>
+  </Info>
+  <Info name="에이야퍄들라" en_name="Eyjafjalla">
+    <Infra id="1" name="화산학자" lock="E0" icon="" target="제조소" info="제조소에 배치 시 원석류 제조 생산력 +35%"/>
+    <Infra id="2" name="재앙정보전달자·β" lock="E2" icon="" target="인사부" info="인사부에 배치 시 인맥 자원의 누적 속도 +45%"/>
+  </Info>
+  <Info name="이프리트" en_name="Ifrit">
+    <Infra id="1" name="열 에너지 충전·α" lock="E0" icon="" target="발전소" info="발전소에 배치 시 드론 생산 속도 +10%"/>
+    <Infra id="1" name="고열 충전" lock="E2" icon="" target="발전소" info="발전소에 배치 시 드론 생산 속도 +15%"/>
+  </Info>
+  <Info name="모스티마" en_name="Mostima">
+    <Infra id="1" name="단서수집·α" lock="E0" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 +10%"/>
+    <Infra id="1" name="메신저·펭귄 물류" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 +10% (펭귄 로지스틱스 수집 획득 용이)"/>
+  </Info>
+  <Info name="블레이즈" en_name="Blaze">
+    <Infra id="1" name="열 에너지 충전·α" lock="E0" icon="" target="발전소" info="발전소 배치 시, 드론 회복 속도 +10%"/>
+    <Infra id="2" name="참철열강" lock="E1" icon="" target="가공소" info="가공소 배치 시, 건축 자재 가공 시, 부산물 생산 확률 +80%"/>
+  </Info>
+  <Info name="헬라그" en_name="Hellagur">
+    <Infra id="1" name="초연" lock="E0" icon="" target="발전소" info="기숙사 배치 시, 자신의 피로도 시간당 +0.55 회복"/>
+    <Infra id="1" name="초연" lock="E1" icon="" target="발전소" info="기숙사 배치 시, 해당 기숙사 모든 대원 피로도 회복 시간당 +0.1"/>
+    <Infra id="1" name="초연" lock="E2" icon="" target="발전소" info="기숙사 배치 시, 자신의 피로도 시간당 +0.55 회복 및 해당 기숙사 모든 대원 피로도 회복 시간당 +0.1"/>
+    <Infra id="2" name="병자궤도" lock="E0" icon="" target="가공소" info="가공소 배치 시, 기술개요 생산 시 부산물 생산 확률 +80%"/>
+  </Info>
+  <Info name="실버애쉬" en_name="Silverash">
+    <Infra id="1" name="카란 무역 α" lock="E0" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율+15%, 오더 상한+1"/>
+    <Infra id="1" name="카란의 주인" lock="E2" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율+20%, 오더 상한+3"/>
+  </Info>
+  <Info name="스카디" en_name="Skadi">
+    <Infra id="1" name="고독" lock="E0" icon="" target="기숙사" info="기숙사 배치시 자신의 시간당 피로도 회복 속도 +0.7"/>
+    <Infra id="1" name="비가" lock="E2" icon="" target="기숙사" info="기숙사 배치시 자신의 시간당 피로도 회복 속도 +1.0"/>
+  </Info>
+  <Info name="호시구마" en_name="Hoshiguma">
+    <Infra id="1" name="중장 전문가·α" lock="E0" icon="" target="훈련실" info="훈련실 배치 시, 중장대원들의 마스터 랭크 스킬 훈련 속도 +30%"/>
+    <Infra id="1" name="반야의 방패" lock="E2" icon="" target="훈련실" info="훈련실 배치 시, 중장대원들의 마스터 랭크 스킬 훈련 속도 +60%"/>
+  </Info>
+  <Info name="니엔" en_name="Nian">
+    <Infra id="1" name="희귀 금속 식별" lock="E0" icon="" target="가공소" info="가공소 배치 시, 정예화 재료 가공 시, 부산물 생산 확률 +100%"/>
+    <Infra id="2" name="내 맘대로" lock="E0" icon="" target="가공소" info="가공소 배치 시, 정예화 재료 가공 시, 피로도 소모 +2"/>
+  </Info>
+  <Info name="사리아" en_name="Saria">
+    <Infra id="1" name="단서 수집·α" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 +10%"/>
+    <Infra id="1" name="파수꾼" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 +10%, 라인 랩 단서 획득 확률 상승"/>
+  </Info>
+  <Info name="안젤리나" en_name="Angelina">
+    <Infra id="1" name="단서 수집·α" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 +10%"/>
+    <Infra id="1" name="전달자" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 +10%, 로도스 아일랜드 단서 획득 확률 상승"/>
+  </Info>
+  <Info name="마젤란" en_name="Angelina">
+    <Infra id="1" name="다용도 측정기" lock="E0" icon="" target="가공소" info="가공소 배치 시, 임의의 재료 가공 시, 부산물 생산 확률 +50%"/>
+    <Infra id="2" name="드래곤플라이" lock="E2" icon="" target="가공소" info="가공소 배치 시, 임의의 재료 가공 시, 피로도 4 이상 소모 하는 가공물은 소모 값 -2"/>
+  </Info>
+  <Info name="아크" en_name="Aak">
+    <Infra id="1" name="노이로제" lock="E0" icon="" target="통제실" info="통제실에 배치될 경우, 응접실에 배치된 대원의 성향을 증가시켜 자신이 속한 진영의 단서를 찾을 확률을 증가시킵니다. 그러나 통제실에 배치된 모든 대원들의 피로도가 빠르게 소모됩니다."/>
+    <Infra id="1" name="노이로제" lock="E2" icon="" target="통제실" info="통제실에 배치될 경우, 응접실에 배치된 대원의 성향을 증가시켜 자신이 속한 진영의 단서를 찾을 확률을 증가시킵니다. 그러나 통제실에 배치된 모든 대원들의 피로도가 빠르게 소모됩니다."/>
+    <Infra id="2" name="정밀 수술" lock="E2" icon="" target="훈련실" info="훈련실 배치 시, 메딕 대원의 스킬 훈련 속도 +60%"/>
+  </Info>
+</ChractorList>
