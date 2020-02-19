@@ -40,9 +40,9 @@
     <Infra id="2" name="참철열강" lock="E1" icon="" target="가공소" info="가공소 배치 시, 건축 자재 가공 시, 부산물 생산 확률 +80%"/>
   </Info>
   <Info name="헬라그" en_name="Hellagur">
-    <Infra id="1" name="초연" lock="E0" icon="" target="발전소" info="기숙사 배치 시, 자신의 피로도 시간당 +0.55 회복"/>
-    <Infra id="1" name="초연" lock="E1" icon="" target="발전소" info="기숙사 배치 시, 해당 기숙사 모든 대원 피로도 회복 시간당 +0.1"/>
-    <Infra id="1" name="초연" lock="E2" icon="" target="발전소" info="기숙사 배치 시, 자신의 피로도 시간당 +0.55 회복 및 해당 기숙사 모든 대원 피로도 회복 시간당 +0.1"/>
+    <Infra id="1" name="초연" lock="E0" icon="" target="기숙사" info="기숙사 배치 시, 자신의 피로도 시간당 +0.55 회복"/>
+    <Infra id="1" name="초연" lock="E1" icon="" target="기숙사" info="기숙사 배치 시, 해당 기숙사 모든 대원 피로도 회복 시간당 +0.1"/>
+    <Infra id="1" name="초연" lock="E2" icon="" target="기숙사" info="기숙사 배치 시, 자신의 피로도 시간당 +0.55 회복 및 해당 기숙사 모든 대원 피로도 회복 시간당 +0.1"/>
     <Infra id="2" name="병자궤도" lock="E0" icon="" target="가공소" info="가공소 배치 시, 기술개요 생산 시 부산물 생산 확률 +80%"/>
   </Info>
   <Info name="실버애쉬" en_name="Silverash">
@@ -152,7 +152,7 @@
     <Infra id="1" name="취옹지의·β" lock="E2" icon="" target="무역소" info="텍사스와 같은 무역소에 배치 시, 피로도 소모 시간당 -0.1, 주문량은 +4"/>
   </Info>
   <Info name="새비지" en_name="Savage">
-    <Infra id="1" name="기교이론" lock="E0" icon="" target="기숙사" info="가공소 배치 시, 기술개요 가공 시 부산물 생산 확률 +70%"/>
+    <Infra id="1" name="기교이론" lock="E0" icon="" target="가공소" info="가공소 배치 시, 기술개요 가공 시 부산물 생산 확률 +70%"/>
     <Infra id="2" name="요리" lock="E2" icon="" target="기숙사" info="기숙사 배치 시, 기숙사에서 자신을 제외한 기분이 좋지 않은 대원은 시간당 기분 회복 +0.35 (동종효과가 가장 높음); 동시에 자신의 기분 시간당 회복 +0.35"/>
   </Info>
   <Info name="스펙터" en_name="Specter">
