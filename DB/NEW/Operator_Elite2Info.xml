@@ -50,7 +50,6 @@
   <Info_Default name="에프이터" rang="1" maxlevel="80" base_hp="1439" max_hp="1845" base_atk="518" max_atk="640" base_def="317" max_def="382" base_mdef="0" max_mdef="0" redeploy="70" cost="20" block="2" attack_time="1.2" />
   <Info_Default name="맨티코어" rang="4" maxlevel="80" base_hp="1385" max_hp="1630" base_atk="656" max_atk="811" base_def="284" max_def="343" base_mdef="30" max_mdef="30" redeploy="70" cost="20" block="0" attack_time="3.5" />
   <Info_Default name="프로젝트 레드" rang="1" maxlevel="80" base_hp="1173" max_hp="1505" base_atk="413" max_atk="530" base_def="253" max_def="302" base_mdef="0" max_mdef="0" redeploy="18" cost="9" block="1" attack_time="0.93" />
-  
   <Info_Default name="쿠리어" rang="1" maxlevel="70" base_hp="1389" max_hp="1985" base_atk="348" max_atk="435" base_def="273" max_def="322" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="2" attack_time="1.05" />
   <Info_Default name="머틀" rang="1" maxlevel="70" base_hp="1142" max_hp="1565" base_atk="436" max_atk="520" base_def="255" max_def="300" base_mdef="0" max_mdef="0" redeploy="70" cost="10" block="1" attack_time="1.3" />
   <Info_Default name="스캐빈저" rang="1" maxlevel="70" base_hp="1284" max_hp="1835" base_atk="385" max_atk="470" base_def="255" max_def="310" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="2" attack_time="1.05" />
