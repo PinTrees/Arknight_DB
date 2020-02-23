@@ -382,7 +382,7 @@
     <Infra id="1" name="게으름" lock="E0" icon="" target="기숙사" info="기숙사에 배치 시, 자신의 시간당 컨디션 회복 속도-0.1 , 해당 기숙사 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도+0.2 (동종 효과 중 가장 높은 수치만 적용)"/>
     <Infra id="1" name="기면" lock="E0" icon="" target="기숙사" info="기숙사에 배치 시, 자신의 시간당 컨디션 회복 속도-0.1 , 해당 기숙사 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도+0.25 (동종 효과 중 가장 높은 수치만 적용)"/>
   </Info>
-  <Info name="느와르 코르네" en_name="Noircorne">
+  <Info name="느와르 코르네" en_name="Noir_corne">
     <Infra id="1" name="창고 정비·β" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 창고 용량 상한+10, 생산력+10%"/>
     <Infra id="2" name="오더 관리·α" lock="E0" icon="" target="무역소" info="무역소에 배치 시 오더 수주 효율+10%, 오더 상한+1"/>
   </Info>
