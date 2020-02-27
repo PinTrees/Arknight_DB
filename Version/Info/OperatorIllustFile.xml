@@ -1,20 +1,29 @@
 <FileList>
   <Info name="Chen.png"  compulsion="0" />
   <Info name="Chen_elite2.png"  compulsion="0" />
+  <Info name="Chen_c1.png"  compulsion="0" />
   <Info name="Siege.png"  compulsion="0" />
   <Info name="Siege_elite2.png"  compulsion="0" />
+  <Info name="Siege_c1.png"  compulsion="0" />
   <Info name="Shining.png"  compulsion="0" />
   <Info name="Shining_elite2.png"  compulsion="0" />
+  <Info name="Shining_c1.png"  compulsion="0" />
   <Info name="Nightingale.png"  compulsion="0" />
   <Info name="Nightingale_elite2.png"  compulsion="0" />
+  <Info name="Nightingale_c1.png"  compulsion="0" />
   <Info name="Exusiai.png"  compulsion="0" />
   <Info name="Exusiai_elite2.png"  compulsion="0" />
+  <Info name="Exusiai_c1.png"  compulsion="0" />
+  <Info name="Exusiai_c2.png"  compulsion="0" />
   <Info name="Schwarz.png"  compulsion="0" />
   <Info name="Schwarz_elite2.png"  compulsion="0" />
+  <Info name="Schwarz_c1.png"  compulsion="0" />
   <Info name="Eyjafjalla.png"  compulsion="0" />
   <Info name="Eyjafjalla_elite2.png"  compulsion="0" />
   <Info name="Ifrit.png"  compulsion="0" />
   <Info name="Ifrit_elite2.png"  compulsion="0" />
+  <Info name="Ifrit_c1.png"  compulsion="0" />
+  <Info name="Ifrit_c2.png"  compulsion="0" />
   <Info name="Mostima.png"  compulsion="0" />
   <Info name="Mostima_elite2.png"  compulsion="0" />
   <Info name="Blaze.png"  compulsion="0" />
@@ -23,6 +32,7 @@
   <Info name="Skadi_elite2.png"  compulsion="0" />
   <Info name="Silverash.png"  compulsion="0" />
   <Info name="Silverash_elite2.png"  compulsion="0" />
+  <Info name="Silverash_c1.png"  compulsion="0" />
   <Info name="Hellagur.png"  compulsion="0" />
   <Info name="Hellagur_elite2.png"  compulsion="0" />
   <Info name="Hoshiguma.png"  compulsion="0" />
@@ -40,6 +50,7 @@
   
   <Info name="Texas.png"  compulsion="0" />
   <Info name="Texas_elite2.png"  compulsion="0" />
+  <Info name="Texas_c1.png"  compulsion="0" />
   <Info name="Zima.png"  compulsion="0" />
   <Info name="Zima_elite2.png"  compulsion="0" />
   <Info name="Grani.png"  compulsion="0" />
@@ -52,22 +63,29 @@
   <Info name="Platinum_elite2.png"  compulsion="0" />
   <Info name="Meteorite.png"  compulsion="0" />
   <Info name="Meteorite_elite2.png"  compulsion="0" />
+  <Info name="Meteorite_c1.png"  compulsion="0" />
   <Info name="Provence.png"  compulsion="0" />
   <Info name="Provence_elite2.png"  compulsion="0" />
   <Info name="Firewatch.png"  compulsion="0" />
   <Info name="Firewatch_elite2.png"  compulsion="0" />
+  <Info name="Firewatch_c1.png"  compulsion="0" />
   <Info name="Ptilopsis.png"  compulsion="0" />
   <Info name="Ptilopsis_elite2.png"  compulsion="0" />
+  <Info name="Ptilopsis_c1.png"  compulsion="0" />
   <Info name="Silence.png"  compulsion="0" />
   <Info name="Silence_elite2.png"  compulsion="0" />
+  <Info name="Silence_c1.png"  compulsion="0" />
   <Info name="Wafarin.png"  compulsion="0" />
   <Info name="Wafarin_elite2.png"  compulsion="0" />
+  <Info name="Wafarin_c1.png"  compulsion="0" />
   <Info name="Amiya.png"  compulsion="0" />
   <Info name="Amiya_elite2.png"  compulsion="0" />
+  <Info name="Amiya_c1.png"  compulsion="0" />
   <Info name="Nightmare.png"  compulsion="0" />
   <Info name="Nightmare_elite2.png"  compulsion="0" />
   <Info name="Skyfire.png"  compulsion="0" />
   <Info name="Skyfire_elite2.png"  compulsion="0" />
+  <Info name="Skyfire_c1.png"  compulsion="0" />
   <Info name="Franka.png"  compulsion="0" />
   <Info name="Franka_elite2.png"  compulsion="0" />
   <Info name="Indra.png"  compulsion="0" />
@@ -76,28 +94,35 @@
   <Info name="Savage_elite2.png"  compulsion="0" />
   <Info name="Specter.png"  compulsion="0" />
   <Info name="Specter_elite2.png"  compulsion="0" />
+  <Info name="Specter_c1.png"  compulsion="0" />
   <Info name="Lappland.png"  compulsion="0" />
   <Info name="Lappland_elite2.png"  compulsion="0" />
   <Info name="Nearl.png"  compulsion="0" />
   <Info name="Nearl_elite2.png"  compulsion="0" />
   <Info name="Liskarm.png"  compulsion="0" />
   <Info name="Liskarm_elite2.png"  compulsion="0" />
+  <Info name="Liskarm_c1.png"  compulsion="0" />
   <Info name="Vulkan.png"  compulsion="0" />
   <Info name="Vulkan_elite2.png"  compulsion="0" />
   <Info name="Croissant.png"  compulsion="0" />
   <Info name="Croissant_elite2.png"  compulsion="0" />
+  <Info name="Croissant_c1.png"  compulsion="0" />
   <Info name="Mayor.png"  compulsion="0" />
   <Info name="Mayor_elite2.png"  compulsion="0" />
   <Info name="Pramanix.png"  compulsion="0" />
   <Info name="Pramanix_elite2.png"  compulsion="0" />
+  <Info name="Pramanix_c1.png"  compulsion="0" />
   <Info name="Sora.png"  compulsion="0" />
   <Info name="Sora_elite2.png"  compulsion="0" />
+  <Info name="Sora_c1.png"  compulsion="0" />
   <Info name="Istina.png"  compulsion="0" />
   <Info name="Istina_elite2.png"  compulsion="0" />
   <Info name="Cliffheart.png"  compulsion="0" />
   <Info name="Cliffheart_elite2.png"  compulsion="0" />
+  <Info name="Cliffheart_c1.png"  compulsion="0" />
   <Info name="FEater.png"  compulsion="0" />
   <Info name="FEater_elite2.png"  compulsion="0" />
+  <Info name="FEater_c1.png"  compulsion="0" />
   <Info name="Manticore.png"  compulsion="0" />
   <Info name="Manticore_elite2.png"  compulsion="0" />
   <Info name="ProJeKT_RED.png"  compulsion="0" />
@@ -105,14 +130,19 @@
   
   <Info name="Courier.png"  compulsion="0" />
   <Info name="Courier_elite2.png"  compulsion="0" />
+  <Info name="Courier_c1.png"  compulsion="0" />
   <Info name="Myrtle.png"  compulsion="0" />
   <Info name="Myrtle_elite2.png"  compulsion="0" />
   <Info name="Scavenger.png"  compulsion="0" />
   <Info name="Scavenger_elite2.png"  compulsion="0" />
   <Info name="Vigna.png"  compulsion="0" />
   <Info name="Vigna_elite2.png"  compulsion="0" />
+  <Info name="Vigna_c1.png"  compulsion="0" />
   <Info name="Jessica.png"  compulsion="0" />
   <Info name="Jessica_elite2.png"  compulsion="0" />
+  <Info name="Jessica_c1.png"  compulsion="0" />
+  <Info name="Jessica_c2.png"  compulsion="0" />
+  <Info name="Jessica_c3.png"  compulsion="0" />
   <Info name="Meteor.png"  compulsion="0" />
   <Info name="Meteor_elite2.png"  compulsion="0" />
   <Info name="Shirauki.png"  compulsion="0" />
@@ -121,10 +151,13 @@
   <Info name="Gavial_elite2.png"  compulsion="0" />
   <Info name="Myrrh.png"  compulsion="0" />
   <Info name="Myrrh_elite2.png"  compulsion="0" />
+  <Info name="Myrrh_c1.png"  compulsion="0" />
   <Info name="Perfumer.png"  compulsion="0" />
   <Info name="Perfumer_elite2.png"  compulsion="0" />
+  <Info name="Perfumer_c1.png"  compulsion="0" />
   <Info name="Gitano.png"  compulsion="0" />
   <Info name="Gitano_elite2.png"  compulsion="0" />
+  <Info name="Gitano_c1.png"  compulsion="0" />
   <Info name="Haze.png"  compulsion="0" />
   <Info name="Haze_elite2.png"  compulsion="0" />
   <Info name="Dobermann.png"  compulsion="0" />
@@ -139,10 +172,13 @@
   <Info name="Mousse_elite2.png"  compulsion="0" />
   <Info name="Cuora.png"  compulsion="0" />
   <Info name="Cuora_elite2.png"  compulsion="0" />
+  <Info name="Cuora_c1.png"  compulsion="0" />
   <Info name="Matterhorn.png"  compulsion="0" />
   <Info name="Matterhorn_elite2.png"  compulsion="0" />
+  <Info name="Matterhorn_c1.png"  compulsion="0" />
   <Info name="Gum.png"  compulsion="0" />
   <Info name="Gum_elite2.png"  compulsion="0" />
+  <Info name="Gum_c1.png"  compulsion="0" />
   <Info name="Deepcolor.png"  compulsion="0" />
   <Info name="Deepcolor_elite2.png"  compulsion="0" />
   <Info name="Earthspirit.png"  compulsion="0" />
@@ -151,22 +187,29 @@
   <Info name="Gravel_elite2.png"  compulsion="0" />
   <Info name="Rope.png"  compulsion="0" />
   <Info name="Rope_elite2.png"  compulsion="0" />
+  <Info name="Rope_c1.png"  compulsion="0" />
   <Info name="Shaw.png"  compulsion="0" />
   <Info name="Shaw_elite2.png"  compulsion="0" />
 
   <Info name="Fang.png"  compulsion="0" />
+  <Info name="Fang_c1.png"  compulsion="0" />
   <Info name="Plume.png"  compulsion="0" />
   <Info name="Vanilla.png"  compulsion="0" />
   <Info name="Adnaciel.png"  compulsion="0" />
   <Info name="Catapult.png"  compulsion="0" />
   <Info name="Kroos.png"  compulsion="0" />
+  <Info name="Kroos_c1.png"  compulsion="0" />
   <Info name="Ansel.png"  compulsion="0" />
+  <Info name="Ansel_c1.png"  compulsion="0" />
   <Info name="Hibiscus.png"  compulsion="0" />
+  <Info name="Hibiscus_c1.png"  compulsion="0" />
   <Info name="Lava.png"  compulsion="0" />
   <Info name="Steward.png"  compulsion="0" />
   <Info name="Melantha.png"  compulsion="0" />
+  <Info name="Melantha_c1.png"  compulsion="0" />
   <Info name="Beagle.png"  compulsion="0" />
   <Info name="Cardigan.png"  compulsion="0" />
+  <Info name="Cardigan_c1.png"  compulsion="0" />
   <Info name="Orchid.png"  compulsion="0" />
   
   <Info name="Yato.png"  compulsion="0" />
@@ -177,4 +220,5 @@
   
   <Info name="Lancet-2.png"  compulsion="0" />
   <Info name="Castle-3.png"  compulsion="0" />
+  <Info name="Castle-3_c1.png"  compulsion="0" />
 </FileList>
