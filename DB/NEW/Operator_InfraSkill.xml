@@ -392,6 +392,6 @@
   </Info>
   <Info name="CASTLE-3" en_name="Castle-3">
     <Infra id="1" name="예비 에너지" lock="E0" icon="" target="발전소" info="발전소에 배치시, 드론 생산 속도+10%"/>
-    <Infra id="1" name="작전 지도 비디오" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 작전기록류 생산력+30%"/>
+    <Infra id="2" name="작전 지도 비디오" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 작전기록류 생산력+30%"/>
   </Info>
 </ChractorList>
