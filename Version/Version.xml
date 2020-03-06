@@ -1,5 +1,5 @@
 <VersionList>
-  <Info resources_ver="2" apk_ver="1.1.2" DB_ver="20.03.01" link="market://details?id=com.Pinforest.Arknight_GM"/>
+  <Info resources_ver="2" apk_ver="1.1.2" DB_ver="20.03.07" link="market://details?id=com.Pinforest.Arknight_GM"/>
   <Note info="1.1.2 버전이 구글플레이스토어 등록 심사 대기중입니다. 스토어에 표시되기까지 시간이 소요될 수 있습니다.
 ====== 1.1.2 업데이트 ======= 
 -
@@ -12,6 +12,7 @@
 - 일러스트 로딩 속도가 개선되었습니다.
 - 일러스트 일괄 다운기능을 위해 저장 경로가 변경되었습니다.
 - 메인화면 > 폴더 아이콘을 통해 파일들을 관리할 수 있습니다.
+- 메테오라이트의 재능이 폭발물 부착 개조로 변경되었습니다.
 -
 [적 도감]
 - 적에 대한 도감이 추가되었습니다.
