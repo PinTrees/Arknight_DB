@@ -1,0 +1,35 @@
+<StageList>
+  <Stage code="0" name ="0 암흑시대 상"/>
+  <Stage code="1" name ="1 암흑시대 하"/>
+  <Stage code="2" name ="2 같지만 다른"/>
+  <Stage code="3" name ="3 세컨드 윈드"/>
+  <Stage code="4" name ="4 급성쇠약"/>
+  <Info name="3 - 1" code="3_1" type="0" parent="3" nd="KT_2" ndp="-1" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="-1/-1/-1/-1/-1/-1/-1/-1"
+        hard="원거리 공격 오퍼레이터 배치 코스트 2배">
+  </Info>
+  <Info name="3 - 2" code="3_2" type="0" parent="3" nd="MG_2" ndp="-1" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="-1/-1/-1/-1/-1/-1/-1" hard="배치 코스트의 자동회복 속도 1/3로 감소">
+  </Info>
+  <Info name="3 - 3" code="3_3" type="1" parent="3" nd="PS_2" ndp="-1" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="-1/-1/-1/-1/-1/-1/-1" hard="적의 무게가 1 증가">
+  </Info>
+  <Info name="S3 - 1" code="S3_1" type="0" parent="3" nd="SG_2" ndp="-1" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="-1/-1/-1/-1/-1/-1/-1/-1" hard="">
+  </Info>
+  <Info name="S3 - 2" code="S3_2" type="0" parent="3" nd="PL_3" ndp="-1" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="-1/-1/-1/-1/-1/-1/-1" hard="">
+  </Info>
+  <Info name="3 - 4" code="3_4" type="2" parent="3" nd="GT_2" ndp="-1" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="-1/-1/-1/-1/-1/-1/-1" hard="배치 코스트의 자동 회복 속도 1/3로 감소">
+  </Info>
+  <Info name="3 - 5" code="3_5" type="0" parent="3" nd="EXP_2" ndp="-1" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="-1/-1/-1/-1/-1/-1/-1" hard="메딕 오퍼레이터와 디펜더 오퍼레이터의 공격력 반감">
+  </Info>
+  <Info name="3 - 6" code="3_6" type="0" parent="3" nd="L" ndp="-1" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="-1/-1/-1/-1/-1/-1/-1/-1" hard="탐지기 사용 불가">
+  </Info>
+  <Info name="3 - 7" code="3_7" type="0" parent="3" nd="KT_3" ndp="-1" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="-1/-1/-1/-1/-1/-1/-1/-1" hard="사용 가능한 장애물이 2개 감소">
+  </Info>
+  <Info name="S3 - 3" code="S3_3" type="0" parent="3" nd="XI_3" ndp="-1" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="-1/-1/-1/-1/-1/-1/-1/-1" hard="">
+  </Info>
+  <Info name="S3 - 4" code="S3_4" type="0" parent="3" nd="GT_3" ndp="-1" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="-1/-1/-1/-1/-1/-1/-1" hard="">
+  </Info>
+  <Info name="S3 - 5" code="S3_5" type="0" parent="3" nd="NULL" ndp="-1" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="-1/-1/-1/-1/-1/-1/-1/-1" hard="">
+  </Info>
+  <Info name="3 - 8" code="3_8" type="2" parent="3" nd="PL_2" ndp="-1" sd="PL_1" sdp="-1" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="-1/-1/-1/-1/-1/-1/-1/-1" hard="적 생명력 대폭 상승">
+    <AT hard="0" oper="Fang/Lava/Gum/Gitano/Silence/Kroos/Ansel/Beagle/Perfumer/Plume/Amiya/Shirauki" elite="1/1/1/1/1/1/1/1/1/1/1/1" lv="55/38/54/38/37/34/37/12/34/55/19/45" link="https://www.youtube.com/watch?v=20qae4LTu3k"/>
+  </Info>
+</StageList>  
