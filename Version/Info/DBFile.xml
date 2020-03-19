@@ -1,0 +1,12 @@
+<FileList>
+  <Info name="EnemyData.xml"  compulsion="0" />
+  <Info name="Event_DW.xml"  compulsion="0" />
+  <Info name="Operator_DefaultInfo.xml"  compulsion="0" />
+  <Info name="Operator_Elite1Info.xml"  compulsion="0" />
+  <Info name="Operator_Elite2Info.xml"  compulsion="0" />
+  <Info name="Operator_Info.xml"  compulsion="0" />
+  <Info name="Operator_InfraSkill.xml"  compulsion="0" />
+  <Info name="Operator_SkillInfo.xml"  compulsion="0" />
+  <Info name="StageData.xml"  compulsion="0" />
+  <Info name="URL.xml"  compulsion="0" />
+</FileList>
