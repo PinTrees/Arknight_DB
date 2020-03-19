@@ -5,6 +5,7 @@
   <Info_Default name="나이팅게일" rang="5" maxlevel="90" base_hp="1346" max_hp="1705" base_atk="280" max_atk="350" base_def="140" max_def="169" base_mdef="5" max_mdef="5" redeploy="70" cost="18" block="1" attack_time="2.85" />
   <Info_Default name="엑시아" rang="3" maxlevel="90" base_hp="1338" max_hp="1673" base_atk="437" max_atk="540" base_def="136" max_def="161" base_mdef="0" max_mdef="0" redeploy="70" cost="14" block="1" attack_time="1.0" />
   <Info_Default name="슈바르츠" rang="7" maxlevel="90" base_hp="1393" max_hp="1833" base_atk="646" max_atk="840" base_def="164" max_def="225" base_mdef="0" max_mdef="0" redeploy="70" cost="20" block="1" attack_time="1.6" />
+  <Info_Default name="케오베" rang="2" maxlevel="90" base_hp="1220" max_hp="1565" base_atk="553" max_atk="667" base_def="114" max_def="128" base_mdef="20" max_mdef="20" redeploy="70" cost="21" block="1" attack_time="1.6" />
   <Info_Default name="에이야퍄들라" rang="2" maxlevel="90" base_hp="1359" max_hp="1743" base_atk="535" max_atk="645" base_def="109" max_def="122" base_mdef="20" max_mdef="20" redeploy="70" cost="21" block="1" attack_time="1.6" />
   <Info_Default name="이프리트" rang="9" maxlevel="90" base_hp="1276" max_hp="1680" base_atk="722" max_atk="870" base_def="109" max_def="130" base_mdef="20" max_mdef="20" redeploy="70" cost="34" block="1" attack_time="2.9" />
   <Info_Default name="모스티마" rang="7" maxlevel="90" base_hp="1350" max_hp="1731" base_atk="630" max_atk="750" base_def="110" max_def="132" base_mdef="20" max_mdef="20" redeploy="70" cost="34" block="1" attack_time="2.9" />
@@ -22,56 +23,93 @@
   <Info_Default name="지마" rang="1" maxlevel="80" base_hp="1505" max_hp="2150" base_atk="376" max_atk="470" base_def="290" max_def="350" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="2" attack_time="1.05" />
   <Info_Default name="그라니" rang="1" maxlevel="80" base_hp="1564" max_hp="2235" base_atk="463" max_atk="552" base_def="300" max_def="367" base_mdef="0" max_mdef="0" redeploy="80" cost="14" block="1" attack_time="1" />
   <Info_Default name="리드" rang="1" maxlevel="80" base_hp="1550" max_hp="2215" base_atk="472" max_atk="562" base_def="298" max_def="364" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="1" attack_time="1" />
+ 
+  <Info_Default name="익스큐터" rang="20" maxlevel="80" base_hp="1747" max_hp="2330" base_atk="604" max_atk="720" base_def="166" max_def="185" base_mdef="0" max_mdef="0" redeploy="70" cost="31" block="1" attack_time="2.3" />
   <Info_Default name="블루포이즌" rang="3" maxlevel="80" base_hp="984" max_hp="1230" base_atk="438" max_atk="535" base_def="109" max_def="130" base_mdef="5" max_mdef="5" redeploy="70" cost="13" block="1" attack_time="1" />
   <Info_Default name="플래티넘" rang="3" maxlevel="80" base_hp="1271" max_hp="1550" base_atk="414" max_atk="505" base_def="139" max_def="165" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="1" attack_time="1" />
+  <Info_Default name="그레이스롯" rang="3" maxlevel="80" base_hp="1224" max_hp="1493" base_atk="420" max_atk="513" base_def="128" max_def="152" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="1" attack_time="1" />
   <Info_Default name="메테오라이트" rang="12" maxlevel="80" base_hp="1204" max_hp="1505" base_atk="674" max_atk="865" base_def="98" max_def="116" base_mdef="0" max_mdef="0" redeploy="70" cost="28" block="1" attack_time="2.8" />
   <Info_Default name="프로방스" rang="7" maxlevel="80" base_hp="1276" max_hp="1680" base_atk="601" max_atk="781" base_def="156" max_def="215" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="1" attack_time="1.6" />
   <Info_Default name="파이어워치" rang="13" maxlevel="80" base_hp="1160" max_hp="1450" base_atk="889" max_atk="1085" base_def="107" max_def="131" base_mdef="0" max_mdef="0" redeploy="70" cost="21" block="1" attack_time="2.7" />
+
+  <Info_Default name="브리즈" rang="5" maxlevel="80" base_hp="1260" max_hp="1595" base_atk="274" max_atk="343" base_def="126" max_def="153" base_mdef="0" max_mdef="0" redeploy="70" cost="17" block="1" attack_time="2.85" />
+  <Info_Default name="실론" rang="21" maxlevel="80" base_hp="1251" max_hp="1455" base_atk="353" max_atk="442" base_def="100" max_def="126" base_mdef="5" max_mdef="5" redeploy="80" cost="22" block="1" attack_time="2.85" />
   <Info_Default name="프틸롭시스" rang="5" maxlevel="80" base_hp="1271" max_hp="1610" base_atk="268" max_atk="335" base_def="124" max_def="150" base_mdef="0" max_mdef="0" redeploy="70" cost="17" block="1" attack_time="2.85" />
   <Info_Default name="사일런스" rang="3" maxlevel="80" base_hp="1435" max_hp="1595" base_atk="385" max_atk="482" base_def="113" max_def="142" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="1" attack_time="2.85" />
   <Info_Default name="와파린" rang="3" maxlevel="80" base_hp="1368" max_hp="1520" base_atk="404" max_atk="505" base_def="100" max_def="125" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="1" attack_time="2.85" />
+
   <Info_Default name="아미야" rang="2" maxlevel="80" base_hp="1198" max_hp="1480" base_atk="514" max_atk="612" base_def="110" max_def="121" base_mdef="20" max_mdef="20" redeploy="70" cost="20" block="1" attack_time="1.6" />
+  <Info_Default name="레이즈" rang="2" maxlevel="80" base_hp="1096" max_hp="1443" base_atk="475" max_atk="573" base_def="99" max_def="119" base_mdef="20" max_mdef="20" redeploy="70" cost="32" block="1" attack_time="2.3" />
   <Info_Default name="나이트메어" rang="2" maxlevel="80" base_hp="1223" max_hp="1510" base_atk="522" max_atk="622" base_def="107" max_def="120" base_mdef="20" max_mdef="20" redeploy="70" cost="20" block="1" attack_time="1.6" />
   <Info_Default name="스카이파이어" rang="7" maxlevel="80" base_hp="1193" max_hp="1530" base_atk="600" max_atk="715" base_def="102" max_def="122" base_mdef="20" max_mdef="20" redeploy="70" cost="33" block="1" attack_time="2.9" />
+
+  <Info_Default name="아스테시아" rang="1" maxlevel="80" base_hp="1917" max_hp="2523" base_atk="534" max_atk="660" base_def="326" max_def="393" base_mdef="15" max_mdef="15" redeploy="70" cost="21" block="1" attack_time="1.25" />
+  <Info_Default name="브로카" rang="1" maxlevel="80" base_hp="1751" max_hp="2335" base_atk="579" max_atk="762" base_def="300" max_def="366" base_mdef="0" max_mdef="0" redeploy="70" cost="23" block="3" attack_time="1.2" />
+  <Info_Default name="플레임브링어" rang="1" maxlevel="80" base_hp="2786" max_hp="3715" base_atk="704" max_atk="849" base_def="161" max_def="195" base_mdef="0" max_mdef="0" redeploy="80" cost="20" block="1" attack_time="1.5" />
   <Info_Default name="프란카" rang="1" maxlevel="80" base_hp="2715" max_hp="3620" base_atk="713" max_atk="860" base_def="195" max_def="235" base_mdef="0" max_mdef="0" redeploy="70" cost="18" block="1" attack_time="1.5" />
   <Info_Default name="인드라" rang="1" maxlevel="80" base_hp="1857" max_hp="2265" base_atk="405" max_atk="500" base_def="294" max_def="350" base_mdef="0" max_mdef="0" redeploy="70" cost="10" block="1" attack_time="0.78" />
   <Info_Default name="새비지" rang="1" maxlevel="80" base_hp="1822" max_hp="2430" base_atk="535" max_atk="705" base_def="262" max_def="320" base_mdef="0" max_mdef="0" redeploy="70" cost="22" block="2" attack_time="1.2" />
   <Info_Default name="스펙터" rang="1" maxlevel="80" base_hp="1972" max_hp="2630" base_atk="551" max_atk="725" base_def="291" max_def="355" base_mdef="0" max_mdef="0" redeploy="70" cost="23" block="3" attack_time="1.2" />
   <Info_Default name="라플란드" rang="10" maxlevel="80" base_hp="1856" max_hp="2350" base_atk="554" max_atk="685" base_def="302" max_def="365" base_mdef="15" max_mdef="15" redeploy="70" cost="19" block="2" attack_time="1.3" />
+  <Info_Default name="스와이어" rang="11" maxlevel="80" base_hp="1252" max_hp="1740" base_atk="498" max_atk="593" base_def="346" max_def="413" base_mdef="0" max_mdef="0" redeploy="70" cost="16" block="2" attack_time="1.05" />
+
+  <Info_Default name="바이슨" rang="14" maxlevel="80" base_hp="2522" max_hp="3456" base_atk="318" max_atk="375" base_def="504" max_def="701" base_mdef="0" max_mdef="0" redeploy="80" cost="24" block="3" attack_time="1.2" />
+  <Info_Default name="운" rang="14" maxlevel="80" base_hp="2032" max_hp="2823" base_atk="353" max_atk="442" base_def="479" max_def="585" base_mdef="10" max_mdef="10" redeploy="70" cost="21" block="3" attack_time="1.2" />
   <Info_Default name="니어" rang="14" maxlevel="80" base_hp="2001" max_hp="2780" base_atk="369" max_atk="462" base_def="471" max_def="575" base_mdef="10" max_mdef="10" redeploy="70" cost="21" block="3" attack_time="1.2" />
   <Info_Default name="리스캄" rang="11" maxlevel="80" base_hp="2324" max_hp="3240" base_atk="352" max_atk="425" base_def="518" max_def="710" base_mdef="0" max_mdef="0" redeploy="70" cost="22" block="3" attack_time="1.2" />
   <Info_Default name="벌컨" rang="14" maxlevel="80" base_hp="2692" max_hp="3688" base_atk="639" max_atk="820" base_def="450" max_def="585" base_mdef="10" max_mdef="10" redeploy="70" cost="35" block="3" attack_time="1.6" />
   <Info_Default name="크루아상" rang="14" maxlevel="80" base_hp="2569" max_hp="3520" base_atk="323" max_atk="380" base_def="511" max_def="710" base_mdef="0" max_mdef="0" redeploy="70" cost="22" block="3" attack_time="1.2" />
+
+  <Info_Default name="글라우쿠스" rang="5" maxlevel="80" base_hp="1013" max_hp="1267" base_atk="419" max_atk="505" base_def="84" max_def="100" base_mdef="20" max_mdef="20" redeploy="70" cost="15" block="1" attack_time="1.9" />
   <Info_Default name="메이어" rang="2" maxlevel="80" base_hp="843" max_hp="1068" base_atk="380" max_atk="443" base_def="107" max_def="130" base_mdef="20" max_mdef="20" redeploy="70" cost="11" block="1" attack_time="1.6" />
   <Info_Default name="프라마닉스" rang="15" maxlevel="80" base_hp="1251" max_hp="1605" base_atk="356" max_atk="430" base_def="89" max_def="102" base_mdef="25" max_mdef="25" redeploy="70" cost="12" block="1" attack_time="1.6" />
   <Info_Default name="소라" rang="17" maxlevel="80" base_hp="1017" max_hp="1356" base_atk="278" max_atk="335" base_def="190" max_def="238" base_mdef="0" max_mdef="0" redeploy="70" cost="7" block="1" attack_time="1.0" />
   <Info_Default name="이스티나" rang="5" maxlevel="80" base_hp="1024" max_hp="1280" base_atk="429" max_atk="518" base_def="87" max_def="104" base_mdef="20" max_mdef="20" redeploy="70" cost="15" block="1" attack_time="1.9" />
+ 
   <Info_Default name="클리프하트" rang="18" maxlevel="80" base_hp="1497" max_hp="1970" base_atk="612" max_atk="765" base_def="289" max_def="340" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="2" attack_time="1.8" />
   <Info_Default name="에프이터" rang="1" maxlevel="80" base_hp="1439" max_hp="1845" base_atk="518" max_atk="640" base_def="317" max_def="382" base_mdef="0" max_mdef="0" redeploy="70" cost="20" block="2" attack_time="1.2" />
   <Info_Default name="맨티코어" rang="4" maxlevel="80" base_hp="1385" max_hp="1630" base_atk="656" max_atk="811" base_def="284" max_def="343" base_mdef="30" max_mdef="30" redeploy="70" cost="20" block="0" attack_time="3.5" />
   <Info_Default name="프로젝트 레드" rang="1" maxlevel="80" base_hp="1173" max_hp="1505" base_atk="413" max_atk="530" base_def="253" max_def="302" base_mdef="0" max_mdef="0" redeploy="18" cost="9" block="1" attack_time="0.93" />
+  <Info_Default name="스노우상트" rang="18" maxlevel="80" base_hp="1394" max_hp="1835" base_atk="596" max_atk="745" base_def="301" max_def="355" base_mdef="0" max_mdef="0" redeploy="80" cost="15" block="2" attack_time="1.8" />
+
   <Info_Default name="쿠리어" rang="1" maxlevel="70" base_hp="1389" max_hp="1985" base_atk="348" max_atk="435" base_def="273" max_def="322" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="2" attack_time="1.05" />
   <Info_Default name="머틀" rang="1" maxlevel="70" base_hp="1142" max_hp="1565" base_atk="436" max_atk="520" base_def="255" max_def="300" base_mdef="0" max_mdef="0" redeploy="70" cost="10" block="1" attack_time="1.3" />
   <Info_Default name="스캐빈저" rang="1" maxlevel="70" base_hp="1284" max_hp="1835" base_atk="385" max_atk="470" base_def="255" max_def="310" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="2" attack_time="1.05" />
   <Info_Default name="비그나" rang="1" maxlevel="70" base_hp="1291" max_hp="1845" base_atk="468" max_atk="558" base_def="287" max_def="351" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="1" attack_time="1" />
+
+  <Info_Default name="엠브리엘" rang="13" maxlevel="70" base_hp="1276" max_hp="1595" base_atk="801" max_atk="977" base_def="100" max_def="122" base_mdef="0" max_mdef="0" redeploy="70" cost="20" block="1" attack_time="2.7" />
   <Info_Default name="제시카" rang="3" maxlevel="70" base_hp="1108" max_hp="1320" base_atk="389" max_atk="475" base_def="130" max_def="154" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="1" attack_time="1" />
+  <Info_Default name="메이" rang="3" maxlevel="70" base_hp="1338" max_hp="1632" base_atk="391" max_atk="478" base_def="88" max_def="105" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="1" attack_time="1" />
   <Info_Default name="메테오" rang="3" maxlevel="70" base_hp="1123" max_hp="1370" base_atk="381" max_atk="465" base_def="139" max_def="165" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="1" attack_time="1" />
   <Info_Default name="시라유키" rang="12" maxlevel="70" base_hp="1304" max_hp="1630" base_atk="621" max_atk="797" base_def="84" max_def="100" base_mdef="0" max_mdef="0" redeploy="70" cost="27" block="1" attack_time="2.8" />
+  <Info_Default name="버메일" rang="3" maxlevel="70" base_hp="1008" max_hp="1230" base_atk="397" max_atk="485" base_def="136" max_def="162" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="1" attack_time="1" />
+
   <Info_Default name="가비알" rang="3" maxlevel="70" base_hp="1374" max_hp="1580" base_atk="364" max_atk="450" base_def="121" max_def="152" base_mdef="0" max_mdef="0" redeploy="70" cost="18" block="1" attack_time="2.85" />
   <Info_Default name="미르" rang="3" maxlevel="70" base_hp="1278" max_hp="1420" base_atk="372" max_atk="465" base_def="104" max_def="131" base_mdef="0" max_mdef="0" redeploy="70" cost="18" block="1" attack_time="2.85" />
   <Info_Default name="퍼퓨머" rang="5" maxlevel="70" base_hp="1232" max_hp="1560" base_atk="256" max_atk="320" base_def="120" max_def="145" base_mdef="0" max_mdef="0" redeploy="70" cost="16" block="1" attack_time="2.85" />
+  <Info_Default name="퓨어스트림" rang="21" maxlevel="70" base_hp="1173" max_hp="1365" base_atk="344" max_atk="430" base_def="94" max_def="118" base_mdef="5" max_mdef="5" redeploy="80" cost="19" block="1" attack_time="2.85" />
+  <Info_Default name="수수루" rang="3" maxlevel="70" base_hp="1170" max_hp="1345" base_atk="395" max_atk="488" base_def="97" max_def="122" base_mdef="0" max_mdef="0" redeploy="70" cost="18" block="1" attack_time="2.85" />
+
   <Info_Default name="기타노" rang="7" maxlevel="70" base_hp="1155" max_hp="1520" base_atk="549" max_atk="654" base_def="99" max_def="118" base_mdef="20" max_mdef="20" redeploy="70" cost="32" block="1" attack_time="2.9" />
+  <Info_Default name="그레이" rang="7" maxlevel="70" base_hp="1105" max_hp="1455" base_atk="541" max_atk="645" base_def="109" max_def="130" base_mdef="20" max_mdef="20" redeploy="70" cost="32" block="1" attack_time="2.9" />
   <Info_Default name="헤이즈" rang="2" maxlevel="70" base_hp="1150" max_hp="1420" base_atk="483" max_atk="583" base_def="98" max_def="110" base_mdef="20" max_mdef="20" redeploy="70" cost="19" block="1" attack_time="1.6" />
+
+  <Info_Default name="비헌터" rang="1" maxlevel="70" base_hp="1750" max_hp="2135" base_atk="395" max_atk="488" base_def="262" max_def="312" base_mdef="0" max_mdef="0" redeploy="70" cost="9" block="1" attack_time="0.78" />
   <Info_Default name="도베르만" rang="11" maxlevel="70" base_hp="1324" max_hp="1840" base_atk="457" max_atk="545" base_def="320" max_def="382" base_mdef="0" max_mdef="0" redeploy="70" cost="15" block="2" attack_time="1.05" />
   <Info_Default name="에스텔" rang="1" maxlevel="70" base_hp="1875" max_hp="2500" base_atk="524" max_atk="690" base_def="258" max_def="315" base_mdef="0" max_mdef="0" redeploy="70" cost="22" block="3" attack_time="1.2" />
   <Info_Default name="프로스트리프" rang="10" maxlevel="70" base_hp="1785" max_hp="2260" base_atk="534" max_atk="660" base_def="268" max_def="323" base_mdef="10" max_mdef="10" redeploy="70" cost="18" block="2" attack_time="1.3" />
   <Info_Default name="마토이마루" rang="1" maxlevel="70" base_hp="2567" max_hp="3470" base_atk="709" max_atk="855" base_def="131" max_def="156" base_mdef="0" max_mdef="0" redeploy="70" cost="17" block="1" attack_time="1.5" />
   <Info_Default name="무스" rang="1" maxlevel="70" base_hp="1782" max_hp="2345" base_atk="515" max_atk="644" base_def="296" max_def="357" base_mdef="15" max_mdef="15" redeploy="70" cost="20" block="1" attack_time="1.25" />
+
   <Info_Default name="쿠오라" rang="14" maxlevel="70" base_hp="2173" max_hp="3105" base_atk="310" max_atk="365" base_def="503" max_def="690" base_mdef="0" max_mdef="0" redeploy="70" cost="21" block="3" attack_time="1.2" />
+  <Info_Default name="두르나르" rang="14" maxlevel="70" base_hp="2165" max_hp="3007" base_atk="466" max_atk="583" base_def="438" max_def="548" base_mdef="15" max_mdef="15" redeploy="70" cost="24" block="3" attack_time="1.6" />
   <Info_Default name="마터호른" rang="14" maxlevel="70" base_hp="2264" max_hp="3235" base_atk="318" max_atk="375" base_def="489" max_def="670" base_mdef="5" max_mdef="5" redeploy="70" cost="21" block="3" attack_time="1.2" />
   <Info_Default name="굼" rang="14" maxlevel="70" base_hp="1836" max_hp="2550" base_atk="348" max_atk="435" base_def="460" max_def="562" base_mdef="10" max_mdef="10" redeploy="70" cost="20" block="3" attack_time="1.2" />
+
   <Info_Default name="딥컬러" rang="2" maxlevel="70" base_hp="829" max_hp="1050" base_atk="346" max_atk="403" base_def="103" max_def="125" base_mdef="15" max_mdef="15" redeploy="70" cost="10" block="1" attack_time="1.6" />
   <Info_Default name="어스스피릿" rang="5" maxlevel="70" base_hp="964" max_hp="1205" base_atk="398" max_atk="480" base_def="85" max_def="101" base_mdef="20" max_mdef="20" redeploy="70" cost="14" block="1" attack_time="1.9" />
+
+  <Info_Default name="에단" rang="4" maxlevel="70" base_hp="1300" max_hp="1530" base_atk="601" max_atk="742" base_def="279" max_def="337" base_mdef="30" max_mdef="30" redeploy="70" cost="19" block="0" attack_time="3.5" />
   <Info_Default name="그라벨" rang="1" maxlevel="70" base_hp="1107" max_hp="1420" base_atk="352" max_atk="452" base_def="281" max_def="335" base_mdef="0" max_mdef="0" redeploy="18" cost="8" block="1" attack_time="0.93" />
   <Info_Default name="로프" rang="18" maxlevel="70" base_hp="1307" max_hp="1720" base_atk="582" max_atk="728" base_def="276" max_def="325" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="2" attack_time="1.8" />
   <Info_Default name="쇼" rang="1" maxlevel="70" base_hp="1392" max_hp="1785" base_atk="469" max_atk="580" base_def="302" max_def="365" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="2" attack_time="1.2" />
