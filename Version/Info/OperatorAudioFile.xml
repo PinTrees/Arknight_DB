@@ -1,4 +1,40 @@
 <FileList>
+  <Info folder="Chen" fileName="Chen_Audio.xml" compulsion="0" />
+  <Info folder="Chen" fileName="St_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Hi_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_3.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_el_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_el_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_tr_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_tr_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ta_tr_3.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_idle_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_el_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_el_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_team_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_team_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_ifr_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_tc_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Ma_tc_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_op_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_op_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_s_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_s_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_in_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_in_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_in_3.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_in_4.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_end_1.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_end_2.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_end_3.mp3" compulsion="0" />
+  <Info folder="Chen" fileName="Bt_end_4.mp3" compulsion="0" />
+  
   <Info folder="Siege" fileName="Siege_Audio.xml" compulsion="0" />
   <Info folder="Siege" fileName="St_1.mp3" compulsion="0" />
   <Info folder="Siege" fileName="Hi_1.mp3" compulsion="0" />
