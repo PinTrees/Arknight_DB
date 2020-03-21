@@ -364,7 +364,7 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Elite2 info="NULL" submat="용문폐/120000/DF_1/3/NULL/7/KT_2/11" />
       <Producer illustrator="KuroBlood" artistlink="https://twitter.com/KuroBlood" />
     </Info>
-    <Info id="251" name="니어" en_name="Nearl" rare="5" group="카시미어" gender="여성" position="근거리" Class="디펜더" tags="딜러/디버프" trust="0/40/50/0" specificity="스킬로 아군을 치료할 수 있다." potential="배치 비용 -1/재배치 시간 - 4초/방어력 +25/재능 향상 (+2%)/배치 비용 -1">
+    <Info id="251" name="니어" en_name="Nearl" rare="5" group="카시미어" gender="여성" position="근거리" Class="디펜더" tags="방어형/힐링" trust="0/40/50/0" specificity="스킬로 아군을 치료할 수 있다." potential="배치 비용 -1/재배치 시간 - 4초/방어력 +25/재능 향상 (+2%)/배치 비용 -1">
       <Ability unlock="E1" name="페가수스의 빛" info="배치 시, 아군 치료효과가 10% 증가한다." />
       <Elite1 info="NULL" submat="용문폐/20000/DF_3/4/GT_3/5/PL_3/5" />
       <Elite2 info="NULL" submat="용문폐/120000/DF_1/3/AC_1/9/PL_2/16" />

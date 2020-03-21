@@ -1132,6 +1132,19 @@
       <lv lv="9" lv_n="E2_1" data="55%/8" sp="100" fsp="0" eft="25" sub="SB_3/RM_1/MG_1" subC="6/3/5" />
       <lv lv="10" lv_n="E2_1" data="60%/8" sp="100" fsp="0" eft="25" sub="SB_3/AG/AC_1" subC="10/4/5" />
     </Info>
+    <Info id="3" code="Amiya" name="키메라" rang="1" need="E2" type="AUTO" tirrger="MANU" info="공격력 /, HP 최대치 /, 공격 범위 확대, 대미지가 방어력 및 마법 저항력을 무시
+스킬 종료 후 아미야는 전장에서 강제 철수된다.">
+      <lv lv="1" lv_n="E2_1" data="+100%/+25%" sp="120" fsp="0" eft="30" />
+      <lv lv="2" lv_n="E2_1" data="+110%/+25%" sp="120" fsp="0" eft="30" />
+      <lv lv="3" lv_n="E2_1" data="+120%/+25%" sp="120" fsp="0" eft="30" />
+      <lv lv="4" lv_n="E2_1" data="+130%/+50%" sp="120" fsp="0" eft="30" />
+      <lv lv="5" lv_n="E2_1" data="+140%/+50%" sp="120" fsp="0" eft="30" />
+      <lv lv="6" lv_n="E2_1" data="+150%/+50%" sp="120" fsp="0" eft="30" />
+      <lv lv="7" lv_n="E2_1" data="+160%/+75%" sp="120" fsp="0" eft="30" />
+      <lv lv="8" lv_n="E2_1" data="+180%/+75%" sp="120" fsp="0" eft="30" sub="SB_3/PS_1/AC_2" subC="5/3/4" />
+      <lv lv="9" lv_n="E2_1" data="+200%/+75%" sp="120" fsp="0" eft="30" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="+230%/+100%" sp="120" fsp="0" eft="30" sub="SB_3/BN/PL_1" subC="10/4/4" />
+    </Info>
     <Info id="1" code="Leizi" name="공격강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /">
       <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="30" />
       <lv lv="2" lv_n="E0_1" data="+35%" sp="40" fsp="30" sub="SB_1" subC="4" />

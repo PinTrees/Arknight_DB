@@ -69,7 +69,7 @@
     <Infra id="1" name="단서 수집·α" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 +10%"/>
     <Infra id="1" name="전달자" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 +10%, 로도스 아일랜드 단서 획득 확률 상승"/>
   </Info>
-  <Info name="마젤란" en_name="Angelina">
+  <Info name="마젤란" en_name="Magallan">
     <Infra id="1" name="다용도 측정기" lock="E0" icon="" target="가공소" info="가공소 배치 시, 임의의 재료 가공 시, 부산물 생산 확률 +50%"/>
     <Infra id="2" name="드래곤플라이" lock="E2" icon="" target="가공소" info="가공소 배치 시, 임의의 재료 가공 시, 피로도 4 이상 소모 하는 가공물은 소모 값 -2"/>
   </Info>
