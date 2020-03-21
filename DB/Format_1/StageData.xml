@@ -1,0 +1,145 @@
+<StageList>
+  <Stage code="0" name ="0 암흑시대 상 (추가예정)"/>
+  <Stage code="1" name ="1 암흑시대 하"/>
+  <Stage code="2" name ="2 같지만 다른"/>
+  <Stage code="3" name ="3 세컨드 윈드"/>
+  <Stage code="4" name ="4 급성쇠약"/>
+  <Stage code="5" name ="5 표적치료 (추가예정)"/>
+  <Stage code="TR" name ="TR (추가예정)"/>
+  
+  <Info name="1 - 1" code="1_1" type="0" parent="1" nd="L" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="동시 배치 가능 오퍼레이터 최대 4명">
+  </Info>
+  <Info name="1 - 3" code="1_3" type="0" parent="1" nd="XI_4" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 생명력 대폭 상승">
+  </Info>
+  <Info name="1 - 4" code="1_4" type="0" parent="1" nd="NULL" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="원거리 공격 오퍼레이터 배치 코스트 3배">
+  </Info>
+  <Info name="1 - 5" code="1_5" type="1" parent="1" nd="GT_4" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 이동 속도 대폭 상승">
+  </Info>
+  <Info name="1 - 6" code="1_6" type="0" parent="1" nd="KT_4" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="1개의 장애물만 사용 가능">
+  </Info>
+  <Info name="1 - 7" code="1_7" type="0" parent="1" nd="RC_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="배치 코스트 자동 회복 속도 반감">
+  </Info>
+  <Info name="1 - 8" code="1_8" type="2" parent="1" nd="PL_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 리더의 능력 발동에 필요한 시간이 대폭 단축">
+  </Info>
+  <Info name="1 - 9" code="1_9" type="0" parent="1" nd="KB_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="디펜더 오퍼레이터 사용 금지">
+  </Info>
+  <Info name="1 - 10" code="1_10" type="0" parent="1" nd="SB_1" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 원거리 공격 오퍼레이터의 공격 범위 대폭 상승">
+  </Info>
+  <Info name="1 - 12" code="1_12" type="2" parent="1" nd="GT_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="메딕 오퍼레이터 배치 코스트 2배">
+  </Info>
+  
+  <Info name="2 - 1" code="2_1" type="0" parent="2" nd="XI_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="캐스터 오퍼레이터 사용 금지">
+  </Info>
+  <Info name="S2 - 1" code="S2_1" type="0" parent="2" nd="KT_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="2 - 2" code="2_2" type="0" parent="2" nd="SG_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="서포터 오퍼레이터 사용 금지">
+  </Info>
+  <Info name="S2 - 2" code="S2_2" type="0" parent="2" nd="L" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S2 - 3" code="S2_3" type="0" parent="2" nd="EXP_3" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S2 - 4" code="S2_4" type="0" parent="2" nd="NULL" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="2 - 3" code="2_3" type="1" parent="2" nd="GT_4" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?/?" hard="장애물과 근거리 공격 오퍼레이터 배치 코스트 2배">
+  </Info>
+  <Info name="2 - 4" code="2_4" type="0" parent="2" nd="RC_2" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?/?" hard="적 생명력 대폭 상승">
+  </Info>
+  <Info name="S2 - 5" code="S2_5" type="0" parent="2" nd="RC_4" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?/?" hard="" >
+  </Info>
+  <Info name="S2 - 6" code="S2_6" type="0" parent="2" nd="SG_4" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="" >
+  </Info>
+  <Info name="S2 - 7" code="S2_7" type="0" parent="2" nd="PL_4" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?/?" hard="" >
+  </Info>
+  <Info name="2 - 5" code="2_5" type="1" parent="2" nd="SG_2" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="가드 오퍼레이터와 스나이퍼 오퍼레이터 배치 코스트 2배" >
+  </Info>
+  <Info name="2 - 6" code="2_6" type="0" parent="2" nd="PL_2" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?/?" hard="캐스터 오퍼레이터 사용 금지" >
+  </Info>
+  <Info name="2 - 7" code="2_7" type="0" parent="2" nd="L" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 원거리 공격 오퍼레이터의 사거리 대폭 상승" >
+  </Info>
+  <Info name="S2 - 8" code="S2_8" type="0" parent="2" nd="XI_4" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="" >
+  </Info>
+  <Info name="S2 - 9" code="S2_9" type="0" parent="2" nd="KT_4" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="" >
+  </Info>
+  <Info name="2 - 8" code="2_8" type="1" parent="2" nd="XI_2" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 무게 대폭 상승" >
+  </Info>
+  <Info name="2 - 9" code="2_9" type="0" parent="2" nd="AC_2" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?/?" hard="적 생명력 대폭 상승" >
+  </Info>
+  <Info name="S2 - 10" code="S2_10" type="0" parent="2" nd="EXP_2" ndp="?" sd="" sdp="" ad="GD_1/EXP_3/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?/?" hard="" >
+  </Info>
+  <Info name="S2 - 11" code="S2_11" type="0" parent="2" nd="NULL" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="" >
+  </Info>
+  <Info name="S2 - 12" code="S2_12" type="0" parent="2" nd="RC_3" ndp="?" sd="" sdp="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="" >
+    <AT hard="0" oper="Melantha/Haze/Beagle/Vigna/Jessica/Scavenger/Mousse/Amiya/Hibiscus/Kroos/Gitano/Shaw" elite="0/0/0/0/0/0/0/0/0/0/0/0" lv="15/15/15/15/15/15/15/15/15/15/15/15" link="https://www.youtube.com/watch?v=7HEiC90V8I0"/>
+  </Info>
+  <Info name="2 - 10" code="2_10" type="2" parent="2" nd="RM_2" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="캐스터 오퍼레이터 배치 코스트 2배" >
+    <AT hard="0" oper="Melantha/Hibiscus/Myrrh/Durin/Gitano/Cuora/Vigna/Orchid/Scavenger/Mousse/Amiya/Haze" elite="0/0/0/0/0/0/0/0/0/0/0/0" lv="25/25/25/25/25/25/25/25/25/25/25/25" link="https://www.youtube.com/watch?v=dehJySH7ZJo"/>
+  </Info>
+  
+  <Info name="3 - 1" code="3_1" type="0" parent="3" nd="KT_2" ndp="?" sd="" sdp="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="원거리 공격 오퍼레이터 배치 코스트 2배">
+  </Info>
+  <Info name="3 - 2" code="3_2" type="0" parent="3" nd="MG_2" ndp="?" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="배치 코스트의 자동회복 속도 1/3로 감소">
+  </Info>
+  <Info name="3 - 3" code="3_3" type="1" parent="3" nd="PS_2" ndp="?" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="적의 무게가 1 증가">
+  </Info>
+  <Info name="S3 - 1" code="S3_1" type="0" parent="3" nd="SG_2" ndp="?" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S3 - 2" code="S3_2" type="0" parent="3" nd="PL_3" ndp="?" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="3 - 4" code="3_4" type="2" parent="3" nd="GT_2" ndp="?" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="배치 코스트의 자동 회복 속도 1/3로 감소">
+  </Info>
+  <Info name="3 - 5" code="3_5" type="0" parent="3" nd="EXP_2" ndp="?" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="메딕 오퍼레이터와 디펜더 오퍼레이터의 공격력 반감">
+  </Info>
+  <Info name="3 - 6" code="3_6" type="0" parent="3" nd="L" ndp="?" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="탐지기 사용 불가">
+  </Info>
+  <Info name="3 - 7" code="3_7" type="0" parent="3" nd="KT_3" ndp="?" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="사용 가능한 장애물이 2개 감소">
+  </Info>
+  <Info name="S3 - 3" code="S3_3" type="0" parent="3" nd="XI_3" ndp="?" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S3 - 4" code="S3_4" type="0" parent="3" nd="GT_3" ndp="?" sd="" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S3 - 5" code="S3_5" type="0" parent="3" nd="NULL" ndp="?" sd="" ad="EXP_2/EXP_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="3 - 8" code="3_8" type="2" parent="3" nd="PL_2" ndp="?" sd="PL_1" sdp="?" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 생명력 대폭 상승">
+    <AT hard="0" oper="Fang/Lava/Gum/Gitano/Silence/Kroos/Ansel/Beagle/Perfumer/Plume/Amiya/Shirauki" elite="1/1/1/1/1/1/1/1/1/1/1/1" lv="55/38/54/38/37/34/37/12/34/55/19/45" link="https://www.youtube.com/watch?v=20qae4LTu3k"/>
+  </Info>
+
+  <Info name="4 - 1" code="4_1" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="적 원거리 공격 오퍼레이터의 사거리 대폭 상승">
+  </Info>
+  <Info name="4 - 2" code="4_2" type="0" parent="4" nd="SG_2" ndp="?" sd="SG_1" sdp="?" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="아군 모든 오퍼레이터 방어력 반감">
+  </Info>
+  <Info name="4 - 3" code="4_3" type="0" parent="4" nd="EX_1" ndp="?" sd="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="적 공격력 대폭 상승">
+  </Info>
+  <Info name="S4 - 1" code="S4_1" type="0" parent="4" nd="XI_2" ndp="?" sd="XI_1" sdp="?" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S4 - 2" code="S4_2" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S4 - 3" code="S4_3" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="4 - 4" code="4_4" type="1" parent="4" nd="AC_2" ndp="?" sd="AC_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="적 이동 속도 대폭 상승">
+  </Info>
+  <Info name="4 - 5" code="4_5" type="0" parent="4" nd="KT_2" ndp="?" sd="KT_1" sdp="?" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="접근전이 특기인 오퍼레이터 생명력 반감">
+  </Info>
+  <Info name="4 - 6" code="4_6" type="0" parent="4" nd="RC_2" ndp="?" sd="RC_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="배치 가능 유닛 3 감소">
+  </Info>
+  <Info name="S4 - 4" code="S4_4" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S4 - 5" code="S4_5" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S4 - 6" code="S4_6" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="4 - 7" code="4_7" type="0" parent="4" nd="MG_2" ndp="?" sd="MG_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="오리지늄 생물 처치 시 폭발 위력 대폭 상승">
+  </Info>
+  <Info name="4 - 8" code="4_8" type="0" parent="4" nd="PS_2" ndp="?" sd="PS_1" sdp="?" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="모든 오퍼레이터 재배치 시간 2배">
+  </Info>
+  <Info name="4 - 9" code="4_9" type="0" parent="4" nd="RM_2" ndp="?" sd="RM_1" sdp="?" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 방어력 대폭 상승">
+  </Info>
+  <Info name="S4 - 7" code="S4_7" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S4 - 8" code="S4_8" type="0" parent="4" nd="NULL" ndp="?" sd="" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="S4 - 9" code="S4_9" type="0" parent="4" nd="EX_1" ndp="?" sd="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="">
+  </Info>
+  <Info name="4 - 10" code="4_10" type="0" parent="4" nd="GT_2" ndp="?" sd="GT_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="프로스트노바의 공격 및 스킬 범위 대폭 상승">
+  </Info>
+  
+</StageList>  
