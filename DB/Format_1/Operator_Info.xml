@@ -21,7 +21,7 @@
       <Ability unlock="E2" name="법전" info="공격 속도가 10 향상된다." />
       <Elite1 info="기초 속성 향상/재능 검은악마의 쉼터 향상/배치 비용 +2/스킬 자동엄호 해금/공격 범위 증가" submat="용문폐/30000/MD_3/5/KT_3/6/PL_3/5" />
       <Elite2 info="기초 속성 향상/재능 검은악마의 쉼터 향상/재능 법전 해금/스킬 교조역장 해금" submat="용문폐/180000/MD_1/4/BN/4/XI_1/5" />
-      <Producer illustrator="竜崎いち" artistlink="https://www.pixiv.net/users/563034" />
+      <Producer illustrator="竜崎いち" artistlink="https://www.pixiv.net/users/563034" voice="Risa Shimizu" vlink="https://www.google.com/search?q=Voice+Actor+Risa%20Shimizu"/>
       <Costume type="NULL" name=""/>
     </Info>
     <Info id="104" name="나이팅게일" en_name="Nightingale" rare="6" group="로도스" gender="여성" position="원거리" Class="메딕" tags="힐링/서포트" trust="0/70/0/0" specificity="동시에 3명의 아군 유닛의 체력을 회복시킨다." potential="배치 비용 -1/재배치 시간 -4초/마법 저항력 +10/두번째 재능 향상 (+2%)/배치 비용 -1">
