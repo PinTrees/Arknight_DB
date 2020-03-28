@@ -1,7 +1,6 @@
 <VersionList>
-  <Info resources_ver="5" apk_ver="1.1.6" DB_ver="20.03.28" audio_ver="1" link="market://details?id=com.Pinforest.Arknight_GM"/>
+  <Info resources_ver="5" apk_ver="1.1.6" DB_ver="20.03.28" audio_ver="5" link="market://details?id=com.Pinforest.Arknight_GM"/>
   <Note info="1.1.6 버전이 구글플레이스토어 등록 심사 대기중입니다. 스토어에 표시되기까지 시간이 소요될 수 있습니다.
- ============= 1.1.6 업데이트 ==============  
 
 [다음 업데이트 미리보기]
 -매주 토/일 정기 업데이트(앱이 안정화 되면 DB만 업데이트 됩니다.)
@@ -11,6 +10,8 @@
 ※ 일부 UI가 변경될 수 있습니다.
 ※ 추가, 개선 사항은 문의하기를 통해 남겨주세요.
         
+ ============= 1.1.6 업데이트 ============== 
+ 
 [오퍼레이터 도감]
 - 샤이닝의 음성이 추가되었습니다.
 - 마젤란의 2차 정예화 재료가 수정되었습니다.
