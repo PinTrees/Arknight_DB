@@ -352,8 +352,8 @@
     <Infra id="2" name="교관" lock="E1" icon="" target="훈련실" info="훈련실 배치 시, 대원 스킬 훈련 속도 +25%"/>
   </Info>
   <Info name="에스텔" en_name="Estelle">
-    <Infra id="1" name="집중·β" lock="E0" icon="" target="가공소" info="제어 센터에 배치 시, 제어 센터 내의 모든 대원의 시간당 컨디션 소모-0.05"/>
-    <Infra id="2" name="고독" lock="E1" icon="" target="기숙사" info="기숙사에 배치 시, 자신의 시간당 컨디션 회복 속도+0.7"/>
+    <Infra id="1" name="집중·β" lock="E0" icon="" target="가공소" info="가공소 배치 시, 부산물의 산출 확률 +60%"/>
+    <Infra id="2" name="고독" lock="E1" icon="" target="기숙사" info="기숙사 배치 시, 자신의 기분을 매시간 +0.7 회복"/>
   </Info>
   <Info name="프로스트리프" en_name="Frostleaf">
     <Infra id="1" name="독거" lock="E0" icon="" target="기숙사" info="기숙사에 배치 시, 자신의 시간당 컨디션 회복 속도+0.7"/>
