@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Nightingale" language="KR">
+    <Audio code="St_1" name="획득" info="리즈... 이게 제 진짜 이름이에요. 다른 일은 잘 기억나지 않아요." />
+    <Audio code="Hi_1" name="인사" info="안녕하신가요, 박사님." />
+
+    <Audio code="Ta_1" name="대화 1" info="오리지니움의 독소를 흡입한 탓에, 기억과 하반신의 신경에 손상을 입었다고 켈시 선생님께서 말씀하셨어요. 예전의 제게 도대체 무슨 일이 있었을까요?" />
+    <Audio code="Ta_2" name="대화 2" info="이 작은 파랑새는 자주 이야기를 나누러 와줘요. 가끔, 이 아이의 모습이 된 제가 자유롭게 하늘을 날아다니는 꿈을 꿔요." />
+    <Audio code="Ta_3" name="대화 3" info="옛날, 아무도 없는 방에 저를 가두었던 사람들이 있었어요. 다른 사람과 만날 수 있는건 다친 분을 치료해줄 때뿐이었지요.." />
+    <Audio code="Ta_el_1" name="1차 정예화 후 대사" info="이 지팡이를 쥐면 생각한 대로 치료할 수 있어요. 이것도, 제가 원래 가지고 있던 힘일까요?" />
+    <Audio code="Ta_el_2" name="2차 정예화 후 대사" info="샤이닝씨는, 저희 마족이 일으킨 전쟁의 그 죄를 갚아야한다고 말씀하셨어요. 저를 가두었던 사람들도 같은 말을 했었고요. 그런데도..." />
+    <Audio code="Ta_tr_1" name="신뢰도 상승 후 대사 1" info="아미야씨... 그녀를 보면 그리운 느낌이 들어요. 어디선가 만난 적이 있었던걸까요?" />
+    <Audio code="Ta_tr_2" name="신뢰도 상승 후 대사 2" info="제게는 단편적인 기억밖에 없어요. 동포, 오리지니움, 사명, 반항, 전쟁... 어째서, 그 속에 당신의 모습이 보이는걸까요?" />
+    <Audio code="Ta_tr_3" name="신뢰도 상승 후 대사 3" info="제가 왜 이렇게 되었는지, 왜 이렇게 되어야했는지... 박사님, 그 해답을 찾아주실 수 있나요?" />
+
+    <Audio code="Ma_1" name="어시스턴트 임명" info="죄송합니다. 도와드리는 게 제가 할 일인데, 몸이 생각대로 움직이지 않아서..." />
+    <Audio code="Ma_idle_1" name="방치" info="당신도, 자유로운 새가 되는 꿈을 꾸고 있나요?" />
+    <Audio code="Ma_2" name="작전 기록 학습" info="어째서... 제 힘을 강하게 만들 필요가 있는 건가요?" />
+    <Audio code="Ma_el_1" name="1차 정예화 시" info="승진... 인가요. 알겠습니다. 이건 분명 기뻐해야할 일이겠죠. 그렇지만... 죄송합니다, 기쁨이라는 감정을 느낄 수 없어요." />
+    <Audio code="Ma_el_2" name="2차 정예화 시" info="박사님, 승진을 알려주기 위해 직접 와주시다니... 고맙습니다. 하지만... 제게 지금 가장 중요한 것은 지금부터 들을 수 있는 바깥 이야기에요." />
+    <Audio code="Ma_team_1" name="팀 배치" info="여기가 집합 장소인가요?" />
+    <Audio code="Ma_team_2" name="팀장 임명" info="당신의 명령이라면, 무슨 일이 있어도 따를게요." />
+    <Audio code="Ma_ifr_1" name="시설에 배치" info="방... 그것도 새장의 하나." />
+    <Audio code="Ma_tc_1" name="숙소 터치" info="네, 무슨 일이신가요?" />
+    <Audio code="Ma_tc_2" name="신뢰도 터치" info="박사님, 지금 하고 계신건... '스킨십'이라고 하는 건가요?" />
+
+    <Audio code="Bt_1" name="작전 출발" info="매뉴얼대로 하면 되는 거죠?" />
+    <Audio code="Bt_2" name="작전 개시" info="전장은, 생명을 서로 빼앗는 장소." />
+    <Audio code="Bt_op_1" name="오퍼레이터 선택 1" info="박사님..." />
+    <Audio code="Bt_op_2" name="오퍼레이터 선택 2" info="누구를 선택하실 건가요?" />
+    <Audio code="Bt_s_1" name="배치 1" info="여기가... 전장..." />
+    <Audio code="Bt_s_2" name="배치 2" info="생명을 빼앗지는 않겠습니다." />
+    <Audio code="Bt_in_1" name="작전 중 1" info="이 힘... 부디 받아주세요." />
+    <Audio code="Bt_in_2" name="작전 중 2" info="날으렴." />
+    <Audio code="Bt_in_3" name="작전 중 3" info="다치게 하지 않을 거예요." />
+    <Audio code="Bt_in_4" name="전투 중 4" info="제가 지켜드리겠습니다." />
+    <Audio code="Bt_end_1" name="작전 종료 - 하드모드" info="어떤 전투라 해도, 저는..." />
+    <Audio code="Bt_end_2" name="작전 종료 - 3★" info="생명이 다할때까지 싸우는 것... 그게 저희의 숙명이겠죠." />
+    <Audio code="Bt_end_3" name="작전 종료 - 1★,2★" info="그들은 운명의 새장으로부터 탈출했을지도 모르겠네요." />
+    <Audio code="Bt_end_4" name="작전 실패" info="이것이... 절망이라고 하는 감정..." />
+  </Info>
+</DataList>
