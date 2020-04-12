@@ -964,17 +964,17 @@
       <lv lv="9" lv_n="E2_1" data="200%/80%" sp="30" fsp="0" eft="32" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
       <lv lv="10" lv_n="E2_1" data="220%/80%" sp="30" fsp="0" eft="35" sub="SB_3/BN/RC_1" subC="10/4/4" />
     </Info>
-    <Info id="1" code="Firewatch" name="카모플라쥬" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /, -color=#0f8bc2-은신 상태-?color=#0f8bc2-가 됨(적의 원거리 공격 대상이 되지 않음)">
-      <lv lv="1" lv_n="E0_1" data="+24%" sp="30" fsp="25" eft="0" />
-      <lv lv="2" lv_n="E0_1" data="+26%" sp="29" fsp="26" eft="0" sub="SB_1" subC="4" />
-      <lv lv="3" lv_n="E0_1" data="+28%" sp="28" fsp="27" eft="0" sub="SB_1/GT_4" subC="4/4" />
-      <lv lv="4" lv_n="E0_1" data="+32%" sp="27" fsp="30" eft="0" sub="SB_2/RC_3" subC="6/4" />
-      <lv lv="5" lv_n="E1_1" data="+34%" sp="26" fsp="31" eft="0" sub="SB_2/SG_3" subC="6/5" />
-      <lv lv="6" lv_n="E1_1" data="+36%" sp="25" fsp="32" eft="0" sub="SB_2/AC_2" subC="6/4" />
-      <lv lv="7" lv_n="E1_1" data="+40%" sp="24" fsp="35" eft="0" sub="SB_3/MG_2/RM_2" subC="6/2/3" />
-      <lv lv="8" lv_n="E2_1" data="+50%" sp="23" fsp="40" eft="0" sub="SB_3/PS_1/AC_2" subC="5/3/4" />
-      <lv lv="9" lv_n="E2_1" data="+60%" sp="22" fsp="45" eft="0" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
-      <lv lv="10" lv_n="E2_1" data="+70%" sp="20" fsp="50" eft="0" sub="SB_3/BN/RC_1" subC="10/4/4" />
+    <Info id="1" code="Firewatch" name="카모플라쥬" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /, /가 됨(적의 원거리 공격 대상이 되지 않음)">
+      <lv lv="1" lv_n="E0_1" data="+24%/은신상태" sp="30" fsp="25" eft="0" />
+      <lv lv="2" lv_n="E0_1" data="+26%/은신상태" sp="29" fsp="26" eft="0" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="+28%/은신상태" sp="28" fsp="27" eft="0" sub="SB_1/GT_4" subC="4/4" />
+      <lv lv="4" lv_n="E0_1" data="+32%/은신상태" sp="27" fsp="30" eft="0" sub="SB_2/RC_3" subC="6/4" />
+      <lv lv="5" lv_n="E1_1" data="+34%/은신상태" sp="26" fsp="31" eft="0" sub="SB_2/SG_3" subC="6/5" />
+      <lv lv="6" lv_n="E1_1" data="+36%/은신상태" sp="25" fsp="32" eft="0" sub="SB_2/AC_2" subC="6/4" />
+      <lv lv="7" lv_n="E1_1" data="+40%/은신상태" sp="24" fsp="35" eft="0" sub="SB_3/MG_2/RM_2" subC="6/2/3" />
+      <lv lv="8" lv_n="E2_1" data="+50%/은신상태" sp="23" fsp="40" eft="0" sub="SB_3/PS_1/AC_2" subC="5/3/4" />
+      <lv lv="9" lv_n="E2_1" data="+60%/은신상태" sp="22" fsp="45" eft="0" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="+70%/은신상태" sp="20" fsp="50" eft="0" sub="SB_3/BN/RC_1" subC="10/4/4" />
     </Info>
     <Info id="2" code="Firewatch" name="전술 무전" rang="0" need="E1" type="AUTO" tirrger="MANU" info="공격 범위 내에 무작위로 /개의 폭탄을 투하(적이 있는 위치를 우선적으로 선택), 각 폭탄은 주변 범위 내의 모든 적에게 공격력의 /만큼 물리 대미지를 입힌다">
       <lv lv="1" lv_n="E1_1" data="2/180%" sp="50" fsp="10" eft="0" />
