@@ -14,7 +14,7 @@
   <Info_Default name="실버애쉬" rang="6" maxlevel="50" base_hp="1075" max_hp="1536" base_atk="297" max_atk="444" base_def="189" max_def="259" base_mdef="5" max_mdef="5" redeploy="70" cost="18" block="2" attack_time="1.3" />
   <Info_Default name="헬라그" rang="1" maxlevel="50" base_hp="1568" max_hp="2179" base_atk="340" max_atk="486" base_def="160" max_def="220" base_mdef="0" max_mdef="0" redeploy="70" cost="22" block="1" attack_time="1.2" />
   <Info_Default name="호시구마" rang="1" maxlevel="50" base_hp="1602" max_hp="2165" base_atk="221" max_atk="284" base_def="257" max_def="384" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="3" attack_time="1.2" />
-  <Info_Default name="사리아" rang="11" maxlevel="50" base_hp="1309" max_hp="1769" base_atk="200" max_atk="287" base_def="248" max_def="365" base_mdef="10" max_mdef="10" redeploy="70" cost="18" block="2" attack_time="1.2" />
+  <Info_Default name="사리아" rang="14" maxlevel="50" base_hp="1309" max_hp="1769" base_atk="200" max_atk="287" base_def="248" max_def="365" base_mdef="10" max_mdef="10" redeploy="70" cost="18" block="2" attack_time="1.2" />
   <Info_Default name="니엔" rang="1" maxlevel="50" base_hp="1539" max_hp="2080" base_atk="295" max_atk="405" base_def="254" max_def="380" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="3" attack_time="1.5" />
   <Info_Default name="안젤리나" rang="5" maxlevel="50" base_hp="629" max_hp="863" base_atk="228" max_atk="336" base_def="53" max_def="77" base_mdef="15" max_mdef="15" redeploy="70" cost="14" block="1" attack_time="1.9" />
   <Info_Default name="마젤란" rang="7" maxlevel="50" base_hp="495" max_hp="670" base_atk="211" max_atk="302" base_def="60" max_def="87" base_mdef="15" max_mdef="15" redeploy="70" cost="10" block="1" attack_time="1.6" />
