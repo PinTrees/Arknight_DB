@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Croissant" language="KR">
+    <Audio code="JP_001" name="획득" info="내는 크루아상. 사장님은 운이 좋은 사람이네, 내 같이 우수한 사람은 좀처럼 없거든! 튼튼하고 오래가고… 덤으로 요금도 20% 깎아줄게!" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="사장님이 어데 가도, 안전은 이 내가 보장할 끼다! 그것보다 작전 이전에 선금을 부탁해! 잊으면 안된데이~"/>
+    <Audio code="JP_003" name="인사" info="사장님, 어서온나!" />
+
+    <Audio code="JP_004" name="대화 1" info="열심히 일하고 돈 잔뜩 벌어가꼬, 잘 살아야하지 않겠나?" />
+    <Audio code="JP_005" name="대화 2" info="뭐꼬, 임마나 점마나 장비가 삐까뻔쩍 하구만? 내도 좀 만지게 해도!" />
+    <Audio code="JP_006" name="대화 3" info="새로운 장비라는 건 억수로 좋아, 내는 그런걸 금방 사버린다고. 이기 바로 ‘늪’이라는 거구마!" />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="매달매달 돈이 억수로 많이 드는구만, 그라니께 지갑에 보탬이 되게 좋은걸 모아서 팔고 있데이. 싸고 좋은게 잔뜩이라고!" />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="어차피 물건을 나를 거라면, 쓰기 좋은거나 맛있는거, 그란걸 옮기고 싶다!" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="사장님, 사장님! 내 그 뭐꼬, 억수로 맛있는거 발견했는데 무보러 갈래? 내는 말이다, 좋은 장비 다음으로 맛있는걸 억수로 좋아한다고." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="사장님, 쪼메 들렀다 갈래? 내가 들여온 물건 좀 봐봐. 잘빠진 옷에, 일용품부터 사무용품, 장비까지 뭐든 있데이. 많이 사주면 깎아줄게!" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="사장님한테는 진짜 감사하고 있데이. 일도 잔뜩 쥐어준 덕분에 내가 원하는걸 전부 다 살 수 있었거든! 사장님 진짜 최고! 억수로 좋아한데이!" />
+
+    <Audio code="JP_012" name="시설에 배치" info="여기에도 보물상자가 잠들어 있는 거야?" />
+    <Audio code="JP_013" name="터치" info="뭐꼬?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="사장님, 사장님? 뭐 엄청난거 가지고 있지 않나? 내 한테도 좀 보여도." />
+    <Audio code="JP_015" name="방치" info="아차… 이런, 이번 달도 위험한데…" />
+    <Audio code="JP_016" name="작전 기록 학습" info="왠지 강해지면 일을 더 잘할 수 있을 거 같아!" />
+    <Audio code="JP_017" name="1차 정예화 시" info="사장님 덕분에, 일을 잘 하고 있어. 정말 고마워!" />
+    <Audio code="JP_018" name="2차 정예화 시" info="사장님, 사장님! 받은 보너스 엄청 유용하게 쓰고 있데이! 자, 자 봐봐! 사장님을 지키기 위한 장비갱신에 쓰고 있구마!"/>
+    <Audio code="JP_019" name="팀 배치" info="경비라면 맡겨만 도!" />
+    <Audio code="JP_020" name="팀장 임명" info="자 모두, 이 임무를 완벽하게 수행하자!" />
+
+    <Audio code="JP_021" name="작전 출발" info="완벽한 성과를 올려서 와야지!" />
+    <Audio code="JP_022" name="작전 개시" info="저 봐라, 적이 장비를 건네주러 와 주셨구마!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="뭐고, 뭐꼬?" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="새로운 장비, 시험해봐야지!" />
+    <Audio code="JP_025" name="배치 1" info="이영차.." />
+    <Audio code="JP_026" name="배치 2" info="도착했데이." />
+    <Audio code="JP_027" name="작전 중 1" info="스톱!" />
+    <Audio code="JP_028" name="작전 중 2" info="여긴 못 지나간데이!" />
+    <Audio code="JP_029" name="작전 중 3" info="썬더클랩이다!" />
+    <Audio code="JP_030" name="전투 중 4" info="그런거 나한텐 안 통해!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="적들 말이야, 보물상자 같은 거라던가 그런 좋은거 안 가지고 있을라나?" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="좋아, 임무 완료다!" />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="안돼… 적을 놓쳤어. 내 평판이 떨어지게 생겼잖아." />
+    <Audio code="JP_034" name="작전 실패" info="이런, 져버려서 지갑까지 잃어버렸어. 으으…" />
+  </Info>
+</DataList>

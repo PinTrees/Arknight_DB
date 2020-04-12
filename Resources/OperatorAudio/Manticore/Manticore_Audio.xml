@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Manticore" language="KR">
+    <Audio code="JP_001" name="획득" info="만티코어. 능력은 몰래 죽이는 거. 무서워하지 말아줘, 당신은 타겟이 아니야." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="저, 나 여기에 2시간 전부터 있었는데..."/>
+    <Audio code="JP_003" name="인사" info="박사, 안녕." />
+
+    <Audio code="JP_004" name="대화 1" info="미안해. 나, 존재감이 없어… 그렇지만 이거, 능력이 아니야…" />
+    <Audio code="JP_005" name="대화 2" info="내 능력, 특정 환경하에서 상대에게 들키지 않는 거." />
+    <Audio code="JP_006" name="대화 3" info="나, 계속 친구 없어. 응, 있는 걸 알아차리지도 못할 친구 따윈, 필요 없겠지?" />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="꼬리, 평상시에는 넣어둘 테니까, 무서워하지 말아줘." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="박사. 위험한 임무, 내가 하게 해줘. 내 능력, 그거에 맞으니까." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="가슴에 달고 있는 이 ‘ID 태그’는 주운 거. ‘사람’이 존재하고 있던 증거. 모으는거, 좋아해." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="나이트메어라고 하는 사람, 나한테 다가오게 하지 말아줘! 저 사람은 위험해, 내 능력도 듣지 않아… 어째서?" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="나, 사실은 병을 고치고 싶어. 그렇지만, 낫게되면 능력 없어져. 그래도 나, 가치 있어?" />
+
+    <Audio code="JP_012" name="시설에 배치" info="구석에, 앉아야지." />
+    <Audio code="JP_013" name="터치" info="에에에..." />
+    <Audio code="JP_014" name="신뢰도 터치" info="저, 언제나 신경써줘서, 그게, 박사의 직무라고 해도, 기뻐." />
+    <Audio code="JP_015" name="방치" info="방치당했어. 이 느낌, 싫어." />
+    <Audio code="JP_016" name="작전 기록 학습" info="응. 고마워. 더, 잘 부탁해." />
+    <Audio code="JP_017" name="1차 정예화 시" info="임명되는 거, 기다리고 있었어. 나의 힘, 부족하다고 계속 생각하고 있었어." />
+    <Audio code="JP_018" name="2차 정예화 시" info="나, 도움이 된...거지? 나, 돌아갈 곳 없으니까. 여기, 로도스가 집. 앞으로도, 이 장소를 지키게 해줘."/>
+    <Audio code="JP_019" name="팀 배치" info="알았어." />
+    <Audio code="JP_020" name="팀장 임명" info="이런 대장, 미움받을 거야." />
+
+    <Audio code="JP_021" name="작전 출발" info="내버려 두지 말아줘!" />
+    <Audio code="JP_022" name="작전 개시" info="능력을, 살린 전술로 부탁해. 비겁한 거라도 괜찮아." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="주, 준비 다 했어." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="나, 여기야." />
+    <Audio code="JP_025" name="배치 1" info="잠복, 개시." />
+    <Audio code="JP_026" name="배치 2" info="기습, 준비, 했어." />
+    <Audio code="JP_027" name="작전 중 1" info="괴롭...지?" />
+    <Audio code="JP_028" name="작전 중 2" info="오지 마!" />
+    <Audio code="JP_029" name="작전 중 3" info="나도, 이런 거, 싫어." />
+    <Audio code="JP_030" name="전투 중 4" info="잘 가." />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="이렇게 무서운 전장에서도 판단력, 집중력, 끊기지 않았어. 박사, 멋있어!" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="이기기 위해서라면, 뭐든지 하겠지만." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="도망친 사람, 붙잡을거라면 나한테 맡겨." />
+    <Audio code="JP_034" name="작전 실패" info="미안해… 변변치 못해서..." />
+  </Info>
+</DataList>
