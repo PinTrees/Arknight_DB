@@ -1,15 +1,19 @@
 <FileList>
+  <Info folder="Bagpipe" fileName="Icon.png" />
+  <Info folder="Bagpipe" fileName="S0.png" />
+  <Info folder="Bagpipe" fileName="S1.png" />
+  <Info folder="Bagpipe" fileName="S2.png" />
+  <Info folder="Siege" fileName="Icon.png" />
+  <Info folder="Siege" fileName="S0.png" />
+  <Info folder="Siege" fileName="S1.png" />
+  <Info folder="Siege" fileName="S1_R.png" />
+  <Info folder="Siege" fileName="S2.png" />
   <Info folder="Chen" fileName="Icon.png" />
   <Info folder="Chen" fileName="S0.png" />
   <Info folder="Chen" fileName="S1.png" />
   <Info folder="Chen" fileName="S1_R.png" />
   <Info folder="Chen" fileName="S2.png" />
   <Info folder="Chen" fileName="S2_R.png" />
-  <Info folder="Siege" fileName="Icon.png" />
-  <Info folder="Siege" fileName="S0.png" />
-  <Info folder="Siege" fileName="S1.png" />
-  <Info folder="Siege" fileName="S1_R.png" />
-  <Info folder="Siege" fileName="S2.png" />
   <Info folder="Shining" fileName="Icon.png" />
   <Info folder="Shining" fileName="S0.png" />
   <Info folder="Shining" fileName="S1.png" />
@@ -127,6 +131,9 @@
   <Info folder="GreyThroat" fileName="Icon.png" />
   <Info folder="GreyThroat" fileName="S0.png" />
   <Info folder="GreyThroat" fileName="S1.png" />
+  <Info folder="Sesa" fileName="Icon.png" />
+  <Info folder="Sesa" fileName="S0.png" />
+  <Info folder="Sesa" fileName="S1.png" />
   <Info folder="Breeze" fileName="Icon.png" />
   <Info folder="Breeze" fileName="S0.png" />
   <Info folder="Breeze" fileName="S1.png" />
@@ -161,6 +168,10 @@
   <Info folder="Astesia" fileName="Icon.png" />
   <Info folder="Astesia" fileName="S0.png" />
   <Info folder="Astesia" fileName="S1.png" />
+  <Info folder="Bibeak" fileName="Icon.png" />
+  <Info folder="Bibeak" fileName="S0.png" />
+  <Info folder="Bibeak" fileName="S1.png" />
+  <Info folder="Bibeak" fileName="S1_R.png" />
   <Info folder="Broca" fileName="Icon.png" />
   <Info folder="Broca" fileName="S0.png" />
   <Info folder="Broca" fileName="S1.png" />
@@ -249,6 +260,10 @@
   <Info folder="Snowsant" fileName="S0.png" />
   <Info folder="Snowsant" fileName="S1.png" />
   <Info folder="Snowsant" fileName="S1_R.png" />
+  <Info folder="Waai_fu" fileName="Icon.png" />
+  <Info folder="Waai_fu" fileName="S0.png" />
+  <Info folder="Waai_fu" fileName="S1.png" />
+  <Info folder="Waai_fu" fileName="S1_R.png" />
   <Info folder="Courier" fileName="Icon.png" />
   <Info folder="Courier" fileName="S0.png" />
   <Info folder="Courier" fileName="S1.png" />
@@ -323,6 +338,9 @@
   <Info folder="Mousse" fileName="Icon.png" />
   <Info folder="Mousse" fileName="S0.png" />
   <Info folder="Mousse" fileName="S1.png" />
+  <Info folder="Utage" fileName="Icon.png" />
+  <Info folder="Utage" fileName="S0.png" />
+  <Info folder="Utage" fileName="S1.png" />
   <Info folder="Cuora" fileName="Icon.png" />
   <Info folder="Cuora" fileName="S0.png" />
   <Info folder="Cuora" fileName="S1.png" />
