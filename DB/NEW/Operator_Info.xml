@@ -44,7 +44,7 @@
     <Info id="105" name="엑시아" en_name="Exusiai" rare="6" group="펭귄 로지스틱스" gender="여성" position="원거리" Class="스나이퍼" tags="딜러" trust="0/90/0/0" specificity="공중의 적을 우선해서 공격함" potential="배치 비용 -1/첫번째 재능 효과 +3/공격력 +27/배치 비용 -1/두번째 재능 효과 (+2%, +3%)">
       <Ability unlock="E1" name="쾌속 탄창" info="공격 속도 +12" />
       <Ability unlock="E2" name="천사의 축복" info="공격력 +6%, 최대 체력 +10%. 전장에 투입되면 이 효과는 무작위 한 명의 아군 유닛에게 동일하게 부여됩니다." />
-      <Elite1 info="기초 속성 향상/재능 쾌속 탄창 해금/배치 비용 +2/스킬 슈팅 모드 해금/공격 범위 확대" submat="용문폐/30000/SN_3/5/KT_3/7/RC_3/20" />
+      <Elite1 info="기초 속성 향상/재능 쾌속 탄창 해금/배치 비용 +2/스킬 슈팅 모드 해금/공격 범위 확대" submat="용문폐/30000/SN_3/5/KT_3/4/RC_3/12" />
       <Elite2 info="기초 속성 향상/재능 쾌속 탄창 향상/재능 천사의 축복 해금/스킬 과부하 모드 해금" submat="용문폐/180000/SN_1/4/AG/4/SG_1/5" />
       <Producer illustrator="幻象黑兔" artistlink="https://www.pixiv.net/users/4462245" voice="Manaka Iwami" vlink="https://www.google.com/search?q=Voice+Actor+Manaka%20Iwami"/>
       <Costume type="비타필드" name="황야의 비밀작전"/>
