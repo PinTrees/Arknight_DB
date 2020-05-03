@@ -1,6 +1,12 @@
 <VersionList>
-  <Info resources_ver="7" apk_ver="1.2.0" DB_ver="20.04.26" audio_ver="2" link="market://details?id=com.Pinforest.Arknight_GM"/>
-  <Note info="1.1.9 버전이 구글플레이스토어 등록 심사 대기중입니다. 스토어에 표시되기까지 시간이 소요될 수 있습니다.     
+  <Info resources_ver="7" apk_ver="1.2.0" DB_ver="20.05.03" audio_ver="2" link="market://details?id=com.Pinforest.Arknight_GM"/>
+  <Note info="1.2.0 버전이 구글플레이스토어 등록 심사 대기중입니다. 스토어에 표시되기까지 시간이 소요될 수 있습니다.     
+
+안녕하세요 개발자 입니다.
+1.2.1 버전 업데이트가 월~화요일로 연기되었습니다.
+
+이벤트 정보와 파일 누락 오류는 5월3일(일) 추가, 수정됩니다. (헤드헌팅, 배너, 일러스트다운로드)
+
 ※※[정예화 재료 계산기]※※
 - 특정 정예화 재료의 하위 재료가 모두 충족되지 않아도 제작 가능 횟수가 카운트되는 오류가 있습니다. 1.2.1 버전에서 수정될 예정입니다.
 
