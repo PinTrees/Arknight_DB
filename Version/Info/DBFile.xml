@@ -8,6 +8,5 @@
   <Info name="Operator_InfraSkill.xml"  compulsion="0" />
   <Info name="Operator_SkillInfo.xml"  compulsion="0" />
   <Info name="StageData.xml"  compulsion="0" />
-  <Info name="operator_audiofile_list.xml"  compulsion="0" />
   <Info name="URL.xml"  compulsion="0" />
 </FileList>
