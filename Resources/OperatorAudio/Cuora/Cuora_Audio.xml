@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Cuora" language="KR">
+    <Audio code="JP_001" name="획득" info="어라라? 여긴 어~디? 나는 누~구???" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="와~나 왔어~! 야구랑 보드게임 중에 뭐 하고 놀까?……어? 일하는 중?" />
+    <Audio code="JP_003" name="인사" info="박사! 안녕!" />
+
+    <Audio code="JP_004" name="대화 1" info="내가 태어난 곳? 에… 음…… 잘 모르겠네. 뭐 어때!" />
+    <Audio code="JP_005" name="대화 2" info="안녕 로도스 선생님! 어라……이름 이게 맞나?" />
+    <Audio code="JP_006" name="대화 3" info="음…… 오늘 업무 뭐였더라? 길쭉한 생물을 잡는 거였나?" />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="안돼! 등에 멘 가방은 때리지마! 아 미안, 화난 건 아니고, 조심하지 않으면 다치니까 그래. 지금 보여줄게!" />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="박사를 괴롭히는 사람이 있으면, 내가 이 배트로 때려눕혀 줄게!……어,어라? 진짜 있었어? 이,있잖아 나, 실은 싸움 같은거 잘 몰라. 에헤헤……" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="난 하루 온종일 거리를 산책하는 걸 좋아해. 햇빛도 쐬고~걸어 다니는 사람 구경도 하고~ 그러다 보면……어느새 또 미아가 되어버리지만!" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="내 병을 진찰해주고, 살 곳도 내어주고, 박사는 정말 상냥하네……" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="박사는 나보다 형이야?…아니면 언니야? 뭐 어느쪽이든 상관없어! 어쨋든 박사는 내 가장 소중한 가족이야! 나, 이미 결정했어, 박사가 나가라고 해도, 난 여기 있기로 말야. 어차피 멀리 가고 싶어도 못 가는걸." />
+
+    <Audio code="JP_012" name="시설에 배치" info="파이어볼은 던지기 없기다?" />
+    <Audio code="JP_013" name="터치" info="와아~ 재밌어~!" />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사, 박사~ 좀만 더 놀면 안 돼? 좀만 더어!" />
+    <Audio code="JP_015" name="방치" info="박사가 안 놀아주니까, 혼자서 놀아야겠다……" />
+    <Audio code="JP_016" name="작전 기록 학습" info="엄~청 딱딱해질 거야! 나, 딱딱해지는 거 밖에 못하니까!" />
+    <Audio code="JP_017" name="1차 정예화 시" info="승~진? 잘 모르겠다… 그러지 말고, 좀 더 같이 놀자!" />
+    <Audio code="JP_018" name="2차 정예화 시" info="박사, 박사! 나, 더 높은 자리로 올라가는 거 따윈 아무래도 상관없어. 박사가 늘 함께 있어주면 그걸로 족해. 같이 있어줄 거지?"/>
+    <Audio code="JP_019" name="팀 배치" info="친구가 잔뜩!" />
+    <Audio code="JP_020" name="팀장 임명" info="다들, 나랑 같이 가자!" />
+
+    <Audio code="JP_021" name="작전 출발" info="모두와 함께라면 괜찮아!" />
+    <Audio code="JP_022" name="작전 개시" info="우리 다 같이 놀자!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="네~" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="박사!" />
+    <Audio code="JP_025" name="배치 1" info="이야야압!" />
+    <Audio code="JP_026" name="배치 2" info="이 바보들아! 내가 상대해주마!" />
+    <Audio code="JP_027" name="작전 중 1" info="소용없어~!" />
+    <Audio code="JP_028" name="작전 중 2" info="나랑 놀자!" />
+    <Audio code="JP_029" name="작전 중 3" info="여기가 내 홈이야!" />
+    <Audio code="JP_030" name="작전 중 4" info="한 발자국도 물러서지 않겠어!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="어려웠어? 평소랑 똑같은데?" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="호~옴~러~언~!!" />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="안타!" />
+    <Audio code="JP_034" name="작전 실패" info="으아아아아…… 아웃…… 으으……" />
+  </Info>
+</DataList>

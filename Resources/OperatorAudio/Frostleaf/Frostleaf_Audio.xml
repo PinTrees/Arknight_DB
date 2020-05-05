@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Frostleaf" language="KR">
+    <Audio code="JP_001" name="획득" info="프로스트리프. 용병을 하고 있었지만 지금은 너에게 목숨을 맡기겠다. 명령이라면 뭐든지 따르겠어." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="음악, 들을래? 잠깐만이라면 내 헤드폰을 빌려줄 수 있어." />
+    <Audio code="JP_003" name="인사" info="박사." />
+
+    <Audio code="JP_004" name="대화 1" info="미안해. 조금 떨어져 줘." />
+    <Audio code="JP_005" name="대화 2" info="내가 구원활동을 하게 될 줄은 생각하지도 못했어." />
+    <Audio code="JP_006" name="대화 3" info="쓰고 읽는걸 배우기 이전부터 이 도끼를 쥐고 있었어." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="내가 좋아하는 노래는 이 세상에서 유행하지 않겠지. … 혼자 있을 때 흥얼거리고 싶어지는 고독한 곡뿐이야." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="눈도 깜빡하지 마. 이 기술을 볼 수 있는 건 한 순간뿐이야." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="한 잔 어때, 내가 쏘지. 일을 끝내고 스트레스 푸는 것도 중요하잖아." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="주위에 있는 사람들이 모두 과거의 존재가 되고 나서부터 사람으로서 살아간다는 것의 소중함을 알았어. 웃기지?" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="용병은 어차피 고용된 존재다. 임무의 목적이나 그것에 의한 결과를 생각하는 건 내가 할 일이 아니야. 앞으로, 네가 그걸 결정하면 된다." />
+
+    <Audio code="JP_012" name="시설에 배치" info="사적인 공간... 가지고 싶었는데" />
+    <Audio code="JP_013" name="터치" info="어엇." />
+    <Audio code="JP_014" name="신뢰도 터치" info="한 잔 할래?" />
+    <Audio code="JP_015" name="방치" info="......♪♪" />
+    <Audio code="JP_016" name="작전 기록 학습" info="고맙다." />
+    <Audio code="JP_017" name="1차 정예화 시" info="궤도에 올라섰군." />
+    <Audio code="JP_018" name="2차 정예화 시" info="후우, 나쁘지 않아. 오랜만에 느끼는 충실감이다."/>
+    <Audio code="JP_019" name="팀 배치" info="책임은 다할 거야." />
+    <Audio code="JP_020" name="팀장 임명" info="내가 할 수 있는 걸 하는 것뿐이다." />
+
+    <Audio code="JP_021" name="작전 출발" info="마침 몸을 좀 움직이고 싶었어." />
+    <Audio code="JP_022" name="작전 개시" info="박살나라!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="응?" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="명령은?" />
+    <Audio code="JP_025" name="배치 1" info="이대로 간다." />
+    <Audio code="JP_026" name="배치 2" info="어어, 알았어." />
+    <Audio code="JP_027" name="작전 중 1" info="얼어붙어라, 내 피와 같이!" />
+    <Audio code="JP_028" name="작전 중 2" info="이 날끝으로 궤뚫는다!" />
+    <Audio code="JP_029" name="작전 중 3" info="쓰레기처럼… 비참하게 죽어라!" />
+    <Audio code="JP_030" name="작전 중 4" info="조금 머리를 식혀라." />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="싸움이 끝난 후 황폐해진 땅… 이젠 몇 번이나 봤는지도 모르겠어." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="적의 얼굴은 기억하고 있어. 한 명도 남김없이 쓰러트렸다." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="다친 사람은 없나?" />
+    <Audio code="JP_034" name="작전 실패" info="내가 마무리를 내겠다!" />
+  </Info>
+</DataList>

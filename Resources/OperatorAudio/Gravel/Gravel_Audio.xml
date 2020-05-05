@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Gravel" language="KR">
+    <Audio code="JP_001" name="획득" info="응? 왜 그래, 얼굴을 이렇게나 붉히고… 이건 처음뵙겠습니다라는 인사야. 특별한 의미는 없어. 그러면, 다시 한번… 카시미어의 기사, 그라벨이야. 잘 부탁해. 후훗." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="아아… 이 나를 곁에 두고 싶은거야? 가슴의 두근거림이 멈추질 않아." />
+    <Audio code="JP_003" name="인사" info="오늘 기분은 어때? 박사." />
+
+    <Audio code="JP_004" name="대화 1" info="꽤 재미있는데." />
+    <Audio code="JP_005" name="대화 2" info="나는 신경쓰지 않아도 괜찮으니까, 하던 일 마저 해." />
+    <Audio code="JP_006" name="대화 3" info="응? 뭘 보고 있냐고? 당연히 당신이지." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="박사가 필요로 해준다면, 나도, 강해질 수 있도록 노력해볼게." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="우후후… 앞으로는 기습에 대한 걱정은 안 해도 괜찮아. 왜냐면… 내가 쭉 곁에 있을 거니까." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="이제서야 내가 신경쓰이기 시작한거야? 나는 박사가 처음부터 계속 신경쓰여서 견디기 힘들었는데 말이야." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="박사에겐 언제나 도움을 받고 있으니까… 제 카시미어 기사 호칭을 걸고, 이 은혜 반드시 갚겠습… 응? 이상해? 이렇게 보여도 제대로된 기사니까, 그럴듯한 말이라면 얼마든지 할 수 있어." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="유괴당해서 카시미어로 끌려갔을 때 이후로 이렇게 따뜻한 취급을 받는건 오랜만이야. 그러니까 박사가 싫지 않다면, 기사의 명예를 걸고, 이 그라벨… 아니, 이 세노미는 언제까지고 당신을 섬기도록 할게." />
+
+    <Audio code="JP_012" name="시설에 배치" info="이 방, 숨을 곳이 정말 많네." />
+    <Audio code="JP_013" name="터치" info="후후." />
+    <Audio code="JP_014" name="신뢰도 터치" info="응, 내가 여기 있어. 언제까지나." />
+    <Audio code="JP_015" name="방치" info="내가 여기 있으면… 혹시 두근거려서 잠들지 못하는건 아니지?" />
+    <Audio code="JP_016" name="작전 기록 학습" info="로도스에서 사용하는 전술은, 전부 박사가 생각한거야? 이건 무척 흥미로운걸." />
+    <Audio code="JP_017" name="1차 정예화 시" info="박사에게 인정받았다는 말인거지? 정말 기뻐!" />
+    <Audio code="JP_018" name="2차 정예화 시" info="그러니까, 박사에게는 내가 필요하다, 라는 말이지?"/>
+    <Audio code="JP_019" name="팀 배치" info="같이 와주는거야?" />
+    <Audio code="JP_020" name="팀장 임명" info="선택받았다." />
+
+    <Audio code="JP_021" name="작전 출발" info="함께 가자." />
+    <Audio code="JP_022" name="작전 개시" info="적을.. 후후..." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="응?" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="지시할 거 있어?" />
+    <Audio code="JP_025" name="배치 1" info="여기로 해야지." />
+    <Audio code="JP_026" name="배치 2" info="좋은 곳이네." />
+    <Audio code="JP_027" name="작전 중 1" info="나는 당신의 그림자." />
+    <Audio code="JP_028" name="작전 중 2" info="후후." />
+    <Audio code="JP_029" name="작전 중 3" info="내게서 도망칠 수 있을거라고 생각해?" />
+    <Audio code="JP_030" name="작전 중 4" info="모여라, 나의 동포들이여!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="역시 박사의 전술은 완벽해!" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="이 검이 아직 피에 목마르다고 말하고 있어. 후후." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="도망쳐도 좋아. 자, 그럼 어디까지 도망칠 수 있을까." />
+    <Audio code="JP_034" name="작전 실패" info="미안해. 나… 또 저질러버렸나봐." />
+  </Info>
+</DataList>

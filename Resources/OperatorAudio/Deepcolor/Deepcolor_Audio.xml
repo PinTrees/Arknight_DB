@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Deepcolor" language="KR">
+    <Audio code="JP_001" name="획득" info="딥컬러라고 해. 그림을 그리고 있어. 맞아, 그냥 그림쟁이야." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="좋은 아침이야, 박사. 박사의 얼굴 그려도 괜찮아? 아, 이번엔 실체화 하지 않도록 조심할거니까. 그보다, 뭐든 실체화 시킬 수 있는건 아니야." />
+    <Audio code="JP_003" name="인사" info="좋은 아침이야, 박사." />
+
+    <Audio code="JP_004" name="대화 1" info="내가 여기에 있는 건… 이상할까?" />
+    <Audio code="JP_005" name="대화 2" info="박사, 내 눈에 비치는 당신은 어떤 색을 띄고 있을 거 같아?" />
+    <Audio code="JP_006" name="대화 3" info="로도스는 재미있는 소재가 가득해서 아이디어가 마구 떠올라." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="나의 이 귀여운 어시스턴트들 봤어? 어? 무섭다고? 귀엽다는 말을 잘못한거지?" />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="헤헤, 이게 너의 색깔. 그렇다면… 나를 잘 봐줘. 그 색으로 더 물들여줘." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="응, 맞아. 주위 사람들이 이해해주지 않는다 해도 나는 이대로 계속 그릴거야. 그들이 무슨 괴물이 된다고 할지라도." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="크리에이터라고 하는 인종은 말야, 1개월 중 30일 이상 슬럼프야. 뭘 그려도 제대로 되질 않고, 심야가 돼서야 좀 펜이 움직이고." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="얼룩진 세계도 그 그윽한 어두움 속에서 편안한 잠을 맞이해. 그래, 그거야 말로 심해의 색. 검정 밖에 보이지 않는다고? 그러면 아직 나의 전부를 모른다는 말이네." />
+
+    <Audio code="JP_012" name="시설에 배치" info="이 방, 디자인이 이쁘네." />
+    <Audio code="JP_013" name="터치" info="으응?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사. 모처럼의 휴식인데 내 최신작 보고 갈래?" />
+    <Audio code="JP_015" name="방치" info="박사, 꿈을 꾸고 있는거야? 그 꿈에서 보는 색은 이 세계처럼 선명할까?" />
+    <Audio code="JP_016" name="작전 기록 학습" info="이 불안한 예감은 뭘까." />
+    <Audio code="JP_017" name="1차 정예화 시" info="어, 이제 저는 내버려두세요. 이 이상 친절하게 대하시면 전… 어떻게 될지 몰라요." />
+    <Audio code="JP_018" name="2차 정예화 시" info="고마워, 박사. 함께 이 그림, 완성시키자."/>
+    <Audio code="JP_019" name="팀 배치" info="정말로 나를 전선에 내보내는거야? 진짜 진짜?" />
+    <Audio code="JP_020" name="팀장 임명" info="이렇게 많은 사람을 지휘, 할 수 있을리가..." />
+
+    <Audio code="JP_021" name="작전 출발" info="여러분, 열심히 해봐요." />
+    <Audio code="JP_022" name="작전 개시" info="저게 적이야?" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="나?" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="뭘 하면 되는 거야?" />
+    <Audio code="JP_025" name="배치 1" info="치덕치덕..." />
+    <Audio code="JP_026" name="배치 2" info="으앗, 잠깐 기다리라니까." />
+    <Audio code="JP_027" name="작전 중 1" info="서두르면 안 돼." />
+    <Audio code="JP_028" name="작전 중 2" info="천천히 하는 게 좋아" />
+    <Audio code="JP_029" name="작전 중 3" info="내 어시스턴트들이 상대해줄게." />
+    <Audio code="JP_030" name="작전 중 4" info="이 아이들을 이길 수 있겠어?" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="나를 진심으로 화나게 만들면… 어떻게 될지 몰라." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="승리를 손에넣은 모두의 모습, 그림으로 만들자." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="아아, 옷이 또 더러워졌어." />
+    <Audio code="JP_034" name="작전 실패" info="싸움의 결과도, 그림처럼 덧칠할 수 있으면 좋을 텐데." />
+  </Info>
+</DataList>

@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Meteor" language="KR">
+    <Audio code="JP_001" name="획득" info="안녕. 나는 메테오, 숲의 궁사야. 원거리 지원이 필요하니?" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="그리운 냄새가 나네. 여긴 어디야?" />
+    <Audio code="JP_003" name="인사" info="어머, 박사. 안녕." />
+
+    <Audio code="JP_004" name="대화 1" info="카시미어로부터 오는 바람, 느낄 수 있겠니?" />
+    <Audio code="JP_005" name="대화 2" info="로도스는 옛날에 있던곳이랑 달리 모닥불을 피울 수 있는 곳이 없다는게 아쉬워. 갑판 위라도 좋으니까, 모두와 이야기를 나눌 수 있는 곳이 있으면 좋겠어." />
+    <Audio code="JP_006" name="대화 3" info="이 임무를 등록하는 소프트…?는 어떻게 사용하는거니? 나는 컴퓨터라고 하는건 정말…" />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="요즘 새로운 멤버가 잔뜩 늘었구나. 로도스에 잘 적응할 수 있도록, 필요하다면 내가 상담을 해줄게." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="저 카시미어의 기사… 응, 옛날부터 알고 있는 아이란다. 그때는 낯도 많이 가리고, 책만 줄곧 읽고 있었는데, 이렇게나 많이 변했구나." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="쉿… 어머, 이런 곳에 외톨이인 박사가 있네. 붙잡아야지. 놀랐어? 후후." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="가끔, 고향인 숲에서 지내던 나날이 떠올라. 매년 있었던 여러 대회도 그립네. 지금은 어떻게 되어있을까?" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="박사의 뒤는 언제까지나 내게 맡겨." />
+
+    <Audio code="JP_012" name="시설에 배치" info="이런 좁은 방은 역시 익숙해지지가 않네." />
+    <Audio code="JP_013" name="터치" info="어머, 무슨 일이야?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사와 함께하는 시간은, 봄 햇살처럼 따뜻해서 기분이 좋아." />
+    <Audio code="JP_015" name="방치" info="박사도 이렇게 무방비하게 자는 얼굴을 하는구나…" />
+    <Audio code="JP_016" name="작전 기록 학습" info="활의 수련은 말이야, 하루도 허술하게 해서는 안 돼." />
+    <Audio code="JP_017" name="1차 정예화 시" info="승진이구나. 영광이야." />
+    <Audio code="JP_018" name="2차 정예화 시" info="인정해줘서 고마워. 앞으로도 박사의 힘이 되어줄게."/>
+    <Audio code="JP_019" name="팀 배치" info="원거리 지원은 맡겨줘." />
+    <Audio code="JP_020" name="팀장 임명" info="모두를 잘 돌봐줄게." />
+
+    <Audio code="JP_021" name="작전 출발" info="얘들아, 가자." />
+    <Audio code="JP_022" name="작전 개시" info="우리의 힘을 보여줄 때야." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="명령을." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="이 순간을 기다리고 있었어." />
+    <Audio code="JP_025" name="배치 1" info="좋은 바람이 불고 있어." />
+    <Audio code="JP_026" name="배치 2" info="경계는 늦추지 않을 거야." />
+    <Audio code="JP_027" name="작전 중 1" info="빈틈이야!" />
+    <Audio code="JP_028" name="작전 중 2" info="바람이여!" />
+    <Audio code="JP_029" name="작전 중 3" info="이 일격으로!" />
+    <Audio code="JP_030" name="작전 중 4" info="이걸로 끝이다!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="어떤 난관이 기다리고 있다고 해도, 우리가 함께라면 반드시 극복할 수 있을 거야." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="잘했어, 다들 최고야!" />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="부상자는 그 자리에서 대기해. 지금 바로 구해주러 갈게." />
+    <Audio code="JP_034" name="작전 실패" info="미안해. 이렇게 될 리가 없는데…" />
+  </Info>
+</DataList>

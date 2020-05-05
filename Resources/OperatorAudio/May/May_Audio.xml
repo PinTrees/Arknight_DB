@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="May" language="KR">
+    <Audio code="JP_001" name="획득" info="" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="" />
+    <Audio code="JP_003" name="인사" info="" />
+
+    <Audio code="JP_004" name="대화 1" info="" />
+    <Audio code="JP_005" name="대화 2" info="" />
+    <Audio code="JP_006" name="대화 3" info="" />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="" />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="" />
+
+    <Audio code="JP_012" name="시설에 배치" info="" />
+    <Audio code="JP_013" name="터치" info="" />
+    <Audio code="JP_014" name="신뢰도 터치" info="" />
+    <Audio code="JP_015" name="방치" info="" />
+    <Audio code="JP_016" name="작전 기록 학습" info="" />
+    <Audio code="JP_017" name="1차 정예화 시" info="" />
+    <Audio code="JP_018" name="2차 정예화 시" info=""/>
+    <Audio code="JP_019" name="팀 배치" info="" />
+    <Audio code="JP_020" name="팀장 임명" info="" />
+
+    <Audio code="JP_021" name="작전 출발" info="" />
+    <Audio code="JP_022" name="작전 개시" info="" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="" />
+    <Audio code="JP_025" name="배치 1" info="" />
+    <Audio code="JP_026" name="배치 2" info="" />
+    <Audio code="JP_027" name="작전 중 1" info="" />
+    <Audio code="JP_028" name="작전 중 2" info="" />
+    <Audio code="JP_029" name="작전 중 3" info="" />
+    <Audio code="JP_030" name="작전 중 4" info="" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="" />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="" />
+    <Audio code="JP_034" name="작전 실패" info="" />
+  </Info>
+</DataList>
