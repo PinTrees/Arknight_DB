@@ -240,17 +240,17 @@
       <lv lv="9" lv_n="E2_1" data="120%/45%" sp="32" fsp="18" eft="38" sub="SB_3/PL_1/RC_1" subC="12/4/10" />
       <lv lv="10" lv_n="E2_1" data="130%/50%" sp="30" fsp="20" eft="40" sub="SB_3/AG/GT_1" subC="15/6/4" />
     </Info>
-    <Info id="14" code="Schwarz" name="최후의 전술" rang="0" need="E2" type="AUTO" tirrger="MANU" info="지속 시간 동안 공격 범위가 전방 /칸으로 변경되고 공격 속도가 /초 줄어들며 공격력이 /추가로 상승한다. 또한 재능 발동 확률이 /로 상승한다.">
-      <lv lv="1" lv_n="E2_1" data="3/0.4/100%/100%" sp="35" fsp="5" eft="15" />
-      <lv lv="2" lv_n="E2_1" data="3/0.4/105%/100%" sp="34" fsp="5" eft="16" />
-      <lv lv="3" lv_n="E2_1" data="3/0.4/110%/100%" sp="33" fsp="5" eft="17" />
-      <lv lv="4" lv_n="E2_1" data="3/0.4/120%/100%" sp="32" fsp="5" eft="18" />
-      <lv lv="5" lv_n="E2_1" data="3/0.4/125%/100%" sp="31" fsp="7" eft="19" />
-      <lv lv="6" lv_n="E2_1" data="3/0.4/130%/100%" sp="30" fsp="7" eft="20" />
-      <lv lv="7" lv_n="E2_1" data="3/0.4/140%/100%" sp="29" fsp="9" eft="21" />
-      <lv lv="8" lv_n="E2_1" data="4/0.4/150%/100%" sp="28" fsp="10" eft="22" sub="SB_3/RC_1/PS_1" subC="8/4/7" />
-      <lv lv="9" lv_n="E2_1" data="4/0.4/160%/100%" sp="27" fsp="11" eft="23" sub="SB_3/XI_1/SG_1" subC="12/4/7" />
-      <lv lv="10" lv_n="E2_1" data="4/0.4/180%/100%" sp="25" fsp="12" eft="25" sub="SB_3/AG/MG_1" subC="15/6/6" />
+    <Info id="14" code="Schwarz" name="최후의 전술" rang="0" need="E2" type="AUTO" tirrger="MANU" info="지속 시간 동안 공격 범위가 전방 /칸으로 변경, 공격 딜레이 증가(/초), 공격력 /, 재능 발동 확률이 /까지 상승.">
+      <lv lv="1" lv_n="E2_1" data="3/*+0.4/+100%/100%" sp="35" fsp="5" eft="15" />
+      <lv lv="2" lv_n="E2_1" data="3/*+0.4/+105%/100%" sp="34" fsp="5" eft="16" />
+      <lv lv="3" lv_n="E2_1" data="3/*+0.4/+110%/100%" sp="33" fsp="5" eft="17" />
+      <lv lv="4" lv_n="E2_1" data="3/*+0.4/+120%/100%" sp="32" fsp="5" eft="18" />
+      <lv lv="5" lv_n="E2_1" data="3/*+0.4/+125%/100%" sp="31" fsp="7" eft="19" />
+      <lv lv="6" lv_n="E2_1" data="3/*+0.4/+130%/100%" sp="30" fsp="7" eft="20" />
+      <lv lv="7" lv_n="E2_1" data="3/*+0.4/+140%/100%" sp="29" fsp="9" eft="21" />
+      <lv lv="8" lv_n="E2_1" data="4/*+0.4/+150%/100%" sp="28" fsp="10" eft="22" sub="SB_3/RC_1/PS_2" subC="8/4/7" />
+      <lv lv="9" lv_n="E2_1" data="4/*+0.4/+160%/100%" sp="27" fsp="11" eft="23" sub="SB_3/XI_1/SG_1" subC="12/4/7" />
+      <lv lv="10" lv_n="E2_1" data="4/*+0.4/+180%/100%" sp="25" fsp="12" eft="25" sub="SB_3/AG/MG_1" subC="15/6/6" />
     </Info>
     <Info id="1" code="Ceobe" name="엄청 차가운 도끼" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="다음 공격을 /의 공격력로 공격하며, 목표를 /초동안 구속함, /회 충전가능">
       <lv lv="1" lv_n="E0_1" data="150%/1.5/1" sp="8" fsp="0" eft="1.5"/>
