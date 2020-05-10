@@ -1,0 +1,37 @@
+<DataList>
+  <Info code="Melantha" language="KR">
+    <Audio code="JP_001" name="획득" info="어… 멜란사에요. 이 검, 당신을 위해 휘두를게요." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="아, 안녕하세요, 박사님. 잘 부탁해요." />
+    <Audio code="JP_003" name="인사" info="박사님..." />
+
+    <Audio code="JP_004" name="대화 1" info="저, 죄송합니다. 사람과 대화하는걸 잘 못해서…" />
+    <Audio code="JP_005" name="대화 2" info="네… 부모님은 빅토리아에서 상인을 하고 계세요. 그렇지만 벌써 긴 시간동안 연락을 하고 있지 않아요. 저의 이 코드네임은 집을 떠올리게 해줘요." />
+    <Audio code="JP_006" name="대화 3" info="저, 저 마스크의 대원… 불온한 느낌이 들어요." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="아뇨, 모두와 사이좋게 지내고 싶지 않다는게 아니에요. 단지 어떻게 해야하는지… 모르겠어서." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="죄송합니다, 안셀씨. 또 걱정을 하게 만들어버렸네요. 저 따위를 신경쓰시지 보단, 더 소중한 사람들을 돌봐주세요." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="광석병은 제 감각을 날카롭게 만들고 있는 것 처럼 보이기도 하고, 역으로 감각을 빼앗고 있는 것 같이도 보여요. 그렇다고 해도 전, 좌절하지 않을거에요. 더 모두와 이야기를 하고 싶어요." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="박사님, 이 향수, 받아주실 수 없나요? 제 집에서 가지고 온 거예요. 사람에게 활기를 주는 효과가 있어요. 저도 이 향수 덕분에 어떻게든 힘내고 있어요." />
+
+    <Audio code="JP_012" name="시설에 배치" info="여기에는 다른 사람들도 있나요?" />
+    <Audio code="JP_013" name="터치" info="누, 누구야?! 박사님…" />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사님. 언제나 신경써주셔서 고맙습니다. 저, 사실은… 더 전장에 내보내주셨으면 해요." />
+    <Audio code="JP_015" name="방치" info="메리? 박사님은 피곤하시니까, 너무 소란스럽게 굴지 말아." />
+    <Audio code="JP_016" name="작전 기록 학습" info="지도 감사드립니다." />
+    <Audio code="JP_017" name="1차 정예화 시" info="감사합니다. 다른 분들도 승진하셨나요? 다른 분들도 저와 같이 승진 할 자격이 있다고 생각해요." />
+    <Audio code="JP_019" name="팀 배치" info="네. 지시에 따르겠습니다." />
+    <Audio code="JP_020" name="팀장 임명" info="저… 말씀하시는거에요? 저, 누군가에게 지시를 내리는건 잘 못 해요." />
+
+    <Audio code="JP_021" name="작전 출발" info="여러분. 세계를 평화롭게 하기 위해 힘내요!" />
+    <Audio code="JP_022" name="작전 개시" info="안셀씨. 뒤는 잘 부탁드립니다." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="지, 지시를…" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="명령은요…?" />
+    <Audio code="JP_025" name="배치 1" info="알겠습니다." />
+    <Audio code="JP_026" name="배치 2" info="할 수 있는 만큼 할게요." />
+    <Audio code="JP_027" name="작전 중 1" info="쓰러트립니다!" />
+    <Audio code="JP_028" name="작전 중 2" info="벱니다!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="어떤 곤란함이 길을 막고 있다고 해도, 저는 멈추지 않을 거예요." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="이겼나요…? 다행이네요." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="아직 싸울 수 있어요!" />
+    <Audio code="JP_034" name="작전 실패" info="실패했어요… 이렇게 되어버리다니..." />
+  </Info>
+</DataList>

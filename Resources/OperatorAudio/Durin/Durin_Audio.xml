@@ -1,0 +1,35 @@
+<DataList>
+  <Info code="Durin" language="KR">
+    <Audio code="JP_001" name="획득" info="어이, 어이! 들려요? 아래, 아 래. 처음뵙겠어요 커다란 박사님. 술사 두린이에요." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="좋은 아침이야 박사. 내 침낭 여기 둬도 괜찮아? 그럼 뒤는 잘 부탁해." />
+    <Audio code="JP_003" name="인사" info="흐아암. 좋은 아침." />
+
+    <Audio code="JP_004" name="대화 1" info="내가 싸우는 방식? 물론, 마법으로 싸워. 대지의 위엄을 보여줄까." />
+    <Audio code="JP_005" name="대화 2" info="지금 몇시야? 사실 나한테는 아침도 점심도 저녁도 밤도 전부 활동시간 밖이야." />
+    <Audio code="JP_006" name="대화 3" info="S 사이즈 유니폼을 만들어준다고? 필요 없어. 큰 사이즈를 입고 있으면 잠깐 잘때 이불로 쓸 수 있거든. 따뜻해." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="박사. 휴일 줘. 스피드 취침 콘테스트라고 하는데 초청을 받았거든." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="박사. 이거 봐봐. 이건 말이야, 언제나의 지팡이가 아니라 진자야. 박사는 앞으로 5분 이내에 잠들어서, 나에게 일을 지시할 수 없게… Zzz…" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="가능하다면, 박사랑 나의 고향에 대해서 이야기해보고 싶어." />
+
+    <Audio code="JP_012" name="시설에 배치" info="거인의 땅에, 왔다아아아아아아" />
+    <Audio code="JP_013" name="터치" info="？" />
+    <Audio code="JP_014" name="신뢰도 터치" info="기분이 좋으니까, 마술이라도 보여줄까?" />
+    <Audio code="JP_015" name="방치" info="박사가 자버리면, 왠지 내가 잘 수 없게 되어버렸잖아. 으으." />
+    <Audio code="JP_016" name="작전 기록 학습" info="오오, 드디어 강해 졌 구 나." />
+    <Audio code="JP_019" name="팀 배치" info="힘을 내는 비결은, 잘 자는 거야." />
+    <Audio code="JP_020" name="팀장 임명" info="대장 명령. 모두, 지금 바로 잠을 자서 체력을 비축하라!" />
+
+    <Audio code="JP_021" name="작전 출발" info="된다면 땅에 구멍을 파서 방공호로 삼아서 한 숨 자고 싶은걸." />
+    <Audio code="JP_022" name="작전 개시" info="모두, 잘 부탁해." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="오오." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="으응?" />
+    <Audio code="JP_025" name="배치 1" info="귀찮아." />
+    <Audio code="JP_026" name="배치 2" info="알았다고." />
+    <Audio code="JP_027" name="작전 중 1" info="쓰러트린다?" />
+    <Audio code="JP_028" name="작전 중 2" info="가라아아아." />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="왜 이렇게 귀찮은 작전에 임하는거야? 더 편한게 좋은데. 뭐, 이겼으니까 되었지만 말이야." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="당연한 승리다. 계속 아츠로 열심히 후방엄호를 했으니까." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="박사. 놓친 적이 아직도 신경 쓰이는 거야?" />
+    <Audio code="JP_034" name="작전 실패" info="으으… 미안해. 다음 부터는 더 제대로 싸울게." />
+  </Info>
+</DataList>
