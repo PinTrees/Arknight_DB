@@ -1,4 +1,5 @@
 <FileList>
+  <Info folder="Bagpipe" fileName="Bagpipe_Audio.xml" compulsion="0" />
   <Info folder="Siege" fileName="Siege_Audio.xml" compulsion="0" />
   <Info folder="Chen" fileName="Chen_Audio.xml" compulsion="0" />
   <Info folder="Shining" fileName="Shining_Audio.xml" compulsion="0" />
@@ -25,7 +26,6 @@
   <Info folder="Ptilopsis" fileName="Ptilopsis_Audio.xml" compulsion="0" />
   <Info folder="Silence" fileName="Silence_Audio.xml" compulsion="0" />
   <Info folder="Wafarin" fileName="Wafarin_Audio.xml" compulsion="0" />
-  <Info folder="Amiya" fileName="Amiya_Audio.xml" compulsion="0" />
   <Info folder="Nightmare" fileName="Nightmare_Audio.xml" compulsion="0" />
   <Info folder="Skyfire" fileName="Skyfire_Audio.xml" compulsion="0" />
   <Info folder="Flamebringer" fileName="Flamebringer_Audio.xml" compulsion="0" />
@@ -81,4 +81,27 @@
   <Info folder="Gravel" fileName="Gravel_Audio.xml" compulsion="0" />
   <Info folder="Rope" fileName="Rope_Audio.xml" compulsion="0" />
   <Info folder="Shaw" fileName="Shaw_Audio.xml" compulsion="0" />
+  <Info folder="Fang" fileName="Fang_Audio.xml" compulsion="0" />
+  <Info folder="Plume" fileName="Plume_Audio.xml" compulsion="0" />
+  <Info folder="Vanilla" fileName="Vanilla_Audio.xml" compulsion="0" />
+  <Info folder="Adnaciel" fileName="Adnaciel_Audio.xml" compulsion="0" />
+  <Info folder="Catapult" fileName="Catapult_Audio.xml" compulsion="0" />
+  <Info folder="Kroos" fileName="Kroos_Audio.xml" compulsion="0" />
+  <Info folder="Ansel" fileName="Ansel_Audio.xml" compulsion="0" />
+  <Info folder="Hibiscus" fileName="Hibiscus_Audio.xml" compulsion="0" />
+  <Info folder="Lava" fileName="Lava_Audio.xml" compulsion="0" />
+  <Info folder="Steward" fileName="Steward_Audio.xml" compulsion="0" />
+  <Info folder="Melantha" fileName="Melantha_Audio.xml" compulsion="0" />
+  <Info folder="Midnight" fileName="Midnight_Audio.xml" compulsion="0" />
+  <Info folder="Popukar" fileName="Popukar_Audio.xml" compulsion="0" />
+  <Info folder="Beagle" fileName="Beagle_Audio.xml" compulsion="0" />
+  <Info folder="Cardigan" fileName="Cardigan_Audio.xml" compulsion="0" />
+  <Info folder="Spot" fileName="Spot_Audio.xml" compulsion="0" />
+  <Info folder="Orchid" fileName="Orchid_Audio.xml" compulsion="0" />
+  <Info folder="Yato" fileName="Yato_Audio.xml" compulsion="0" />
+  <Info folder="Ranger" fileName="Ranger_Audio.xml" compulsion="0" />
+  <Info folder="12F" fileName="12F_Audio.xml" compulsion="0" />
+  <Info folder="Durin" fileName="Durin_Audio.xml" compulsion="0" />
+  <Info folder="Noir_corne" fileName="Noir_corne_Audio.xml" compulsion="0" />
+  <Info folder="Castle-3" fileName="Castle-3_Audio.xml" compulsion="0" />
 </FileList>
