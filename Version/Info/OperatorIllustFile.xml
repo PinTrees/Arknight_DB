@@ -20,6 +20,8 @@
   <Info name="Schwarz.png" compulsion="0" />
   <Info name="Schwarz_elite2.png" compulsion="0" />
   <Info name="Schwarz_c1.png" compulsion="0" />
+  <Info name="W.png" compulsion="0" />
+  <Info name="W_elite2.png" compulsion="0" />
   <Info name="Ceobe.png" compulsion="0" />
   <Info name="Ceobe_elite2.png" compulsion="0" />
   <Info name="Eyjafjalla.png" compulsion="0" />
@@ -51,6 +53,12 @@
   <Info name="Magallan_elite2.png" compulsion="0" />
   <Info name="Aak.png" compulsion="0" />
   <Info name="Aak_elite2.png" compulsion="0" />
+  <Info name="Phantom.png" compulsion="0" />
+  <Info name="Phantom_elite2.png" compulsion="0" />
+  <Info name="Weedy.png" compulsion="0" />
+  <Info name="Weedy_elite2.png" compulsion="0" />
+  <Info name="Elysium.png" compulsion="0" />
+  <Info name="Elysium_elite2.png" compulsion="0" />
   <Info name="Texas.png" compulsion="0" />
   <Info name="Texas_elite2.png" compulsion="0" />
   <Info name="Texas_c1.png" compulsion="0" />
@@ -115,6 +123,8 @@
   <Info name="Indra_elite2.png" compulsion="0" />
   <Info name="Savage.png" compulsion="0" />
   <Info name="Savage_elite2.png" compulsion="0" />
+  <Info name="Sideroca.png" compulsion="0" />
+  <Info name="Sideroca_elite2.png" compulsion="0" />
   <Info name="Specter.png" compulsion="0" />
   <Info name="Specter_elite2.png" compulsion="0" />
   <Info name="Specter_c1.png" compulsion="0" />
@@ -144,6 +154,8 @@
   <Info name="Pramanix.png" compulsion="0" />
   <Info name="Pramanix_elite2.png" compulsion="0" />
   <Info name="Pramanix_c1.png" compulsion="0" />
+  <Info name="Shamare.png" compulsion="0" />
+  <Info name="Shamare_elite2.png" compulsion="0" />
   <Info name="Sora.png" compulsion="0" />
   <Info name="Sora_elite2.png" compulsion="0" />
   <Info name="Sora_c1.png" compulsion="0" />
@@ -209,6 +221,8 @@
   <Info name="Haze_elite2.png" compulsion="0" />
   <Info name="Beehunter.png" compulsion="0" />
   <Info name="Beehunter_elite2.png" compulsion="0" />
+  <Info name="Cutter.png" compulsion="0" />
+  <Info name="Cutter_elite2.png" compulsion="0" />
   <Info name="Dobermann.png" compulsion="0" />
   <Info name="Dobermann_elite2.png" compulsion="0" />
   <Info name="Estelle.png" compulsion="0" />

@@ -31,6 +31,10 @@
   <Info folder="Schwarz" fileName="S0.png" />
   <Info folder="Schwarz" fileName="S1.png" />
   <Info folder="Schwarz" fileName="S2.png" />
+  <Info folder="W" fileName="Icon.png" />
+  <Info folder="W" fileName="S0.png" />
+  <Info folder="W" fileName="S1.png" />
+  <Info folder="W" fileName="S2.png" />
   <Info folder="Ceobe" fileName="Icon.png" />
   <Info folder="Ceobe" fileName="S0.png" />
   <Info folder="Ceobe" fileName="S1.png" />
@@ -96,6 +100,20 @@
   <Info folder="Aak" fileName="S0.png" />
   <Info folder="Aak" fileName="S1.png" />
   <Info folder="Aak" fileName="S2.png" />
+  <Info folder="Phantom" fileName="Icon.png" />
+  <Info folder="Phantom" fileName="S0.png" />
+  <Info folder="Phantom" fileName="S1.png" />
+  <Info folder="Phantom" fileName="S2.png" />
+  <Info folder="Phantom" fileName="S2_R.png" />
+  <Info folder="Weedy" fileName="Icon.png" />
+  <Info folder="Weedy" fileName="S0.png" />
+  <Info folder="Weedy" fileName="S1.png" />
+  <Info folder="Weedy" fileName="S2.png" />
+  <Info folder="Weedy" fileName="S2_R.png" />
+  <Info folder="Elysium" fileName="Icon.png" />
+  <Info folder="Elysium" fileName="S0.png" />
+  <Info folder="Elysium" fileName="S1.png" />
+  <Info folder="Elysium" fileName="S1_R.png" />
   <Info folder="Texas" fileName="Icon.png" />
   <Info folder="Texas" fileName="S0.png" />
   <Info folder="Texas" fileName="S1.png" />
@@ -187,6 +205,10 @@
   <Info folder="Savage" fileName="Icon.png" />
   <Info folder="Savage" fileName="S0.png" />
   <Info folder="Savage" fileName="S1.png" />
+  <Info folder="Sideroca" fileName="Icon.png" />
+  <Info folder="Sideroca" fileName="S0.png" />
+  <Info folder="Sideroca" fileName="S1.png" />
+  <Info folder="Sideroca" fileName="S1_R.png" />
   <Info folder="Specter" fileName="Icon.png" />
   <Info folder="Specter" fileName="S0.png" />
   <Info folder="Specter" fileName="S1.png" />
@@ -233,6 +255,9 @@
   <Info folder="Pramanix" fileName="Icon.png" />
   <Info folder="Pramanix" fileName="S0.png" />
   <Info folder="Pramanix" fileName="S1.png" />
+  <Info folder="Shamare" fileName="Icon.png" />
+  <Info folder="Shamare" fileName="S0.png" />
+  <Info folder="Shamare" fileName="S1.png" />
   <Info folder="Sora" fileName="Icon.png" />
   <Info folder="Sora" fileName="S0.png" />
   <Info folder="Sora" fileName="S0_R.png" />
@@ -323,6 +348,10 @@
   <Info folder="Beehunter" fileName="Icon.png" />
   <Info folder="Beehunter" fileName="S0.png" />
   <Info folder="Beehunter" fileName="S1.png" />
+  <Info folder="Cutter" fileName="Icon.png" />
+  <Info folder="Cutter" fileName="S0.png" />
+  <Info folder="Cutter" fileName="S0_R.png" />
+  <Info folder="Cutter" fileName="S1.png" />
   <Info folder="Dobermann" fileName="Icon.png" />
   <Info folder="Dobermann" fileName="S0.png" />
   <Info folder="Dobermann" fileName="S1.png" />
