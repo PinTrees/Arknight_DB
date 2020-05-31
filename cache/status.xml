@@ -1,5 +1,5 @@
 <data>
-  <firebase connect="0" push="0" check="0"/>
+  <firebase connect="0" push="0" check="0" ver="1"/>
   <status Bagpipe="2" Siege="0" Chen="0" Shining="0" Nightingale="0" Exusiai="0" Schwarz="0" W="0" Ceobe="0" Eyjafjalla="0" Ifrit="0" Mostima="0" Blaze="0" Skadi="0"
           Silverash="0" Hellagur="0" Hoshiguma="0" Saria="0" Nian="0" Angelina="0" Magallan="0" Aak="0" Phantom="0" Weedy="0"/>
 </data>
