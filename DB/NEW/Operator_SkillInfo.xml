@@ -2003,37 +2003,37 @@
       <lv lv="1" lv_n="E1_1" data="2/아주 살짝/130%/무시/1.5" sp="25" fsp="10" eft="0" />
       <lv lv="2" lv_n="E1_1" data="2/아주 살짝/135%/무시/1.5" sp="24" fsp="10" eft="0" />
       <lv lv="3" lv_n="E1_1" data="2/아주 살짝/140%/무시/1.5" sp="23" fsp="10" eft="0" />
-      <lv lv="4" lv_n="E1_1" data="2/강하게/150%/무시/1.5" sp="22" fsp="10" eft="0" />
-      <lv lv="5" lv_n="E1_1" data="2/강하게/155%/무시/1.5" sp="21" fsp="10" eft="0" />
-      <lv lv="6" lv_n="E1_1" data="2/강하게/160%/무시/1.5" sp="20" fsp="10" eft="0" />
-      <lv lv="7" lv_n="E1_1" data="2/강하게/170%/무시/1.5" sp="19" fsp="10" eft="0" />
-      <lv lv="8" lv_n="E2_1" data="3/강하게/180%/무시/2" sp="18" fsp="10" eft="0" sub="SB_3/RC_1/PS_2" subC="6/3/4" />
-      <lv lv="9" lv_n="E2_1" data="3/강하게/190%/무시/2.5" sp="17" fsp="10" eft="0" sub="SB_3/PL_1/RC_1" subC="6/3/6" />
-      <lv lv="10" lv_n="E2_1" data="3/매우 강하게/200%/무시/3" sp="15" fsp="10" eft="0" sub="SB_3/AG/GT_1" subC="10/4/3" />
+      <lv lv="4" lv_n="E1_1" data="2/어느 정도/150%/무시/1.5" sp="22" fsp="10" eft="0" />
+      <lv lv="5" lv_n="E1_1" data="2/어느 정도/155%/무시/1.5" sp="21" fsp="10" eft="0" />
+      <lv lv="6" lv_n="E1_1" data="2/어느 정도/160%/무시/1.5" sp="20" fsp="10" eft="0" />
+      <lv lv="7" lv_n="E1_1" data="2/어느 정도/170%/무시/1.5" sp="19" fsp="10" eft="0" />
+      <lv lv="8" lv_n="E2_1" data="3/어느 정도/180%/무시/2" sp="18" fsp="10" eft="0" sub="SB_3/RC_1/PS_2" subC="6/3/4" />
+      <lv lv="9" lv_n="E2_1" data="3/어느 정도/190%/무시/2.5" sp="17" fsp="10" eft="0" sub="SB_3/PL_1/RC_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="3/비교적 많이/200%/무시/3" sp="15" fsp="10" eft="0" sub="SB_3/AG/GT_1" subC="10/4/3" />
     </Info>
     <Info id="1" code="FEater" name="철의육합" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="다음 일반 공격이 목표를 공격 방향으로 /밀쳐내고, /초간 목표의 이동 속도 /">
       <lv lv="1" lv_n="E0_1" data="아주 살짝/3/-15%" sp="6" fsp="0" eft="3" />
       <lv lv="2" lv_n="E0_1" data="아주 살짝/3/-16%" sp="6" fsp="0" eft="3" sub="SB_1" subC="4" />
       <lv lv="3" lv_n="E0_1" data="아주 살짝/3/-17%" sp="6" fsp="0" eft="3" sub="SB_1/GT_4" subC="4/4" />
-      <lv lv="4" lv_n="E0_1" data="강하게/4/-18%" sp="6" fsp="0" eft="4" sub="SB_2/RC_3" subC="6/4" />
-      <lv lv="5" lv_n="E1_1" data="강하게/4/-19%" sp="6" fsp="0" eft="4" sub="SB_2/SG_3" subC="6/5" />
-      <lv lv="6" lv_n="E1_1" data="강하게/4/-20%" sp="6" fsp="0" eft="4" sub="SB_2/PL_2" subC="6/5" />
-      <lv lv="7" lv_n="E1_1" data="강하게/4/-21%" sp="6" fsp="0" eft="4" sub="SB_3/XI_2/PS_2" subC="6/2/3" />
-      <lv lv="8" lv_n="E2_1" data="강하게/5/-24%" sp="5" fsp="0" eft="5" sub="SB_3/KT_1/PL_2" subC="5/3/3" />
-      <lv lv="9" lv_n="E2_1" data="강하게/5/-27%" sp="5" fsp="0" eft="5" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
-      <lv lv="10" lv_n="E2_1" data="매우 강하게/5/-30%" sp="4" fsp="0" eft="5" sub="SB_3/BN/MG_1" subC="10/4/4" />
+      <lv lv="4" lv_n="E0_1" data="어느 정도/4/-18%" sp="6" fsp="0" eft="4" sub="SB_2/RC_3" subC="6/4" />
+      <lv lv="5" lv_n="E1_1" data="어느 정도/4/-19%" sp="6" fsp="0" eft="4" sub="SB_2/SG_3" subC="6/5" />
+      <lv lv="6" lv_n="E1_1" data="어느 정도/4/-20%" sp="6" fsp="0" eft="4" sub="SB_2/PL_2" subC="6/5" />
+      <lv lv="7" lv_n="E1_1" data="어느 정도/4/-21%" sp="6" fsp="0" eft="4" sub="SB_3/XI_2/PS_2" subC="6/2/3" />
+      <lv lv="8" lv_n="E2_1" data="어느 정도/5/-24%" sp="5" fsp="0" eft="5" sub="SB_3/KT_1/PL_2" subC="5/3/3" />
+      <lv lv="9" lv_n="E2_1" data="어느 정도/5/-27%" sp="5" fsp="0" eft="5" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="비교적 멀리/5/-30%" sp="5" fsp="0" eft="5" sub="SB_3/BN/MG_1" subC="10/4/4" />
     </Info>
     <Info id="2" code="FEater" name="붕권식" rang="1" need="E1" type="AUTO" tirrger="MANU" info="전방 직선 상의 가장 가까운 목표에게 돌진하여, 목표와 목표 주변의 모든 적을 /(/) 밀쳐내고, 공격력의 /만큼 대미지를 준다. /초간 적의 이동 속도 /">
-      <lv lv="1" lv_n="E1_1" data="강하게/1/160%/3/-15%" sp="25" fsp="0" eft="3" />
-      <lv lv="2" lv_n="E1_1" data="강하게/1/165%/3/-16%" sp="24" fsp="0" eft="3" />
-      <lv lv="3" lv_n="E1_1" data="강하게/1/170%/3/-17%" sp="23" fsp="0" eft="3" />
-      <lv lv="4" lv_n="E1_1" data="강하게/1/175%/4/-18%" sp="22" fsp="0" eft="4" />
-      <lv lv="5" lv_n="E1_1" data="강하게/1/180%/4/-19%" sp="21" fsp="0" eft="4" />
-      <lv lv="6" lv_n="E1_1" data="강하게/1/185%/4/-20%" sp="20" fsp="0" eft="4" />
-      <lv lv="7" lv_n="E1_1" data="매우 강하게/2/190%/4/-21%" sp="19" fsp="0" eft="4" />
-      <lv lv="8" lv_n="E2_1" data="매우 강하게/2/210%/5/-24%" sp="18" fsp="0" eft="5" sub="SB_3/GT_1/XI_2" subC="6/2/3" />
-      <lv lv="9" lv_n="E2_1" data="매우 강하게/2/230%/5/-27%" sp="17" fsp="0" eft="5" sub="SB_3/MG_1/GT_1" subC="6/3/4" />
-      <lv lv="10" lv_n="E2_1" data="매우 강력한 힘으로/3/250%/5/-30%" sp="15" fsp="0" eft="5" sub="SB_3/D32/AC_1" subC="10/4/5" />
+      <lv lv="1" lv_n="E1_1" data="어느 정도/1/160%/3/-15%" sp="25" fsp="0" eft="3" />
+      <lv lv="2" lv_n="E1_1" data="어느 정도/1/165%/3/-16%" sp="24" fsp="0" eft="3" />
+      <lv lv="3" lv_n="E1_1" data="어느 정도/1/170%/3/-17%" sp="23" fsp="0" eft="3" />
+      <lv lv="4" lv_n="E1_1" data="어느 정도/1/175%/4/-18%" sp="22" fsp="0" eft="4" />
+      <lv lv="5" lv_n="E1_1" data="어느 정도/1/180%/4/-19%" sp="21" fsp="0" eft="4" />
+      <lv lv="6" lv_n="E1_1" data="어느 정도/1/185%/4/-20%" sp="20" fsp="0" eft="4" />
+      <lv lv="7" lv_n="E1_1" data="비교적 멀리/2/190%/4/-21%" sp="19" fsp="0" eft="4" />
+      <lv lv="8" lv_n="E2_1" data="비교적 멀리/2/210%/5/-24%" sp="18" fsp="0" eft="5" sub="SB_3/GT_1/XI_2" subC="6/2/3" />
+      <lv lv="9" lv_n="E2_1" data="비교적 멀리/2/230%/5/-27%" sp="17" fsp="0" eft="5" sub="SB_3/MG_1/GT_1" subC="6/3/4" />
+      <lv lv="10" lv_n="E2_1" data="꽤 멀리/3/250%/5/-30%" sp="15" fsp="0" eft="5" sub="SB_3/D32/AC_1" subC="10/4/5" />
     </Info>
     <Info id="1" code="Manticore" name="전갈 독" rang="0" need="E0" type="PASS" tirrger="AUTO" info="매 공격이 명중시킨 목표의 이동 속도를 /초간 /">
       <lv lv="1" lv_n="E0_1" data="3/-23%" sp="0" fsp="0" eft="3" />
@@ -2973,13 +2973,13 @@
       <lv lv="1" lv_n="E1_1" data="아주 살짝/0/120%" sp="25" fsp="10" eft="0" />
       <lv lv="2" lv_n="E1_1" data="아주 살짝/0/130%" sp="24" fsp="10" eft="0" />
       <lv lv="3" lv_n="E1_1" data="아주 살짝/0/140%" sp="23" fsp="10" eft="0" />
-      <lv lv="4" lv_n="E1_1" data="꽤 많이/1/150%" sp="22" fsp="10" eft="0" />
-      <lv lv="5" lv_n="E1_1" data="꽤 많이/1/160%" sp="21" fsp="10" eft="0" />
-      <lv lv="6" lv_n="E1_1" data="꽤 많이/1/170%" sp="20" fsp="10" eft="0" />
-      <lv lv="7" lv_n="E1_1" data="꽤 많이/1/180%" sp="19" fsp="10" eft="0" />
-      <lv lv="8" lv_n="E2_1" data="꽤 많이/1/195%" sp="18" fsp="10" eft="0" sub="SB_3/RM_1/MG_2" subC="2/1/3" />
-      <lv lv="9" lv_n="E2_1" data="꽤 많이/1/210%" sp="17" fsp="10" eft="0" sub="SB_3/SG_1/RM_1" subC="4/2/2" />
-      <lv lv="10" lv_n="E2_1" data="어느 정도/2/225%" sp="15" fsp="10" eft="0" sub="SB_3/D32/XI_1" subC="6/2/2" />
+      <lv lv="4" lv_n="E1_1" data="어느 정도/1/150%" sp="22" fsp="10" eft="0" />
+      <lv lv="5" lv_n="E1_1" data="어느 정도/1/160%" sp="21" fsp="10" eft="0" />
+      <lv lv="6" lv_n="E1_1" data="어느 정도/1/170%" sp="20" fsp="10" eft="0" />
+      <lv lv="7" lv_n="E1_1" data="어느 정도/1/180%" sp="19" fsp="10" eft="0" />
+      <lv lv="8" lv_n="E2_1" data="어느 정도/1/195%" sp="18" fsp="10" eft="0" sub="SB_3/RM_1/MG_2" subC="2/1/3" />
+      <lv lv="9" lv_n="E2_1" data="어느 정도/1/210%" sp="17" fsp="10" eft="0" sub="SB_3/SG_1/RM_1" subC="4/2/2" />
+      <lv lv="10" lv_n="E2_1" data="꽤 많이/2/225%" sp="15" fsp="10" eft="0" sub="SB_3/D32/XI_1" subC="6/2/2" />
     </Info>
     <Info id="1" code="Shaw" name="스팀 펌프" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="다음 공격이 목표를 공격 방향으로 /(/)밀어내고, 공격력 /만큼의 물리 대미지를 입힌다">
       <lv lv="1" lv_n="E0_1" data="아주 살짝/0/105%" sp="6" fsp="0" eft="0" />
