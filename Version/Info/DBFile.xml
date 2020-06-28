@@ -8,5 +8,6 @@
   <Info name="Operator_InfraSkill.xml"  compulsion="0" />
   <Info name="Operator_SkillInfo.xml"  compulsion="0" />
   <Info name="StageData.xml"  compulsion="0" />
+  <Info name="spine_assetlist_F.xml"  compulsion="0" />
   <Info name="URL.xml"  compulsion="0" />
 </FileList>
