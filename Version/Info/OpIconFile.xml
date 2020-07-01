@@ -35,6 +35,10 @@
   <Info folder="W" fileName="S0.png" />
   <Info folder="W" fileName="S1.png" />
   <Info folder="W" fileName="S2.png" />
+  <Info folder="Rosa" fileName="Icon.png" />
+  <Info folder="Rosa" fileName="S0.png" />
+  <Info folder="Rosa" fileName="S1.png" />
+  <Info folder="Rosa" fileName="S2.png" />
   <Info folder="Ceobe" fileName="Icon.png" />
   <Info folder="Ceobe" fileName="S0.png" />
   <Info folder="Ceobe" fileName="S1.png" />
@@ -174,9 +178,16 @@
   <Info folder="Amiya" fileName="S1.png" />
   <Info folder="Amiya" fileName="S2.png" />
   <Info folder="Amiya" fileName="S2_R.png" />
+  <Info folder="Absinthe" fileName="Icon.png" />
+  <Info folder="Absinthe" fileName="S0.png" />
+  <Info folder="Absinthe" fileName="S1.png" />
   <Info folder="Leizi" fileName="Icon.png" />
   <Info folder="Leizi" fileName="S0.png" />
   <Info folder="Leizi" fileName="S1.png" />
+  <Info folder="Leonhardt" fileName="Icon.png" />
+  <Info folder="Leonhardt" fileName="S0.png" />
+  <Info folder="Leonhardt" fileName="S1.png" />
+  <Info folder="Leonhardt" fileName="S1_R.png" />
   <Info folder="Nightmare" fileName="Icon.png" />
   <Info folder="Nightmare" fileName="S0.png" />
   <Info folder="Nightmare" fileName="S1.png" />
@@ -219,6 +230,10 @@
   <Info folder="Swire" fileName="S0.png" />
   <Info folder="Swire" fileName="S0_R.png" />
   <Info folder="Swire" fileName="S1.png" />
+  <Info folder="Asbestos" fileName="Icon.png" />
+  <Info folder="Asbestos" fileName="S0.png" />
+  <Info folder="Asbestos" fileName="S1.png" />
+  <Info folder="Asbestos" fileName="S1_R.png" />
   <Info folder="Bison" fileName="Icon.png" />
   <Info folder="Bison" fileName="S0.png" />
   <Info folder="Bison" fileName="S1.png" />
@@ -262,6 +277,9 @@
   <Info folder="Sora" fileName="S0.png" />
   <Info folder="Sora" fileName="S0_R.png" />
   <Info folder="Sora" fileName="S1.png" />
+  <Info folder="Tsukinogi" fileName="Icon.png" />
+  <Info folder="Tsukinogi" fileName="S0.png" />
+  <Info folder="Tsukinogi" fileName="S1.png" />
   <Info folder="Istina" fileName="Icon.png" />
   <Info folder="Istina" fileName="S0.png" />
   <Info folder="Istina" fileName="S1.png" />
@@ -391,6 +409,9 @@
   <Info folder="Earthspirit" fileName="Icon.png" />
   <Info folder="Earthspirit" fileName="S0.png" />
   <Info folder="Earthspirit" fileName="S1.png" />
+  <Info folder="Podenco" fileName="Icon.png" />
+  <Info folder="Podenco" fileName="S0.png" />
+  <Info folder="Podenco" fileName="S1.png" />
   <Info folder="Ethan" fileName="Icon.png" />
   <Info folder="Ethan" fileName="S0.png" />
   <Info folder="Ethan" fileName="S1.png" />
