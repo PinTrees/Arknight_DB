@@ -22,6 +22,8 @@
   <Info name="Schwarz_c1.png" compulsion="0" />
   <Info name="W.png" compulsion="0" />
   <Info name="W_elite2.png" compulsion="0" />
+  <Info name="Rosa.png" compulsion="0" />
+  <Info name="Rosa_elite2.png" compulsion="0" />
   <Info name="Ceobe.png" compulsion="0" />
   <Info name="Ceobe_elite2.png" compulsion="0" />
   <Info name="Eyjafjalla.png" compulsion="0" />
@@ -106,12 +108,16 @@
   <Info name="Wafarin.png" compulsion="0" />
   <Info name="Wafarin_elite2.png" compulsion="0" />
   <Info name="Wafarin_c1.png" compulsion="0" />
+  <Info name="Absinthe.png" compulsion="0" />
+  <Info name="Absinthe_elite2.png" compulsion="0" />
   <Info name="Amiya.png" compulsion="0" />
   <Info name="Amiya_elite2.png" compulsion="0" />
   <Info name="Amiya_c1.png" compulsion="0" />
   <Info name="Amiya_c2.png" compulsion="0" />
   <Info name="Leizi.png" compulsion="0" />
   <Info name="Leizi_elite2.png" compulsion="0" />
+  <Info name="Leonhardt.png" compulsion="0" />
+  <Info name="Leonhardt_elite2.png" compulsion="0" />
   <Info name="Nightmare.png" compulsion="0" />
   <Info name="Nightmare_elite2.png" compulsion="0" />
   <Info name="Skyfire.png" compulsion="0" />
@@ -142,6 +148,8 @@
   <Info name="Swire.png" compulsion="0" />
   <Info name="Swire_elite2.png" compulsion="0" />
   <Info name="Swire_c1.png" compulsion="0" />
+  <Info name="Asbestos.png" compulsion="0" />
+  <Info name="Asbestos_elite2.png" compulsion="0" />
   <Info name="Bison.png" compulsion="0" />
   <Info name="Bison_elite2.png" compulsion="0" />
   <Info name="Hung.png" compulsion="0" />
@@ -168,6 +176,8 @@
   <Info name="Sora.png" compulsion="0" />
   <Info name="Sora_elite2.png" compulsion="0" />
   <Info name="Sora_c1.png" compulsion="0" />
+  <Info name="Tsukinogi.png" compulsion="0" />
+  <Info name="Tsukinogi_elite2.png" compulsion="0" />
   <Info name="Istina.png" compulsion="0" />
   <Info name="Istina_elite2.png" compulsion="0" />
   <Info name="Istina_c1.png" compulsion="0" />
@@ -264,6 +274,8 @@
   <Info name="Deepcolor_elite2.png" compulsion="0" />
   <Info name="Earthspirit.png" compulsion="0" />
   <Info name="Earthspirit_elite2.png" compulsion="0" />
+  <Info name="Podenco.png" compulsion="0" />
+  <Info name="Podenco_elite2.png" compulsion="0" />
   <Info name="Ethan.png" compulsion="0" />
   <Info name="Ethan_elite2.png" compulsion="0" />
   <Info name="Gravel.png" compulsion="0" />
