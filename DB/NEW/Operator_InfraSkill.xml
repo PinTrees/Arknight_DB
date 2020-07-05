@@ -49,7 +49,7 @@
   </Info>
   <Info name="모스티마" en_name="Mostima">
     <Infra id="1" name="단서수집·α" lock="E0" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
-    <Infra id="1" name="메신저·펭귄 물류" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt; (펭귄 로지스틱스 수집 획득 용이)"/>
+    <Infra id="1" name="메신저·펭귄 물류" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt; 펭귄 로지스틱스[2번] 단서 획득 확률 상승"/>
   </Info>
   
   <Info name="블레이즈" en_name="Blaze">
@@ -82,12 +82,12 @@
   </Info>
   <Info name="사리아" en_name="Saria">
     <Infra id="1" name="단서 수집·α" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
-    <Infra id="1" name="파수꾼" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 라인 랩 단서 획득 확률 상승"/>
+    <Infra id="1" name="파수꾼" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 라인 랩[1번] 단서 획득 확률 상승"/>
   </Info>
   
   <Info name="안젤리나" en_name="Angelina">
     <Infra id="1" name="단서 수집·α" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
-    <Infra id="1" name="전달자" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 로도스 아일랜드 단서 획득 확률 상승"/>
+    <Infra id="1" name="전달자" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 로도스 아일랜드[7번] 단서 획득 확률 상승"/>
   </Info>
   <Info name="마젤란" en_name="Magallan">
     <Infra id="1" name="다용도 측정기" lock="E0" icon="" target="가공소" info="가공소 배치 후 임의의 재료 가공시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+50%&lt;/color&gt;"/>
@@ -109,8 +109,8 @@
   </Info>
 
   <Info name="엘리시움" en_name="Elysium">
-    <Infra id="1" name="특파원" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 로도스 아일랜드 단서 획득 확률 상승"/>
-    <Infra id="1" name="깃발 꽂기" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 새로 수집된 단서가 로도스 아일랜드 단서가 아닐 때마다 로도스 아일랜드 단서 획득 확률 상승"/>
+    <Infra id="1" name="특파원" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 로도스 아일랜드[7번] 단서 획득 확률 상승"/>
+    <Infra id="1" name="깃발 꽂기" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 새로 수집된 단서가 로도스 아일랜드 단서가 아닐 때마다 로도스 아일랜드[7번] 단서 획득 확률 상승"/>
   </Info>
   <Info name="그라니" en_name="Grani">
     <Infra id="1" name="뱅가드 마스터리·α" lock="E1" icon="" target="훈련실" info="훈련실에 배치 시, 뱅가드 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
@@ -168,7 +168,7 @@
   
   <Info name="브리즈" en_name="Breeze">
     <Infra id="1" name="단서수집·α" lock="E0" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
-    <Infra id="1" name="몰락한 귀족" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt; (빅토리아 단서 획득 용이)"/>
+    <Infra id="1" name="몰락한 귀족" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt; 글래스고[5번] 단서 획득 확률 상승"/>
   </Info>
   <Info name="실론" en_name="Ceylon">
     <Infra id="1" name="학자" lock="E0" icon="" target="가공소" info="가공소 배치 후 정예화 재료 생산 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+80%&lt;/color&gt;"/>
@@ -226,7 +226,7 @@
   </Info>
   <Info name="인드라" en_name="Indra">
     <Infra id="1" name="단서 수집·α" lock="E0" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
-    <Infra id="1" name="용선 계약자" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 글래스고단 단서 수집 용이"/>
+    <Infra id="1" name="용선 계약자" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 글래스고[5번] 단서 수집 용이"/>
   </Info>
   <Info name="라플란드" en_name="Lappland">
     <Infra id="1" name="취옹지의·α" lock="E0" icon="" target="무역소" info="텍사스와 같은 무역소에 배치 시, 시간당 컨디션 소모 -0.1. 오더 수주 상한 +2"/>
@@ -296,7 +296,7 @@
   </Info>
   <Info name="이스티나" en_name="Istina">
     <Infra id="1" name="서포터 마스터리·α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 서포터 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
-    <Infra id="2" name="참모" lock="E2" icon="" target="응접실" info="응접실에 배치 시 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 우르수스 단서 획득 용이"/>
+    <Infra id="2" name="참모" lock="E2" icon="" target="응접실" info="응접실에 배치 시 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 우르수스[4번] 단서 획득 확률 상승"/>
   </Info>
   
   <Info name="클리프하트" en_name="Cliffheart">
@@ -322,7 +322,7 @@
 
   <Info name="쿠리어" en_name="Courier">
     <Infra id="1" name="카란 무역·α" lock="E0" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율 &lt;color=#34BBFF&gt;+15%&lt;/color&gt;, 및 오더 상한 &lt;color=#34BBFF&gt;+1&lt;/color&gt;"/>
-    <Infra id="2" name="배달부" lock="E1" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 카란 무역회사 단서 획득 확률 상승"/>
+    <Infra id="2" name="배달부" lock="E1" icon="" target="응접실" info="응접실에 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 카란 무역회사[6번] 단서 획득 확률 상승"/>
   </Info>
   <Info name="머틀" en_name="Myrtle">
     <Infra id="1" name="협상" lock="E0" icon="" target="무역소" info="무역소에 배치 시, 오더 상한 &lt;color=#34BBFF&gt;+3&lt;/color&gt; , 시간당 컨디션 소모 -0.25"/>
@@ -343,11 +343,11 @@
   </Info>
   <Info name="제시카" en_name="Jessica">
     <Infra id="1" name="표준화·β" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 생산력 &lt;color=#34BBFF&gt;+25%&lt;/color&gt;"/>
-    <Infra id="2" name="연락원" lock="E1" icon="" target="응접실" info="응접실 배치 시, 단서수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 블랙스틸 단서획득 용이"/>
+    <Infra id="2" name="연락원" lock="E1" icon="" target="응접실" info="응접실 배치 시, 단서수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;, 블랙스틸[3번] 단서 획득 확률 상승"/>
   </Info>
   <Info name="메이" en_name="May">
     <Infra id="1" name="단서수집·β" lock="E0" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+20%&lt;/color&gt;"/>
-    <Infra id="2" name="황실탐정" lock="E1" icon="" target="응접실" info="응접실 배치 시, 펭귄 로지스틱스 수집 획득 용이"/>
+    <Infra id="2" name="황실탐정" lock="E1" icon="" target="응접실" info="응접실 배치 시, 펭귄 로지스틱스[2번] 획득 확률 상승"/>
   </Info>
   <Info name="메테오" en_name="Meteor">
     <Infra id="1" name="표준화·α" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 생산력 &lt;color=#34BBFF&gt;+15%&lt;/color&gt;"/>

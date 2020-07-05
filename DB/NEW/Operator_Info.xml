@@ -17,14 +17,6 @@
       <Costume type="비타필드" name=""/>
     </Info>
     
-    <Info id="101" name="첸" en_name="Chen" rare="6" group="용문" gender="여성" position="근거리" Class="가드" tags="범위공격/딜러" trust="0/50/50/0" specificity="일반 공격이 두 번 연속으로 공격." potential="배치 비용 -1/재배치 시간 -4초/공격력 +23/두번째 재능 향상(+1%, +1%, +3%)/배치 비용 -1">
-      <Ability unlock="정예화1차" name="호령" info="배치되어 있을 때 공격/피격 시 SP를 회복하는 모든 아군 캐릭터가 4초 마다 SP 1 회복" />
-      <Ability unlock="정예화2차" name="검투술" info="공격력 +5%, 방어력 +5%, 물리 회피율 +10%" />
-      <Elite1 info="" submat="용문폐/30000/GD_3/5/RC_3/12/GT_3/3" />
-      <Elite2 info="" submat="용문폐/180000/GD_1/4/AG/4/AC_1/6" />
-      <Producer illustrator="唯@W" artistlink="https://twitter.com/hoshieve" voice="Shizuka Ishigami" vlink="https://www.google.com/search?q=Voice+Actor+Shizuka%20Ishigami"/>
-      <Costume type="0011" name=""/>
-    </Info>
     <Info id="103" name="샤이닝" en_name="Shining" rare="6" group="로도스" gender="여성" position="원거리" Class="메딕" tags="힐링/서포트" trust="0/80/20/0" specificity="아군 유닛의 생명력을 회복시킨다." potential="배치 비용 -1/두번째 재능 향상(+3)/방어력+25/배치 비용 -1/첫번째 재능 향상(+5)">
       <Ability unlock="E0" name="검은 악마의 가호" info="공격 범위 내 아군 유닛의 방어력 +60" />
       <Ability unlock="E2" name="법전" info="공격 속도 +10" />
@@ -67,7 +59,15 @@
       <Elite2 info="" submat="용문폐/180000/SN_1/4/BN/4/KT_1/7" />
       <Producer illustrator="Liduke" artistlink="https://www.pixiv.net/users/38088" voice="竹达彩奈" vlink="https://www.google.com/search?q=Voice+Actor+%E7%AB%B9%E8%BE%BE%E5%BD%A9%E5%A5%88"/>
     </Info>
-
+    <Info id="0" name="로사" en_name="Rosa" rare="6" group="우르수스 제국" gender="여성" position="원거리" Class="스나이퍼" tags="딜러/제어형" trust="0/110/0/0" specificity="무거운 유닛 우선 공격"
+          potential="배치 비용 -1/재배치 시간 -4초/공격력 +34/두 번째 재능 강화 (+2%)/배치 비용 -1">
+      <Ability unlock="E2" name="뼛속 깊숙이 " info="무거운 적을 공격 할 때 [무게 >= 3] 60% 방어 무시" />
+      <Ability unlock="E2" name="롤모델" info="팀에 편성 시 모든 [우르수스 학생회](지마, 이스티나, 굼, 로사) 대원 공격력 +8%" />
+      <Elite1 info="" submat="용문폐/30000/SN_3/5/SG_3/8/PL_3/5" />
+      <Elite2 info="" submat="용문폐/180000/SN_1/4/BN/4/GT_1/6" />
+      <Producer illustrator="Skade" artistlink="https://www.google.com/search?q=illustrator+Skade" voice="上田丽奈" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%8A%E7%94%B0%E4%B8%BD%E5%A5%88"/>
+    </Info>
+    
     <Info id="0" name="케오베" en_name="Ceobe" rare="6" group="로도스" gender="여성" position="원거리" Class="캐스터" tags="딜러/제어형" trust="0/90/0/0" specificity="공격이 마법 피해를 입힌다"
           potential="배치 비용 -1/재배치 시간 -4초/공격력 +27/첫 번째 재능 강화 (+4%)/배치 비용 -1">
       <Ability unlock="E2" name="껍질 벗기기" info="공격하는 대상의 방어력의 40%만큼 추가피해" />
@@ -99,6 +99,15 @@
       <Elite2 info="" submat="용문폐/180000/CS_1/4/BN/4/PS_1/7" />
       <Producer illustrator="幻象黑兔" artistlink="https://twitter.com/coneyrivard" voice="Nana Mizuki" vlink="https://www.google.com/search?q=Voice+Actor+Nana+Mizuki"/>
     </Info>
+
+    <Info id="101" name="첸" en_name="Chen" rare="6" group="용문" gender="여성" position="근거리" Class="가드" tags="범위공격/딜러" trust="0/50/50/0" specificity="일반 공격이 두 번 연속으로 공격." potential="배치 비용 -1/재배치 시간 -4초/공격력 +23/두번째 재능 향상(+1%, +1%, +3%)/배치 비용 -1">
+      <Ability unlock="정예화1차" name="호령" info="배치되어 있을 때 공격/피격 시 SP를 회복하는 모든 아군 캐릭터가 4초 마다 SP 1 회복" />
+      <Ability unlock="정예화2차" name="검투술" info="공격력 +5%, 방어력 +5%, 물리 회피율 +10%" />
+      <Elite1 info="" submat="용문폐/30000/GD_3/5/RC_3/12/GT_3/3" />
+      <Elite2 info="" submat="용문폐/180000/GD_1/4/AG/4/AC_1/6" />
+      <Producer illustrator="唯@W" artistlink="https://twitter.com/hoshieve" voice="Shizuka Ishigami" vlink="https://www.google.com/search?q=Voice+Actor+Shizuka%20Ishigami"/>
+      <Costume type="0011" name=""/>
+    </Info>
     <Info id="110" name="블레이즈" en_name="Blaze" rare="6" group="로도스" gender="여성" position="근거리" Class="가드" tags="생존형/딜러" trust="0/60/45/0" specificity="적을 막으며 동시에 모든 적을 공격" potential="배치 비용 -1/첫 번째 재능 강화 (+1)/공격력 +28/두번 째 재능 강화 (-3)/배치 비용 -1">
       <Ability unlock="E1" name="긴급 제세동기" info="체력이 25% 이하가 되면 한 번 생명력의 50%를 회복하고 6초 동안 체력이 50% 아래로 내려가지 않는다." />
       <Ability unlock="E2" name="혹독한 훈련" info="스테이지에 배치 15초 후 저항을 얻는다. (기절, 추위, 동결의 지속 시간 50% 만큼 감소)" />
@@ -128,6 +137,7 @@
       <Elite2 info="" submat="용문폐/180000/GD_1/4/BN/4/PL_1/7" />
       <Producer illustrator="Liduke" artistlink="https://www.pixiv.net/users/38088" />
     </Info>
+ 
     <Info id="114" name="호시구마" en_name="Hoshiguma" rare="6" group="용문" gender="여성" position="근거리" Class="디펜더" tags="방어형/딜러" trust="0/60/60/0" specificity="세 명의 적을 저지할 수 있다." potential="배치 비용 -1/첫 번째 재능 강화 (+3%)/방어력 +30/배치 비용 -1/두 번째 재능 강화 (+2%)">
       <Ability unlock="E1" name="전술 장갑" info="25% 확률로 물리 및 마법 공격을 막아낸다." />
       <Ability unlock="E2" name="특수 작전 전략" info="모든 아군 [디펜더] 오퍼레이터 방어력 +6%" />
@@ -151,6 +161,7 @@
       <Elite2 info="기초 속성 향상/배치 비용 +2/New 스킬 견고한 방어/Up 재능 적갑성산/New 재능 밝게 비추는 동방패" submat="용문폐/180000/DF_1/4/AG/4/NULL/7" />
       <Producer illustrator="幻象黑兔" artistlink="https://www.pixiv.net/users/4462245" />
     </Info>
+   
     <Info id="117" name="안젤리나" en_name="Angelina" rare="6" group="로도스" gender="여성" position="원거리" Class="서포터" tags="감속/딜러/서포트" trust="0/75/0/0" specificity="적에게 마법 대미지, 공격 시 적에게 정지 효과를 준다" potential="배치 코스트 -1/두 번째 재능 강화 (+5)/공격력 +25/배치 코스트 -1/첫 번째 재능 강화 (+1)">
       <Ability unlock="E1" name="가속 필드" info="모든 아군 유닛의 공격 속도 +7" />
       <Ability unlock="E2" name="아르바이트" info="스킬을 사용하지 않을 때 모든 아군 유닛이 매 초마다 HP를 20 만큼 회복" />
@@ -318,7 +329,14 @@
       <Producer illustrator="时辰" artistlink="" voice="Manaka Iwami" vlink="https://www.google.com/search?q=Voice+Actor+Manaka%20Iwami"/>
       <Costume type="NULL" name=""/>
     </Info>
-   
+
+    <Info id="0" name="압생트" en_name="Absinthe" rare="5" group="우르수스 제국" gender="여성" position="원거리" Class="캐스터" tags="딜러" trust="0/70/0/0" specificity="일반 공격으로 적에게 마법 대미지"
+      potential="배치 비용 -1/재배치 시간 -10초/배치 비용 -1/재능 향상 (피해량 +6%)/배치 비용 -1">
+      <Ability unlock="E2" name="법의 집행자" info="공격 대상의 체력이 40%이하일 시, 피해량 +24%" />
+      <Elite1 info="" submat="용문폐/20000/CS_3/4/RC_3/6/PL_3/3" />
+      <Elite2 info="" submat="용문폐/120000/CS_1/3/RC_1/10/NULL/10" />
+      <Producer illustrator="aZLing4" artistlink="https://www.google.com/search?q=illustrator+aZLing4" voice="村川梨衣" vlink="https://www.google.com/search?q=Voice+Actor+%E6%9D%91%E5%B7%9D%E6%A2%A8%E8%A1%A3"/>
+    </Info>
     <Info id="231" name="아미야" en_name="Amiya" rare="5" group="로도스" gender="여성" position="원거리" Class="캐스터" tags="딜러" trust="200/70/0/0" specificity="일반 공격으로 적에게 마법 대미지" potential="최대 체력 +200/배치 비용 -1/공격력 +30/배치 비용 -1/재능 향상 (+?%)">
       <Ability unlock="E1" name="감정 흡수" info="공격할 때마다 SP 2 회복, 적을 쓰러뜨리면 SP 8 추가 회복" />
       <Elite1 info="NULL" submat="용문폐/20000/CS_3/4/GT_3/4/XI_3/4" />
@@ -333,6 +351,14 @@
       <Elite1 info="NULL" submat="용문폐/20000/CS_3/4/GT_3/3/PL_3/3" />
       <Elite2 info="NULL" submat="용문폐/120000/CS_1/3/RM_1/7/NULL/13" />
       <Producer illustrator="竜崎いち" artistlink="https://www.pixiv.net/users/563034" />
+    </Info>
+    <Info id="0" name="레온하르트" en_name="Leonhardt" rare="5" group="림 빌리톤" gender="남성" position="원거리" Class="캐스터" tags="범위공격/누커" trust="0/90/0/0" specificity="공격이 광역 마법 피해를 입힌다."
+          potential="배치 비용 -1/재배치 시간 -4/공격력 +32/재능 강화 (중첩 +1)/배치 비용 -1">
+      <Ability unlock="E2" name="파편살상" info="공격 범위 내 적 하나당 공격력 +4% (최대 5중첩)" />
+      <Elite1 info="NULL" submat="용문폐/20000/CS_3/4/XI_3/4/PL_3/3" />
+      <Elite2 info="NULL" submat="용문폐/120000/CS_1/3/KT_1/7/AC_2/15" />
+      <Producer illustrator="野崎つばた" artistlink="https://www.google.com/search?q=illustrator+%E9%87%8E%E5%B4%8E%E3%81%A4%E3%81%B0%E3%81%9F" 
+                voice="齐藤壮马" vlink="https://www.google.com/search?q=Voice+Actor+%E9%BD%90%E8%97%A4%E5%A3%AE%E9%A9%AC"/>
     </Info>
     <Info id="232" name="나이트메어" en_name="Nightmare" rare="5" group="로도스" gender="여성" position="원거리" Class="캐스터" tags="딜러/힐링/감속" trust="0/70/0/0" specificity="공격이 마법 피해를 입힌다." potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+5%, +3%)/배치 비용 -1">
       <Ability unlock="E1" name="이중인격" info="1번 스킬 장착 시 물리 및 마법 회피율 +40%, 2번 스킬 장착 시 공격력 +15%" />
@@ -424,6 +450,14 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Costume type="0011" name=""/>
     </Info>
 
+    <Info id="0" name="아스베스토스" en_name="Asbestos" rare="5" group="림 빌리톤" gender="여성" position="근거리" Class="디펜더" tags="방어형/딜러" trust="0/40/40/0" specificity="스킬 시전 시간 동안 일반 공격이 마법 피해를 입힌다."
+          potential="배치 비용 -1/재배치 시간 -4초/최대 체력 +210/재배치 시간 -6초/배치 비용 -1">
+      <Ability unlock="E2" name="축축한 피부" info="마법 저항력 +10, 적의 마법 공격을 받았을 때 SP+3." />
+      <Elite1 info="NULL" submat="용문폐/20000/DF_3/4/KT_3/4/XI_3/3" />
+      <Elite2 info="NULL" submat="용문폐/120000/DF_1/3/GT_1/6/MG_2/10" />
+      <Producer illustrator="TEAM EXPNDR" artistlink="https://www.google.com/search?q=illustrator+TEAM%20EXPNDR"
+               voice="真堂圭" vlink="https://www.google.com/search?q=Voice+Actor+%E7%9C%9F%E5%A0%82%E5%9C%AD" />
+    </Info>
     <Info id="0" name="바이슨" en_name="Bison" rare="5" group="용문" gender="남성" position="근거리" Class="디펜더" tags="방어형" trust="0/0/80/0" specificity="적 3명 저지 가능"
           potential="배치 비용 -1/재배치 시간 -10초/배치 비용 -1/재능 향상 (+20)/배치 비용 -1">
       <Ability unlock="E1" name="교차 엄호" info="자신의 방어력 +50 , 뒤에 뱅가드 또는 가드 대원 또한 같은 효과를 받는다" />
@@ -500,6 +534,14 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Elite2 info="NULL" submat="용문폐/120000/SP_1/3/AC_1/9/RC_2/17" />
       <Producer illustrator="幻象黑兔" artistlink="https://www.pixiv.net/users/4462245" voice="Minori Suzuki" vlink="https://www.google.com/search?q=Voice+Actor+Minori%20Suzuki"/>
       <Costume type="NULL" name=""/>
+    </Info>
+    <Info id="0" name="츠키노기" en_name="Tsukinogi" rare="5" group="로도스" gender="여성" position="원거리" Class="서포터" tags="지원형/생존형" trust="300/40/20/0" specificity="적에게 마법 피해를 입힌다"
+          potential="배치 비용 -1/재배치 시간 -4초/최대 HP +160/재능 향상 ([비호] 피해 감소 +2%)/배치 비용 -1">
+      <Ability unlock="E2" name="축복" info="공격 범위 내에 있는 아군의 생명력이 40%이하일 시, 아군에게 [비호]를 부여. (받는 물리 및 마법 피해 18% 감소)" />
+      <Elite1 info="NULL" submat="용문폐/20000/SP_3/4/GT_3/3/KT_3/2" />
+      <Elite2 info="NULL" submat="용문폐/120000/SP_1/3/AC_1/8/PS_2/12" />
+      <Producer illustrator="上埜" artistlink="https://www.google.com/search?q=illustrator+%E4%B8%8A%E5%9F%9C" 
+                voice="大原沙耶香" vlink="https://www.google.com/search?q=Voice+Actor+%E5%A4%A7%E5%8E%9F%E6%B2%99%E8%80%B6%E9%A6%99"/>
     </Info>
     <Info id="264" name="이스티나" en_name="Istina" rare="5" group="우르수스 제국" gender="여성" position="원거리" Class="서포터" tags="감속/딜러" trust="0/65/20/0" specificity="일반 공격이 마법 피해를 입히며, 일시적인 감속을 부여한다." potential="배치 비용 -1/재배치 시간 -4/공격력 +23/재능 향상 (공격 속도 +3)/배치 비용 -1">
       <Ability unlock="E2" name="탐구자" info="방어력 -35%, 공격 속도 +18" />
@@ -773,6 +815,14 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Elite1 info="NULL" submat="용문폐/15000/SP_3/3/XI_3/1/RC_3/1" />
       <Elite2 info="NULL" submat="용문폐/60000/SP_2/5/SG_2/20/PS_2/7" />
       <Producer illustrator="HUG" artistlink="" />
+    </Info>
+    <Info id="0" name="포덴코" en_name="Podenco" rare="4" group="로도스" gender="여성" position="원거리" Class="서포터" tags="감속/힐링" trust="0/50/0/0" specificity="일반 공격이 마법 피해를 입히며, 정지 효과를 부여한다" 
+          potential="배치 비용 -1/재배치 시간 -4초/공격력 +21/재능 향상 (+2%)/배치 비용 -1">
+      <Ability unlock="E2" name="정원사" info="배치 시, [서포터] 오퍼레이터의 공격력 +9%" />
+      <Elite1 info="NULL" submat="용문폐/15000/SP_3/3/PL_3/1/XI_3/1" />
+      <Elite2 info="NULL" submat="용문폐/60000/SP_2/5/NULL/19/PS_2/5" />
+      <Producer illustrator="アシマ" artistlink="https://www.google.com/search?q=illustrator+%E3%82%A2%E3%82%B7%E3%83%9E"
+                voice="植田光" vlink="https://www.google.com/search?q=Voice+Actor+%E6%A4%8D%E7%94%B0%E5%85%89"/>
     </Info>
 
     <Info id="0" name="에단" en_name="Ethan" rare="4" group="로도스" gender="남성" position="원거리" Class="특수" tags="딜러/제어형" trust="450/0/0/0" specificity="공격 범위 내 모든 적을 공격하며, 50% 확률로 물리 및 마법 피해를 회피한다. 쉽게 적의 공격 목표가 되지 않는다."

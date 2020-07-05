@@ -292,6 +292,43 @@
       <lv lv="9" lv_n="E2_1" data="4/300%/4.5" sp="35" fsp="19" eft="0" sub="SB_3/XI_1/NULL" subC="12/4/7" />
       <lv lv="10" lv_n="E2_1" data="4/310%/5" sp="33" fsp="20" eft="0" sub="SB_3/BN/NULL" subC="15/6/6" />
     </Info>
+    <Info id="1" code="Rosa" name="공격강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /">
+      <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="0" eft="30" />
+      <lv lv="2" lv_n="E0_1" data="+35%" sp="40" fsp="0" eft="30" sub="SB_1" subC="5" />
+      <lv lv="3" lv_n="E0_1" data="+40%" sp="40" fsp="0" eft="30" sub="SB_1/SG_4/KT_4" subC="5/5/4" />
+      <lv lv="4" lv_n="E0_1" data="+45%" sp="37" fsp="5" eft="30" sub="SB_2/PL_3" subC="8/5" />
+      <lv lv="5" lv_n="E1_1" data="+50%" sp="37" fsp="5" eft="30" sub="SB_2/XI_3/SG_3" subC="8/4/3" />
+      <lv lv="6" lv_n="E1_1" data="+55%" sp="37" fsp="5" eft="30" sub="SB_2/PS_2" subC="8/5" />
+      <lv lv="7" lv_n="E1_1" data="+60%" sp="35" fsp="10" eft="30" sub="SB_3/NULL/MG_2" subC="8/4/5" />
+      <lv lv="8" lv_n="E2_1" data="+75%" sp="34" fsp="10" eft="30" sub="SB_3/NULL/RC_2" subC="8/4/11" />
+      <lv lv="9" lv_n="E2_1" data="+90%" sp="33" fsp="10" eft="30" sub="SB_3/NULL/RM_1" subC="12/4/8" />
+      <lv lv="10" lv_n="E2_1" data="+100%" sp="30" fsp="15" eft="30" sub="SB_3/AG/MG_1" subC="15/6/6" />
+    </Info>
+    <Info id="2" code="Rosa" name="스플릿 샷" rang="0" need="E1" type="AUTO" tirrger="MANU" info="공격력 /, 적 1명을 추가 공격">
+      <lv lv="1" lv_n="E1_1" data="+30%" sp="80" fsp="39" eft="60" />
+      <lv lv="2" lv_n="E1_1" data="+35%" sp="80" fsp="40" eft="60" />
+      <lv lv="3" lv_n="E1_1" data="+40%" sp="80" fsp="41" eft="60" />
+      <lv lv="4" lv_n="E1_1" data="+45%" sp="80" fsp="42" eft="60" />
+      <lv lv="5" lv_n="E1_1" data="+50%" sp="80" fsp="43" eft="60" />
+      <lv lv="6" lv_n="E1_1" data="+55%" sp="80" fsp="44" eft="60" />
+      <lv lv="7" lv_n="E1_1" data="+60%" sp="80" fsp="45" eft="60" />
+      <lv lv="8" lv_n="E2_1" data="+70%" sp="75" fsp="45" eft="60" sub="SB_3/XI_1/NULL" subC="8/4/4" />
+      <lv lv="9" lv_n="E2_1" data="+80%" sp="70" fsp="45" eft="60" sub="SB_3/KT_1/NULL" subC="12/4/9" />
+      <lv lv="10" lv_n="E2_1" data="+90%" sp="65" fsp="45" eft="60" sub="SB_3/D32/GT_1" subC="15/6/4" />
+    </Info>
+    <Info id="3" code="Rosa" name="눈사태" rang="0" need="E2" type="AUTO" tirrger="MANU" info="공격력 / 최대 /명의 목표에게 작살을 즉시 발사하여 [속박]하고, 매 초마다 피해를 줍니다">
+      <lv lv="1" lv_n="E2_1" data="+10%/3" sp="40" fsp="10" eft="6" />
+      <lv lv="2" lv_n="E2_1" data="+10%/3" sp="39" fsp="10" eft="6" />
+      <lv lv="3" lv_n="E2_1" data="+10%/3" sp="38" fsp="10" eft="6" />
+      <lv lv="4" lv_n="E2_1" data="+10%/3" sp="37" fsp="11" eft="6" />
+      <lv lv="5" lv_n="E2_1" data="+10%/3" sp="36" fsp="11" eft="6" />
+      <lv lv="6" lv_n="E2_1" data="+10%/3" sp="35" fsp="11" eft="6" />
+      <lv lv="7" lv_n="E2_1" data="+10%/3" sp="34" fsp="12" eft="7" />
+      <lv lv="8" lv_n="E2_1" data="+15%/3" sp="33" fsp="13" eft="7" sub="SB_3/GT_1/XI_2" subC="8/3/4" />
+      <lv lv="9" lv_n="E2_1" data="+20%/4" sp="32" fsp="14" eft="7" sub="SB_3/AC_1/KT_1" subC="12/4/8" />
+      <lv lv="10" lv_n="E2_1" data="+25%/4" sp="30" fsp="15" eft="8" sub="SB_3/BN/RM_1" subC="15/6/5" />
+    </Info>
+    
     <Info id="1" code="Ceobe" name="엄청 차가운 도끼" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="다음 공격을 /의 공격력로 공격하며, 목표를 /초동안 구속함, /회 충전가능">
       <lv lv="1" lv_n="E0_1" data="150%/1.5/1" sp="8" fsp="0" eft="1.5"/>
       <lv lv="2" lv_n="E0_1" data="155%/1.5/1" sp="8" fsp="0" eft="1.5" sub="SB_1" subC="5" />
@@ -440,40 +477,41 @@
       <lv lv="10" lv_n="E2_1" data="+170%/3/아주 살짝" sp="110" fsp="80" eft="27" sub="SB_3/AG/PL_1" subC="15/6/6" />
     </Info>
     <Info id="1" code="Blaze" name="강타γ" rang="0" need="E0" type="ATK" tirrger="AUTO" info="다음 공격의 공격력이 /증가한다.">
-      <lv lv="1" lv_n="E0_1" data="190%" sp="40" fsp="30" />
-      <lv lv="2" lv_n="E0_1" data="195%" sp="40" fsp="30" sub="SB_1" subC="5" />
-      <lv lv="3" lv_n="E0_1" data="200%" sp="40" fsp="30" sub="SB_1/GT_4/PL_4" subC="5/4/4" />
-      <lv lv="4" lv_n="E0_1" data="205%" sp="37" fsp="30" sub="SB_2/RC_3" subC="8/7" />
-      <lv lv="5" lv_n="E1_1" data="210%" sp="37" fsp="30" sub="SB_2/SG_3/KT_3" subC="8/4/4" />
-      <lv lv="6" lv_n="E1_1" data="215%" sp="37" fsp="30" sub="SB_2/RC_2" subC="8/8" />
-      <lv lv="7" lv_n="E1_1" data="225%" sp="35" fsp="30" sub="SB_3/NULL/XI_2" subC="8/4/4" />
-      <lv lv="8" lv_n="E2_1" data="245%" sp="34" fsp="30" sub="SB_3/GT_1/XI_2" subC="8/3/4" />
-      <lv lv="9" lv_n="E2_1" data="265%" sp="33" fsp="30" sub="SB_3/GT_1/XI_1" subC="12/3/6" />
-      <lv lv="10" lv_n="E2_1" data="290%" sp="30" fsp="30" sub="SB_3/D32/GT_1" subC="15/6/4" />
+      <lv lv="1" lv_n="E0_1" data="190%" sp="4" fsp="0" />
+      <lv lv="2" lv_n="E0_1" data="195%" sp="4" fsp="0" sub="SB_1" subC="5" />
+      <lv lv="3" lv_n="E0_1" data="200%" sp="4" fsp="0" sub="SB_1/GT_4/PL_4" subC="5/4/4" />
+      <lv lv="4" lv_n="E0_1" data="205%" sp="3" fsp="0" sub="SB_2/RC_3" subC="8/7" />
+      <lv lv="5" lv_n="E1_1" data="210%" sp="3" fsp="0" sub="SB_2/SG_3/KT_3" subC="8/4/4" />
+      <lv lv="6" lv_n="E1_1" data="215%" sp="3" fsp="0" sub="SB_2/RC_2" subC="8/8" />
+      <lv lv="7" lv_n="E1_1" data="225%" sp="3" fsp="0" sub="SB_3/JL_2/XI_2" subC="8/4/4" />
+      <lv lv="8" lv_n="E2_1" data="245%" sp="3" fsp="0" sub="SB_3/GT_1/XI_2" subC="8/3/4" />
+      <lv lv="9" lv_n="E2_1" data="265%" sp="3" fsp="0" sub="SB_3/GT_1/XI_1" subC="12/3/6" />
+      <lv lv="10" lv_n="E2_1" data="290%" sp="2" fsp="0" sub="SB_3/D32/GT_1" subC="15/6/4" />
     </Info>
-    <Info id="2" code="Blaze" name="전기톱 연장 모듈" rang="1" need="E1" type="AUTO" tirrger="AUTO" info="공격력 /, 방어력 /&#xA;공격 범위가 전방 한 칸 길어진다.(지속시간 무한)">
-      <lv lv="1" lv_n="E1_1" data="+40%/+10%" sp="65" fsp="5" eft="4" />
-      <lv lv="2" lv_n="E1_1" data="+45%/+10%" sp="64" fsp="7" eft="4" />
-      <lv lv="3" lv_n="E1_1" data="+50%/+10%" sp="63" fsp="9" eft="4" />
-      <lv lv="4" lv_n="E1_1" data="+55%/+15%" sp="61" fsp="11" eft="5" />
-      <lv lv="5" lv_n="E1_1" data="+60%/+15%" sp="59" fsp="13" eft="5" />
-      <lv lv="6" lv_n="E1_1" data="+65%/+15%" sp="58" fsp="15" eft="5" />
-      <lv lv="7" lv_n="E1_1" data="+70%/+20%" sp="56" fsp="17" eft="6" />
-      <lv lv="8" lv_n="E2_1" data="+80%/+25%" sp="54" fsp="20" eft="6" sub="SB_3/AC_1/KT_2" subC="8/4/8" />
-      <lv lv="9" lv_n="E2_1" data="+90%/+30%" sp="52" fsp="23" eft="7" sub="SB_3/AC_1/KT_1" subC="12/4/8" />
-      <lv lv="10" lv_n="E2_1" data="+100%/+35%" sp="50" fsp="30" eft="7" sub="SB_3/BN/MG_1" subC="15/6/5" />
+    <Info id="2" code="Blaze" name="전기톱 연장 모듈" rang="1" need="E1" type="AUTO" tirrger="AUTO" info="공격력 /, 방어력 /&#xA;공격 범위가 전방 한 칸 길어진다. 
+지속시간 무한">
+      <lv lv="1" lv_n="E1_1" data="+40%/+10%" sp="90" fsp="0" eft="999" />
+      <lv lv="2" lv_n="E1_1" data="+45%/+10%" sp="89" fsp="0" eft="999" />
+      <lv lv="3" lv_n="E1_1" data="+50%/+10%" sp="88" fsp="0" eft="999" />
+      <lv lv="4" lv_n="E1_1" data="+55%/+15%" sp="85" fsp="0" eft="999" />
+      <lv lv="5" lv_n="E1_1" data="+60%/+15%" sp="84" fsp="0" eft="999" />
+      <lv lv="6" lv_n="E1_1" data="+65%/+15%" sp="83" fsp="0" eft="999" />
+      <lv lv="7" lv_n="E1_1" data="+70%/+20%" sp="80" fsp="0" eft="999" />
+      <lv lv="8" lv_n="E2_1" data="+80%/+25%" sp="77" fsp="0" eft="999" sub="SB_3/AC_1/KT_2" subC="8/4/8" />
+      <lv lv="9" lv_n="E2_1" data="+90%/+30%" sp="74" fsp="0" eft="999" sub="SB_3/AC_1/KT_1" subC="12/4/8" />
+      <lv lv="10" lv_n="E2_1" data="+100%/+35%" sp="70" fsp="0" eft="999" sub="SB_3/BN/MG_1" subC="15/6/5" />
     </Info>
     <Info id="3" code="Blaze" name="끓어오르는 폭발" rang="0" need="E2" type="AUTO" tirrger="MANU" info="	스킬 발동 시 공격력과 방어력이 /까지 점점 증가하며 적들을 절단한다. 스킬이 종료된 후 근처의 모든 적에게 공격력의 /의 물리 피해를 입히고 자신의 생명력이 /만큼 감소한다.">
-      <lv lv="1" lv_n="E2_1" data="30%/300%/*25%" sp="110" fsp="50" eft="20" />
-      <lv lv="2" lv_n="E2_1" data="35%/300%/*25%" sp="110" fsp="52" eft="20" />
-      <lv lv="3" lv_n="E2_1" data="40%/300%/*25%" sp="110" fsp="54" eft="20" />
-      <lv lv="4" lv_n="E2_1" data="45%/320%/*25%" sp="110" fsp="56" eft="22" />
-      <lv lv="5" lv_n="E2_1" data="50%/320%/*25%" sp="110" fsp="58" eft="22" />
-      <lv lv="6" lv_n="E2_1" data="55%/320%/*25%" sp="110" fsp="60" eft="22" />
-      <lv lv="7" lv_n="E2_1" data="60%/340%/*25%" sp="110" fsp="62" eft="24" />
-      <lv lv="8" lv_n="E2_1" data="65%/360%/*25%" sp="110" fsp="68" eft="25" sub="SB_3/MG_1/GT_2" subC="8/4/4" />
-      <lv lv="9" lv_n="E2_1" data="70%/380%/*25%" sp="110" fsp="72" eft="26" sub="SB_3/MG_1/GT_1" subC="12/4/5" />
-      <lv lv="10" lv_n="E2_1" data="80%/400%/*25%" sp="110" fsp="80" eft="27" sub="SB_3/AG/GT_1" subC="15/6/4" />
+      <lv lv="1" lv_n="E2_1" data="30%/300%/*25%" sp="45" fsp="15" eft="10" />
+      <lv lv="2" lv_n="E2_1" data="35%/300%/*25%" sp="44" fsp="15" eft="10" />
+      <lv lv="3" lv_n="E2_1" data="40%/300%/*25%" sp="43" fsp="15" eft="10" />
+      <lv lv="4" lv_n="E2_1" data="45%/320%/*25%" sp="42" fsp="17" eft="10" />
+      <lv lv="5" lv_n="E2_1" data="50%/320%/*25%" sp="41" fsp="17" eft="10" />
+      <lv lv="6" lv_n="E2_1" data="55%/320%/*25%" sp="40" fsp="17" eft="10" />
+      <lv lv="7" lv_n="E2_1" data="60%/340%/*25%" sp="39" fsp="19" eft="10" />
+      <lv lv="8" lv_n="E2_1" data="65%/360%/*25%" sp="38" fsp="21" eft="10" sub="SB_3/MG_1/GT_2" subC="8/4/4" />
+      <lv lv="9" lv_n="E2_1" data="70%/380%/*25%" sp="37" fsp="23" eft="10" sub="SB_3/MG_1/GT_1" subC="12/4/5" />
+      <lv lv="10" lv_n="E2_1" data="80%/400%/*25%" sp="35" fsp="25" eft="10" sub="SB_3/AG/GT_1" subC="15/6/4" />
     </Info>
     <Info id="1" code="Skadi" name="신속공격γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /, 공격속도 /">
       <lv lv="1" lv_n="E0_1" data="+20%/+20" sp="45" fsp="0" eft="35" />
@@ -1054,16 +1092,16 @@
       <lv lv="10" lv_n="E2_1" data="+50%/주요 목표에게 추가로 1회 발사하며 /2" sp="40" fsp="25" eft="30" sub="SB_3/AG/RM_1" subC="10/4/4" />
     </Info>
     <Info id="1" code="Platinum" name="공격강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /">
-      <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="30" />
-      <lv lv="2" lv_n="E0_1" data="+35%" sp="40" fsp="30" sub="SB_1" subC="4" />
-      <lv lv="3" lv_n="E0_1" data="+40%" sp="40" fsp="30" sub="SB_1/XI_4" subC="4/5" />
-      <lv lv="4" lv_n="E0_1" data="+45%" sp="37" fsp="30" sub="SB_2/KT_3" subC="6/3" />
-      <lv lv="5" lv_n="E1_1" data="+50%" sp="37" fsp="30" sub="SB_2/GT_3" subC="6/3" />
-      <lv lv="6" lv_n="E1_1" data="+55%" sp="37" fsp="30" sub="SB_2/PL_2" subC="6/5" />
-      <lv lv="7" lv_n="E1_1" data="+60%" sp="35" fsp="30" sub="SB_3/XI_2/PS_2" subC="6/2/3" />
-      <lv lv="8" lv_n="E2_1" data="+75%" sp="34" fsp="30" sub="SB_3/KT_1/PL_2" subC="5/3/3" />
-      <lv lv="9" lv_n="E2_1" data="+90%" sp="33" fsp="30" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
-      <lv lv="10" lv_n="E2_1" data="+100%" sp="30" fsp="30" sub="SB_3/AG/RM_1" subC="10/4/4" />
+      <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="0" />
+      <lv lv="2" lv_n="E0_1" data="+35%" sp="40" fsp="0" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="+40%" sp="40" fsp="0" sub="SB_1/XI_4" subC="4/5" />
+      <lv lv="4" lv_n="E0_1" data="+45%" sp="37" fsp="5" sub="SB_2/KT_3" subC="6/3" />
+      <lv lv="5" lv_n="E1_1" data="+50%" sp="37" fsp="5" sub="SB_2/GT_3" subC="6/3" />
+      <lv lv="6" lv_n="E1_1" data="+55%" sp="37" fsp="5" sub="SB_2/PL_2" subC="6/5" />
+      <lv lv="7" lv_n="E1_1" data="+60%" sp="35" fsp="10" sub="SB_3/XI_2/PS_2" subC="6/2/3" />
+      <lv lv="8" lv_n="E2_1" data="+75%" sp="34" fsp="10" sub="SB_3/KT_1/PL_2" subC="5/3/3" />
+      <lv lv="9" lv_n="E2_1" data="+90%" sp="33" fsp="10" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="+100%" sp="30" fsp="15" sub="SB_3/AG/RM_1" subC="10/4/4" />
     </Info>
     <Info id="2" code="Platinum" name="페가수스의 눈" rang="1" need="E1" type="AUTO" tirrger="MANU" info="공격 속도가 /(/)감소하지만, 공격력 /, 공격 범위 /
 지속 시간 무한">
@@ -1323,6 +1361,31 @@
       <lv lv="9" lv_n="E2_1" data="+80%/3%/15" sp="60" fsp="45" eft="15" sub="SB_3/KT_1/PL_1" subC="6/3/5" />
       <lv lv="10" lv_n="E2_1" data="+90%/3%/15" sp="60" fsp="50" eft="15" sub="SB_3/D32/GT_1" subC="10/4/3" />
     </Info>
+
+    <Info id="1" code="Absinthe" name="집행모드" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="공격력 /, 체력이 가장 낮은 적을 우선하여 공격한다.&#xA;지속시간 무한">
+      <lv lv="1" lv_n="E0_1" data="+30" sp="90" fsp="0" eft="999" />
+      <lv lv="2" lv_n="E0_1" data="+35" sp="88" fsp="0" eft="999" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="+40" sp="86" fsp="0" eft="999" sub="SB_1/RC_4" subC="4/10" />
+      <lv lv="4" lv_n="E0_1" data="+45" sp="84" fsp="0" eft="999" sub="SB_2/SG_3" subC="6/3" />
+      <lv lv="5" lv_n="E1_1" data="+50" sp="82" fsp="0" eft="999" sub="SB_2/PL_3" subC="6/5" />
+      <lv lv="6" lv_n="E1_1" data="+55" sp="80" fsp="0" eft="999" sub="SB_2/RM_2" subC="6/3" />
+      <lv lv="7" lv_n="E1_1" data="+60" sp="78" fsp="0" eft="999" sub="SB_3/NULL/MG_2" subC="6/3/3" />
+      <lv lv="8" lv_n="E2_1" data="+70" sp="76" fsp="0" eft="999" sub="SB_3/XI_1/NULL" subC="5/3/1" />
+      <lv lv="9" lv_n="E2_1" data="+80" sp="74" fsp="0" eft="999" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="+90" sp="70" fsp="0" eft="999" sub="SB_3/BN/MG_1" subC="10/4/3" />
+    </Info>
+    <Info id="2" code="Absinthe" name="종언의 연사" rang="0" need="E1" type="AUTO" tirrger="MANU" info="매 공격이 공격력의 /의 /연발로 변경, 체력이 /이상인 적은 공격할 수 없다">
+      <lv lv="1" lv_n="E1_1" data="55%/4/*50%" sp="60" fsp="11" eft="25" />
+      <lv lv="2" lv_n="E1_1" data="58%/4/*50%" sp="59" fsp="12" eft="25" />
+      <lv lv="3" lv_n="E1_1" data="61%/4/*50%" sp="58" fsp="13" eft="25" />
+      <lv lv="4" lv_n="E1_1" data="65%/4/*50%" sp="57" fsp="15" eft="26" />
+      <lv lv="5" lv_n="E1_1" data="68%/4/*50%" sp="56" fsp="16" eft="26" />
+      <lv lv="6" lv_n="E1_1" data="71%/4/*50%" sp="55" fsp="17" eft="26" />
+      <lv lv="7" lv_n="E1_1" data="75%/4/*50%" sp="54" fsp="19" eft="27" />
+      <lv lv="8" lv_n="E2_1" data="80%/4/*50%" sp="53" fsp="22" eft="28" sub="SB_3/GT_1/XI_2" subC="5/2/3" />
+      <lv lv="9" lv_n="E2_1" data="85%/4/*50%" sp="52" fsp="25" eft="29" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="90%/4/*50%" sp="50" fsp="28" eft="30" sub="SB_3/AG/RM_1" subC="10/4/4" />
+    </Info>
     <Info id="1" code="Amiya" name="전술영창γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격 속도 /">
       <lv lv="1" lv_n="E0_1" data="+30" sp="40" fsp="0" eft="30" />
       <lv lv="2" lv_n="E0_1" data="+35" sp="40" fsp="0" eft="30" sub="SB_1" subC="4" />
@@ -1382,6 +1445,31 @@
       <lv lv="8" lv_n="E2_1" data="+115%" sp="80" fsp="47" eft="33" sub="SB_3/AC_1/KT_2" subC="5/3/5" />
       <lv lv="9" lv_n="E2_1" data="+130%" sp="80" fsp="48" eft="34" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
       <lv lv="10" lv_n="E2_1" data="+150%" sp="80" fsp="49" eft="35" sub="SB_3/AG/RM_1" subC="10/4/4" />
+    </Info>
+    <Info id="1" code="Leonhardt" name="공격강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /">
+      <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="30" />
+      <lv lv="2" lv_n="E0_1" data="+35%" sp="40" fsp="30" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="+40%" sp="40" fsp="30" sub="SB_1/XI_4" subC="4/5" />
+      <lv lv="4" lv_n="E0_1" data="+45%" sp="37" fsp="30" sub="SB_2/KT_3" subC="6/3" />
+      <lv lv="5" lv_n="E1_1" data="+50%" sp="37" fsp="30" sub="SB_2/GT_3" subC="6/3" />
+      <lv lv="6" lv_n="E1_1" data="+55%" sp="37" fsp="30" sub="SB_2/AC_2" subC="6/4" />
+      <lv lv="7" lv_n="E1_1" data="+60%" sp="35" fsp="30" sub="SB_3/RM_2/NULL" subC="6/3/2" />
+      <lv lv="8" lv_n="E2_1" data="+75%" sp="34" fsp="30" sub="SB_3/AC_1/KT_2" subC="5/3/5" />
+      <lv lv="9" lv_n="E2_1" data="+90%" sp="33" fsp="30" sub="SB_3/XI_1/NULL" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="+100%" sp="30" fsp="30" sub="SB_3/D32/RC_1" subC="10/4/5" />
+    </Info>
+    <Info id="2" code="Leonhardt" name="해체와 폭파" rang="1" need="E1" type="AUTO" tirrger="MANU" info="공격 범위 /, 발동 즉시 공격 범위 내 모든 적에게 공격력의 /의 마법 피해를 입히고 /초 동안 마법 저항력 /
+/회 충전 가능">
+      <lv lv="1" lv_n="E1_1" data="확대/150%/6/-5%/1" sp="15" fsp="0" eft="6" />
+      <lv lv="2" lv_n="E1_1" data="확대/155%/6/-5%/1" sp="15" fsp="0" eft="6" />
+      <lv lv="3" lv_n="E1_1" data="확대/160%/6/-5%/1" sp="15" fsp="0" eft="6" />
+      <lv lv="4" lv_n="E1_1" data="확대/170%/6/-8%/2" sp="14" fsp="0" eft="6" />
+      <lv lv="5" lv_n="E1_1" data="확대/180%/6/-8%/2" sp="14" fsp="0" eft="6" />
+      <lv lv="6" lv_n="E1_1" data="확대/190%/6/-8%/2" sp="14" fsp="0" eft="6" />
+      <lv lv="7" lv_n="E1_1" data="확대/200%/6/-12%/2" sp="13" fsp="0" eft="6" />
+      <lv lv="8" lv_n="E2_1" data="확대/210%/6/-13%/3" sp="12" fsp="0" eft="6" sub="SB_3/PS_1/AC_2" subC="5/3/4" />
+      <lv lv="9" lv_n="E2_1" data="확대/220%/6/-14%/3" sp="11" fsp="0" eft="6" sub="SB_3/GT_1/XI_1" subC="6/2/5" />
+      <lv lv="10" lv_n="E2_1" data="확대/230%/6/-15%/3" sp="10" fsp="0" eft="6" sub="SB_3/AG/AC_1" subC="10/4/5" />
     </Info>
     <Info id="1" code="Nightmare" name="영혼 착취" rang="0" need="E0" type="AUTO" tirrger="MANU" info="매 공격 시 마다 적에게 대미지를 입히며, 동시에 범위 내 최대 /명의 아군 유닛이 대미지량 /만큼의 HP를 회복한다">
       <lv lv="1" lv_n="E0_1" data="1/40%" sp="80" fsp="30" eft="60" />
@@ -1697,6 +1785,30 @@
       <lv lv="10" lv_n="E2_1" data="+80%/3" sp="45" fsp="20" eft="30" sub="SB_3/D32/RC_1" subC="10/4/5" />
     </Info>
 
+    <Info id="1" code="Asbestos" name="고수 모드" rang="0" need="E0" type="AUTO" tirrger="MANU" info="다음에 받을 마법 피해를 상쇄하고 스킬 지속 시간 동안 받는 마법 피해 /감소">
+      <lv lv="1" lv_n="E0_1" data="10%" sp="30" fsp="0" eft="20" />
+      <lv lv="2" lv_n="E0_1" data="10%" sp="29" fsp="0" eft="20" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="10%" sp="28" fsp="0" eft="20" sub="SB_1/KT_4" subC="4/5" />
+      <lv lv="4" lv_n="E0_1" data="15%" sp="27" fsp="0" eft="20" sub="SB_2/GT_3" subC="6/2" />
+      <lv lv="5" lv_n="E1_1" data="15%" sp="26" fsp="0" eft="20" sub="SB_2/RC_3" subC="6/8" />
+      <lv lv="6" lv_n="E1_1" data="15%" sp="25" fsp="0" eft="20" sub="SB_2/MG_2" subC="6/4" />
+      <lv lv="7" lv_n="E1_1" data="20%" sp="24" fsp="0" eft="20" sub="SB_3/RC_2/GT_2" subC="6/4/2" />
+      <lv lv="8" lv_n="E2_1" data="23%" sp="23" fsp="0" eft="20" sub="SB_3/GT_1/XI_2" subC="5/2/3" />
+      <lv lv="9" lv_n="E2_1" data="26%" sp="22" fsp="0" eft="20" sub="SB_3/NULL/RC_1" subC="6/3/7" />
+      <lv lv="10" lv_n="E2_1" data="30%" sp="20" fsp="0" eft="20" sub="SB_3/AG/RM_1" subC="10/4/4" />
+    </Info>
+    <Info id="2" code="Asbestos" name="화전 모드" rang="1" need="E1" type="AUTO" tirrger="MANU" info="공격 /, 공격력 /, 방어력 /, 공격 범위 /, 범위 공격으로 변환">
+      <lv lv="1" lv_n="E1_1" data="*딜레이 증가 +40%/+30%/+25%/확대" sp="60" fsp="10" eft="40" />
+      <lv lv="2" lv_n="E1_1" data="*딜레이 증가 +40%/+35%/+25%/확대" sp="59" fsp="12" eft="41" />
+      <lv lv="3" lv_n="E1_1" data="*딜레이 증가 +40%/+40%/+25%/확대" sp="58" fsp="14" eft="42" />
+      <lv lv="4" lv_n="E1_1" data="*딜레이 증가 +40%/+45%/+35%/확대" sp="57" fsp="16" eft="43" />
+      <lv lv="5" lv_n="E1_1" data="*딜레이 증가 +40%/+50%/+35%/확대" sp="56" fsp="18" eft="44" />
+      <lv lv="6" lv_n="E1_1" data="*딜레이 증가 +40%/+55%/+35%/확대" sp="55" fsp="20" eft="45" />
+      <lv lv="7" lv_n="E1_1" data="*딜레이 증가 +40%/+60%/+45%/확대" sp="54" fsp="22" eft="46" />
+      <lv lv="8" lv_n="E2_1" data="*딜레이 증가 +40%/+70%/+50%/확대" sp="53" fsp="24" eft="47" sub="SB_3/MG_1/GT_2" subC="5/3/2" />
+      <lv lv="9" lv_n="E2_1" data="*딜레이 증가 +40%/+80%/+55%/확대" sp="52" fsp="26" eft="48" sub="SB_3/KT_1/NULL" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="*딜레이 증가 +40%/+90%/+60%/확대" sp="50" fsp="30" eft="50" sub="SB_3/D32/XI_1" subC="10/4/3" />
+    </Info>
     <Info id="1" code="Bison" name="방어 강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="방어력 /">
       <lv lv="1" lv_n="E0_1" data="+30%" sp="45" fsp="0" eft="40" />
       <lv lv="2" lv_n="E0_1" data="+35%" sp="45" fsp="0" eft="40" sub="SB_1" subC="4" />
@@ -1961,6 +2073,30 @@
       <lv lv="8" lv_n="E2_1" data="공격력/90%" sp="45" fsp="21" eft="23" sub="SB_3/XI_1/SG_2" subC="5/3/1" />
       <lv lv="9" lv_n="E2_1" data="공격력/90%" sp="45" fsp="22" eft="26" sub="SB_3/GT_1/XI_1" subC="6/2/5" />
       <lv lv="10" lv_n="E2_1" data="공격력/100%" sp="45" fsp="25" eft="30" sub="SB_3/AG/PS_1" subC="10/4/4" />
+    </Info>
+    <Info id="1" code="Tsukinogi" name="흔적 없음" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격 범위 내 아군의 물리 및 마법회피 /, 적의 은신효과 해제">
+      <lv lv="1" lv_n="E0_1" data="+25%" sp="50" fsp="15" eft="25" />
+      <lv lv="2" lv_n="E0_1" data="+25%" sp="50" fsp="16" eft="26" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="+25%" sp="50" fsp="17" eft="27" sub="SB_1/GT_4" subC="4/4" />
+      <lv lv="4" lv_n="E0_1" data="+28%" sp="50" fsp="18" eft="28" sub="SB_2/RC_3" subC="6/4" />
+      <lv lv="5" lv_n="E1_1" data="+28%" sp="50" fsp="19" eft="29" sub="SB_2/SG_3" subC="6/5" />
+      <lv lv="6" lv_n="E1_1" data="+28%" sp="50" fsp="20" eft="30" sub="SB_2/PS_2" subC="6/3" />
+      <lv lv="7" lv_n="E1_1" data="+31%" sp="50" fsp="21" eft="31" sub="SB_3/NULL/XI_2" subC="6/3/2" />
+      <lv lv="8" lv_n="E2_1" data="+32%" sp="50" fsp="22" eft="32" sub="SB_3/KT_1/NULL" subC="5/3/2" />
+      <lv lv="9" lv_n="E2_1" data="+33%" sp="50" fsp="23" eft="33" sub="SB_3/NULL/RM_1" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="+35%" sp="50" fsp="25" eft="35" sub="SB_3/D32/AC_1" subC="10/4/5" />
+    </Info>
+    <Info id="2" code="Tsukinogi" name="삼림 순회" rang="0" need="E1" type="AUTO" tirrger="MANU" info="공격 중단, 재능의 발동조건이 체력 /이하로 완화되고 [비호]의 효과 /배로 증가, 공격 범위 내 아군은 매 초당 츠키노기의 공격력의 /만큼 회복한다.">
+      <lv lv="1" lv_n="E1_1" data="50%/1.4/6%" sp="57" fsp="10" eft="15" />
+      <lv lv="2" lv_n="E1_1" data="50%/1.5/6%" sp="56" fsp="10" eft="15" />
+      <lv lv="3" lv_n="E1_1" data="50%/1.6/6%" sp="55" fsp="10" eft="15" />
+      <lv lv="4" lv_n="E1_1" data="50%/1.7/8%" sp="54" fsp="15" eft="16" />
+      <lv lv="5" lv_n="E1_1" data="50%/1.8/8%" sp="53" fsp="15" eft="16" />
+      <lv lv="6" lv_n="E1_1" data="50%/1.9/8%" sp="52" fsp="15" eft="16" />
+      <lv lv="7" lv_n="E1_1" data="55%/2/10%" sp="51" fsp="20" eft="17" />
+      <lv lv="8" lv_n="E2_1" data="55%/2.1/10%" sp="50" fsp="21" eft="18" sub="SB_3/AC_1/KT_2" subC="5/3/5" />
+      <lv lv="9" lv_n="E2_1" data="55%/2.2/12%" sp="49" fsp="22" eft="19" sub="SB_3/XI_1/NULL" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="60%/2.3/12%" sp="48" fsp="23" eft="20" sub="SB_3/D32/RC_1" subC="10/4/5" />
     </Info>
     <Info id="1" code="Istina" name="집중력 강화" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격 딜레이 (/초) 감소">
       <lv lv="1" lv_n="E0_1" data="-0.8/감소" sp="50" fsp="20" eft="20" />
@@ -2907,6 +3043,31 @@
       <lv lv="8" lv_n="E2_1" data="*공격이 중단되고/1.55" sp="46" fsp="10" eft="25" sub="SB_3/MG_1/GT_2" subC="2/1/3" />
       <lv lv="9" lv_n="E2_1" data="*공격이 중단되고/1.5" sp="44" fsp="10" eft="25" sub="SB_3/RM_1/MG_1" subC="4/2/2" />
       <lv lv="10" lv_n="E2_1" data="*공격이 중단되고/1.4" sp="40" fsp="15" eft="25" sub="SB_3/AG/SG_1" subC="6/2/2" />
+    </Info>
+    <Info id="1" code="Podenco" name="꽃향기 요법" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /, 일반 공격이 아군 유닛 치료로 변경">
+      <lv lv="1" lv_n="E0_1" data="+10%" sp="35" fsp="0" eft="20" />
+      <lv lv="2" lv_n="E0_1" data="+10%" sp="34" fsp="1" eft="20" sub="SB_1" subC="2" />
+      <lv lv="3" lv_n="E0_1" data="+10%" sp="33" fsp="2" eft="20" sub="SB_1/GT_4" subC="2/2" />
+      <lv lv="4" lv_n="E0_1" data="+20%" sp="32" fsp="3" eft="21" sub="SB_2/RC_3" subC="3/2" />
+      <lv lv="5" lv_n="E1_1" data="+20%" sp="31" fsp="4" eft="21" sub="SB_2/SG_3" subC="3/3" />
+      <lv lv="6" lv_n="E1_1" data="+20%" sp="30" fsp="5" eft="21" sub="SB_2/XI_2" subC="3/2" />
+      <lv lv="7" lv_n="E1_1" data="+30%" sp="29" fsp="6" eft="22" sub="SB_3/RC_2" subC="4/3" />
+      <lv lv="8" lv_n="E2_1" data="+40%" sp="28" fsp="7" eft="23" sub="SB_3/GT_1/XI_2" subC="2/1/2" />
+      <lv lv="9" lv_n="E2_1" data="+50%" sp="27" fsp="8" eft="24" sub="SB_3/NULL/RC_1" subC="4/2/3" />
+      <lv lv="10" lv_n="E2_1" data="+60%" sp="25" fsp="10" eft="25" sub="SB_3/BN/NULL" subC="6/2/2" />
+    </Info>
+    <Info id="2" code="Podenco" name="포자 확산" rang="0" need="E1" type="AUTO" tirrger="MANU" info="즉시 작은 병을 던지고, 부서지면 /초간 지속되는 포자군이 주위에 생긴다.
+포자군 범위 내의 모든 적들은 정지되며 특수능력을 잃고 매 초마다 공격력의 /의 마법 피해를 입는다.">
+      <lv lv="1" lv_n="E1_1" data="5/40%" sp="35" fsp="10" eft="0" />
+      <lv lv="2" lv_n="E1_1" data="5/40%" sp="34" fsp="10" eft="0" />
+      <lv lv="3" lv_n="E1_1" data="5/40%" sp="33" fsp="10" eft="0" />
+      <lv lv="4" lv_n="E1_1" data="5/50%" sp="32" fsp="10" eft="0" />
+      <lv lv="5" lv_n="E1_1" data="5/50%" sp="31" fsp="10" eft="0" />
+      <lv lv="6" lv_n="E1_1" data="5/50%" sp="30" fsp="10" eft="0" />
+      <lv lv="7" lv_n="E1_1" data="5/60%" sp="29" fsp="10" eft="0" />
+      <lv lv="8" lv_n="E2_1" data="6/65%" sp="27" fsp="10" eft="0" sub="SB_3/XI_1/NULL" subC="2/1/3" />
+      <lv lv="9" lv_n="E2_1" data="6/70%" sp="25" fsp="10" eft="0" sub="SB_3/KT_1/NULL" subC="4/2/2" />
+      <lv lv="10" lv_n="E2_1" data="6/80%" sp="23" fsp="10" eft="0" sub="SB_3/D32/NULL" subC="6/2/2" />
     </Info>
 
     <Info id="1" code="Ethan" name="요요" rang="0" need="E0" type="PASS" tirrger="AUTO" info="	일반 공격 시, 적에게 초당 /의 마법피해를 주며 /초간 지속된다">

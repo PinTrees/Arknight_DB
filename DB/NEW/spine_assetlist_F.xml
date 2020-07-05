@@ -3,4 +3,8 @@
     <asset assetbundle="yamin_ceylon.unity3d" assetlavel="ceylon"/>
     <url youtube="https://www.youtube.com/channel/UClr3Sw-jZsUwyg06MWBAhtg?view_as=subscriber" tr=""/>
   </info>
+  <info name="프란카" operator="Franka" code="Franka1_yamin" made="Yamin" size="1.35" position="0.5,-7" >
+    <asset assetbundle="franka_yamin.unity3d" assetlavel="Franka"/>
+    <url youtube="https://www.youtube.com/channel/UClr3Sw-jZsUwyg06MWBAhtg?view_as=subscriber" tr=""/>
+  </info>
 </data>
