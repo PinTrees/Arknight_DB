@@ -7,4 +7,8 @@
     <asset assetbundle="franka_yamin.unity3d" assetlavel="Franka"/>
     <url youtube="https://www.youtube.com/channel/UClr3Sw-jZsUwyg06MWBAhtg?view_as=subscriber" tr=""/>
   </info>
+  <info name="나이팅게일" operator="Nightingale" code="Nightingale1_yamin" made="Yamin" size="1.35" position="0,-7" >
+    <asset assetbundle="nightingale_yamin.unity3d" assetlavel="Nightingale"/>
+    <url youtube="https://www.youtube.com/channel/UClr3Sw-jZsUwyg06MWBAhtg?view_as=subscriber" tr=""/>
+  </info>
 </data>
