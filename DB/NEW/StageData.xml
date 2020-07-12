@@ -143,25 +143,25 @@
   <Info name="4 - 10" code="4_10" type="0" parent="4" nd="GT_2" ndp="?" sd="GT_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="프로스트노바의 공격 및 스킬 범위 대폭 상승">
   </Info>
 
-  <Info name="5 - 1" code="5_1" type="0" parent="5" nd="RC_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="">
+  <Info name="5 - 1" code="5_1" type="0" parent="5" nd="RC_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="아군 근거리 유닛의 공격력 반감">
   </Info>
-  <Info name="5 - 2" code="5_2" type="0" parent="5" nd="SG_2" ndp="?" sd="SG_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="">
+  <Info name="5 - 2" code="5_2" type="0" parent="5" nd="SG_2" ndp="?" sd="SG_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="적 유닛의 공격 속도 대폭 상승">
   </Info>
-  <Info name="5 - 3" code="5_3" type="0" parent="5" nd="PL_2/PL_1" ndp="?/?" sd="" sdp="" ad="" adp="" hard="">
+  <Info name="5 - 3" code="5_3" type="0" parent="5" nd="PL_2/PL_1" ndp="?/?" sd="" sdp="" ad="" adp="" hard="적 원거리 공격 오퍼레이터의 사거리 대폭 상승">
   </Info>
-  <Info name="5 - 4" code="5_4" type="0" parent="5" nd="AC_2" ndp="?" sd="" sdp="" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  <Info name="5 - 4" code="5_4" type="0" parent="5" nd="AC_2" ndp="?" sd="" sdp="" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 이동 속도 대폭 상승">
   </Info>
-  <Info name="5 - 5" code="5_5" type="0" parent="5" nd="XI_2" ndp="?" sd="XI_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="">
+  <Info name="5 - 5" code="5_5" type="0" parent="5" nd="XI_2" ndp="?" sd="XI_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="모든 오퍼레이터 재배치 시간 2배">
   </Info>
-  <Info name="5 - 6" code="5_6" type="0" parent="5" nd="MG_2" ndp="?" sd="" sdp="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2" adp="?/?/?/?/?/?/?/?/?/?/?"  hard="">
+  <Info name="5 - 6" code="5_6" type="0" parent="5" nd="MG_2" ndp="?" sd="" sdp="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2" adp="?/?/?/?/?/?/?/?/?/?/?"  hard="방해장치의 배치 코스트 3배">
   </Info>
-  <Info name="5 - 7" code="5_7" type="0" parent="5" nd="PS_2/XI_3" ndp="?/?" sd="" sdp="" ad="" adp=""  hard="">
+  <Info name="5 - 7" code="5_7" type="0" parent="5" nd="PS_2/XI_3" ndp="?/?" sd="" sdp="" ad="" adp=""  hard="스나이퍼 및 캐스터 오퍼레이터 사용 금지">
   </Info>
-  <Info name="5 - 8" code="5_8" type="0" parent="5" nd="KT_2" ndp="?" sd="KT_1" sdp="?" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?"  hard="">
+  <Info name="5 - 8" code="5_8" type="0" parent="5" nd="KT_2" ndp="?" sd="KT_1" sdp="?" ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?"  hard="적 방어력 대폭 상승">
   </Info>
-  <Info name="5 - 9" code="5_9" type="0" parent="5" nd="RM_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?"  hard="">
+  <Info name="5 - 9" code="5_9" type="0" parent="5" nd="RM_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?"  hard="적 생명력 대폭 상승">
   </Info>
-  <Info name="5 - 10" code="5_10" type="0" parent="5" nd="RC_3/GT_2" ndp="?/?" sd="" sdp="" ad="" adp=""  hard="">
+  <Info name="5 - 10" code="5_10" type="0" parent="5" nd="RC_3/GT_2" ndp="?/?" sd="" sdp="" ad="" adp=""  hard="메피스토의 HP와 방어력이 초대폭 상승">
   </Info>
   <Info name="S5 - 1" code="S5_1" type="0" parent="5" nd="EX_1/RC_3" ndp="?/?" sd="" sdp="" ad="" adp=""  hard="">
   </Info>
@@ -180,33 +180,33 @@
   <Info name="S5 - 8" code="S5_8" type="0" parent="5" nd="XG_2" ndp="?" sd="XG_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="">
   </Info>
   
-  <Info name="6 - 1" code="6_1" type="0" parent="6" nd="XI_3" ndp="?" sd="" sdp="" ad="" adp="" hard="">
+  <Info name="6 - 1" code="6_1" type="0" parent="6" nd="XI_3" ndp="?" sd="" sdp="" ad="" adp="" hard="배치 가능 유닛 수 2 감소">
   </Info>
-  <Info name="6 - 2" code="6_2" type="0" parent="6" nd="MG_2" ndp="?" sd="MG_1" sdp="?"  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 2" code="6_2" type="0" parent="6" nd="MG_2" ndp="?" sd="MG_1" sdp="?"  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="적 유닛의 공격 속도 대폭 상승">
   </Info>
-  <Info name="6 - 3" code="6_3" type="0" parent="6" nd="SG_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 3" code="6_3" type="0" parent="6" nd="SG_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="폭주한 숙주 병사의 공격력 대폭 상승">
   </Info>
-  <Info name="6 - 4" code="6_4" type="0" parent="6" nd="PL_2" ndp="?" sd="PL_1" sdp="?"  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 4" code="6_4" type="0" parent="6" nd="PL_2" ndp="?" sd="PL_1" sdp="?"  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="폭주한 숙주 투척병의 HP 대폭 상승">
   </Info>
-  <Info name="6 - 5" code="6_5" type="0" parent="6" nd="RC_2/PL_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="">
+  <Info name="6 - 5" code="6_5" type="0" parent="6" nd="RC_2/PL_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="폭주한 적 유닛들이 더 이상 자연적으로 HP를 잃지 않는다">
   </Info>
   <Info name="6 - 7" code="6_7" type="0" parent="6" nd="" ndp="" sd="" sdp="" ad="" adp="" hard="">
   </Info>
-  <Info name="6 - 8" code="6_8" type="0" parent="6" nd="KT_2" ndp="?" sd="" sdp="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2" adp="?/?/?/?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 8" code="6_8" type="0" parent="6" nd="KT_2" ndp="?" sd="" sdp="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2" adp="?/?/?/?/?/?/?/?/?/?/?" hard="적 이동 속도 대폭 상승">
   </Info>
-  <Info name="6 - 9" code="6_9" type="0" parent="6" nd="EX_1/PL_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="">
+  <Info name="6 - 9" code="6_9" type="0" parent="6" nd="EX_1/PL_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="눈의 악마 소대와 프로스트팽이 [빙결]당한 유닛을 공격할 때 공격력이 더욱 상승">
   </Info>
-  <Info name="6 - 10" code="6_10" type="0" parent="6" nd="XI_2" ndp="?" sd="" sdp=""  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 10" code="6_10" type="0" parent="6" nd="XI_2" ndp="?" sd="" sdp=""  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="눈의 악마 쇄빙자의 HP와 공격력이 대폭 상승">
   </Info>
-  <Info name="6 - 11" code="6_11" type="0" parent="6" nd="AC_2/GT_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="">
+  <Info name="6 - 11" code="6_11" type="0" parent="6" nd="AC_2/GT_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="스테이지 내 인원을 배치할 수 없는 구역이 7칸 생성">
   </Info>
-  <Info name="6 - 12" code="6_12" type="0" parent="6" nd="XG_2" ndp="?" sd="XG_1" sdp="?" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2" adp="?/?/?/?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 12" code="6_12" type="0" parent="6" nd="XG_2" ndp="?" sd="XG_1" sdp="?" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2" adp="?/?/?/?/?/?/?/?/?/?/?" hard="오리지늄 얼음 결정의 발동 빈도 대폭 상승">
   </Info>
-  <Info name="6 - 14" code="6_14" type="0" parent="6" nd="PS_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 14" code="6_14" type="0" parent="6" nd="PS_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="언리얼 드론의 이동속도 대폭 상승">
   </Info>
-  <Info name="6 - 15" code="6_15" type="0" parent="6" nd="RM_2" ndp="?" sd="RM_1" sdp="?"  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+  <Info name="6 - 15" code="6_15" type="0" parent="6" nd="RM_2" ndp="?" sd="RM_1" sdp="?"  ad="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="언리얼 드론의 사정거리가 감소하지만, 방어력과 HP가 대폭 상승">
   </Info>
-  <Info name="6 - 16" code="6_16" type="0" parent="6" nd="GT_2/KT_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="">
+  <Info name="6 - 16" code="6_16" type="0" parent="6" nd="GT_2/KT_3" ndp="?/?" sd="" sdp="" ad="" adp="" hard="메딕 오퍼레이터 사용 금지">
   </Info>
   <Info name="6 - 17" code="6_17" type="0" parent="6" nd="" ndp="" sd="" sdp="" ad="" adp="" hard="">
   </Info>
