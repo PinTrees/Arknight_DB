@@ -178,6 +178,14 @@
       <Producer illustrator="NoriZC" artistlink="https://twitter.com/norizci" voice="Mariya Ise" vlink="https://www.google.com/search?q=Voice+Actor+Mariya%20Ise"/>
       <Costume type="NULL" name=""/>
     </Info>
+    <Info id="0" name="스즈란" en_name="Suzuran" rare="6" group="로도스" gender="여성" position="원거리" Class="서포터" tags="감속/지원/딜러" trust="0/75/0/0" specificity="일반 공격이 마법 피해를 입히며, 정지 효과를 부여한다." 
+          potential="배치 비용 -1/재배치 시간 -4초/공격력 +25/두 번째 재능 강화 (취약 효과 +3%)/배치 비용 -1">
+      <Ability unlock="E1" name="스킬 아우라·서포터" info="배치 시, 서포터 대원들의 기력 회복 속도 초당 +0.4 (같은 재능 중복 시, 가장 효과가 뛰어난 재능 적용)" />
+      <Ability unlock="E2" name="화지위뢰" info="공격 범위에서 정지된 적들은 다음 순간부터 취약(유닛이 받는 피해량 +20%) 효과를 부여(동종효과 중 가장 뛰어난 것만 적용)" />
+      <Elite1 info="" submat="용문폐/30000/SP_3/5/PL_3/8/XI_3/4" />
+      <Elite2 info="" submat="용문폐/180000/SP_1/4/D32/4/PS_1/8" />
+      <Producer illustrator="将" artistlink="https://www.google.com/search?q=illustrator+%E5%B0%86" voice="本渡枫" vlink="https://www.google.com/search?q=Voice+Actor+%E6%9C%AC%E6%B8%A1%E6%9E%AB"/>
+    </Info>
    
     <Info id="118" name="아크" en_name="Aak" rare="6" group="용문" gender="남성" position="원거리" Class="특수" tags="서포트/딜러" trust="300/50/0/0" specificity="시간이 지남에 따라 HP가 감소합니다. (-----)" potential="배치 비용 -1/재배치 시간 -4초/HP +150/두 번째 재능 강화 (+5%)/배치 비용 -1">
       <Ability unlock="E0" name="혼합 약물 사격" info="공격 할 때 다음 효과 중 하나를 무작위로 얻는다. HP 15% 회복. 공격력 150%로 증가. 대상을 1.4초 동안 정지. 대상을 1초 동안 기절" />
@@ -308,6 +316,13 @@
       <Elite2 info="NULL" submat="용문폐/120000/MD_1/3/XI_1/7/KT_2/10" />
       <Producer illustrator="Skade" artistlink="https://www.pixiv.net/users/25193" />
     </Info>
+    <Info id="0" name="폴리닉" en_name="Folinic" rare="5" group="로도스" gender="여성" position="원거리" Class="메딕" tags="힐링/딜러" trust="200/50/0/0" specificity="아군 유닛의 생명력을 회복시킨다" 
+          potential="배치 비용 -1/재배치 시간 - 10초/배치 비용 -1/재능 강화 (피해 감소 +10%)/배치 비용 -1">
+      <Ability unlock="E1" name="약물 차단 기법" info="	저항(스턴,동결 등의 지속시간 50% 감소)을 가지며, 자연 환경으로부터 받는 피해 -40%" />
+      <Elite1 info="NULL" submat="용문폐/20000/MD_3/4/PL_3/5/KT_3/2" />
+      <Elite2 info="NULL" submat="용문폐/120000/MD_1/3/KT_1/8/GT_2/8" />
+      <Producer illustrator="m9nokuro" artistlink="https://www.google.com/search?q=illustrator+m9nokuro" voice="近藤玲奈" vlink="https://www.google.com/search?q=Voice+Actor+%E8%BF%91%E8%97%A4%E7%8E%B2%E5%A5%88"/>
+    </Info>
     <Info id="221" name="프틸롭시스" en_name="Ptilopsis" rare="5" group="라인 랩" gender="여성" position="원거리" Class="메딕" tags="힐링/지원형" trust="0/55/0/0" specificity="동시에 세명의 아군 유닛의 체력을 회복한다" potential="배치 비용 -1/재배치 시간 -4초/공격력 +21/재배치 시간 -4/배치 비용 -1">
       <Ability unlock="E1" name="스킬 포인트 헤일로" info="	배치되어 있을 때 모든 아군의 SP 회복 속도가 '비교적 큰 폭'으로 상승" />
       <Elite1 info="NULL" submat="용문폐/20000/MD_3/4/RC_3/8/SG_3/2" />
@@ -380,6 +395,13 @@
       <Elite1 info="NULL" submat="용문폐/20000/GD_3/4/PL_3/5/XI_3/3" />
       <Elite2 info="NULL" submat="용문폐/120000/GD_1/3/PL_1/7/XI_2/14" />
       <Producer illustrator="YUJI" artistlink="https://twitter.com/yujifantasia" />
+    </Info>
+    <Info id="0" name="에이어스카르페" en_name="Ayerscarpe" rare="5" group="림 빌리톤" gender="남성" position="근거리" Class="가드" tags="딜러/범위공격" trust="0/75/0/0" specificity="공격력의 80%로 원거리 공격 가능"
+          potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2)/배치 비용 -1">
+      <Ability unlock="E2" name="재능 향상" info="자신과 주위 8칸 아군의 공격 속도 +8" />
+      <Elite1 info="NULL" submat="용문폐/20000/GD_3/4/SG_3/4/XI_3/3" />
+      <Elite2 info="NULL" submat="용문폐/120000/GD_1/3/XI_1/6/JL_2/12" />
+      <Producer illustrator="NoriZC" artistlink="https://www.google.com/search?q=illustrator+NoriZC" voice="梶裕贵" vlink="https://www.google.com/search?q=Voice+Actor+%E6%A2%B6%E8%A3%95%E8%B4%B5"/>
     </Info>
     <Info id="0" name="바이비크" en_name="Bibeak" rare="5" group="로도스" gender="여성" position="근거리" Class="가드" tags="누커/딜러" trust="0/80/0/0" specificity="일반 공격 시 적 2회 타격"
       potential="배치 비용 -1/재배치 시간 -4/공격력 +22/재능 강화(중첩 +1)/배치 비용 -1">
@@ -700,7 +722,14 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Elite2 info="NULL" submat="용문폐/60000/MD_2/5/RM_2/11/AC_2/9" />
       <Producer illustrator="将" artistlink="" />
     </Info>
-    
+
+    <Info id="0" name="클릭" en_name="Click" rare="4" group="로도스" gender="여성" position="원거리" Class="캐스터" tags="딜러/제어형" trust="0/60/0/0" specificity="부유하는 유닛을 조종하여 마법 피해를 입힘. 부유 유닛이 한 대상을 공격할 시 피해 상승.(최대 공격력 상승은 110%.)"
+          potential="배치 비용 -1/재배치 시간 -4초/공격속도 +6/재배치 시간 -6초/배치 비용 -1">
+      <Ability unlock="E2" name="조화일치" info="자신과 부유 유닛의 공격 속도 +12" />
+      <Elite1 info="NULL" submat="용문폐/15000/CS_3/3/XI_3/1/KT_3/1" />
+      <Elite2 info="NULL" submat="용문폐/60000/CS_2/5/MG_2/15/XI_2/9" />
+      <Producer illustrator="れおえん" artistlink="https://www.google.com/search?q=illustrator+%E3%82%8C%E3%81%8A%E3%81%88%E3%82%93" voice="黑濑优子" vlink="https://www.google.com/search?q=Voice+Actor+%E9%BB%91%E6%BF%91%E4%BC%98%E5%AD%90"/>
+    </Info>
     <Info id="331" name="기타노" en_name="Gitano" rare="4" group="로도스" gender="여성" position="원거리" Class="캐스터" tags="범위공격" trust="0/70/0/0" specificity="일반 공격으로 적에게 광역 마법 대미지" potential="배치 비용 -1/재배치 시간 -4초/공격력 +27/재능 향상 (+2%, +2%, +2%)/배치 비용 -1">
       <Ability unlock="E2" name="점괘" info="배치 후 다음 효과 중 1개를 무작위로 획득: 공격력 +13% / 공격 속도 +13 / 최대 HP +20%" />
       <Elite1 info="NULL" submat="용문폐/15000/CS_3/3/SG_3/1/XI_3/1" />
