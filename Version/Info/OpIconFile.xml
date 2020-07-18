@@ -8,12 +8,6 @@
   <Info folder="Siege" fileName="S1.png" />
   <Info folder="Siege" fileName="S1_R.png" />
   <Info folder="Siege" fileName="S2.png" />
-  <Info folder="Chen" fileName="Icon.png" />
-  <Info folder="Chen" fileName="S0.png" />
-  <Info folder="Chen" fileName="S1.png" />
-  <Info folder="Chen" fileName="S1_R.png" />
-  <Info folder="Chen" fileName="S2.png" />
-  <Info folder="Chen" fileName="S2_R.png" />
   <Info folder="Shining" fileName="Icon.png" />
   <Info folder="Shining" fileName="S0.png" />
   <Info folder="Shining" fileName="S1.png" />
@@ -58,6 +52,12 @@
   <Info folder="Mostima" fileName="S1.png" />
   <Info folder="Mostima" fileName="S2.png" />
   <Info folder="Mostima" fileName="S2_R.png" />
+  <Info folder="Chen" fileName="Icon.png" />
+  <Info folder="Chen" fileName="S0.png" />
+  <Info folder="Chen" fileName="S1.png" />
+  <Info folder="Chen" fileName="S1_R.png" />
+  <Info folder="Chen" fileName="S2.png" />
+  <Info folder="Chen" fileName="S2_R.png" />
   <Info folder="Blaze" fileName="Icon.png" />
   <Info folder="Blaze" fileName="S0.png" />
   <Info folder="Blaze" fileName="S1.png" />
@@ -100,6 +100,11 @@
   <Info folder="Magallan" fileName="S0.png" />
   <Info folder="Magallan" fileName="S1.png" />
   <Info folder="Magallan" fileName="S2.png" />
+  <Info folder="Suzuran" fileName="Icon.png" />
+  <Info folder="Suzuran" fileName="S0.png" />
+  <Info folder="Suzuran" fileName="S1.png" />
+  <Info folder="Suzuran" fileName="S2.png" />
+  <Info folder="Suzuran" fileName="S2_R.png" />
   <Info folder="Aak" fileName="Icon.png" />
   <Info folder="Aak" fileName="S0.png" />
   <Info folder="Aak" fileName="S1.png" />
@@ -162,6 +167,9 @@
   <Info folder="Ceylon" fileName="Icon.png" />
   <Info folder="Ceylon" fileName="S0.png" />
   <Info folder="Ceylon" fileName="S1.png" />
+  <Info folder="Folinic" fileName="Icon.png" />
+  <Info folder="Folinic" fileName="S0.png" />
+  <Info folder="Folinic" fileName="S1.png" />
   <Info folder="Ptilopsis" fileName="Icon.png" />
   <Info folder="Ptilopsis" fileName="S0.png" />
   <Info folder="Ptilopsis" fileName="S1.png" />
@@ -173,14 +181,14 @@
   <Info folder="Wafarin" fileName="Icon.png" />
   <Info folder="Wafarin" fileName="S0.png" />
   <Info folder="Wafarin" fileName="S1.png" />
+  <Info folder="Absinthe" fileName="Icon.png" />
+  <Info folder="Absinthe" fileName="S0.png" />
+  <Info folder="Absinthe" fileName="S1.png" />
   <Info folder="Amiya" fileName="Icon.png" />
   <Info folder="Amiya" fileName="S0.png" />
   <Info folder="Amiya" fileName="S1.png" />
   <Info folder="Amiya" fileName="S2.png" />
   <Info folder="Amiya" fileName="S2_R.png" />
-  <Info folder="Absinthe" fileName="Icon.png" />
-  <Info folder="Absinthe" fileName="S0.png" />
-  <Info folder="Absinthe" fileName="S1.png" />
   <Info folder="Leizi" fileName="Icon.png" />
   <Info folder="Leizi" fileName="S0.png" />
   <Info folder="Leizi" fileName="S1.png" />
@@ -197,6 +205,10 @@
   <Info folder="Astesia" fileName="Icon.png" />
   <Info folder="Astesia" fileName="S0.png" />
   <Info folder="Astesia" fileName="S1.png" />
+  <Info folder="Ayerscarpe" fileName="Icon.png" />
+  <Info folder="Ayerscarpe" fileName="S0.png" />
+  <Info folder="Ayerscarpe" fileName="S1.png" />
+  <Info folder="Ayerscarpe" fileName="S1_R.png" />
   <Info folder="Bibeak" fileName="Icon.png" />
   <Info folder="Bibeak" fileName="S0.png" />
   <Info folder="Bibeak" fileName="S1.png" />
@@ -353,6 +365,10 @@
   <Info folder="Susuro" fileName="Icon.png" />
   <Info folder="Susuro" fileName="S0.png" />
   <Info folder="Susuro" fileName="S1.png" />
+  <Info folder="Click" fileName="Icon.png" />
+  <Info folder="Click" fileName="S0.png" />
+  <Info folder="Click" fileName="S1.png" />
+  <Info folder="Click" fileName="S1_R.png" />
   <Info folder="Gitano" fileName="Icon.png" />
   <Info folder="Gitano" fileName="S0.png" />
   <Info folder="Gitano" fileName="S1.png" />

@@ -4,9 +4,6 @@
   <Info name="Siege.png" compulsion="0" />
   <Info name="Siege_elite2.png" compulsion="0" />
   <Info name="Siege_c1.png" compulsion="0" />
-  <Info name="Chen.png" compulsion="0" />
-  <Info name="Chen_elite2.png" compulsion="0" />
-  <Info name="Chen_c1.png" compulsion="0" />
   <Info name="Shining.png" compulsion="0" />
   <Info name="Shining_elite2.png" compulsion="0" />
   <Info name="Shining_c1.png" compulsion="0" />
@@ -34,6 +31,10 @@
   <Info name="Ifrit_c2.png" compulsion="0" />
   <Info name="Mostima.png" compulsion="0" />
   <Info name="Mostima_elite2.png" compulsion="0" />
+  <Info name="Mostima_c1.png" compulsion="0" />
+  <Info name="Chen.png" compulsion="0" />
+  <Info name="Chen_elite2.png" compulsion="0" />
+  <Info name="Chen_c1.png" compulsion="0" />
   <Info name="Blaze.png" compulsion="0" />
   <Info name="Blaze_elite2.png" compulsion="0" />
   <Info name="Skadi.png" compulsion="0" />
@@ -57,6 +58,8 @@
   <Info name="Magallan.png" compulsion="0" />
   <Info name="Magallan_elite2.png" compulsion="0" />
   <Info name="Magallan_c1.png" compulsion="0" />
+  <Info name="Suzuran.png" compulsion="0" />
+  <Info name="Suzuran_elite2.png" compulsion="0" />
   <Info name="Aak.png" compulsion="0" />
   <Info name="Aak_elite2.png" compulsion="0" />
   <Info name="Phantom.png" compulsion="0" />
@@ -99,6 +102,8 @@
   <Info name="Breeze_elite2.png" compulsion="0" />
   <Info name="Ceylon.png" compulsion="0" />
   <Info name="Ceylon_elite2.png" compulsion="0" />
+  <Info name="Folinic.png" compulsion="0" />
+  <Info name="Folinic_elite2.png" compulsion="0" />
   <Info name="Ptilopsis.png" compulsion="0" />
   <Info name="Ptilopsis_elite2.png" compulsion="0" />
   <Info name="Ptilopsis_c1.png" compulsion="0" />
@@ -125,6 +130,8 @@
   <Info name="Skyfire_c1.png" compulsion="0" />
   <Info name="Astesia.png" compulsion="0" />
   <Info name="Astesia_elite2.png" compulsion="0" />
+  <Info name="Ayerscarpe.png" compulsion="0" />
+  <Info name="Ayerscarpe_elite2.png" compulsion="0" />
   <Info name="Bibeak.png" compulsion="0" />
   <Info name="Bibeak_elite2.png" compulsion="0" />
   <Info name="Broca.png" compulsion="0" />
@@ -235,6 +242,8 @@
   <Info name="Purestream_elite2.png" compulsion="0" />
   <Info name="Susuro.png" compulsion="0" />
   <Info name="Susuro_elite2.png" compulsion="0" />
+  <Info name="Click.png" compulsion="0" />
+  <Info name="Click_elite2.png" compulsion="0" />
   <Info name="Gitano.png" compulsion="0" />
   <Info name="Gitano_elite2.png" compulsion="0" />
   <Info name="Gitano_c1.png" compulsion="0" />
