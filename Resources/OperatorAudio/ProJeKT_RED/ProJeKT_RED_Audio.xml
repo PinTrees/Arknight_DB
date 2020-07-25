@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="ProJekT_RED" language="KR">
+    <Audio code="JP_001" name="획득" info="레드, 울프 헌터. 여기도, 늑대 냄새가 난다." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="여기는 위험한 냄새가... 난다."/>
+    <Audio code="JP_003" name="인사" info="박사, 피곤한가?" />
+
+    <Audio code="JP_004" name="대화 1" info="레드는, 전부, 스스로 한다." />
+    <Audio code="JP_005" name="대화 2" info="이름, 보수, 죽인다. 뭐든지 간단. 켈시와의 약속." />
+    <Audio code="JP_006" name="대화 3" info="늑대에겐 송곳니. 레드에겐 나이프. 늑대는 쉬지 않아. 그러니 레드도 쉬지 않아." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="들려... 할머니가 부르고 있어..." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="황야의 바람. 흙에 묻힌 잔해. 별이 뜬 하늘을 울리는 울부짖음. 냄새다. 늑대의 냄새. ...레드, 사냥 개시." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="가족? 레드는 가족이 없어. 처음부터 혼자. 박사는… 가족이 필요한가?" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="모두, 레드를 피한다. 레드는 그냥, 모두의 꼬리, 만지고 싶었을 뿐... 프로방스랑, 텍사스... 그 여자들, 레드가 좋아하는 냄새... 난다." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="박사, 알려줘... 만약 울프 헌터가 아니라면, 레드는, 다른 인생을 살았을까? ... 답은, 내 안에 있다고? 그런... 가." />
+
+    <Audio code="JP_012" name="시설에 배치" info="레드, 방 안은, 익숙지 않다. 하지만, 싫진 않아..." />
+    <Audio code="JP_013" name="터치" info="레드, 만지면, 손 다친다. 조심해라." />
+    <Audio code="JP_014" name="신뢰도 터치" info="쿠울... 쿠울..." />
+    <Audio code="JP_015" name="방치" info="... 박사… 아니, 아무것도 아니다. 자는 줄 알았다. 지금은 아직, 자면 안 돼." />
+    <Audio code="JP_016" name="작전 기록 학습" info="사냥에, 도움이 된다면야." />
+    <Audio code="JP_017" name="1차 정예화 시" info="별로, 상관없어." />
+    <Audio code="JP_018" name="2차 정예화 시" info="직함도 위장으로 쓸 수 있으니까, 받을래."/>
+    <Audio code="JP_019" name="팀 배치" info="잠입, 성공." />
+    <Audio code="JP_020" name="팀장 임명" info="레드는, 뭘 하면 되지?" />
+
+    <Audio code="JP_021" name="작전 출발" info="사냥, 시작한다." />
+    <Audio code="JP_022" name="작전 개시" info="냄새가, 강해." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="서둘러." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="간단하다." />
+    <Audio code="JP_025" name="배치 1" info="빠르게, 간다." />
+    <Audio code="JP_026" name="배치 2" info="기술로, 간다." />
+    <Audio code="JP_027" name="작전 중 1" info="그림자로부터!" />
+    <Audio code="JP_028" name="작전 중 2" info="교란한다." />
+    <Audio code="JP_029" name="작전 중 3" info="도망칠 곳은, 없다." />
+    <Audio code="JP_030" name="전투 중 4" info="내 눈에... 네 죽음이 비친다." />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="전부, 사냥했다." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="먹잇감의 최후, 언제나 똑같다." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="사냥감이... 부족하다." />
+    <Audio code="JP_034" name="작전 실패" info="...이 나이프… 아직 예리함이, 부족했다..." />
+  </Info>
+</DataList>
