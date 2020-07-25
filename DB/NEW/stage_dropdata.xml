@@ -67,7 +67,7 @@
   <Info code="5_2" material="SG_2/SG_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="11/1/2/2/0/13/9/0/4/1/0/0" try="31/31/31/31/31/31/31/31/31/31/31/31" />
   <Info code="5_3" material="PL_2/PL_1/furniture" get="" try="" />
   <Info code="5_4" material="AC_2/PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="10/0/1/0/3/13/0/4/8/1" try="29/29/29/29/29/29/29/29/29/29" />
-  <Info code="5_5" material="XI_2/XI_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="7/0/1/0/1/10/1/0/2/1/0/0" try="16/16/16/16/16/16/16/16/16/16/16/16" />
+  <Info code="5_5" material="XI_2/XI_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="10/0/2/0/1/16/1/0/2/1/0/0" try="23/23/23/23/23/23/23/23/23/23/23/23" />
   <Info code="5_6" material="MG_2/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="" try="" />
   <Info code="5_7" material="PS_2/XI_3/furniture" get="" try="" />
   <Info code="5_8" material="KT_2/KT_1/PS_2/RM_2/PL_2/PL_3/PL_4/KT_3/KT_4/furniture" get="" try="" />
@@ -85,14 +85,14 @@
   <Info code="6_2" material="MG_2/MG_1/PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
   <Info code="6_3" material="SG_2/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="" try="" />
   <Info code="6_4" material="PL_2/PL_1/PS_2/RM_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
-  <Info code="6_5" material="RC_2/PL_3/furniture" get="2/4/0" try="7/7/7" />
+  <Info code="6_5" material="RC_2/PL_3/furniture" get="2/6/0" try="8/8/8" />
   <Info code="6_7" material="" get="" try="" />
   <Info code="6_8" material="KT_2/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="" try="" />
   <Info code="6_9" material="EX_1/PL_3/furniture" get="" try="" />
   <Info code="6_10" material="XI_2/PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
   <Info code="6_11" material="AC_2/GT_3/furniture" get="1/6/0" try="5/5/5" />
   <Info code="6_12" material="XG_2/XG_1/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/furniture" get="" try="" />
-  <Info code="6_14" material="PS_2/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="" try="" />
+  <Info code="6_14" material="PS_2/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="0/0/0/0/0/0/0/0/0/0/0" try="1/1/1/1/1/1/1/1/1/1/1" />
   <Info code="6_15" material="RM_2/RM_1/PS_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
   <Info code="6_16" material="GT_2/KT_3/furniture" get="" try="" />
   <Info code="6_17" material="" get="" try="" />
