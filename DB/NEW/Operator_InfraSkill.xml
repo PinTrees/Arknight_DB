@@ -265,7 +265,7 @@
   </Info>
   <Info name="스펙터" en_name="Specter">
     <Infra id="1" name="고독" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 자신의 시간당 컨디션 회복 속도+0.7"/>
-    <Infra id="1" name="광기" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 자신의 시간당 컨디션 회복 속도+8.5"/>
+    <Infra id="1" name="광기" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 자신의 시간당 컨디션 회복 속도+0.85"/>
   </Info>
   <Info name="스와이어" en_name="Swire">
     <Infra id="1" name="아가씨" lock="E0" icon="" target="통제실" info="제어센터에 배치 시, 모든 무역소의 오더 수주 효율 &lt;color=#34BBFF&gt;+7%&lt;/color&gt;"/>
@@ -621,6 +621,6 @@
   </Info>
   <Info name="CASTLE-3" en_name="Castle-3">
     <Infra id="1" name="예비 에너지" lock="E0" icon="" target="발전소" info="발전소에 배치 시, 드론 회복 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
-    <Infra id="1" name="작전 지도 비디오" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 작전기록류 생산력 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
+    <Infra id="2" name="작전 지도 비디오" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 작전기록류 생산력 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
   </Info>
 </ChractorList>
