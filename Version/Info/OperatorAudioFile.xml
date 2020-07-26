@@ -1,5 +1,4 @@
 <FileList>
-  <Info folder="Siege" fileName="Siege_Audio.xml" />
   <Info folder="Siege" fileName="St_1.mp3" />
   <Info folder="Siege" fileName="Hi_1.mp3" />
   <Info folder="Siege" fileName="Ta_1.mp3" />
@@ -34,7 +33,6 @@
   <Info folder="Siege" fileName="Bt_end_2.mp3" />
   <Info folder="Siege" fileName="Bt_end_3.mp3" />
   <Info folder="Siege" fileName="Bt_end_4.mp3" />
-  <Info folder="Chen" fileName="Chen_Audio.xml" />
   <Info folder="Chen" fileName="St_1.mp3" />
   <Info folder="Chen" fileName="Hi_1.mp3" />
   <Info folder="Chen" fileName="Ta_1.mp3" />
@@ -69,7 +67,6 @@
   <Info folder="Chen" fileName="Bt_end_2.mp3" />
   <Info folder="Chen" fileName="Bt_end_3.mp3" />
   <Info folder="Chen" fileName="Bt_end_4.mp3" />
-  <Info folder="Shining" fileName="Shining_Audio.xml" />
   <Info folder="Shining" fileName="St_1.mp3" />
   <Info folder="Shining" fileName="Hi_1.mp3" />
   <Info folder="Shining" fileName="Ta_1.mp3" />
@@ -104,7 +101,6 @@
   <Info folder="Shining" fileName="Bt_end_2.mp3" />
   <Info folder="Shining" fileName="Bt_end_3.mp3" />
   <Info folder="Shining" fileName="Bt_end_4.mp3" />
-  <Info folder="Nightingale" fileName="Nightingale_Audio.xml" />
   <Info folder="Nightingale" fileName="St_1.mp3" />
   <Info folder="Nightingale" fileName="Hi_1.mp3" />
   <Info folder="Nightingale" fileName="Ta_1.mp3" />
@@ -139,7 +135,6 @@
   <Info folder="Nightingale" fileName="Bt_end_2.mp3" />
   <Info folder="Nightingale" fileName="Bt_end_3.mp3" />
   <Info folder="Nightingale" fileName="Bt_end_4.mp3" />
-  <Info folder="Exusiai" fileName="Exusiai_Audio.xml" />
   <Info folder="Exusiai" fileName="St_1.mp3" />
   <Info folder="Exusiai" fileName="Hi_1.mp3" />
   <Info folder="Exusiai" fileName="Ta_1.mp3" />
@@ -174,7 +169,6 @@
   <Info folder="Exusiai" fileName="Bt_end_2.mp3" />
   <Info folder="Exusiai" fileName="Bt_end_3.mp3" />
   <Info folder="Exusiai" fileName="Bt_end_4.mp3" />
-  <Info folder="Schwarz" fileName="Schwarz_Audio.xml" />
   <Info folder="Schwarz" fileName="St_1.mp3" />
   <Info folder="Schwarz" fileName="Hi_1.mp3" />
   <Info folder="Schwarz" fileName="Ta_1.mp3" />
@@ -209,7 +203,6 @@
   <Info folder="Schwarz" fileName="Bt_end_2.mp3" />
   <Info folder="Schwarz" fileName="Bt_end_3.mp3" />
   <Info folder="Schwarz" fileName="Bt_end_4.mp3" />
-  <Info folder="Eyjafjalla" fileName="Eyjafjalla_Audio.xml" />
   <Info folder="Eyjafjalla" fileName="St_1.mp3" />
   <Info folder="Eyjafjalla" fileName="Hi_1.mp3" />
   <Info folder="Eyjafjalla" fileName="Ta_1.mp3" />
@@ -244,7 +237,6 @@
   <Info folder="Eyjafjalla" fileName="Bt_end_2.mp3" />
   <Info folder="Eyjafjalla" fileName="Bt_end_3.mp3" />
   <Info folder="Eyjafjalla" fileName="Bt_end_4.mp3" />
-  <Info folder="Ifrit" fileName="Ifrit_Audio.xml" />
   <Info folder="Ifrit" fileName="St_1.mp3" />
   <Info folder="Ifrit" fileName="Hi_1.mp3" />
   <Info folder="Ifrit" fileName="Ta_1.mp3" />
@@ -279,7 +271,6 @@
   <Info folder="Ifrit" fileName="Bt_end_2.mp3" />
   <Info folder="Ifrit" fileName="Bt_end_3.mp3" />
   <Info folder="Ifrit" fileName="Bt_end_4.mp3" />
-  <Info folder="Mostima" fileName="Mostima_Audio.xml" />
   <Info folder="Mostima" fileName="St_1.mp3" />
   <Info folder="Mostima" fileName="Hi_1.mp3" />
   <Info folder="Mostima" fileName="Ta_1.mp3" />
@@ -314,7 +305,6 @@
   <Info folder="Mostima" fileName="Bt_end_2.mp3" />
   <Info folder="Mostima" fileName="Bt_end_3.mp3" />
   <Info folder="Mostima" fileName="Bt_end_4.mp3" />
-  <Info folder="Skadi" fileName="Skadi_Audio.xml" />
   <Info folder="Skadi" fileName="St_1.mp3" />
   <Info folder="Skadi" fileName="Hi_1.mp3" />
   <Info folder="Skadi" fileName="Ta_1.mp3" />
@@ -349,7 +339,6 @@
   <Info folder="Skadi" fileName="Bt_end_2.mp3" />
   <Info folder="Skadi" fileName="Bt_end_3.mp3" />
   <Info folder="Skadi" fileName="Bt_end_4.mp3" />
-  <Info folder="Silverash" fileName="Silverash_Audio.xml" />
   <Info folder="Silverash" fileName="St_1.mp3" />
   <Info folder="Silverash" fileName="Hi_1.mp3" />
   <Info folder="Silverash" fileName="Ta_1.mp3" />
@@ -384,7 +373,6 @@
   <Info folder="Silverash" fileName="Bt_end_2.mp3" />
   <Info folder="Silverash" fileName="Bt_end_3.mp3" />
   <Info folder="Silverash" fileName="Bt_end_4.mp3" />
-  <Info folder="Hoshiguma" fileName="Hoshiguma_Audio.xml" />
   <Info folder="Hoshiguma" fileName="St_1.mp3" />
   <Info folder="Hoshiguma" fileName="Hi_1.mp3" />
   <Info folder="Hoshiguma" fileName="Ta_1.mp3" />
@@ -419,7 +407,6 @@
   <Info folder="Hoshiguma" fileName="Bt_end_2.mp3" />
   <Info folder="Hoshiguma" fileName="Bt_end_3.mp3" />
   <Info folder="Hoshiguma" fileName="Bt_end_4.mp3" />
-  <Info folder="Saria" fileName="Saria_Audio.xml" />
   <Info folder="Saria" fileName="St_1.mp3" />
   <Info folder="Saria" fileName="Hi_1.mp3" />
   <Info folder="Saria" fileName="Ta_1.mp3" />
@@ -454,7 +441,6 @@
   <Info folder="Saria" fileName="Bt_end_2.mp3" />
   <Info folder="Saria" fileName="Bt_end_3.mp3" />
   <Info folder="Saria" fileName="Bt_end_4.mp3" />
-  <Info folder="Angelina" fileName="Angelina_Audio.xml" />
   <Info folder="Angelina" fileName="St_1.mp3" />
   <Info folder="Angelina" fileName="Hi_1.mp3" />
   <Info folder="Angelina" fileName="Ta_1.mp3" />
@@ -489,7 +475,6 @@
   <Info folder="Angelina" fileName="Bt_end_2.mp3" />
   <Info folder="Angelina" fileName="Bt_end_3.mp3" />
   <Info folder="Angelina" fileName="Bt_end_4.mp3" />
-  <Info folder="Magallan" fileName="Magallan_Audio.xml" />
   <Info folder="Magallan" fileName="St_1.mp3" />
   <Info folder="Magallan" fileName="Hi_1.mp3" />
   <Info folder="Magallan" fileName="Ta_1.mp3" />
@@ -524,7 +509,6 @@
   <Info folder="Magallan" fileName="Bt_end_2.mp3" />
   <Info folder="Magallan" fileName="Bt_end_3.mp3" />
   <Info folder="Magallan" fileName="Bt_end_4.mp3" />
-  <Info folder="Texas" fileName="Texas_Audio.xml" />
   <Info folder="Texas" fileName="S_1.mp3" />
   <Info folder="Texas" fileName="H_1.mp3" />
   <Info folder="Texas" fileName="T_1.mp3" />
@@ -559,7 +543,6 @@
   <Info folder="Texas" fileName="B_32.mp3" />
   <Info folder="Texas" fileName="B_33.mp3" />
   <Info folder="Texas" fileName="B_34.mp3" />
-  <Info folder="Zima" fileName="Zima_Audio.xml" />
   <Info folder="Zima" fileName="S_1.mp3" />
   <Info folder="Zima" fileName="H_1.mp3" />
   <Info folder="Zima" fileName="T_1.mp3" />
@@ -594,7 +577,6 @@
   <Info folder="Zima" fileName="B_32.mp3" />
   <Info folder="Zima" fileName="B_33.mp3" />
   <Info folder="Zima" fileName="B_34.mp3" />
-  <Info folder="Grani" fileName="Grani_Audio.xml" />
   <Info folder="Grani" fileName="S_1.mp3" />
   <Info folder="Grani" fileName="H_1.mp3" />
   <Info folder="Grani" fileName="T_1.mp3" />
@@ -629,7 +611,6 @@
   <Info folder="Grani" fileName="B_32.mp3" />
   <Info folder="Grani" fileName="B_33.mp3" />
   <Info folder="Grani" fileName="B_34.mp3" />
-  <Info folder="Executor" fileName="Executor_Audio.xml" />
   <Info folder="Executor" fileName="S_1.mp3" />
   <Info folder="Executor" fileName="H_1.mp3" />
   <Info folder="Executor" fileName="T_1.mp3" />
@@ -664,7 +645,6 @@
   <Info folder="Executor" fileName="B_32.mp3" />
   <Info folder="Executor" fileName="B_33.mp3" />
   <Info folder="Executor" fileName="B_34.mp3" />
-  <Info folder="Bluepoison" fileName="Bluepoison_Audio.xml" />
   <Info folder="Bluepoison" fileName="S_1.mp3" />
   <Info folder="Bluepoison" fileName="H_1.mp3" />
   <Info folder="Bluepoison" fileName="T_1.mp3" />
@@ -699,7 +679,6 @@
   <Info folder="Bluepoison" fileName="B_32.mp3" />
   <Info folder="Bluepoison" fileName="B_33.mp3" />
   <Info folder="Bluepoison" fileName="B_34.mp3" />
-  <Info folder="Platinum" fileName="Platinum_Audio.xml" />
   <Info folder="Platinum" fileName="S_1.mp3" />
   <Info folder="Platinum" fileName="H_1.mp3" />
   <Info folder="Platinum" fileName="T_1.mp3" />
@@ -734,7 +713,6 @@
   <Info folder="Platinum" fileName="B_32.mp3" />
   <Info folder="Platinum" fileName="B_33.mp3" />
   <Info folder="Platinum" fileName="B_34.mp3" />
-  <Info folder="Meteorite" fileName="Meteorite_Audio.xml" />
   <Info folder="Meteorite" fileName="S_1.mp3" />
   <Info folder="Meteorite" fileName="H_1.mp3" />
   <Info folder="Meteorite" fileName="T_1.mp3" />
@@ -769,7 +747,6 @@
   <Info folder="Meteorite" fileName="B_32.mp3" />
   <Info folder="Meteorite" fileName="B_33.mp3" />
   <Info folder="Meteorite" fileName="B_34.mp3" />
-  <Info folder="Firewatch" fileName="Firewatch_Audio.xml" />
   <Info folder="Firewatch" fileName="S_1.mp3" />
   <Info folder="Firewatch" fileName="H_1.mp3" />
   <Info folder="Firewatch" fileName="T_1.mp3" />
@@ -804,7 +781,6 @@
   <Info folder="Firewatch" fileName="B_32.mp3" />
   <Info folder="Firewatch" fileName="B_33.mp3" />
   <Info folder="Firewatch" fileName="B_34.mp3" />
-  <Info folder="Ptilopsis" fileName="Ptilopsis_Audio.xml" />
   <Info folder="Ptilopsis" fileName="JP_1.mp3" />
   <Info folder="Ptilopsis" fileName="JP_2.mp3" />
   <Info folder="Ptilopsis" fileName="JP_3.mp3" />
@@ -839,7 +815,6 @@
   <Info folder="Ptilopsis" fileName="JP_232.mp3" />
   <Info folder="Ptilopsis" fileName="JP_233.mp3" />
   <Info folder="Ptilopsis" fileName="JP_234.mp3" />
-  <Info folder="Silence" fileName="Silence_Audio.xml" />
   <Info folder="Silence" fileName="JP_1.mp3" />
   <Info folder="Silence" fileName="JP_2.mp3" />
   <Info folder="Silence" fileName="JP_3.mp3" />
@@ -874,7 +849,6 @@
   <Info folder="Silence" fileName="JP_232.mp3" />
   <Info folder="Silence" fileName="JP_233.mp3" />
   <Info folder="Silence" fileName="JP_234.mp3" />
-  <Info folder="Wafarin" fileName="Wafarin_Audio.xml" />
   <Info folder="Wafarin" fileName="JP_1.mp3" />
   <Info folder="Wafarin" fileName="JP_2.mp3" />
   <Info folder="Wafarin" fileName="JP_3.mp3" />
@@ -909,7 +883,6 @@
   <Info folder="Wafarin" fileName="JP_232.mp3" />
   <Info folder="Wafarin" fileName="JP_233.mp3" />
   <Info folder="Wafarin" fileName="JP_234.mp3" />
-  <Info folder="Amiya" fileName="Amiya_Audio.xml" />
   <Info folder="Amiya" fileName="JP_001.mp3" />
   <Info folder="Amiya" fileName="JP_002.mp3" />
   <Info folder="Amiya" fileName="JP_003.mp3" />
@@ -944,7 +917,6 @@
   <Info folder="Amiya" fileName="JP_232.mp3" />
   <Info folder="Amiya" fileName="JP_233.mp3" />
   <Info folder="Amiya" fileName="JP_234.mp3" />
-  <Info folder="Nightmare" fileName="Nightmare_Audio.xml" />
   <Info folder="Nightmare" fileName="JP_001.mp3" />
   <Info folder="Nightmare" fileName="JP_002.mp3" />
   <Info folder="Nightmare" fileName="JP_003.mp3" />
@@ -979,7 +951,6 @@
   <Info folder="Nightmare" fileName="JP_032.mp3" />
   <Info folder="Nightmare" fileName="JP_033.mp3" />
   <Info folder="Nightmare" fileName="JP_034.mp3" />
-  <Info folder="Skyfire" fileName="Skyfire_Audio.xml" />
   <Info folder="Skyfire" fileName="JP_001.mp3" />
   <Info folder="Skyfire" fileName="JP_002.mp3" />
   <Info folder="Skyfire" fileName="JP_003.mp3" />
@@ -1014,7 +985,6 @@
   <Info folder="Skyfire" fileName="JP_032.mp3" />
   <Info folder="Skyfire" fileName="JP_033.mp3" />
   <Info folder="Skyfire" fileName="JP_034.mp3" />
-  <Info folder="Flamebringer" fileName="Flamebringer_Audio.xml" />
   <Info folder="Flamebringer" fileName="JP_001.mp3" />
   <Info folder="Flamebringer" fileName="JP_002.mp3" />
   <Info folder="Flamebringer" fileName="JP_003.mp3" />
@@ -1049,7 +1019,6 @@
   <Info folder="Flamebringer" fileName="JP_032.mp3" />
   <Info folder="Flamebringer" fileName="JP_033.mp3" />
   <Info folder="Flamebringer" fileName="JP_034.mp3" />
-  <Info folder="Franka" fileName="Franka_Audio.xml" />
   <Info folder="Franka" fileName="JP_001.mp3" />
   <Info folder="Franka" fileName="JP_002.mp3" />
   <Info folder="Franka" fileName="JP_003.mp3" />
@@ -1084,7 +1053,6 @@
   <Info folder="Franka" fileName="JP_032.mp3" />
   <Info folder="Franka" fileName="JP_033.mp3" />
   <Info folder="Franka" fileName="JP_034.mp3" />
-  <Info folder="Indra" fileName="Indra_Audio.xml" />
   <Info folder="Indra" fileName="JP_001.mp3" />
   <Info folder="Indra" fileName="JP_002.mp3" />
   <Info folder="Indra" fileName="JP_003.mp3" />
@@ -1119,7 +1087,6 @@
   <Info folder="Indra" fileName="JP_032.mp3" />
   <Info folder="Indra" fileName="JP_033.mp3" />
   <Info folder="Indra" fileName="JP_034.mp3" />
-  <Info folder="Savage" fileName="Savage_Audio.xml" />
   <Info folder="Savage" fileName="JP_001.mp3" />
   <Info folder="Savage" fileName="JP_002.mp3" />
   <Info folder="Savage" fileName="JP_003.mp3" />
@@ -1154,7 +1121,6 @@
   <Info folder="Savage" fileName="JP_032.mp3" />
   <Info folder="Savage" fileName="JP_033.mp3" />
   <Info folder="Savage" fileName="JP_034.mp3" />
-  <Info folder="Specter" fileName="Specter_Audio.xml" />
   <Info folder="Specter" fileName="JP_001.mp3" />
   <Info folder="Specter" fileName="JP_002.mp3" />
   <Info folder="Specter" fileName="JP_003.mp3" />
@@ -1189,7 +1155,6 @@
   <Info folder="Specter" fileName="JP_032.mp3" />
   <Info folder="Specter" fileName="JP_033.mp3" />
   <Info folder="Specter" fileName="JP_034.mp3" />
-  <Info folder="Lappland" fileName="Lappland_Audio.xml" />
   <Info folder="Lappland" fileName="JP_001.mp3" />
   <Info folder="Lappland" fileName="JP_002.mp3" />
   <Info folder="Lappland" fileName="JP_003.mp3" />
@@ -1224,7 +1189,6 @@
   <Info folder="Lappland" fileName="JP_032.mp3" />
   <Info folder="Lappland" fileName="JP_033.mp3" />
   <Info folder="Lappland" fileName="JP_034.mp3" />
-  <Info folder="Swire" fileName="Swire_Audio.xml" />
   <Info folder="Swire" fileName="JP_001.mp3" />
   <Info folder="Swire" fileName="JP_002.mp3" />
   <Info folder="Swire" fileName="JP_003.mp3" />
@@ -1259,7 +1223,6 @@
   <Info folder="Swire" fileName="JP_032.mp3" />
   <Info folder="Swire" fileName="JP_033.mp3" />
   <Info folder="Swire" fileName="JP_034.mp3" />
-  <Info folder="Nearl" fileName="Nearl_Audio.xml" />
   <Info folder="Nearl" fileName="JP_001.mp3" />
   <Info folder="Nearl" fileName="JP_002.mp3" />
   <Info folder="Nearl" fileName="JP_003.mp3" />
@@ -1294,7 +1257,6 @@
   <Info folder="Nearl" fileName="JP_032.mp3" />
   <Info folder="Nearl" fileName="JP_033.mp3" />
   <Info folder="Nearl" fileName="JP_034.mp3" />
-  <Info folder="Liskarm" fileName="Liskarm_Audio.xml" />
   <Info folder="Liskarm" fileName="JP_001.mp3" />
   <Info folder="Liskarm" fileName="JP_002.mp3" />
   <Info folder="Liskarm" fileName="JP_003.mp3" />
@@ -1329,7 +1291,6 @@
   <Info folder="Liskarm" fileName="JP_032.mp3" />
   <Info folder="Liskarm" fileName="JP_033.mp3" />
   <Info folder="Liskarm" fileName="JP_034.mp3" />
-  <Info folder="Vulkan" fileName="Vulkan_Audio.xml" />
   <Info folder="Vulkan" fileName="JP_001.mp3" />
   <Info folder="Vulkan" fileName="JP_002.mp3" />
   <Info folder="Vulkan" fileName="JP_003.mp3" />
@@ -1364,7 +1325,6 @@
   <Info folder="Vulkan" fileName="JP_032.mp3" />
   <Info folder="Vulkan" fileName="JP_033.mp3" />
   <Info folder="Vulkan" fileName="JP_034.mp3" />
-  <Info folder="Croissant" fileName="Croissant_Audio.xml" />
   <Info folder="Croissant" fileName="JP_001.mp3" />
   <Info folder="Croissant" fileName="JP_002.mp3" />
   <Info folder="Croissant" fileName="JP_003.mp3" />
@@ -1399,7 +1359,6 @@
   <Info folder="Croissant" fileName="JP_032.mp3" />
   <Info folder="Croissant" fileName="JP_033.mp3" />
   <Info folder="Croissant" fileName="JP_034.mp3" />
-  <Info folder="Pramanix" fileName="Pramanix_Audio.xml" />
   <Info folder="Pramanix" fileName="JP_001.mp3" />
   <Info folder="Pramanix" fileName="JP_002.mp3" />
   <Info folder="Pramanix" fileName="JP_003.mp3" />
@@ -1434,7 +1393,6 @@
   <Info folder="Pramanix" fileName="JP_032.mp3" />
   <Info folder="Pramanix" fileName="JP_033.mp3" />
   <Info folder="Pramanix" fileName="JP_034.mp3" />
-  <Info folder="Sora" fileName="Sora_Audio.xml" />
   <Info folder="Sora" fileName="JP_001.mp3" />
   <Info folder="Sora" fileName="JP_002.mp3" />
   <Info folder="Sora" fileName="JP_003.mp3" />
@@ -1469,7 +1427,6 @@
   <Info folder="Sora" fileName="JP_032.mp3" />
   <Info folder="Sora" fileName="JP_033.mp3" />
   <Info folder="Sora" fileName="JP_034.mp3" />
-  <Info folder="Istina" fileName="Istina_Audio.xml" />
   <Info folder="Istina" fileName="JP_001.mp3" />
   <Info folder="Istina" fileName="JP_002.mp3" />
   <Info folder="Istina" fileName="JP_003.mp3" />
@@ -1504,7 +1461,6 @@
   <Info folder="Istina" fileName="JP_032.mp3" />
   <Info folder="Istina" fileName="JP_033.mp3" />
   <Info folder="Istina" fileName="JP_034.mp3" />
-  <Info folder="Cliffheart" fileName="Cliffheart_Audio.xml" />
   <Info folder="Cliffheart" fileName="JP_001.mp3" />
   <Info folder="Cliffheart" fileName="JP_002.mp3" />
   <Info folder="Cliffheart" fileName="JP_003.mp3" />
@@ -1539,7 +1495,6 @@
   <Info folder="Cliffheart" fileName="JP_032.mp3" />
   <Info folder="Cliffheart" fileName="JP_033.mp3" />
   <Info folder="Cliffheart" fileName="JP_034.mp3" />
-  <Info folder="FEater" fileName="FEater_Audio.xml" />
   <Info folder="FEater" fileName="JP_001.mp3" />
   <Info folder="FEater" fileName="JP_002.mp3" />
   <Info folder="FEater" fileName="JP_003.mp3" />
@@ -1574,7 +1529,6 @@
   <Info folder="FEater" fileName="JP_032.mp3" />
   <Info folder="FEater" fileName="JP_033.mp3" />
   <Info folder="FEater" fileName="JP_034.mp3" />
-  <Info folder="Manticore" fileName="Manticore_Audio.xml" />
   <Info folder="Manticore" fileName="JP_001.mp3" />
   <Info folder="Manticore" fileName="JP_002.mp3" />
   <Info folder="Manticore" fileName="JP_003.mp3" />
@@ -1609,7 +1563,6 @@
   <Info folder="Manticore" fileName="JP_032.mp3" />
   <Info folder="Manticore" fileName="JP_033.mp3" />
   <Info folder="Manticore" fileName="JP_034.mp3" />
-  <Info folder="ProJeKT_RED" fileName="ProJeKT_RED_Audio.xml" />
   <Info folder="ProJeKT_RED" fileName="JP_001.mp3" />
   <Info folder="ProJeKT_RED" fileName="JP_002.mp3" />
   <Info folder="ProJeKT_RED" fileName="JP_003.mp3" />
@@ -1644,7 +1597,6 @@
   <Info folder="ProJeKT_RED" fileName="JP_032.mp3" />
   <Info folder="ProJeKT_RED" fileName="JP_033.mp3" />
   <Info folder="ProJeKT_RED" fileName="JP_034.mp3" />
-  <Info folder="Courier" fileName="Courier_Audio.xml" />
   <Info folder="Courier" fileName="JP_001.mp3" />
   <Info folder="Courier" fileName="JP_002.mp3" />
   <Info folder="Courier" fileName="JP_003.mp3" />
@@ -1679,7 +1631,6 @@
   <Info folder="Courier" fileName="JP_032.mp3" />
   <Info folder="Courier" fileName="JP_033.mp3" />
   <Info folder="Courier" fileName="JP_034.mp3" />
-  <Info folder="Myrtle" fileName="Myrtle_Audio.xml" />
   <Info folder="Myrtle" fileName="JP_001.mp3" />
   <Info folder="Myrtle" fileName="JP_002.mp3" />
   <Info folder="Myrtle" fileName="JP_003.mp3" />
@@ -1713,7 +1664,6 @@
   <Info folder="Myrtle" fileName="JP_032.mp3" />
   <Info folder="Myrtle" fileName="JP_033.mp3" />
   <Info folder="Myrtle" fileName="JP_034.mp3" />
-  <Info folder="Scavenger" fileName="Scavenger_Audio.xml" />
   <Info folder="Scavenger" fileName="JP_001.mp3" />
   <Info folder="Scavenger" fileName="JP_002.mp3" />
   <Info folder="Scavenger" fileName="JP_003.mp3" />
@@ -1748,7 +1698,6 @@
   <Info folder="Scavenger" fileName="JP_032.mp3" />
   <Info folder="Scavenger" fileName="JP_033.mp3" />
   <Info folder="Scavenger" fileName="JP_034.mp3" />
-  <Info folder="Vigna" fileName="Vigna_Audio.xml" />
   <Info folder="Vigna" fileName="JP_001.mp3" />
   <Info folder="Vigna" fileName="JP_002.mp3" />
   <Info folder="Vigna" fileName="JP_003.mp3" />
@@ -1783,7 +1732,6 @@
   <Info folder="Vigna" fileName="JP_032.mp3" />
   <Info folder="Vigna" fileName="JP_033.mp3" />
   <Info folder="Vigna" fileName="JP_034.mp3" />
-  <Info folder="Ambriel" fileName="Ambriel_Audio.xml" />
   <Info folder="Ambriel" fileName="JP_001.mp3" />
   <Info folder="Ambriel" fileName="JP_002.mp3" />
   <Info folder="Ambriel" fileName="JP_003.mp3" />
@@ -1818,7 +1766,6 @@
   <Info folder="Ambriel" fileName="JP_032.mp3" />
   <Info folder="Ambriel" fileName="JP_033.mp3" />
   <Info folder="Ambriel" fileName="JP_034.mp3" />
-  <Info folder="Jessica" fileName="Jessica_Audio.xml" />
   <Info folder="Jessica" fileName="JP_001.mp3" />
   <Info folder="Jessica" fileName="JP_002.mp3" />
   <Info folder="Jessica" fileName="JP_003.mp3" />
@@ -1853,7 +1800,6 @@
   <Info folder="Jessica" fileName="JP_032.mp3" />
   <Info folder="Jessica" fileName="JP_033.mp3" />
   <Info folder="Jessica" fileName="JP_034.mp3" />
-  <Info folder="May" fileName="May_Audio.xml" />
   <Info folder="May" fileName="JP_001.mp3" />
   <Info folder="May" fileName="JP_002.mp3" />
   <Info folder="May" fileName="JP_003.mp3" />
@@ -1888,7 +1834,6 @@
   <Info folder="May" fileName="JP_032.mp3" />
   <Info folder="May" fileName="JP_033.mp3" />
   <Info folder="May" fileName="JP_034.mp3" />
-  <Info folder="Meteor" fileName="Meteor_Audio.xml" />
   <Info folder="Meteor" fileName="JP_001.mp3" />
   <Info folder="Meteor" fileName="JP_002.mp3" />
   <Info folder="Meteor" fileName="JP_003.mp3" />
@@ -1923,7 +1868,6 @@
   <Info folder="Meteor" fileName="JP_032.mp3" />
   <Info folder="Meteor" fileName="JP_033.mp3" />
   <Info folder="Meteor" fileName="JP_034.mp3" />
-  <Info folder="Shirauki" fileName="Shirauki_Audio.xml" />
   <Info folder="Shirauki" fileName="JP_001.mp3" />
   <Info folder="Shirauki" fileName="JP_002.mp3" />
   <Info folder="Shirauki" fileName="JP_003.mp3" />
@@ -1958,7 +1902,6 @@
   <Info folder="Shirauki" fileName="JP_032.mp3" />
   <Info folder="Shirauki" fileName="JP_033.mp3" />
   <Info folder="Shirauki" fileName="JP_034.mp3" />
-  <Info folder="Vermail" fileName="Vermail_Audio.xml" />
   <Info folder="Vermail" fileName="JP_001.mp3" />
   <Info folder="Vermail" fileName="JP_002.mp3" />
   <Info folder="Vermail" fileName="JP_003.mp3" />
@@ -1993,7 +1936,6 @@
   <Info folder="Vermail" fileName="JP_032.mp3" />
   <Info folder="Vermail" fileName="JP_033.mp3" />
   <Info folder="Vermail" fileName="JP_034.mp3" />
-  <Info folder="Gavial" fileName="Gavial_Audio.xml" />
   <Info folder="Gavial" fileName="JP_001.mp3" />
   <Info folder="Gavial" fileName="JP_002.mp3" />
   <Info folder="Gavial" fileName="JP_003.mp3" />
@@ -2028,7 +1970,6 @@
   <Info folder="Gavial" fileName="JP_032.mp3" />
   <Info folder="Gavial" fileName="JP_033.mp3" />
   <Info folder="Gavial" fileName="JP_034.mp3" />
-  <Info folder="Myrrh" fileName="Myrrh_Audio.xml" />
   <Info folder="Myrrh" fileName="JP_001.mp3" />
   <Info folder="Myrrh" fileName="JP_002.mp3" />
   <Info folder="Myrrh" fileName="JP_003.mp3" />
@@ -2063,7 +2004,6 @@
   <Info folder="Myrrh" fileName="JP_032.mp3" />
   <Info folder="Myrrh" fileName="JP_033.mp3" />
   <Info folder="Myrrh" fileName="JP_034.mp3" />
-  <Info folder="Perfumer" fileName="Perfumer_Audio.xml" />
   <Info folder="Perfumer" fileName="JP_001.mp3" />
   <Info folder="Perfumer" fileName="JP_002.mp3" />
   <Info folder="Perfumer" fileName="JP_003.mp3" />
@@ -2098,7 +2038,6 @@
   <Info folder="Perfumer" fileName="JP_032.mp3" />
   <Info folder="Perfumer" fileName="JP_033.mp3" />
   <Info folder="Perfumer" fileName="JP_034.mp3" />
-  <Info folder="Purestream" fileName="Purestream_Audio.xml" />
   <Info folder="Purestream" fileName="JP_001.mp3" />
   <Info folder="Purestream" fileName="JP_002.mp3" />
   <Info folder="Purestream" fileName="JP_003.mp3" />
@@ -2133,7 +2072,6 @@
   <Info folder="Purestream" fileName="JP_032.mp3" />
   <Info folder="Purestream" fileName="JP_033.mp3" />
   <Info folder="Purestream" fileName="JP_034.mp3" />
-  <Info folder="Susuro" fileName="Susuro_Audio.xml" />
   <Info folder="Susuro" fileName="JP_001.mp3" />
   <Info folder="Susuro" fileName="JP_002.mp3" />
   <Info folder="Susuro" fileName="JP_003.mp3" />
@@ -2168,7 +2106,6 @@
   <Info folder="Susuro" fileName="JP_032.mp3" />
   <Info folder="Susuro" fileName="JP_033.mp3" />
   <Info folder="Susuro" fileName="JP_034.mp3" />
-  <Info folder="Gitano" fileName="Gitano_Audio.xml" />
   <Info folder="Gitano" fileName="JP_001.mp3" />
   <Info folder="Gitano" fileName="JP_002.mp3" />
   <Info folder="Gitano" fileName="JP_003.mp3" />
@@ -2203,7 +2140,6 @@
   <Info folder="Gitano" fileName="JP_032.mp3" />
   <Info folder="Gitano" fileName="JP_033.mp3" />
   <Info folder="Gitano" fileName="JP_034.mp3" />
-  <Info folder="Greyy" fileName="Greyy_Audio.xml" />
   <Info folder="Greyy" fileName="JP_001.mp3" />
   <Info folder="Greyy" fileName="JP_002.mp3" />
   <Info folder="Greyy" fileName="JP_003.mp3" />
@@ -2238,7 +2174,6 @@
   <Info folder="Greyy" fileName="JP_032.mp3" />
   <Info folder="Greyy" fileName="JP_033.mp3" />
   <Info folder="Greyy" fileName="JP_034.mp3" />
-  <Info folder="Haze" fileName="Haze_Audio.xml" />
   <Info folder="Haze" fileName="JP_001.mp3" />
   <Info folder="Haze" fileName="JP_002.mp3" />
   <Info folder="Haze" fileName="JP_003.mp3" />
@@ -2273,7 +2208,6 @@
   <Info folder="Haze" fileName="JP_032.mp3" />
   <Info folder="Haze" fileName="JP_033.mp3" />
   <Info folder="Haze" fileName="JP_034.mp3" />
-  <Info folder="Beehunter" fileName="Beehunter_Audio.xml" />
   <Info folder="Beehunter" fileName="JP_001.mp3" />
   <Info folder="Beehunter" fileName="JP_002.mp3" />
   <Info folder="Beehunter" fileName="JP_003.mp3" />
@@ -2308,7 +2242,6 @@
   <Info folder="Beehunter" fileName="JP_032.mp3" />
   <Info folder="Beehunter" fileName="JP_033.mp3" />
   <Info folder="Beehunter" fileName="JP_034.mp3" />
-  <Info folder="Dobermann" fileName="Dobermann_Audio.xml" />
   <Info folder="Dobermann" fileName="JP_001.mp3" />
   <Info folder="Dobermann" fileName="JP_002.mp3" />
   <Info folder="Dobermann" fileName="JP_003.mp3" />
@@ -2343,7 +2276,6 @@
   <Info folder="Dobermann" fileName="JP_032.mp3" />
   <Info folder="Dobermann" fileName="JP_033.mp3" />
   <Info folder="Dobermann" fileName="JP_034.mp3" />
-  <Info folder="Estelle" fileName="Estelle_Audio.xml" />
   <Info folder="Estelle" fileName="JP_001.mp3" />
   <Info folder="Estelle" fileName="JP_002.mp3" />
   <Info folder="Estelle" fileName="JP_003.mp3" />
@@ -2378,7 +2310,6 @@
   <Info folder="Estelle" fileName="JP_032.mp3" />
   <Info folder="Estelle" fileName="JP_033.mp3" />
   <Info folder="Estelle" fileName="JP_034.mp3" />
-  <Info folder="Frostleaf" fileName="Frostleaf_Audio.xml" />
   <Info folder="Frostleaf" fileName="JP_001.mp3" />
   <Info folder="Frostleaf" fileName="JP_002.mp3" />
   <Info folder="Frostleaf" fileName="JP_003.mp3" />
@@ -2413,7 +2344,6 @@
   <Info folder="Frostleaf" fileName="JP_032.mp3" />
   <Info folder="Frostleaf" fileName="JP_033.mp3" />
   <Info folder="Frostleaf" fileName="JP_034.mp3" />
-  <Info folder="Matoimaru" fileName="Matoimaru_Audio.xml" />
   <Info folder="Matoimaru" fileName="JP_001.mp3" />
   <Info folder="Matoimaru" fileName="JP_002.mp3" />
   <Info folder="Matoimaru" fileName="JP_003.mp3" />
@@ -2448,7 +2378,6 @@
   <Info folder="Matoimaru" fileName="JP_032.mp3" />
   <Info folder="Matoimaru" fileName="JP_033.mp3" />
   <Info folder="Matoimaru" fileName="JP_034.mp3" />
-  <Info folder="Mousse" fileName="Mousse_Audio.xml" />
   <Info folder="Mousse" fileName="JP_001.mp3" />
   <Info folder="Mousse" fileName="JP_002.mp3" />
   <Info folder="Mousse" fileName="JP_003.mp3" />
@@ -2483,7 +2412,6 @@
   <Info folder="Mousse" fileName="JP_032.mp3" />
   <Info folder="Mousse" fileName="JP_033.mp3" />
   <Info folder="Mousse" fileName="JP_034.mp3" />
-  <Info folder="Utage" fileName="Utage_Audio.xml" />
   <Info folder="Utage" fileName="JP_001.mp3" />
   <Info folder="Utage" fileName="JP_002.mp3" />
   <Info folder="Utage" fileName="JP_003.mp3" />
@@ -2518,7 +2446,6 @@
   <Info folder="Utage" fileName="JP_032.mp3" />
   <Info folder="Utage" fileName="JP_033.mp3" />
   <Info folder="Utage" fileName="JP_034.mp3" />
-  <Info folder="Cuora" fileName="Cuora_Audio.xml" />
   <Info folder="Cuora" fileName="JP_001.mp3" />
   <Info folder="Cuora" fileName="JP_002.mp3" />
   <Info folder="Cuora" fileName="JP_003.mp3" />
@@ -2553,7 +2480,6 @@
   <Info folder="Cuora" fileName="JP_032.mp3" />
   <Info folder="Cuora" fileName="JP_033.mp3" />
   <Info folder="Cuora" fileName="JP_034.mp3" />
-  <Info folder="DurNar" fileName="DurNar_Audio.xml" />
   <Info folder="DurNar" fileName="JP_001.mp3" />
   <Info folder="DurNar" fileName="JP_002.mp3" />
   <Info folder="DurNar" fileName="JP_003.mp3" />
@@ -2588,7 +2514,6 @@
   <Info folder="DurNar" fileName="JP_032.mp3" />
   <Info folder="DurNar" fileName="JP_033.mp3" />
   <Info folder="DurNar" fileName="JP_034.mp3" />
-  <Info folder="Matterhorn" fileName="Matterhorn_Audio.xml" />
   <Info folder="Matterhorn" fileName="JP_001.mp3" />
   <Info folder="Matterhorn" fileName="JP_002.mp3" />
   <Info folder="Matterhorn" fileName="JP_003.mp3" />
@@ -2623,7 +2548,6 @@
   <Info folder="Matterhorn" fileName="JP_032.mp3" />
   <Info folder="Matterhorn" fileName="JP_033.mp3" />
   <Info folder="Matterhorn" fileName="JP_034.mp3" />
-  <Info folder="Gum" fileName="Gum_Audio.xml" />
   <Info folder="Gum" fileName="JP_001.mp3" />
   <Info folder="Gum" fileName="JP_002.mp3" />
   <Info folder="Gum" fileName="JP_003.mp3" />
@@ -2658,7 +2582,6 @@
   <Info folder="Gum" fileName="JP_032.mp3" />
   <Info folder="Gum" fileName="JP_033.mp3" />
   <Info folder="Gum" fileName="JP_034.mp3" />
-  <Info folder="Deepcolor" fileName="Deepcolor_Audio.xml" />
   <Info folder="Deepcolor" fileName="JP_001.mp3" />
   <Info folder="Deepcolor" fileName="JP_002.mp3" />
   <Info folder="Deepcolor" fileName="JP_003.mp3" />
@@ -2693,7 +2616,6 @@
   <Info folder="Deepcolor" fileName="JP_032.mp3" />
   <Info folder="Deepcolor" fileName="JP_033.mp3" />
   <Info folder="Deepcolor" fileName="JP_034.mp3" />
-  <Info folder="Earthspirit" fileName="Earthspirit_Audio.xml" />
   <Info folder="Earthspirit" fileName="JP_001.mp3" />
   <Info folder="Earthspirit" fileName="JP_002.mp3" />
   <Info folder="Earthspirit" fileName="JP_003.mp3" />
@@ -2728,7 +2650,6 @@
   <Info folder="Earthspirit" fileName="JP_032.mp3" />
   <Info folder="Earthspirit" fileName="JP_033.mp3" />
   <Info folder="Earthspirit" fileName="JP_034.mp3" />
-  <Info folder="Ethan" fileName="Ethan_Audio.xml" />
   <Info folder="Ethan" fileName="JP_001.mp3" />
   <Info folder="Ethan" fileName="JP_002.mp3" />
   <Info folder="Ethan" fileName="JP_003.mp3" />
@@ -2763,7 +2684,6 @@
   <Info folder="Ethan" fileName="JP_032.mp3" />
   <Info folder="Ethan" fileName="JP_033.mp3" />
   <Info folder="Ethan" fileName="JP_034.mp3" />
-  <Info folder="Gravel" fileName="Gravel_Audio.xml" />
   <Info folder="Gravel" fileName="JP_001.mp3" />
   <Info folder="Gravel" fileName="JP_002.mp3" />
   <Info folder="Gravel" fileName="JP_003.mp3" />
@@ -2798,7 +2718,6 @@
   <Info folder="Gravel" fileName="JP_032.mp3" />
   <Info folder="Gravel" fileName="JP_033.mp3" />
   <Info folder="Gravel" fileName="JP_034.mp3" />
-  <Info folder="Rope" fileName="Rope_Audio.xml" />
   <Info folder="Rope" fileName="JP_001.mp3" />
   <Info folder="Rope" fileName="JP_002.mp3" />
   <Info folder="Rope" fileName="JP_003.mp3" />
@@ -2833,7 +2752,6 @@
   <Info folder="Rope" fileName="JP_032.mp3" />
   <Info folder="Rope" fileName="JP_033.mp3" />
   <Info folder="Rope" fileName="JP_034.mp3" />
-  <Info folder="Shaw" fileName="Shaw_Audio.xml" />
   <Info folder="Shaw" fileName="JP_001.mp3" />
   <Info folder="Shaw" fileName="JP_002.mp3" />
   <Info folder="Shaw" fileName="JP_003.mp3" />
