@@ -10,5 +10,7 @@
   <Info name="StageData.xml"  compulsion="0" />
   <Info name="spine_assetlist_F.xml"  compulsion="0" />
   <Info name="liveserver_data_all.xml"  compulsion="0" />
+  <Info name="stage_dropdata_limit_1.0.0.xml"  compulsion="0" />
+  <Info name="stage_event_data_1.0.0.xml"  compulsion="0" />
   <Info name="URL.xml"  compulsion="0" />
 </FileList>
