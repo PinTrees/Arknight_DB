@@ -1,4 +1,12 @@
 <data>
+    <info name="엠브리엘" operator="Ambriel" code="yamin_Ambriel_1" made="Yamin" size="1.5" position="-1,-7" >
+    <asset assetbundle="yamin_ambriel_1.unity3d" assetlavel="Ambriel"/>
+    <url youtube="https://www.youtube.com/channel/UClr3Sw-jZsUwyg06MWBAhtg?view_as=subscriber" tr=""/>
+  </info>
+    <info name="니어" operator="Nearl" code="yamin_Nearl_1" made="Yamin" size="1.35" position="0,-7" >
+    <asset assetbundle="yamin_nearl_1.unity3d" assetlavel="Nearl"/>
+    <url youtube="https://www.youtube.com/channel/UClr3Sw-jZsUwyg06MWBAhtg?view_as=subscriber" tr=""/>
+  </info>
   <info name="모스티마" operator="Mostima" code="yamin_Mostima1" made="Yamin" size="1.35" position="0,-7" >
     <asset assetbundle="yamin_mostima1.unity3d" assetlavel="Mostima"/>
     <url youtube="https://www.youtube.com/channel/UClr3Sw-jZsUwyg06MWBAhtg?view_as=subscriber" tr=""/>
