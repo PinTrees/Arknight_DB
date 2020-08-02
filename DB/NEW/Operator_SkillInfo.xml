@@ -2301,7 +2301,7 @@
       <lv lv="5" lv_n="E1_1" data="180%/1.5" sp="0" fsp="0" eft="0" />
       <lv lv="6" lv_n="E1_1" data="190%/1.5" sp="0" fsp="0" eft="0" />
       <lv lv="7" lv_n="E1_1" data="200%/2" sp="0" fsp="0" eft="0" />
-      <lv lv="8" lv_n="E2_1" data="210%/2" sp="0" fsp="0" eft="0" sub="SB_3/KT_1/PL_1" subC="5/3/3" />
+      <lv lv="8" lv_n="E2_1" data="210%/2" sp="0" fsp="0" eft="0" sub="SB_3/KT_1/PL_2" subC="5/3/3" />
       <lv lv="9" lv_n="E2_1" data="230%/2.3" sp="0" fsp="0" eft="0" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
       <lv lv="10" lv_n="E2_1" data="250%/3" sp="0" fsp="0" eft="0" sub="SB_3/BN/KT_1" subC="10/4/3" />
     </Info>
