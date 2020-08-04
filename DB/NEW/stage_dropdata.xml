@@ -100,4 +100,6 @@
   <Info code="S6_2" material="RC_3/furniture" get="" try="" />
   <Info code="S6_3" material="EX_1/KT_3/furniture" get="" try="" />
   <Info code="S6_4" material="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
+
+  <Info code="event-AF-7" material="AC_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="" try="" />
 </data>
