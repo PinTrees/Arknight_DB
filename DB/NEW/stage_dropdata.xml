@@ -47,7 +47,7 @@
   <Info code="4_1" material="NULL/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/furniture" get="" try="" />
   <Info code="4_2" material="SG_2/SG_1/EX_1/EX_2/EX_3/MG_2/SG_3/SG_4/XI_2/XI_3/XI_4/furniture" get="" try="" />
   <Info code="4_3" material="EX_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/furniture" get="" try="" />
-  <Info code="S4_1" material="XI_2/XI_1/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_3/XI_4/furniture" get="10/2/2/3/2/0/1/10/5/8/3/0" try="34/34/34/34/34/34/34/34/34/34/34/34" />
+  <Info code="S4_1" material="XI_2/XI_1/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_3/XI_4/furniture" get="10/2/2/3/2/0/1/10/6/9/3/1" try="36/36/36/36/36/36/36/36/36/36/36/36" />
   <Info code="S4_2" material="NULL/PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
   <Info code="S4_3" material="NULL/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/furniture" get="" try="" />
   <Info code="4_4" material="AC_2/AC_1/GD_1/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/furniture" get="6/1/1/0/2/4/2/0/1/0" try="11/11/11/11/11/11/11/11/11/11" />
@@ -62,7 +62,7 @@
   <Info code="S4_7" material="NULL/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/furniture" get="" try="" />
   <Info code="S4_8" material="NULL/PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
   <Info code="S4_9" material="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/furniture" get="" try="" />
-  <Info code="4_10" material="GT_2/GT_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_3/GT_4/furniture" get="0/0/0/0/0/0/0/0/0/0" try="1/1/1/1/1/1/1/1/1/1" />
+  <Info code="4_10" material="GT_2/GT_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_3/GT_4/furniture" get="2/0/0/0/1/1/1/1/0/0" try="6/6/6/6/6/6/6/6/6/6" />
   <Info code="5_1" material="RC_2/GD_1/AC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="14/2/1/13/9/0/9/3/0/1" try="37/37/37/37/37/37/37/37/37/37" />
   <Info code="5_2" material="SG_2/SG_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="11/1/2/2/0/13/9/0/4/1/0/0" try="31/31/31/31/31/31/31/31/31/31/31/31" />
   <Info code="5_3" material="PL_2/PL_1/furniture" get="" try="" />
@@ -72,7 +72,7 @@
   <Info code="5_7" material="PS_2/XI_3/furniture" get="" try="" />
   <Info code="5_8" material="KT_2/KT_1/PS_2/RM_2/PL_2/PL_3/PL_4/KT_3/KT_4/furniture" get="" try="" />
   <Info code="5_9" material="RM_2/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="" try="" />
-  <Info code="5_10" material="RC_3/GT_2/furniture" get="5/0/0" try="2/2/2" />
+  <Info code="5_10" material="RC_3/GT_2/furniture" get="8/0/0" try="3/3/3" />
   <Info code="S5_1" material="EX_1/RC_3/furniture" get="" try="" />
   <Info code="S5_2" material="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="" try="" />
   <Info code="S5_3" material="PL_3/furniture" get="" try="" />
@@ -107,5 +107,5 @@
   <Info code="event-AF-5" material="GT_3/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="" try="" />
   <Info code="event-AF-6" material="KT_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="" try="" />
   <Info code="event-AF-7" material="AC_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="20/10/3/7/3/6/8/3/3/1" try="43/43/43/43/43/43/43/43/43/43" />
-  <Info code="event-AF-8" material="PS_2/EX_1/EX_2/EX_3/MG_2/SG_2/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="" try="" />
+  <Info code="event-AF-8" material="PS_2/EX_1/EX_2/EX_3/MG_2/SG_2/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="0/0/0/0/0/0/0/0/0/0/0/0" try="1/1/1/1/1/1/1/1/1/1/1/1" />
 </data>
