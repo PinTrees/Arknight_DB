@@ -100,5 +100,12 @@
   <Info code="S6_2" material="RC_3/furniture" get="" try="" />
   <Info code="S6_3" material="EX_1/KT_3/furniture" get="" try="" />
   <Info code="S6_4" material="PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
+  <Info code="event-AF-1" material="PL_4/GD_1/RC_4/GT_4/SG_4/XI_4/KT_4/furniture" get="" try="" />
+  <Info code="event-AF-2" material="XI_4/GD_1/RC_4/GT_4/PL_4/SG_4/KT_4/furniture" get="" try="" />
+  <Info code="event-AF-3" material="RC_3/GD_1/RC_4/GT_3/GT_4/PL_3/PL_4/furniture" get="" try="" />
+  <Info code="event-AF-4" material="SG_3/GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4/furniture" get="" try="" />
+  <Info code="event-AF-5" material="GT_3/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="" try="" />
+  <Info code="event-AF-6" material="KT_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="" try="" />
   <Info code="event-AF-7" material="AC_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="20/10/3/7/3/6/8/3/3/1" try="43/43/43/43/43/43/43/43/43/43" />
+  <Info code="event-AF-8" material="PS_2/EX_1/EX_2/EX_3/MG_2/SG_2/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="" try="" />
 </data>
