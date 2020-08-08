@@ -47,7 +47,7 @@
   <Info code="4_1" material="NULL/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/furniture" get="" try="" />
   <Info code="4_2" material="SG_2/SG_1/EX_1/EX_2/EX_3/MG_2/SG_3/SG_4/XI_2/XI_3/XI_4/furniture" get="" try="" />
   <Info code="4_3" material="EX_1/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/furniture" get="" try="" />
-  <Info code="S4_1" material="XI_2/XI_1/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_3/XI_4/furniture" get="10/2/2/3/2/0/1/10/6/9/3/1" try="36/36/36/36/36/36/36/36/36/36/36/36" />
+  <Info code="S4_1" material="XI_2/XI_1/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_3/XI_4/furniture" get="11/2/2/3/3/0/1/10/8/10/3/1" try="40/40/40/40/40/40/40/40/40/40/40/40" />
   <Info code="S4_2" material="NULL/PS_2/RM_2/PL_2/PL_3/PL_4/KT_2/KT_3/KT_4/furniture" get="" try="" />
   <Info code="S4_3" material="NULL/EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/furniture" get="" try="" />
   <Info code="4_4" material="AC_2/AC_1/GD_1/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/furniture" get="6/1/1/0/2/4/2/0/1/0" try="11/11/11/11/11/11/11/11/11/11" />
@@ -106,6 +106,6 @@
   <Info code="event-AF-4" material="SG_3/GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4/furniture" get="" try="" />
   <Info code="event-AF-5" material="GT_3/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="" try="" />
   <Info code="event-AF-6" material="KT_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="" try="" />
-  <Info code="event-AF-7" material="AC_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="20/10/3/7/3/6/8/3/3/1" try="43/43/43/43/43/43/43/43/43/43" />
+  <Info code="event-AF-7" material="AC_2/EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4/furniture" get="23/12/3/8/5/8/8/3/4/1" try="51/51/51/51/51/51/51/51/51/51" />
   <Info code="event-AF-8" material="PS_2/EX_1/EX_2/EX_3/MG_2/SG_2/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="0/0/0/0/0/0/0/0/0/0/0/0" try="1/1/1/1/1/1/1/1/1/1/1/1" />
 </data>
