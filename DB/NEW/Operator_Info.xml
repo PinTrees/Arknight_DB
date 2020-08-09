@@ -213,6 +213,13 @@
     </Info>
   </rare_6>
   <rare_5>
+    <Info id="0" name="키아브" en_name="Chiave" rare="5" group="로도스" gender="남성" position="근거리" Class="뱅가드" tags="코스트+/딜러" trust="0/70/0/0" specificity="2명의 적을 저지 가능"
+      potential="배치 비용 -1/재배치 시간 -4초/공격력 +24/재능 강화 (+2%)/배치 비용 -1">
+      <Ability unlock="E2" name="전문 기술" info="배치되면 모든 1성 요원의 재배치 시간 -75%, 또한 배치 된 요원 1명당 자신의 공격력 및 방어력 + 11%" />
+      <Elite1 info="NULL" submat="용문폐/20000/VG_3/4/GT_3/3/SG_4/3" />
+      <Elite2 info="NULL" submat="용문폐/120000/VG_1/3/MG_1/7/PS_2/13" />
+      <Producer illustrator="Skade" artistlink="https://www.pixiv.net/users/25193" voice="森久保祥太郎" vlink="https://www.google.com/search?q=Voice+Actor+%E6%A3%AE%E4%B9%85%E4%BF%9D%E7%A5%A5%E5%A4%AA%E9%83%8E"/>
+    </Info>
     <Info id="0" name="엘리시움" en_name="Elysium" rare="5" group="로도스" gender="남성" position="근거리" Class="뱅가드" tags="코스트+/서포트" trust="0/0/60/0" specificity="스킬을 사용하는 동안 저지 수가 0이 된다." 
           potential="배치 비용 -1/재배치 시간 -4초/방어력 +23/재능 강화 (공격속도 +3)/배치 비용 -1">
       <Ability unlock="E2" name="저격 지원" info="전장에 있을 때 모든 [스나이퍼] 오퍼레이터의 배치 비용-2, 그리고 스킬이 발동 중일 때 모든 [스나이퍼] 오퍼레이터의 공격 속도 +20" />
@@ -360,6 +367,15 @@
       <Producer illustrator="唯@W" artistlink="https://twitter.com/hoshieve" voice="Tomoyo Kurosawa" vlink="https://www.google.com/search?q=Voice+Actor+Tomoyo%20Kurosawa"/>
       <Costume type="테스트" name=""/>
       <Costume type="테스트" name=""/>
+    </Info>
+    <Info id="0" name="비즈왁스" en_name="Beeswax" rare="5" group="로도스" gender="여성" position="원거리" Class="캐스터" tags="범위공격/방어형" trust="0/70/20/0"
+          specificity="공격을 하지 않는 대신 방어력과 마법 저항력이 크게 증가하며, 스킬 발동 중에는 공격 범위 내의 모든 적에게 마법 공격을 한다
+(평상시 방어력 +200%, 마법저항력 +20%)" potential="배치 코스트 -1/재배치 시간-4초/공격력 +30/재배치 시간-6초/배치 코스트 -1">
+      <Ability unlock="E2" name="모래벌판의 비호" info="스킬이 발동되지 않는 동안 초당 최대 생명력의 4% 회복한다." />
+      <Elite1 info="NULL" submat="용문폐/20000/CS_3/4/XI_3/4/GT_3/2" />
+      <Elite2 info="NULL" submat="용문폐/120000/CS_1/3/GT_1/5/AC_2/18" />
+      <Producer illustrator="カワグチ" artistlink="https://www.google.com/search?q=illustrator+%E3%82%AB%E3%83%AF%E3%82%B0%E3%83%81" 
+                voice="喜多村英梨" vlink="https://www.google.com/search?q=Voice+Actor+%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8"/>
     </Info>
     <Info id="0" name="레이즈" en_name="Leizi" rare="5" group="용문" gender="여성" position="원거리" Class="캐스터" tags="딜러" trust="0/75/0/0" specificity="공격이 최대 3명(2차 정예화 시 4명)의 타겟에게 튕기며 튕길때마다 대미지가 25%씩 감소. 또한 공격당한 적은 아주 잠깐(0.25초)구속당한다." 
           potential="배치 비용 -1/재배치 시간 -4/공격력 +28/재능 강화(+3%)/배치 비용 -1">
@@ -543,6 +559,14 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Elite2 info="NULL" submat="용문폐/120000/SP_1/3/KT_1/7/PS_2/11" />
       <Producer illustrator="竜崎いち" artistlink="https://www.pixiv.net/users/563034" voice="Saori Hayami" vlink="https://www.google.com/search?q=Voice+Actor+Saori%20Hayami"/>
       <Costume type="NULL" name=""/>
+    </Info>
+    <Info id="0" name="씬" en_name="Scene" rare="5" group="로도스" gender="여성" position="원거리" Class="서포터" tags="소환/지원" trust="200/0/35/0" specificity="공격이 마법 피해를 입힌다."
+          potential="배치 비용 -1/재배치 시간 -4초/마법 저항 +8/재배치 시간-6초/배치 비용 -1">
+      <Ability unlock="E1" name="촬영 소대" info="4개의 이동 촬영 차량(최대 4개 동시배치)를 배치하고, 차량은 주변 8칸 내 적의 은신 상태를 해제시킨다" />
+      <Elite1 info="NULL" submat="용문폐/20000/SP_3/4/KT_3/4/RC_3/4" />
+      <Elite2 info="NULL" submat="용문폐/120000/SP_1/3/AC_1/9/MG_2/12" />
+      <Producer illustrator="アシマ" artistlink="https://www.google.com/search?q=illustrator+%E3%82%A2%E3%82%B7%E3%83%9E" 
+                voice="天野聪美" vlink="https://www.google.com/search?q=Voice+Actor+%E5%A4%A9%E9%87%8E%E8%81%AA%E7%BE%8E"/>
     </Info>
     <Info id="0" name="샤마르" en_name="Shamare" rare="5" group="로도스" gender="여성" position="원거리" Class="서포터" tags="지원형/힐러" trust="0/50/20/0" specificity="적에게 마법 피해를 입힌다." 
           potential="배치 비용 -1/재배치 시간 -4초/마법 저항력 +8/재능 향상 ([쇠약] +3%)/배치 비용 -1">
@@ -1042,6 +1066,11 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Ability unlock="E0" name="전술 정리·Ⅰ" info="배치 후 10초간 모든 아군 [근거리] 유닛의 공격력과 방어력 +10%" />
       <Producer illustrator="TOKI" artistlink="https://www.artstation.com/kellytoki" />
       <Costume type="NULL" name=""/>
+    </Info>
+     <Info id="0" name="THRM-EX" en_name="Thermal-EX" rare="1" group="로도스" gender="남성" position="근거리" Class="가드" tags="누커" trust="0/90/0/0" specificity="공격하지 않고, 배치 인원 수 제한을 받지 않으나, 재배치 시간이 매우 길다"
+  potential="재능 향상(20%, 8%)/재능 향상(20%, 3%)/재능 향상(20%, 3%)/재능 향상(20%, 3%)/재능 향상(20%, 3%)">
+      <Ability unlock="E0" name="지연 폭발I~VI" info="배치 3초 후 주변의 8칸 내의 모든 적에게 공격력의 300%에 해당하는 물리적 피해를 입히고 8초 동안 [취약] 상태 이상을 가함(피해량 10% 증가) 이후 스스로 강제 퇴각." />
+      <Producer illustrator="TOKI" artistlink="https://www.artstation.com/kellytoki" />
     </Info>
   </rare_1>
 </ChractorList>
