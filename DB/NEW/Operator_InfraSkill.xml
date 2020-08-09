@@ -115,6 +115,10 @@
     <Infra id="1" name="바이오닉 씨 드래곤" lock="E2" icon="" target="제조소" info="제조소 배치 시 현재 제조소의 다른 오퍼레이터가 제공하는 생산력은 모두 0이 되며 해당 제조소의 생산력은 발전소의 갯수마다 생산 속도 &lt;color=#34BBFF&gt;+15%&lt;/color&gt;가 된다"/>
   </Info>
 
+  <Info name="키아브" en_name="Chiave">
+    <Infra id="1" name="개발중" lock="E0" icon="" target="응접실" info="개발중"/>
+    <Infra id="1" name="개발중" lock="E2" icon="" target="응접실" info="개발중"/>
+  </Info>
   <Info name="엘리시움" en_name="Elysium">
     <Infra id="1" name="특파원" lock="E0" icon="" target="응접실" info="응접실에 배치 시, 로도스 아일랜드[7번] 단서 획득 확률 상승"/>
     <Infra id="1" name="깃발 꽂기" lock="E2" icon="" target="응접실" info="응접실에 배치 시, 새로 수집된 단서가 로도스 아일랜드 단서가 아닐 때마다 로도스 아일랜드[7번] 단서 획득 확률 상승"/>
@@ -205,6 +209,10 @@
   <Info name="아미야" en_name="Amiya">
     <Infra id="1" name="협력협정" lock="E0" icon="" target="통제실" info="제어센터에 배치 시, 모든 무역소의 오더 수주 효율+7% (동종 효과 중 가장 높은 수치만 적용)"/>
     <Infra id="2" name="바이올린 독주" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 숙소 내 모든 오퍼레이터들의 컨디션 시간당 +0.15 회복"/>
+  </Info>
+  <Info name="비즈왁스" en_name="Beeswax">
+    <Infra id="1" name="캐스터 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
+    <Infra id="1" name="캐스터 마스터리 β" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 훈련 속도 &lt;color=#34BBFF&gt;+50%&lt;/color&gt;"/>
   </Info>
   <Info name="레이즈" en_name="Leizi">
     <Infra id="1" name="지찰" lock="E0" icon="" target="통제실" info="제어센터에 배치 시, 응접실 오퍼레이터들의 단서 특화 효과를 소폭 강화 시키지만, 통제실 내 오퍼레이터들의 피로도 소모를 조금 높인다."/>
@@ -313,6 +321,10 @@
     <Infra id="1" name="카란성녀" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 해당 숙소 안에 자신을 제외하고 컨디션이 가득차지 않은 임의 오퍼레이터의 시간당 컨디션 회복 속도 +0.5(동종 효과 중 가장 높은 수치만 적용), 동시에 자신의 시간당 컨디션 회복 속도 +0.25"/>
     <Infra id="2" name="서포터 마스터리·β" lock="E2" icon="" target="훈련실" info="훈련실 배치 시, 서포터 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+50%&lt;/color&gt;"/>
   </Info>
+  <Info name="씬" en_name="Scene">
+    <Infra id="1" name="지연 촬영" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 생산력 +15%, 이후 매 시간 마다 +2%, 최대 +25%"/>
+    <Infra id="2" name="비디오 편집" lock="E2" icon="" target="제조소" info="제조소에 배치 시, 작전 기록류 최대 생산량 +12"/>
+  </Info>
   <Info name="샤마르" en_name="Shamare">
     <Infra id="1" name="재봉·α" lock="E0" icon="" target="무역소" info="무역소 배치 시, 고품질 귀금속 주문의 출현 확률 소폭 증가, 시간당 피로도 소모 -0.25"/>
     <Infra id="2" name="속삭임" lock="E2" icon="" target="무역소" info="무역소 배치 시, 현재 무역소에서 다른 인원이 제공하는 오더 수주 효율은 모두 0이 되며, 각 인원은 +45%의 오더 수주 효율을 가진다. 무역소 전원의 시간당 피로도 소모 +0.25"/>
@@ -393,8 +405,8 @@
     <Infra id="2" name="작전 지도 비디오" lock="E1" icon="" target="제조소" info="제조소 배치 시, 작전 기록류에 대한 생산력 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
   </Info>
   <Info name="버메일" en_name="Vermail">
-    <Infra id="1" name="청소부" lock="E0" icon="" target="제조소" info="제조소 배치 시, 최대 생산량 +8 및 시간당 컨디션 소모 -0.25"/>
-    <Infra id="2" name="재활용" lock="E1" icon="" target="제조소" info="제조소 배치 시, 현재 제조소에 배치된 오퍼레이터들이 늘린 최대 생산량 1당 생산력 +2%"/>
+    <Infra id="1" name="부랑자" lock="E0" icon="" target="제조소" info="제조소 배치 시, 창고 용량 상한 +8, 시간당 컨디션 소모 -0.25"/>
+    <Infra id="2" name="재활용" lock="E1" icon="" target="제조소" info="제조소 배치 시, 해당 제조소 내의 오퍼레이터가 늘린 창고 용량마다 생산력 +2% 제공"/>
   </Info>
   
   <Info name="가비알" en_name="Gavial">
@@ -622,5 +634,9 @@
   <Info name="CASTLE-3" en_name="Castle-3">
     <Infra id="1" name="예비 에너지" lock="E0" icon="" target="발전소" info="발전소에 배치 시, 드론 회복 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
     <Infra id="2" name="작전 지도 비디오" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 작전기록류 생산력 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
+  </Info>
+  <Info name="THRM-EX" en_name="Thermal-EX">
+    <Infra id="1" name="예비 에너지" lock="E0" icon="" target="발전소" info="발전소에 배치 시, 드론 회복 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
+    <Infra id="2" name="끓어오르는 열정" lock="E0" icon="" target="발전소" info="발전소에 배치시, 시간당 컨디션 소모 &lt;color=#34BBFF&gt;-0.52&lt;/color&gt;"/>
   </Info>
 </ChractorList>

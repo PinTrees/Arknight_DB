@@ -958,6 +958,30 @@
     </Info>
   </rare_6>
   <rare_5>
+    <Info id="1" code="Chiave" name="돌격지령γ" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="배치 코스트 /즉시 획득">
+      <lv lv="1" lv_n="E0_1" data="12" sp="44" fsp="10" eft="0" />
+      <lv lv="2" lv_n="E0_1" data="12" sp="43" fsp="11" eft="0" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="12" sp="42" fsp="12" eft="0" sub="SB_1/GT_4" subC="4/4" />
+      <lv lv="4" lv_n="E0_1" data="12" sp="41" fsp="13" eft="0" sub="SB_2/RC_3" subC="6/4" />
+      <lv lv="5" lv_n="E1_1" data="12" sp="40" fsp="14" eft="0" sub="SB_2/SG_3" subC="6/5" />
+      <lv lv="6" lv_n="E1_1" data="12" sp="39" fsp="15" eft="0" sub="SB_2/KT_2" subC="6/4" />
+      <lv lv="7" lv_n="E1_1" data="12" sp="38" fsp="16" eft="0" sub="SB_3/MG_2/RM_2" subC="6/2/3" />
+      <lv lv="8" lv_n="E2_1" data="12" sp="37" fsp="17" eft="0" sub="SB_3/JL_1/RC_2" subC="6/3/6" />
+      <lv lv="9" lv_n="E2_1" data="12" sp="36" fsp="18" eft="0" sub="SB_3/RM_1/GT_1" subC="6/3/4" />
+      <lv lv="10" lv_n="E2_1" data="12" sp="35" fsp="20" eft="0" sub="SB_3/D32/XI_1" subC="10/4/3" />
+    </Info>
+    <Info id="2" code="Chiave" name="화염 제거" rang="1" need="E1" type="AUTO" tirrger="MANU" info="배치 코스트 /즉시 획득, 범위 내 모든 적에게 /의 /를 입히고 /초 동안 대상의 마법 저항력 /">
+      <lv lv="1" lv_n="E1_1" data="10/220%/마법 피해/5/10%" sp="45" fsp="25" eft="5" />
+      <lv lv="2" lv_n="E1_1" data="10/220%/마법 피해/5/10%" sp="45" fsp="26" eft="5" />
+      <lv lv="3" lv_n="E1_1" data="10/220%/마법 피해/5/10%" sp="45" fsp="27" eft="5" />
+      <lv lv="4" lv_n="E1_1" data="10/220%/마법 피해/6/10%" sp="45" fsp="28" eft="6" />
+      <lv lv="5" lv_n="E1_1" data="10/220%/마법 피해/6/10%" sp="45" fsp="29" eft="6" />
+      <lv lv="6" lv_n="E1_1" data="10/220%/마법 피해/6/10%" sp="45" fsp="30" eft="6" />
+      <lv lv="7" lv_n="E1_1" data="10/220%/마법 피해/7/10%" sp="45" fsp="31" eft="7" />
+      <lv lv="8" lv_n="E2_1" data="10/220%/마법 피해/7/10%" sp="45" fsp="32" eft="7" sub="SB_3/XI_1/XG_2" subC="5/3/1" />
+      <lv lv="9" lv_n="E2_1" data="10/220%/마법 피해/7/10%" sp="45" fsp="33" eft="7" sub="SB_3/RM_1/MG_1" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="10/220%/마법 피해/8/10%" sp="45" fsp="35" eft="8" sub="SB_3/BN/PS_1" subC="10/4/4" />
+    </Info>
     <Info id="1" code="Elysium" name="지원호령γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격을 중지하고, /코스트를 지속시간 동안 회복한다.">
       <lv lv="1" lv_n="E0_1" data="18" sp="35" fsp="10" eft="8" />
       <lv lv="2" lv_n="E0_1" data="18" sp="34" fsp="10" eft="8" sub="SB_1" subC="4" />
@@ -1483,6 +1507,30 @@
       <lv lv="8" lv_n="E2_1" data="+180%/+75%/확대" sp="120" fsp="0" eft="30" sub="SB_3/PS_1/AC_2" subC="5/3/4" />
       <lv lv="9" lv_n="E2_1" data="+200%/+75%/확대" sp="120" fsp="0" eft="30" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
       <lv lv="10" lv_n="E2_1" data="+230%/+100%/확대" sp="120" fsp="0" eft="30" sub="SB_3/BN/PL_1" subC="10/4/4" />
+    </Info>
+    <Info id="1" code="Beeswax" name="모래폭풍 확산" rang="1" need="E0" type="AUTO" tirrger="MANU" info="공격 범위 /, 공격력 /">
+      <lv lv="1" lv_n="E0_1" data="확대/+10%" sp="28" fsp="6" eft="15" />
+      <lv lv="2" lv_n="E0_1" data="확대/+15%" sp="28" fsp="6" eft="15" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="확대/+20%" sp="28" fsp="6" eft="15" sub="SB_1/XI_4" subC="4/5" />
+      <lv lv="4" lv_n="E0_1" data="확대/+25%" sp="26" fsp="6" eft="16" sub="SB_2/KT_3" subC="6/3" />
+      <lv lv="5" lv_n="E1_1" data="확대/+30%" sp="26" fsp="6" eft="16" sub="SB_2/GT_3" subC="6/3" />
+      <lv lv="6" lv_n="E1_1" data="확대/+35%" sp="26" fsp="6" eft="16" sub="SB_2/XG_2" subC="6/4" />
+      <lv lv="7" lv_n="E1_1" data="확대/+40%" sp="24" fsp="8" eft="17" sub="SB_3/GT_2/JL_2" subC="6/2/3" />
+      <lv lv="8" lv_n="E2_1" data="확대/+45%" sp="22" fsp="8" eft="18" sub="SB_3/RM_1/MG_2" subC="5/3/2" />
+      <lv lv="9" lv_n="E2_1" data="확대/+50%" sp="20" fsp="8" eft="19" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
+      <lv lv="10" lv_n="E2_1" data="확대/+60%" sp="18" fsp="8" eft="20" sub="SB_3/AG/MG_1" subC="10/4/4" />
+    </Info>
+    <Info id="2" code="Beeswax" name="방어 오벨리스크" rang="1" need="E1" type="AUTO" tirrger="MANU" info="공격 범위 내에 지상의 적을 저지할 수 있는 오벨리스크를 소환, 오벨리스크가 소환된 상태에서는 근처의 적들에게 공격력의 /만큼의 /를 주고 /초간 기절시킨다">
+      <lv lv="1" lv_n="E1_1" data="170%/마법 피해/1" sp="30" fsp="10" eft="20" />
+      <lv lv="2" lv_n="E1_1" data="180%/마법 피해/1" sp="30" fsp="10" eft="20" />
+      <lv lv="3" lv_n="E1_1" data="190%/마법 피해/1" sp="30" fsp="10" eft="20" />
+      <lv lv="4" lv_n="E1_1" data="200%/마법 피해/1" sp="28" fsp="10" eft="20" />
+      <lv lv="5" lv_n="E1_1" data="210%/마법 피해/1" sp="28" fsp="10" eft="20" />
+      <lv lv="6" lv_n="E1_1" data="220%/마법 피해/1" sp="28" fsp="10" eft="20" />
+      <lv lv="7" lv_n="E1_1" data="230%/마법 피해/1.5" sp="26" fsp="10" eft="20" />
+      <lv lv="8" lv_n="E2_1" data="250%/마법 피해/2" sp="24" fsp="10" eft="20" sub="SB_3/JL_1/RC_2" subC="5/3/6" />
+      <lv lv="9" lv_n="E2_1" data="270%/마법 피해/2.5" sp="22" fsp="10" eft="20" sub="SB_3/PS_1/AC_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="300%/마법 피해/3" sp="20" fsp="10" eft="20" sub="SB_3/D32/GT_1" subC="10/4/3" />
     </Info>
     <Info id="1" code="Leizi" name="공격강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /">
       <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="30" />
@@ -2111,6 +2159,32 @@
       <lv lv="8" lv_n="E2_1" data="-50%/-26%" sp="40" fsp="17" eft="20" sub="SB_3/SG_1/RM_2" subC="5/3/3" />
       <lv lv="9" lv_n="E2_1" data="-55%/-26%" sp="40" fsp="18" eft="22" sub="SB_3/XI_1/SG_1" subC="6/3/5" />
       <lv lv="10" lv_n="E2_1" data="-60%/-30%" sp="40" fsp="20" eft="25" sub="SB_3/BN/XI_1" subC="10/4/3" />
+    </Info>
+    <Info id="1" code="Scene" name="보호색 은폐" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="모든 촬영 차량 공격력 /, / 획득 (적을 저지하지 않으면 원거리 공격의 목표물이 되지 않지만, 스플래시 공격에는 대미지를 입는다)
+지속시간 무한">
+      <lv lv="1" lv_n="E0_1" data="+10%/은신효과" sp="90" fsp="0" eft="999" />
+      <lv lv="2" lv_n="E0_1" data="+10%/은신효과" sp="87" fsp="0" eft="999" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="+10%/은신효과" sp="84" fsp="0" eft="999" sub="SB_1/KT_4" subC="4/5" />
+      <lv lv="4" lv_n="E0_1" data="+20%/은신효과" sp="81" fsp="0" eft="999" sub="SB_2/GT_3" subC="6/2" />
+      <lv lv="5" lv_n="E1_1" data="+20%/은신효과" sp="78" fsp="0" eft="999" sub="SB_2/RC_3" subC="6/8" />
+      <lv lv="6" lv_n="E1_1" data="+20%/은신효과" sp="75" fsp="0" eft="999" sub="SB_2XI_2" subC="6/4" />
+      <lv lv="7" lv_n="E1_1" data="+30%/은신효과" sp="72" fsp="0" eft="999" sub="SB_3/AC_2/KT_2" subC="6/3/3" />
+      <lv lv="8" lv_n="E2_1" data="+40%/은신효과" sp="69" fsp="0" eft="999" sub="SB_3/RC_1/PS_2" subC="5/3/4" />
+      <lv lv="9" lv_n="E2_1" data="+50%/은신효과" sp="66" fsp="0" eft="999" sub="SB_3/PS_1/AC_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="+60%/은신효과" sp="60" fsp="0" eft="999" sub="SB_3/D32/GT_1" subC="10/4/3" />
+    </Info>
+    <Info id="2" code="Scene" name="파노라마 촬영" rang="0" need="E1" type="AUTO" tirrger="MANU" info="즉시 차량을 /대 획득하며, 모든 차량들의 정찰 범위 /, 공격력 /, 방어력 /, 마법 저항력 /
+스킬이 종료되면 모든 촬영 차량들이 /초간 기절">
+      <lv lv="1" lv_n="E1_1" data="1/확대/+50%/+50%/+10/*5" sp="30" fsp="5" eft="15" />
+      <lv lv="2" lv_n="E1_1" data="1/확대/+55%/+55%/+10/*5" sp="30" fsp="5" eft="15" />
+      <lv lv="3" lv_n="E1_1" data="1/확대/+60%/+60%/+10/*5" sp="30" fsp="5" eft="15" />
+      <lv lv="4" lv_n="E1_1" data="1/확대/+65%/+65%/+10/*5" sp="30" fsp="7" eft="16" />
+      <lv lv="5" lv_n="E1_1" data="1/확대/+70%/+70%/+10/*5" sp="30" fsp="7" eft="16" />
+      <lv lv="6" lv_n="E1_1" data="1/확대/+75%/+75%/+10/*5" sp="30" fsp="7" eft="16" />
+      <lv lv="7" lv_n="E1_1" data="1/확대/+80%/+80%/+15/*5" sp="30" fsp="9" eft="17" />
+      <lv lv="8" lv_n="E2_1" data="1/확대/+95%/+95%/+15/*5" sp="30" fsp="11" eft="18" sub="SB_3/XG_1/RM_2" subC="5/3/3" />
+      <lv lv="9" lv_n="E2_1" data="1/확대/+110%/+110%/+15/*5" sp="30" fsp="13" eft="19" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="1/확대/+130%/+130%/+20/*5" sp="30" fsp="15" eft="20" sub="SB_3/D32/JL_1" subC="10/4/4" />
     </Info>
     <Info id="1" code="Shamare" name="고황에 든 병" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="공격력 /, 재능의 피해 배율 /배로 향상, 지속시간 무한">
       <lv lv="1" lv_n="E0_1" data="+20%/1.3" sp="90" fsp="0" eft="999" />

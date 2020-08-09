@@ -30,6 +30,7 @@
   <Info_Default name="팬텀" rang="1" maxlevel="90" base_hp="1283" max_hp="1645" base_atk="435" max_atk="558" base_def="270" max_def="322" base_mdef="0" max_mdef="0" redeploy="18" cost="10" block="1" attack_time="0.93" />
   <Info_Default name="위디" rang="1" maxlevel="90" base_hp="1663" max_hp="2133" base_atk="548" max_atk="677" base_def="327" max_def="394" base_mdef="0" max_mdef="0" redeploy="70" cost="21" block="2" attack_time="1.2" />
 
+  <Info_Default name="키아브" rang="1" maxlevel="80" base_hp="1276" max_hp="1824" base_atk="428" max_atk="522" base_def="273" max_def="342" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="2" attack_time="1.05" />
   <Info_Default name="엘리시움" rang="1" maxlevel="80" base_hp="1218" max_hp="1669" base_atk="447" max_atk="533" base_def="284" max_def="335" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="1" attack_time="1.3" />
   <Info_Default name="텍사스" rang="1" maxlevel="80" base_hp="1365" max_hp="1950" base_atk="410" max_atk="500" base_def="274" max_def="343" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="2" attack_time="1.05" />
   <Info_Default name="지마" rang="1" maxlevel="80" base_hp="1505" max_hp="2150" base_atk="376" max_atk="470" base_def="290" max_def="350" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="2" attack_time="1.05" />
@@ -54,6 +55,7 @@
 
   <Info_Default name="압생트" rang="2" maxlevel="80" base_hp="1150" max_hp="1420" base_atk="531" max_atk="633" base_def="111" max_def="124" base_mdef="20" max_mdef="20" redeploy="80" cost="22" block="1" attack_time="1.6" />
   <Info_Default name="아미야" rang="2" maxlevel="80" base_hp="1198" max_hp="1480" base_atk="514" max_atk="612" base_def="110" max_def="121" base_mdef="20" max_mdef="20" redeploy="70" cost="20" block="1" attack_time="1.6" />
+  <Info_Default name="비즈왁스" rang="17" maxlevel="80" base_hp="1644" max_hp="2005" base_atk="632" max_atk="735" base_def="178" max_def="205" base_mdef="15" max_mdef="15" redeploy="70" cost="23" block="1" attack_time="2" />
   <Info_Default name="레이즈" rang="2" maxlevel="80" base_hp="1096" max_hp="1443" base_atk="475" max_atk="573" base_def="99" max_def="119" base_mdef="20" max_mdef="20" redeploy="70" cost="32" block="1" attack_time="2.3" />
   <Info_Default name="레온하르트" rang="7" maxlevel="80" base_hp="1209" max_hp="1550" base_atk="593" max_atk="707" base_def="100" max_def="120" base_mdef="20" max_mdef="20" redeploy="70" cost="33" block="1" attack_time="2.9" />
   <Info_Default name="나이트메어" rang="2" maxlevel="80" base_hp="1223" max_hp="1510" base_atk="522" max_atk="622" base_def="107" max_def="120" base_mdef="20" max_mdef="20" redeploy="70" cost="20" block="1" attack_time="1.6" />
@@ -83,6 +85,7 @@
   <Info_Default name="글라우쿠스" rang="5" maxlevel="80" base_hp="1013" max_hp="1267" base_atk="419" max_atk="505" base_def="84" max_def="100" base_mdef="20" max_mdef="20" redeploy="70" cost="15" block="1" attack_time="1.9" />
   <Info_Default name="메이어" rang="2" maxlevel="80" base_hp="843" max_hp="1068" base_atk="380" max_atk="443" base_def="107" max_def="130" base_mdef="20" max_mdef="20" redeploy="70" cost="11" block="1" attack_time="1.6" />
   <Info_Default name="프라마닉스" rang="15" maxlevel="80" base_hp="1251" max_hp="1605" base_atk="356" max_atk="430" base_def="89" max_def="102" base_mdef="25" max_mdef="25" redeploy="70" cost="12" block="1" attack_time="1.6" />
+  <Info_Default name="씬" rang="2" maxlevel="80" base_hp="872" max_hp="1105" base_atk="371" max_atk="432" base_def="128" max_def="155" base_mdef="20" max_mdef="20" redeploy="70" cost="11" block="1" attack_time="1.6" />
   <Info_Default name="샤마르" rang="15" maxlevel="80" base_hp="1347" max_hp="1728" base_atk="338" max_atk="408" base_def="92" max_def="105" base_mdef="25" max_mdef="25" redeploy="70" cost="12" block="1" attack_time="1.6" />
   <Info_Default name="소라" rang="17" maxlevel="80" base_hp="1017" max_hp="1356" base_atk="278" max_atk="335" base_def="190" max_def="238" base_mdef="0" max_mdef="0" redeploy="70" cost="7" block="1" attack_time="1.0" />
   <Info_Default name="츠키노기" rang="15" maxlevel="80" base_hp="1263" max_hp="1620" base_atk="319" max_atk="385" base_def="154" max_def="175" base_mdef="25" max_mdef="25" redeploy="70" cost="12" block="1" attack_time="1.6" />

@@ -30,6 +30,7 @@
   <Info_Default name="팬텀" rang="1" maxlevel="50" base_hp="769" max_hp="1026" base_atk="215" max_atk="317" base_def="144" max_def="207" base_mdef="0" max_mdef="0" redeploy="18" cost="8" block="1" attack_time="0.93" />
   <Info_Default name="위디" rang="1" maxlevel="50" base_hp="984" max_hp="1313" base_atk="295" max_atk="411" base_def="163" max_def="248" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="2" attack_time="1.2" />
 
+  <Info_Default name="키아브" rang="1" maxlevel="50" base_hp="679" max_hp="931" base_atk="212" max_atk="312" base_def="138" max_def="207" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="2" attack_time="1.05" />
   <Info_Default name="엘리시움" rang="1" maxlevel="50" base_hp="702" max_hp="962" base_atk="237" max_atk="339" base_def="154" max_def="215" base_mdef="0" max_mdef="0" redeploy="70" cost="9" block="1" attack_time="1.3" />
   <Info_Default name="텍사스" rang="1" maxlevel="50" base_hp="727" max_hp="996" base_atk="203" max_atk="299" base_def="139" max_def="208" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="2" attack_time="1.05" />
   <Info_Default name="지마" rang="1" maxlevel="50" base_hp="812" max_hp="1128" base_atk="183" max_atk="274" base_def="147" max_def="211" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="2" attack_time="1.05" />
@@ -54,6 +55,7 @@
 
   <Info_Default name="압생트" rang="7" maxlevel="50" base_hp="619" max_hp="885" base_atk="286" max_atk="403" base_def="47" max_def="80" base_mdef="10" max_mdef="10" redeploy="80" cost="20" block="1" attack_time="1.6" />
   <Info_Default name="아미야" rang="7" maxlevel="50" base_hp="699" max_hp="958" base_atk="276" max_atk="390" base_def="48" max_def="81" base_mdef="10" max_mdef="10" redeploy="70" cost="18" block="1" attack_time="1.6" />
+  <Info_Default name="비즈왁스" rang="16" maxlevel="50" base_hp="1052" max_hp="1315" base_atk="378" max_atk="505" base_def="131" max_def="153" base_mdef="15" max_mdef="15" redeploy="70" cost="21" block="1" attack_time="2" />
   <Info_Default name="레이즈" rang="7" maxlevel="50" base_hp="590" max_hp="843" base_atk="266" max_atk="370" base_def="47" max_def="72" base_mdef="10" max_mdef="10" redeploy="70" cost="29" block="1" attack_time="2.3" />
   <Info_Default name="레온하르트" rang="6" maxlevel="50" base_hp="696" max_hp="967" base_atk="328" max_atk="462" base_def="47" max_def="72" base_mdef="10" max_mdef="10" redeploy="70" cost="30" block="1" attack_time="2.9" />
   <Info_Default name="나이트메어" rang="7" maxlevel="50" base_hp="658" max_hp="941" base_atk="281" max_atk="396" base_def="45" max_def="77" base_mdef="10" max_mdef="10" redeploy="70" cost="18" block="1" attack_time="1.6" />
@@ -83,6 +85,7 @@
   <Info_Default name="글라우쿠스" rang="5" maxlevel="50" base_hp="592" max_hp="800" base_atk="213" max_atk="314" base_def="45" max_def="65" base_mdef="10" max_mdef="10" redeploy="70" cost="13" block="1" attack_time="1.9" />
   <Info_Default name="메이어" rang="7" maxlevel="50" base_hp="480" max_hp="649" base_atk="199" max_atk="285" base_def="56" max_def="80" base_mdef="15" max_mdef="15" redeploy="70" cost="9" block="1" attack_time="1.6" />
   <Info_Default name="프라마닉스" rang="5" maxlevel="50" base_hp="629" max_hp="925" base_atk="193" max_atk="277" base_def="46" max_def="67" base_mdef="15" max_mdef="15" redeploy="70" cost="10" block="1" attack_time="1.6" />
+  <Info_Default name="씬" rang="7" maxlevel="50" base_hp="496" max_hp="671" base_atk="194" max_atk="278" base_def="67" max_def="96" base_mdef="15" max_mdef="15" redeploy="70" cost="9" block="1" attack_time="1.6" />
   <Info_Default name="샤마르" rang="5" maxlevel="50" base_hp="677" max_hp="996" base_atk="184" max_atk="263" base_def="48" max_def="70" base_mdef="15" max_mdef="15" redeploy="70" cost="10" block="1" attack_time="1.6" />
   <Info_Default name="소라" rang="16" maxlevel="50" base_hp="519" max_hp="742" base_atk="133" max_atk="208" base_def="95" max_def="142" base_mdef="0" max_mdef="0" redeploy="70" cost="5" block="1" attack_time="1.0" />
   <Info_Default name="츠키노기" rang="5" maxlevel="50" base_hp="635" max_hp="934" base_atk="173" max_atk="248" base_def="81" max_def="117" base_mdef="15" max_mdef="15" redeploy="70" cost="10" block="1" attack_time="1.6" />
@@ -170,4 +173,5 @@
 
   <Info_Default name="LANCET-2" rang="2" maxlevel="30" base_hp="261" max_hp="435" base_atk="42" max_atk="70" base_def="16" max_def="27" base_mdef="0" max_mdef="0" redeploy="200" cost="3" block="1" attack_time="2.85" />
   <Info_Default name="CASTLE-3" rang="1" maxlevel="30" base_hp="862" max_hp="1106" base_atk="221" max_atk="316" base_def="63" max_def="90" base_mdef="0" max_mdef="0" redeploy="200" cost="3" block="1" attack_time="1.5" />
+  <Info_Default name="THRM-EX" rang="1" maxlevel="30" base_hp="1154" max_hp="1443" base_atk="208" max_atk="260" base_def="354" max_def="443" base_mdef="50" max_mdef="50" redeploy="200" cost="3" block="1" attack_time="0.93" />
 </ChractorList>
