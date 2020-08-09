@@ -1520,7 +1520,7 @@
       <lv lv="9" lv_n="E2_1" data="확대/+50%" sp="20" fsp="8" eft="19" sub="SB_3/AC_1/KT_1" subC="6/3/5" />
       <lv lv="10" lv_n="E2_1" data="확대/+60%" sp="18" fsp="8" eft="20" sub="SB_3/AG/MG_1" subC="10/4/4" />
     </Info>
-    <Info id="2" code="Beeswax" name="방어 오벨리스크" rang="1" need="E1" type="AUTO" tirrger="MANU" info="공격 범위 내에 지상의 적을 저지할 수 있는 오벨리스크를 소환, 오벨리스크가 소환된 상태에서는 근처의 적들에게 공격력의 /만큼의 /를 주고 /초간 기절시킨다">
+    <Info id="2" code="Beeswax" name="방어 오벨리스크" rang="0" need="E1" type="AUTO" tirrger="MANU" info="공격 범위 내에 지상의 적을 저지할 수 있는 오벨리스크를 소환, 오벨리스크가 소환된 상태에서는 근처의 적들에게 공격력의 /만큼의 /를 주고 /초간 기절시킨다">
       <lv lv="1" lv_n="E1_1" data="170%/마법 피해/1" sp="30" fsp="10" eft="20" />
       <lv lv="2" lv_n="E1_1" data="180%/마법 피해/1" sp="30" fsp="10" eft="20" />
       <lv lv="3" lv_n="E1_1" data="190%/마법 피해/1" sp="30" fsp="10" eft="20" />
