@@ -66,6 +66,8 @@
   <Info name="Phantom_elite2.png" compulsion="0" />
   <Info name="Weedy.png" compulsion="0" />
   <Info name="Weedy_elite2.png" compulsion="0" />
+  <Info name="Chiave.png" compulsion="0" />
+  <Info name="Chiave_elite2.png" compulsion="0" />
   <Info name="Elysium.png" compulsion="0" />
   <Info name="Elysium_elite2.png" compulsion="0" />
   <Info name="Texas.png" compulsion="0" />
@@ -119,6 +121,8 @@
   <Info name="Amiya_elite2.png" compulsion="0" />
   <Info name="Amiya_c1.png" compulsion="0" />
   <Info name="Amiya_c2.png" compulsion="0" />
+  <Info name="Beeswax.png" compulsion="0" />
+  <Info name="Beeswax_elite2.png" compulsion="0" />
   <Info name="Leizi.png" compulsion="0" />
   <Info name="Leizi_elite2.png" compulsion="0" />
   <Info name="Leonhardt.png" compulsion="0" />
@@ -178,6 +182,8 @@
   <Info name="Pramanix.png" compulsion="0" />
   <Info name="Pramanix_elite2.png" compulsion="0" />
   <Info name="Pramanix_c1.png" compulsion="0" />
+  <Info name="Scene.png" compulsion="0" />
+  <Info name="Scene_elite2.png" compulsion="0" />
   <Info name="Shamare.png" compulsion="0" />
   <Info name="Shamare_elite2.png" compulsion="0" />
   <Info name="Sora.png" compulsion="0" />
@@ -328,4 +334,5 @@
   <Info name="Lancet-2.png" compulsion="0" />
   <Info name="Castle-3.png" compulsion="0" />
   <Info name="Castle-3_c1.png" compulsion="0" />
+  <Info name="Thermal-EX.png" compulsion="0" />
 </FileList>

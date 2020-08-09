@@ -119,6 +119,10 @@
   <Info folder="Weedy" fileName="S1.png" />
   <Info folder="Weedy" fileName="S2.png" />
   <Info folder="Weedy" fileName="S2_R.png" />
+  <Info folder="Chiave" fileName="Icon.png" />
+  <Info folder="Chiave" fileName="S0.png" />
+  <Info folder="Chiave" fileName="S1.png" />
+  <Info folder="Chiave" fileName="S1_R.png" />
   <Info folder="Elysium" fileName="Icon.png" />
   <Info folder="Elysium" fileName="S0.png" />
   <Info folder="Elysium" fileName="S1.png" />
@@ -189,6 +193,10 @@
   <Info folder="Amiya" fileName="S1.png" />
   <Info folder="Amiya" fileName="S2.png" />
   <Info folder="Amiya" fileName="S2_R.png" />
+  <Info folder="Beeswax" fileName="Icon.png" />
+  <Info folder="Beeswax" fileName="S0.png" />
+  <Info folder="Beeswax" fileName="S0_R.png" />
+  <Info folder="Beeswax" fileName="S1.png" />
   <Info folder="Leizi" fileName="Icon.png" />
   <Info folder="Leizi" fileName="S0.png" />
   <Info folder="Leizi" fileName="S1.png" />
@@ -282,6 +290,9 @@
   <Info folder="Pramanix" fileName="Icon.png" />
   <Info folder="Pramanix" fileName="S0.png" />
   <Info folder="Pramanix" fileName="S1.png" />
+  <Info folder="Scene" fileName="Icon.png" />
+  <Info folder="Scene" fileName="S0.png" />
+  <Info folder="Scene" fileName="S1.png" />
   <Info folder="Shamare" fileName="Icon.png" />
   <Info folder="Shamare" fileName="S0.png" />
   <Info folder="Shamare" fileName="S1.png" />
@@ -484,4 +495,5 @@
   <Info folder="Noir_corne" fileName="Icon.png" />
   <Info folder="Lancet-2" fileName="Icon.png" />
   <Info folder="Castle-3" fileName="Icon.png" />
+  <Info folder="Thermal-EX" fileName="Icon.png" />
 </FileList>
