@@ -72,7 +72,7 @@
   <Info code="5_7" material="PS_2/XI_3/furniture" get="" try="" />
   <Info code="5_8" material="KT_2/KT_1/PS_2/RM_2/PL_2/PL_3/PL_4/KT_3/KT_4/furniture" get="" try="" />
   <Info code="5_9" material="RM_2/GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2/furniture" get="" try="" />
-  <Info code="5_10" material="RC_3/GT_2/furniture" get="8/0/0" try="3/3/3" />
+  <Info code="5_10" material="RC_3/GT_2/furniture" get="11/1/0" try="5/5/5" />
   <Info code="S5_1" material="EX_1/RC_3/furniture" get="" try="" />
   <Info code="S5_2" material="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4/XG_2/furniture" get="" try="" />
   <Info code="S5_3" material="PL_3/furniture" get="" try="" />
