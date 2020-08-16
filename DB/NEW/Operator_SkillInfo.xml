@@ -621,6 +621,44 @@
       <lv lv="9" lv_n="E2_1" data="90%/2/3" sp="37" fsp="15" eft="14" sub="SB_3/AC_1/KT_1" subC="12/4/8" />
       <lv lv="10" lv_n="E2_1" data="100%/2/3" sp="35" fsp="15" eft="15" sub="SB_3/BN/PS_1" subC="15/6/5" />
     </Info>
+    <Info id="1" code="Thorns" name="공격 강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /">
+      <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="30" />
+      <lv lv="2" lv_n="E0_1" data="+35%" sp="40" fsp="30" sub="SB_1" subC="5" />
+      <lv lv="3" lv_n="E0_1" data="+40%" sp="40" fsp="30" sub="SB_1/XI_4/SG_4" subC="5/5/4" />
+      <lv lv="4" lv_n="E0_1" data="+45%" sp="37" fsp="30" sub="SB_2/KT_3" subC="8/4" />
+      <lv lv="5" lv_n="E1_1" data="+50%" sp="37" fsp="30" sub="SB_2/GT_3/PL_3" subC="8/3/3" />
+      <lv lv="6" lv_n="E1_1" data="+55%" sp="37" fsp="30" sub="SB_2/RC_2" subC="8/8" />
+      <lv lv="7" lv_n="E1_1" data="+60%" sp="35" fsp="30" sub="SB_3/KT_2/AC_2" subC="8/3/6" />
+      <lv lv="8" lv_n="E2_1" data="+75%" sp="34" fsp="30" sub="SB_3/KT_1/JL_2" subC="8/4/4" />
+      <lv lv="9" lv_n="E2_1" data="+90%" sp="33" fsp="30" sub="SB_3/XG_1/RM_1" subC="12/4/8" />
+      <lv lv="10" lv_n="E2_1" data="+100%" sp="30" fsp="30" sub="SB_3/AG/MG_1" subC="15/6/6" />
+    </Info>
+    <Info id="2" code="Thorns" name="호신용 가시" rang="1" need="E1" type="AUTO" tirrger="MANU" info="/, 공격력 /, 방어력 /, 적의 공격을 받았을 때 날카로운 가시를 풀어 전방의 최대 /명의 적에게 1회 원거리 공격을 가한다.(/초당 최대 1회)">
+      <lv lv="1" lv_n="E1_1" data="*공격 중지/+30%/+40%/4/0.8" sp="35" fsp="10" eft="30" />
+      <lv lv="2" lv_n="E1_1" data="*공격 중지/+30%/+45%/4/0.8" sp="34" fsp="10" eft="31" />
+      <lv lv="3" lv_n="E1_1" data="*공격 중지/+30%/+50%/4/0.8" sp="33" fsp="10" eft="32" />
+      <lv lv="4" lv_n="E1_1" data="*공격 중지/+30%/+55%/4/0.8" sp="32" fsp="10" eft="33" />
+      <lv lv="5" lv_n="E1_1" data="*공격 중지/+30%/+60%/4/0.8" sp="31" fsp="10" eft="34" />
+      <lv lv="6" lv_n="E1_1" data="*공격 중지/+30%/+65%/4/0.8" sp="30" fsp="10" eft="35" />
+      <lv lv="7" lv_n="E1_1" data="*공격 중지/+40%/+70%/4/0.75" sp="29" fsp="10" eft="36" />
+      <lv lv="8" lv_n="E2_1" data="*공격 중지/+45%/+80%/4/0.7" sp="28" fsp="10" eft="37" sub="SB_3/AC_1/KT_2" subC="8/4/8" />
+      <lv lv="9" lv_n="E2_1" data="*공격 중지/+50%/+90%/4/0.65" sp="27" fsp="10" eft="38" sub="SB_3/GT_1/XI_1" subC="12/3/6" />
+      <lv lv="10" lv_n="E2_1" data="*공격 중지/+60%/+110%/4/0.6" sp="25" fsp="10" eft="40" sub="SB_3/BN/KT_1" subC="15/6/5" />
+    </Info>
+    <Info id="3" code="Thorns" name="데스트레자" rang="1" need="E2" type="ATK" tirrger="MANU" info="공격범위 /, 공격력 +26%, 공격속도 +12, 원거리 공격 시 공격력이 저하되지 않는다.
+2회 이상 스킬 사용 시 능력치 증가가 처음의 2배가 되며 지속시간이 /이 된다">
+      <lv lv="1" lv_n="E2_1" data="확대/+26%/+12/2/2/무한" sp="15" fsp="0" eft="30" />
+      <lv lv="2" lv_n="E2_1" data="확대/+28%/+12/2/2/무한" sp="15" fsp="0" eft="30" />
+      <lv lv="3" lv_n="E2_1" data="확대/+30%/+12/2/2/무한" sp="15" fsp="0" eft="30" />
+      <lv lv="4" lv_n="E2_1" data="확대/+33%/+14/2/2/무한" sp="15" fsp="0" eft="30" />
+      <lv lv="5" lv_n="E2_1" data="확대/+35%/+14/2/2/무한" sp="15" fsp="0" eft="30" />
+      <lv lv="6" lv_n="E2_1" data="확대/+37%/+14/2/2/무한" sp="15" fsp="0" eft="30" />
+      <lv lv="7" lv_n="E2_1" data="확대/+40%/+16/2/2/무한" sp="15" fsp="0" eft="30" />
+      <lv lv="8" lv_n="E2_1" data="확대/+45%/+19/2/2/무한" sp="15" fsp="0" eft="30" sub="SB_3/PS_1/AC_2" subC="8/4/7" />
+      <lv lv="9" lv_n="E2_1" data="확대/+50%/+22/2/2/무한" sp="15" fsp="0" eft="30" sub="SB_3/AC_1/KT_1" subC="12/4/8" />
+      <lv lv="10" lv_n="E2_1" data="확대/+60%/+25/2/2/무한" sp="15" fsp="0" eft="30" sub="SB_3/BN/RM_1" subC="15/6/5" />
+    </Info>
+    
     <Info id="1" code="Hoshiguma" name="전의 고양" rang="0" need="E0" type="AUTO" tirrger="MANU" info="방어력 /, 공격력 /">
       <lv lv="1" lv_n="E0_1" data="+35%/+10%" sp="50" fsp="20" eft="20" />
       <lv lv="2" lv_n="E0_1" data="+40%/+10%" sp="49" fsp="20" eft="21" sub="SB_1" subC="5" />
@@ -1104,6 +1142,31 @@
       <lv lv="8" lv_n="E2_1" data="+65%/30%/1" sp="37" fsp="17" eft="27" sub="SB_3/MG_1/GT_2" subC="5/3/2" />
       <lv lv="9" lv_n="E2_1" data="+70%/35%/1" sp="36" fsp="18" eft="28" sub="SB_3/RM_1/MG_1" subC="6/3/5" />
       <lv lv="10" lv_n="E2_1" data="+80%/35%/1" sp="35" fsp="20" eft="30" sub="SB_3/D32/SG_1" subC="10/4/4" />
+    </Info>
+
+    <Info id="1" code="Andreana" name="공격강화γ" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /">
+      <lv lv="1" lv_n="E0_1" data="+30%" sp="40" fsp="0" />
+      <lv lv="2" lv_n="E0_1" data="+35%" sp="40" fsp="0" sub="SB_1" subC="4" />
+      <lv lv="3" lv_n="E0_1" data="+40%" sp="40" fsp="0" sub="SB_1/RC_4" subC="4/10" />
+      <lv lv="4" lv_n="E0_1" data="+45%" sp="37" fsp="5" sub="SB_2/SG_3" subC="6/3" />
+      <lv lv="5" lv_n="E1_1" data="+50%" sp="37" fsp="5" sub="SB_2/PL_3" subC="6/5" />
+      <lv lv="6" lv_n="E1_1" data="+55%" sp="37" fsp="5" sub="SB_2/GT_2" subC="6/3" />
+      <lv lv="7" lv_n="E1_1" data="+60%" sp="35" fsp="10" sub="SB_3/PS_2/RC_2" subC="6/2/4" />
+      <lv lv="8" lv_n="E2_1" data="+75%" sp="34" fsp="10" sub="SB_3/XG_1/RM_2" subC="5/3/3" />
+      <lv lv="9" lv_n="E2_1" data="+90%" sp="33" fsp="10" sub="SB_3/PS_1/AC_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="+100%" sp="30" fsp="15" sub="SB_3/BN/KT_1" subC="10/4/3" />
+    </Info>
+    <Info id="2" code="Andreana" name="저지 사격 전술" rang="0" need="E1" type="AUTO" tirrger="MANU" info="공격력 /, 일반 공격이 체력이 /이하인 적을 목표로 하지 않으며, 공격 받은 대상은 /초 동안 이동 속도 /">
+      <lv lv="1" lv_n="E1_1" data="+130%/*50%/3/-20%" sp="40" fsp="10" eft="30" />
+      <lv lv="2" lv_n="E1_1" data="+140%/*50%/3/-20%" sp="39" fsp="10" eft="30" />
+      <lv lv="3" lv_n="E1_1" data="+150%/*50%/3/-20%" sp="38" fsp="10" eft="30" />
+      <lv lv="4" lv_n="E1_1" data="+160%/*50%/3/-20%" sp="37" fsp="11" eft="30" />
+      <lv lv="5" lv_n="E1_1" data="+170%/*50%/3/-20%" sp="36" fsp="11" eft="30" />
+      <lv lv="6" lv_n="E1_1" data="+180%/*50%/3/-20%" sp="35" fsp="11" eft="30" />
+      <lv lv="7" lv_n="E1_1" data="+190%/*50%/4/-30%" sp="34" fsp="12" eft="30" />
+      <lv lv="8" lv_n="E2_1" data="+205%/*50%/4/-35%" sp="33" fsp="13" eft="30" sub="SB_3/KT_1/JL_2" subC="5/3/2" />
+      <lv lv="9" lv_n="E2_1" data="+220%/*50%/5/-35%" sp="32" fsp="14" eft="30" sub="SB_3/RC_1/PS_1" subC="6/3/6" />
+      <lv lv="10" lv_n="E2_1" data="+240%/*50%/6/-40%" sp="30" fsp="15" eft="30" sub="SB_3/AG/XG_1" subC="10/4/4" />
     </Info>
     <Info id="1" code="Executor" name="총구정리" rang="0" need="E0" type="AUTO" tirrger="MANU" info="공격력 /, 공격 범위 내 모든 적에게 특성 효과를 적용 시킨다.">
       <lv lv="1" lv_n="E0_1" data="+20%" sp="45" fsp="11" eft="25" />
@@ -3303,6 +3366,32 @@
       <lv lv="8" lv_n="E2_1" data="200%/10" sp="0" fsp="0" eft="10" sub="SB_3/PS_1/AC_2" subC="2/1/4" />
       <lv lv="9" lv_n="E2_1" data="220%/10" sp="0" fsp="0" eft="10" sub="SB_3/RC_1/PS_1" subC="4/2/3" />
       <lv lv="10" lv_n="E2_1" data="250%/10" sp="0" fsp="0" eft="10" sub="SB_3/BN/PL_1" subC="6/2/2" />
+    </Info>
+    <Info id="1" code="Jaye" name="집게발 자르기" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="공격력 /, 대상의 특수 능력 /초간 무효화
+지속시간 무한">
+      <lv lv="1" lv_n="E0_1" data="+15%/1" sp="8" fsp="0" eft="999" />
+      <lv lv="2" lv_n="E0_1" data="+20%/1" sp="8" fsp="0" eft="999" sub="SB_1" subC="2" />
+      <lv lv="3" lv_n="E0_1" data="+25%/1" sp="8" fsp="0" eft="999" sub="SB_1/RC_4" subC="2/5" />
+      <lv lv="4" lv_n="E0_1" data="+30%/1" sp="7" fsp="0" eft="999" sub="SB_2/SG_3" subC="3/2" />
+      <lv lv="5" lv_n="E1_1" data="+35%/1" sp="7" fsp="0" eft="999" sub="SB_2/PL_3" subC="3/3" />
+      <lv lv="6" lv_n="E1_1" data="+40%/1" sp="7" fsp="0" eft="999" sub="SB_2/GT_2" subC="3/2" />
+      <lv lv="7" lv_n="E1_1" data="+45%/1" sp="6" fsp="0" eft="999" sub="SB_3/AC_2" subC="4/3" />
+      <lv lv="8" lv_n="E2_1" data="+50%/2" sp="5" fsp="0" eft="999" sub="SB_3/MG_1/GT_2" subC="2/1/3" />
+      <lv lv="9" lv_n="E2_1" data="+60%/2" sp="5" fsp="0" eft="999" sub="SB_3/RM_1/MG_1" subC="4/2/2" />
+      <lv lv="10" lv_n="E2_1" data="+70%/2" sp="4" fsp="0" eft="999" sub="SB_3/AG/AC_1" subC="6/2/2" />
+    </Info>
+    <Info id="2" code="Jaye" name="모듬회" rang="1" need="E1" type="AUTO" tirrger="AUTO" info="공격력 /, 매 공격 시 주변 아군 유닛 1명을 피해입힌 양의 30%만큼 회복
+지속시간 무한">
+      <lv lv="1" lv_n="E1_1" data="+20%/30%" sp="12" fsp="0" eft="999" />
+      <lv lv="2" lv_n="E1_1" data="+23%/30%" sp="12" fsp="0" eft="999" />
+      <lv lv="3" lv_n="E1_1" data="+26%/30%" sp="12" fsp="0" eft="999" />
+      <lv lv="4" lv_n="E1_1" data="+30%/35%" sp="12" fsp="0" eft="999" />
+      <lv lv="5" lv_n="E1_1" data="+33%/35%" sp="12" fsp="0" eft="999" />
+      <lv lv="6" lv_n="E1_1" data="+36%/35%" sp="12" fsp="0" eft="999" />
+      <lv lv="7" lv_n="E1_1" data="+40%/40%" sp="11" fsp="0" eft="999" />
+      <lv lv="8" lv_n="E2_1" data="+50%/40%" sp="10" fsp="0" eft="999" sub="SB_3/MG_1/GT_2" subC="2/1/3" />
+      <lv lv="9" lv_n="E2_1" data="+55%/45%" sp="9" fsp="0" eft="999" sub="SB_3/XI_1/XG_1" subC="4/2/2" />
+      <lv lv="10" lv_n="E2_1" data="+60%/50%" sp="8" fsp="0" eft="999" sub="SB_3/AG/GT_1" subC="6/2/2" />
     </Info>
     <Info id="1" code="Rope" name="갈고리 발사" rang="0" need="E0" type="AUTO" tirrger="AUTO" info="다음 공격이 목표를 /(/) 전방으로 끌어당기고, 공격력의 /만큼의 물리 대미지를 준다">
       <lv lv="1" lv_n="E0_1" data="아주 살짝/0/100%" sp="7" fsp="0" eft="0" />

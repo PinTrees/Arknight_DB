@@ -138,7 +138,15 @@
       <Elite2 info="" submat="용문폐/180000/GD_1/4/BN/4/PL_1/7" />
       <Producer illustrator="Liduke" artistlink="https://www.pixiv.net/users/38088" />
     </Info>
- 
+    <Info id="0" name="쏜즈" en_name="Thorns" rare="6" group="로도스" gender="남성" position="근거리" Class="가드" tags="딜러/방어형" trust="0/30/70/0" specificity="공격력의 80%로 원거리 공격 가능" 
+          potential="배치 비용 -1/두 번째 재능 향상 (+0.5%)/공격력 +26/첫 번째 재능 향상 (+15)/배치 비용 -1">
+      <Ability unlock="E2" name="신경 부식" info="공격 시 적을 중독시켜 3초간, 매 초마다 125의 마법 대미지를 입힌다(원거리 공격이 가능한 적은 두 배의 피해를 입는다)" />
+      <Ability unlock="E2" name="고향의 파도소리" info="2초 동안 공격을 하지 않을 시 초당 최대 3.5%의 체력을 회복" />
+      <Elite1 info="" submat="용문폐/30000/GD_3/5/XI_3/8/KT_3/3" />
+      <Elite2 info="" submat="용문폐/180000/GD_1/4/AG/4/XI_1/6" />
+      <Producer illustrator="幻象黑兔" artistlink="https://www.google.com/search?q=illustrator+%E5%B9%BB%E8%B1%A1%E9%BB%91%E5%85%94" />
+    </Info>
+
     <Info id="114" name="호시구마" en_name="Hoshiguma" rare="6" group="용문" gender="여성" position="근거리" Class="디펜더" tags="방어형/딜러" trust="0/60/60/0" specificity="세 명의 적을 저지할 수 있다." potential="배치 비용 -1/첫 번째 재능 강화 (+3%)/방어력 +30/배치 비용 -1/두 번째 재능 강화 (+2%)">
       <Ability unlock="E1" name="전술 장갑" info="25% 확률로 물리 및 마법 공격을 막아낸다." />
       <Ability unlock="E2" name="특수 작전 전략" info="모든 아군 [디펜더] 오퍼레이터 방어력 +6%" />
@@ -253,7 +261,15 @@
       <Elite2 info="NULL" submat="용문폐/120000/VG_1/3/RC_1/9/MG_2/12" />
       <Producer illustrator="STAR影法师" artistlink="https://twitter.com/starshadowmagic" />
     </Info>
-  
+
+    <Info id="0" name="안드레아나" en_name="Andreana" rare="5" group="로도스" gender="여성" position="원거리" Class="스나이퍼" tags="딜러/감속" trust="300/40/0/0" specificity="공격 범위 안의 가장 방어력이 낮은 적을 우선적으로 공격"
+          potential="배치 비용 -1/재배치 시간 -4초/공격력 +35/재능 강화 (+2)/배치 비용 -1">
+      <Ability unlock="E2" name="심해 직감" info="팀에 편성 시, 모든 【어비설 헌터스】 오퍼레이터 공격속도 +12" />
+      <Elite1 info="NULL" submat="용문폐/20000/SN_3/4/RC_3/8/SG_3/2" />
+      <Elite2 info="NULL" submat="용문폐/120000/SN_1/3/PS_1/8/RM_2/8" />
+      <Producer illustrator="LLC" artistlink="https://www.google.com/search?q=illustrator+LLC" 
+                voice="佐仓薰" vlink="https://www.google.com/search?q=Voice+Actor+%E4%BD%90%E4%BB%93%E8%96%B0"/>
+    </Info>
     <Info id="0" name="익스큐터" en_name="Executor" rare="5" group="라테라노" gender="남성" position="원거리" Class="스나이퍼" tags="범위공격" trust="0/65/0/0" specificity="공격 범위 내 일렬로 접근 하는 적 공격 시 데미지가 150%로 상승한다." 
           potential="배치 비용 -1/재배치 시간 -4초/	공격력 +29/재능 강화 (+15)/배치 비용 -1">
       <Ability unlock="E2" name="최종 강화" info="공격 시 목표 대상의 160 방어력 무시" />
@@ -891,6 +907,13 @@ potential="배치 비용 -1/재배치 시간 -4/공격력 +26/재능 향상 (+2%
       <Elite1 info="NULL" submat="용문폐/15000/SS_3/3/RC_3/1/KT_3/1" />
       <Elite2 info="NULL" submat="용문폐/60000/SS_2/5/PL_2/18/RC_2/13" />
       <Producer illustrator="竜崎いち" artistlink="https://www.pixiv.net/users/563034" />
+    </Info>
+    <Info id="0" name="제이" en_name="Jaye" rare="4" group="용문" gender="남성" position="원거리" Class="특수" tags="쾌속부활/딜러" trust="200/40/0/0" specificity="재배치 시간이 감소되며, 퇴각 시 배치 비용을 반환하지 않는다. 전장에서 배치된 후 3초마다 3의 배치 비용을 소모한다.(배치 비용 부족 시 자동으로 퇴각한다)" 
+          potential="배치 비용 -1/재배치 시간 -3초/공격력 +23/재능 강화 (+5%)/배치 비용 -1">
+      <Ability unlock="E2" name="해부의 달인" info="[감염 생물] 공격 시, 공격력 145%" />
+      <Elite1 info="NULL" submat="용문폐/15000/SS_3/3/KT_3/1/GT_3/1" />
+      <Elite2 info="NULL" submat="용문폐/60000/SS_2/5/PS_2/14/KT_2/8" />
+      <Producer illustrator="阿鬼" artistlink="https://www.google.com/search?q=illustrator+%E9%98%BF%E9%AC%BC" />
     </Info>
     <Info id="372" name="로프" en_name="Rope" rare="4" group="림 빌리톤" gender="여성" position="근거리" Class="특수" tags="강제이동" trust="0/0/60/0" specificity="스킬을 통해 적의 위치를 강제이동, 원거리 유닛 칸에도 배치 가능" potential="배치 비용 -1/재배치 시간 -4/방어력 +22/재능 향상 (4%)/배치 비용 -1">
       <Ability unlock="E2" name="청각 훈련" info="물리 회피율 +30%" />

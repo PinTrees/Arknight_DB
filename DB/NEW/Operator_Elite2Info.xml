@@ -18,6 +18,8 @@
   <Info_Default name="스카디" rang="1" maxlevel="90" base_hp="2785" max_hp="3665" base_atk="774" max_atk="933" base_def="220" max_def="263" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="1" attack_time="1.5" />
   <Info_Default name="실버애쉬" rang="10" maxlevel="90" base_hp="2022" max_hp="2560" base_atk="577" max_atk="713" base_def="329" max_def="397" base_mdef="10" max_mdef="10" redeploy="70" cost="20" block="2" attack_time="1.3" />
   <Info_Default name="헬라그" rang="1" maxlevel="90" base_hp="2868" max_hp="3825" base_atk="632" max_atk="762" base_def="283" max_def="334" base_mdef="0" max_mdef="0" redeploy="70" cost="26" block="1" attack_time="1.2" />
+  <Info_Default name="쏜즈" rang="10" maxlevel="90" base_hp="2063" max_hp="2612" base_atk="575" max_atk="711" base_def="333" max_def="402" base_mdef="10" max_mdef="10" redeploy="70" cost="20" block="2" attack_time="1.3" />
+ 
   <Info_Default name="호시구마" rang="1" maxlevel="90" base_hp="2849" max_hp="3850" base_atk="356" max_atk="430" base_def="527" max_def="723" base_mdef="0" max_mdef="0" redeploy="70" cost="23" block="3" attack_time="1.2" />
   <Info_Default name="사리아" rang="14" maxlevel="90" base_hp="2268" max_hp="3150" base_atk="388" max_atk="485" base_def="487" max_def="595" base_mdef="10" max_mdef="10" redeploy="70" cost="22" block="3" attack_time="1.2" />
   <Info_Default name="니엔" rang="1" maxlevel="90" base_hp="2737" max_hp="3699" base_atk="513" max_atk="619" base_def="529" max_def="726" base_mdef="0" max_mdef="0" redeploy="70" cost="23" block="3" attack_time="1.5" />
@@ -36,7 +38,8 @@
   <Info_Default name="지마" rang="1" maxlevel="80" base_hp="1505" max_hp="2150" base_atk="376" max_atk="470" base_def="290" max_def="350" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="2" attack_time="1.05" />
   <Info_Default name="그라니" rang="1" maxlevel="80" base_hp="1564" max_hp="2235" base_atk="463" max_atk="552" base_def="300" max_def="367" base_mdef="0" max_mdef="0" redeploy="80" cost="14" block="1" attack_time="1" />
   <Info_Default name="리드" rang="1" maxlevel="80" base_hp="1550" max_hp="2215" base_atk="472" max_atk="562" base_def="298" max_def="364" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="1" attack_time="1" />
- 
+
+  <Info_Default name="안드레아나" rang="13" maxlevel="80" base_hp="1198" max_hp="1498" base_atk="877" max_atk="1070" base_def="104" max_def="128" base_mdef="0" max_mdef="0" redeploy="70" cost="21" block="1" attack_time="2.7" />
   <Info_Default name="익스큐터" rang="20" maxlevel="80" base_hp="1747" max_hp="2330" base_atk="604" max_atk="720" base_def="166" max_def="185" base_mdef="0" max_mdef="0" redeploy="70" cost="31" block="1" attack_time="2.3" />
   <Info_Default name="블루포이즌" rang="3" maxlevel="80" base_hp="984" max_hp="1230" base_atk="438" max_atk="535" base_def="109" max_def="130" base_mdef="5" max_mdef="5" redeploy="70" cost="13" block="1" attack_time="1" />
   <Info_Default name="플래티넘" rang="3" maxlevel="80" base_hp="1271" max_hp="1550" base_atk="414" max_atk="505" base_def="139" max_def="165" base_mdef="0" max_mdef="0" redeploy="70" cost="13" block="1" attack_time="1" />
@@ -141,6 +144,7 @@
 
   <Info_Default name="에단" rang="4" maxlevel="70" base_hp="1300" max_hp="1530" base_atk="601" max_atk="742" base_def="279" max_def="337" base_mdef="30" max_mdef="30" redeploy="70" cost="19" block="0" attack_time="3.5" />
   <Info_Default name="그라벨" rang="1" maxlevel="70" base_hp="1107" max_hp="1420" base_atk="352" max_atk="452" base_def="281" max_def="335" base_mdef="0" max_mdef="0" redeploy="18" cost="8" block="1" attack_time="0.93" />
+  <Info_Default name="제이" rang="1" maxlevel="70" base_hp="1804" max_hp="2284" base_atk="559" max_atk="674" base_def="321" max_def="378" base_mdef="0" max_mdef="0" redeploy="25" cost="7" block="1" attack_time="1" />
   <Info_Default name="로프" rang="18" maxlevel="70" base_hp="1307" max_hp="1720" base_atk="582" max_atk="728" base_def="276" max_def="325" base_mdef="0" max_mdef="0" redeploy="70" cost="12" block="2" attack_time="1.8" />
   <Info_Default name="쇼" rang="1" maxlevel="70" base_hp="1392" max_hp="1785" base_atk="469" max_atk="580" base_def="302" max_def="365" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="2" attack_time="1.2" />
 </ChractorList>
