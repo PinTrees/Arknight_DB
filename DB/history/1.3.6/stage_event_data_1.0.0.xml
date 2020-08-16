@@ -1,0 +1,25 @@
+<data>
+  <drop>
+
+  </drop>
+  <stage>
+    <parent code="AF" name ="에인션트 포지" start="2020-07-29 PM 5:00:00" end="2020-08-12 AM 03:59:59"/>
+
+    <Info name="AF - 1" code="event-AF-1" type="0" energy="6" parent="AF" nd="PL_4" ndp="?" sd="af_qf" sdp="?" ad="GD_1/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?" hard="">
+    </Info>
+    <Info name="AF - 2" code="event-AF-2" type="0" energy="9" parent="AF" nd="XI_4" ndp="?" sd="af_qf" sdp="?" ad="GD_1/RC_4/GT_4/PL_4/SG_4/XI_4/KT_4" adp="?/?/?/?/?/?/?" hard="">
+    </Info>
+    <Info name="AF - 3" code="event-AF-3" type="0" energy="12" parent="AF" nd="RC_3" ndp="?" sd="af_qf" sdp="?" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="">
+    </Info>
+    <Info name="AF - 4" code="event-AF-4" type="0" energy="12" parent="AF" nd="SG_3" ndp="?" sd="af_qf" sdp="?" ad="GD_1/RC_3/RC_4/GT_3/GT_4/PL_3/PL_4" adp="?/?/?/?/?/?/?" hard="">
+    </Info>
+    <Info name="AF - 5" code="event-AF-5" type="0" energy="15" parent="AF" nd="GT_3" ndp="?" sd="af_qf" sdp="?" ad="EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+    </Info>
+    <Info name="AF - 6" code="event-AF-6" type="0" energy="15" parent="AF" nd="KT_2" ndp="?" sd="af_qf" sdp="?" ad="EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+    </Info>
+    <Info name="AF - 7" code="event-AF-7" type="0" energy="15" parent="AF" nd="AC_2" ndp="?" sd="af_qf" sdp="?" ad="EX_2/EX_3/SG_3/SG_4/XI_3/XI_4/KT_3/KT_4" adp="?/?/?/?/?/?/?/?" hard="">
+    </Info>
+    <Info name="AF - 8" code="event-AF-8" type="0" energy="18" parent="AF" nd="PS_2" ndp="?" sd="af_qf" sdp="?" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_4/XI_2/XI_3/XI_4/XG_2" adp="?/?/?/?/?/?/?/?/?/?" hard="">
+    </Info>
+  </stage>
+</data>
