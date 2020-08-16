@@ -645,8 +645,8 @@
       <lv lv="9" lv_n="E2_1" data="*공격 중지/+50%/+90%/4/0.65" sp="27" fsp="10" eft="38" sub="SB_3/GT_1/XI_1" subC="12/3/6" />
       <lv lv="10" lv_n="E2_1" data="*공격 중지/+60%/+110%/4/0.6" sp="25" fsp="10" eft="40" sub="SB_3/BN/KT_1" subC="15/6/5" />
     </Info>
-    <Info id="3" code="Thorns" name="데스트레자" rang="1" need="E2" type="ATK" tirrger="MANU" info="공격범위 /, 공격력 +26%, 공격속도 +12, 원거리 공격 시 공격력이 저하되지 않는다.
-2회 이상 스킬 사용 시 능력치 증가가 처음의 2배가 되며 지속시간이 /이 된다">
+    <Info id="3" code="Thorns" name="데스트레자" rang="1" need="E2" type="ATK" tirrger="MANU" info="공격범위 /, 공격력 /, 공격속도 /, 원거리 공격 시 공격력이 저하되지 않는다.
+/회 이상 스킬 사용 시 능력치 증가가 처음의 /배가 되며 지속시간이 /이 된다">
       <lv lv="1" lv_n="E2_1" data="확대/+26%/+12/2/2/무한" sp="15" fsp="0" eft="30" />
       <lv lv="2" lv_n="E2_1" data="확대/+28%/+12/2/2/무한" sp="15" fsp="0" eft="30" />
       <lv lv="3" lv_n="E2_1" data="확대/+30%/+12/2/2/무한" sp="15" fsp="0" eft="30" />
