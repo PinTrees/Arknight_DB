@@ -75,6 +75,12 @@
   <Info folder="Hellagur" fileName="S0.png" />
   <Info folder="Hellagur" fileName="S1.png" />
   <Info folder="Hellagur" fileName="S2.png" />
+  <Info folder="Thorns" fileName="Icon.png" />
+  <Info folder="Thorns" fileName="S0.png" />
+  <Info folder="Thorns" fileName="S1.png" />
+  <Info folder="Thorns" fileName="S1_R.png" />
+  <Info folder="Thorns" fileName="S2.png" />
+  <Info folder="Thorns" fileName="S2_R.png" />
   <Info folder="Hoshiguma" fileName="Icon.png" />
   <Info folder="Hoshiguma" fileName="S0.png" />
   <Info folder="Hoshiguma" fileName="S1.png" />
@@ -140,6 +146,9 @@
   <Info folder="Reed" fileName="Icon.png" />
   <Info folder="Reed" fileName="S0.png" />
   <Info folder="Reed" fileName="S1.png" />
+  <Info folder="Andreana" fileName="Icon.png" />
+  <Info folder="Andreana" fileName="S0.png" />
+  <Info folder="Andreana" fileName="S1.png" />
   <Info folder="Executor" fileName="Icon.png" />
   <Info folder="Executor" fileName="S0.png" />
   <Info folder="Executor" fileName="S1.png" />
@@ -445,6 +454,10 @@
   <Info folder="Gravel" fileName="Icon.png" />
   <Info folder="Gravel" fileName="S0.png" />
   <Info folder="Gravel" fileName="S1.png" />
+  <Info folder="Jaye" fileName="Icon.png" />
+  <Info folder="Jaye" fileName="S0.png" />
+  <Info folder="Jaye" fileName="S1.png" />
+  <Info folder="Jaye" fileName="S1_R.png" />
   <Info folder="Rope" fileName="Icon.png" />
   <Info folder="Rope" fileName="S0.png" />
   <Info folder="Rope" fileName="S1.png" />
