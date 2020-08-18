@@ -140,7 +140,7 @@
   </Info>
   <Info name="S4 - 9" code="S4_9" type="0" parent="4" nd="EX_1" ndp="?" sd="" ad="EX_1/EX_2/EX_3/MG_2/SG_2/SG_3/SG_4/XI_2/XI_3/XI_4" adp="?/?/?/?/?/?/?/?/?/?" hard="">
   </Info>
-  <Info name="4 - 10" code="4_10" type="0" parent="4" nd="GT_2" ndp="?" sd="GT_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4" adp="?/?/?/?/?/?/?/?" hard="프로스트노바의 공격 및 스킬 범위 대폭 상승">
+  <Info name="4 - 10" code="4_10" type="0" parent="4" nd="GT_2" ndp="?" sd="GT_1" sdp="?" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="프로스트노바의 공격 및 스킬 범위 대폭 상승">
   </Info>
 
   <Info name="5 - 1" code="5_1" type="0" parent="5" nd="RC_2" ndp="?" sd="" sdp="" ad="GD_1/AC_2/RC_2/RC_3/RC_4/GT_2/GT_3/GT_4/JL_2" adp="?/?/?/?/?/?/?/?/?" hard="아군 근거리 유닛의 공격력 반감">
