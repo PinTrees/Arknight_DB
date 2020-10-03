@@ -16,6 +16,8 @@
   <Info_Default name="스카디" rang="1" maxlevel="80" base_hp="2060" max_hp="2785" base_atk="611" max_atk="774" base_def="167" max_def="220" base_mdef="0" max_mdef="0" redeploy="70" cost="19" block="1" attack_time="1.5" />
   <Info_Default name="실버애쉬" rang="10" maxlevel="80" base_hp="1536" max_hp="2022" base_atk="444" max_atk="577" base_def="259" max_def="329" base_mdef="10" max_mdef="10" redeploy="70" cost="20" block="2" attack_time="1.3" />
   <Info_Default name="헬라그" rang="1" maxlevel="80" base_hp="2179" max_hp="2868" base_atk="486" max_atk="632" base_def="220" max_def="283" base_mdef="0" max_mdef="0" redeploy="70" cost="24" block="1" attack_time="1.2" />
+ 
+  <Info_Default name="유넥티스" rang="1" maxlevel="80" base_hp="2614" max_hp="3440" base_atk="651" max_atk="835" base_def="364" max_def="492" base_mdef="0" max_mdef="0" redeploy="70" cost="31" block="1" attack_time="1.6" />
   <Info_Default name="호시구마" rang="1" maxlevel="80" base_hp="2165" max_hp="2849" base_atk="284" max_atk="356" base_def="384" max_def="527" base_mdef="0" max_mdef="0" redeploy="70" cost="21" block="3" attack_time="1.2" />
   <Info_Default name="사리아" rang="14" maxlevel="80" base_hp="1769" max_hp="2268" base_atk="287" max_atk="388" base_def="365" max_def="487" base_mdef="10" max_mdef="10" redeploy="70" cost="20" block="3" attack_time="1.2" />
   <Info_Default name="니엔" rang="1" maxlevel="80" base_hp="2080" max_hp="2737" base_atk="405" max_atk="513" base_def="380" max_def="529" base_mdef="0" max_mdef="0" redeploy="70" cost="21" block="3" attack_time="1.5" />
@@ -131,6 +133,7 @@
 
   <Info_Default name="팽" rang="1" maxlevel="55" base_hp="1060" max_hp="1325" base_atk="235" max_atk="325" base_def="187" max_def="260" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="2" attack_time="1.05" />
   <Info_Default name="플룸" rang="1" maxlevel="55" base_hp="956" max_hp="1226" base_atk="333" max_atk="445" base_def="212" max_def="279" base_mdef="0" max_mdef="0" redeploy="70" cost="10" block="1" attack_time="1" />
+  <Info_Default name="Reserve" rang="1" maxlevel="55" base_hp="932" max_hp="1165" base_atk="216" max_atk="309" base_def="214" max_def="278" base_mdef="0" max_mdef="0" redeploy="70" cost="10" block="2" attack_time="1.05" />
   <Info_Default name="바닐라" rang="1" maxlevel="55" base_hp="1016" max_hp="1270" base_atk="248" max_atk="355" base_def="184" max_def="240" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="2" attack_time="1.05" />
   <Info_Default name="아드나키엘" rang="3" maxlevel="55" base_hp="831" max_hp="1080" base_atk="251" max_atk="365" base_def="93" max_def="134" base_mdef="0" max_mdef="0" redeploy="70" cost="11" block="1" attack_time="1" />
   <Info_Default name="캐터펄트" rang="19" maxlevel="55" base_hp="920" max_hp="1150" base_atk="487" max_atk="617" base_def="67" max_def="85" base_mdef="0" max_mdef="0" redeploy="70" cost="23" block="1" attack_time="2.8" />
