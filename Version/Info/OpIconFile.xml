@@ -67,6 +67,12 @@
   <Info folder="Skadi" fileName="S0.png" />
   <Info folder="Skadi" fileName="S1.png" />
   <Info folder="Skadi" fileName="S2.png" />
+  <Info folder="Surtr" fileName="Icon.png" />
+  <Info folder="Surtr" fileName="S0.png" />
+  <Info folder="Surtr" fileName="S1.png" />
+  <Info folder="Surtr" fileName="S1_R.png" />
+  <Info folder="Surtr" fileName="S2.png" />
+  <Info folder="Surtr" fileName="S2_R.png" />
   <Info folder="Silverash" fileName="Icon.png" />
   <Info folder="Silverash" fileName="S0.png" />
   <Info folder="Silverash" fileName="S1.png" />
@@ -81,6 +87,10 @@
   <Info folder="Thorns" fileName="S1_R.png" />
   <Info folder="Thorns" fileName="S2.png" />
   <Info folder="Thorns" fileName="S2_R.png" />
+  <Info folder="Eunectes" fileName="Icon.png" />
+  <Info folder="Eunectes" fileName="S0.png" />
+  <Info folder="Eunectes" fileName="S1.png" />
+  <Info folder="Eunectes" fileName="S2.png" />
   <Info folder="Hoshiguma" fileName="Icon.png" />
   <Info folder="Hoshiguma" fileName="S0.png" />
   <Info folder="Hoshiguma" fileName="S1.png" />
@@ -149,6 +159,9 @@
   <Info folder="Andreana" fileName="Icon.png" />
   <Info folder="Andreana" fileName="S0.png" />
   <Info folder="Andreana" fileName="S1.png" />
+  <Info folder="April" fileName="Icon.png" />
+  <Info folder="April" fileName="S0.png" />
+  <Info folder="April" fileName="S1.png" />
   <Info folder="Executor" fileName="Icon.png" />
   <Info folder="Executor" fileName="S0.png" />
   <Info folder="Executor" fileName="S1.png" />
@@ -191,6 +204,8 @@
   <Info folder="Silence" fileName="S0.png" />
   <Info folder="Silence" fileName="S1.png" />
   <Info folder="Silence" fileName="S1_R.png" />
+  <Info folder="Touch" fileName="Icon.png" />
+  <Info folder="Touch" fileName="S0.png" />
   <Info folder="Wafarin" fileName="Icon.png" />
   <Info folder="Wafarin" fileName="S0.png" />
   <Info folder="Wafarin" fileName="S1.png" />
@@ -213,12 +228,23 @@
   <Info folder="Leonhardt" fileName="S0.png" />
   <Info folder="Leonhardt" fileName="S1.png" />
   <Info folder="Leonhardt" fileName="S1_R.png" />
+  <Info folder="Mint" fileName="Icon.png" />
+  <Info folder="Mint" fileName="S0.png" />
+  <Info folder="Mint" fileName="S0_R.png" />
+  <Info folder="Mint" fileName="S1.png" />
   <Info folder="Nightmare" fileName="Icon.png" />
   <Info folder="Nightmare" fileName="S0.png" />
   <Info folder="Nightmare" fileName="S1.png" />
+  <Info folder="Pith" fileName="Icon.png" />
+  <Info folder="Pith" fileName="S0.png" />
   <Info folder="Skyfire" fileName="Icon.png" />
   <Info folder="Skyfire" fileName="S0.png" />
   <Info folder="Skyfire" fileName="S1.png" />
+  <Info folder="Tomimi" fileName="Icon.png" />
+  <Info folder="Tomimi" fileName="S0.png" />
+  <Info folder="Tomimi" fileName="S0_R.png" />
+  <Info folder="Tomimi" fileName="S1.png" />
+  <Info folder="Tomimi" fileName="S1_R.png" />
   <Info folder="Astesia" fileName="Icon.png" />
   <Info folder="Astesia" fileName="S0.png" />
   <Info folder="Astesia" fileName="S1.png" />
@@ -236,6 +262,9 @@
   <Info folder="Flamebringer" fileName="Icon.png" />
   <Info folder="Flamebringer" fileName="S0.png" />
   <Info folder="Flamebringer" fileName="S1.png" />
+  <Info folder="Flint" fileName="Icon.png" />
+  <Info folder="Flint" fileName="S0.png" />
+  <Info folder="Flint" fileName="S1.png" />
   <Info folder="Franka" fileName="Icon.png" />
   <Info folder="Franka" fileName="S0.png" />
   <Info folder="Franka" fileName="S1.png" />
@@ -245,6 +274,8 @@
   <Info folder="Savage" fileName="Icon.png" />
   <Info folder="Savage" fileName="S0.png" />
   <Info folder="Savage" fileName="S1.png" />
+  <Info folder="Sharp" fileName="Icon.png" />
+  <Info folder="Sharp" fileName="S0.png" />
   <Info folder="Sideroca" fileName="Icon.png" />
   <Info folder="Sideroca" fileName="S0.png" />
   <Info folder="Sideroca" fileName="S1.png" />
@@ -352,6 +383,9 @@
   <Info folder="Vigna" fileName="Icon.png" />
   <Info folder="Vigna" fileName="S0.png" />
   <Info folder="Vigna" fileName="S1.png" />
+  <Info folder="Aciddrop" fileName="Icon.png" />
+  <Info folder="Aciddrop" fileName="S0.png" />
+  <Info folder="Aciddrop" fileName="S1.png" />
   <Info folder="Ambriel" fileName="Icon.png" />
   <Info folder="Ambriel" fileName="S0.png" />
   <Info folder="Ambriel" fileName="S1.png" />
@@ -399,6 +433,10 @@
   <Info folder="Haze" fileName="Icon.png" />
   <Info folder="Haze" fileName="S0.png" />
   <Info folder="Haze" fileName="S1.png" />
+  <Info folder="Arene" fileName="Icon.png" />
+  <Info folder="Arene" fileName="S0.png" />
+  <Info folder="Arene" fileName="S1.png" />
+  <Info folder="Arene" fileName="S1_R.png" />
   <Info folder="Beehunter" fileName="Icon.png" />
   <Info folder="Beehunter" fileName="S0.png" />
   <Info folder="Beehunter" fileName="S1.png" />
@@ -470,8 +508,10 @@
   <Info folder="Fang" fileName="S0.png" />
   <Info folder="Plume" fileName="Icon.png" />
   <Info folder="Plume" fileName="S0.png" />
+  <Info folder="Reserve(Melee)" fileName="Icon.png" />
   <Info folder="Vanilla" fileName="Icon.png" />
   <Info folder="Vanilla" fileName="S0.png" />
+  <Info folder="Reserve(Sniper)" fileName="Icon.png" />
   <Info folder="Adnaciel" fileName="Icon.png" />
   <Info folder="Adnaciel" fileName="S0.png" />
   <Info folder="Catapult" fileName="Icon.png" />
@@ -482,8 +522,10 @@
   <Info folder="Ansel" fileName="S0.png" />
   <Info folder="Hibiscus" fileName="Icon.png" />
   <Info folder="Hibiscus" fileName="S0.png" />
+  <Info folder="Reserve(Logistic)" fileName="Icon.png" />
   <Info folder="Lava" fileName="Icon.png" />
   <Info folder="Lava" fileName="S0.png" />
+  <Info folder="Reserve(Caster)" fileName="Icon.png" />
   <Info folder="Steward" fileName="Icon.png" />
   <Info folder="Steward" fileName="S0.png" />
   <Info folder="Melantha" fileName="Icon.png" />

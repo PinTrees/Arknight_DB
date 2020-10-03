@@ -39,6 +39,8 @@
   <Info name="Blaze_elite2.png" compulsion="0" />
   <Info name="Skadi.png" compulsion="0" />
   <Info name="Skadi_elite2.png" compulsion="0" />
+  <Info name="Surtr.png" compulsion="0" />
+  <Info name="Surtr_elite2.png" compulsion="0" />
   <Info name="Silverash.png" compulsion="0" />
   <Info name="Silverash_elite2.png" compulsion="0" />
   <Info name="Silverash_c1.png" compulsion="0" />
@@ -46,6 +48,8 @@
   <Info name="Hellagur_elite2.png" compulsion="0" />
   <Info name="Thorns.png" compulsion="0" />
   <Info name="Thorns_elite2.png" compulsion="0" />
+  <Info name="Eunectes.png" compulsion="0" />
+  <Info name="Eunectes_elite2.png" compulsion="0" />
   <Info name="Hoshiguma.png" compulsion="0" />
   <Info name="Hoshiguma_elite2.png" compulsion="0" />
   <Info name="Hoshiguma_c1.png" compulsion="0" />
@@ -84,6 +88,9 @@
   <Info name="Reed_elite2.png" compulsion="0" />
   <Info name="Andreana.png" compulsion="0" />
   <Info name="Andreana_elite2.png" compulsion="0" />
+  <Info name="April.png" compulsion="0" />
+  <Info name="April_elite2.png" compulsion="0" />
+  <Info name="April_c1.png" compulsion="0" />
   <Info name="Executor.png" compulsion="0" />
   <Info name="Executor_elite2.png" compulsion="0" />
   <Info name="Executor_c1.png" compulsion="0" />
@@ -116,6 +123,8 @@
   <Info name="Silence.png" compulsion="0" />
   <Info name="Silence_elite2.png" compulsion="0" />
   <Info name="Silence_c1.png" compulsion="0" />
+  <Info name="Touch.png" compulsion="0" />
+  <Info name="Touch_elite2.png" compulsion="0" />
   <Info name="Wafarin.png" compulsion="0" />
   <Info name="Wafarin_elite2.png" compulsion="0" />
   <Info name="Wafarin_c1.png" compulsion="0" />
@@ -131,11 +140,17 @@
   <Info name="Leizi_elite2.png" compulsion="0" />
   <Info name="Leonhardt.png" compulsion="0" />
   <Info name="Leonhardt_elite2.png" compulsion="0" />
+  <Info name="Mint.png" compulsion="0" />
+  <Info name="Mint_elite2.png" compulsion="0" />
   <Info name="Nightmare.png" compulsion="0" />
   <Info name="Nightmare_elite2.png" compulsion="0" />
+  <Info name="Pith.png" compulsion="0" />
+  <Info name="Pith_elite2.png" compulsion="0" />
   <Info name="Skyfire.png" compulsion="0" />
   <Info name="Skyfire_elite2.png" compulsion="0" />
   <Info name="Skyfire_c1.png" compulsion="0" />
+  <Info name="Tomimi.png" compulsion="0" />
+  <Info name="Tomimi_elite2.png" compulsion="0" />
   <Info name="Astesia.png" compulsion="0" />
   <Info name="Astesia_elite2.png" compulsion="0" />
   <Info name="Ayerscarpe.png" compulsion="0" />
@@ -146,12 +161,16 @@
   <Info name="Broca_elite2.png" compulsion="0" />
   <Info name="Flamebringer.png" compulsion="0" />
   <Info name="Flamebringer_elite2.png" compulsion="0" />
+  <Info name="Flint.png" compulsion="0" />
+  <Info name="Flint_elite2.png" compulsion="0" />
   <Info name="Franka.png" compulsion="0" />
   <Info name="Franka_elite2.png" compulsion="0" />
   <Info name="Indra.png" compulsion="0" />
   <Info name="Indra_elite2.png" compulsion="0" />
   <Info name="Savage.png" compulsion="0" />
   <Info name="Savage_elite2.png" compulsion="0" />
+  <Info name="Sharp.png" compulsion="0" />
+  <Info name="Sharp_elite2.png" compulsion="0" />
   <Info name="Sideroca.png" compulsion="0" />
   <Info name="Sideroca_elite2.png" compulsion="0" />
   <Info name="Specter.png" compulsion="0" />
@@ -224,6 +243,8 @@
   <Info name="Vigna.png" compulsion="0" />
   <Info name="Vigna_elite2.png" compulsion="0" />
   <Info name="Vigna_c1.png" compulsion="0" />
+  <Info name="Aciddrop.png" compulsion="0" />
+  <Info name="Aciddrop_elite2.png" compulsion="0" />
   <Info name="Ambriel.png" compulsion="0" />
   <Info name="Ambriel_elite2.png" compulsion="0" />
   <Info name="Jessica.png" compulsion="0" />
@@ -261,6 +282,8 @@
   <Info name="Greyy_elite2.png" compulsion="0" />
   <Info name="Haze.png" compulsion="0" />
   <Info name="Haze_elite2.png" compulsion="0" />
+  <Info name="Arene.png" compulsion="0" />
+  <Info name="Arene_elite2.png" compulsion="0" />
   <Info name="Beehunter.png" compulsion="0" />
   <Info name="Beehunter_elite2.png" compulsion="0" />
   <Info name="Beehunter_c1.png" compulsion="0" />
@@ -309,7 +332,9 @@
   <Info name="Fang.png" compulsion="0" />
   <Info name="Fang_c1.png" compulsion="0" />
   <Info name="Plume.png" compulsion="0" />
+  <Info name="Reserve(Melee).png" compulsion="0" />
   <Info name="Vanilla.png" compulsion="0" />
+  <Info name="Reserve(Sniper).png" compulsion="0" />
   <Info name="Adnaciel.png" compulsion="0" />
   <Info name="Catapult.png" compulsion="0" />
   <Info name="Kroos.png" compulsion="0" />
@@ -318,7 +343,9 @@
   <Info name="Ansel_c1.png" compulsion="0" />
   <Info name="Hibiscus.png" compulsion="0" />
   <Info name="Hibiscus_c1.png" compulsion="0" />
+  <Info name="Reserve(Logistic).png" compulsion="0" />
   <Info name="Lava.png" compulsion="0" />
+  <Info name="Reserve(Caster).png" compulsion="0" />
   <Info name="Steward.png" compulsion="0" />
   <Info name="Melantha.png" compulsion="0" />
   <Info name="Melantha_c1.png" compulsion="0" />
