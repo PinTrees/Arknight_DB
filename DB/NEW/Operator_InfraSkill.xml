@@ -74,11 +74,20 @@
     <Infra id="1" name="고독" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 자신의 시간당 컨디션 회복 속도 +0.7"/>
     <Infra id="1" name="비가" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 자신의 시간당 컨디션 회복 속도 +1.0"/>
   </Info>
+  <Info name="수르트" en_name="Surtr">
+    <Infra id="1" name="가드 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 가드 오퍼레이터의 스킬 훈련 속도 +30%"/>
+    <Infra id="1" name="기억하는 검술" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 가드 오퍼레이터의 스킬 훈련 속도 +60%"/>
+  </Info>
   <Info name="쏜즈" en_name="Thorns">
     <Infra id="1" name="연금술" lock="E0" icon="" target="가공소" info="가공소에 배치 후 임의류 재료 가공 시, 부산물 산출 확률 50%"/>
     <Infra id="1" name="팝아트" lock="E2" icon="" target="가공소" info="가공소에 배치 후 임의류 재료 가공 시 매 2회 가공 시 부산물이 산출되지 않을 경우 한 번 컨디션을 회복하며, 회복량은 가공 시 소모한 컨디션에 따른다. (가공이 끝난 후 일괄 적용)"/>
   </Info>
-  
+ 
+  <Info name="유넥티스" en_name="Eunectes">
+    <Infra id="1" name="자동화 α" lock="E0" icon="" target="제조소" info="제조소 배치 시 현재 제조소의 다른 오퍼레이터가 제공하는 생산력은 모두 0이 되며 해당 제조소의 생산력은 발전소의 개수마다 생산력 +5%"/>
+    <Infra id="1" name="자동화 β" lock="E2" icon="" target="제조소" info="제조소 배치 시 현재 제조소의 다른 오퍼레이터가 제공하는 생산력은 모두 0이 되며 해당 제조소의 생산력은 발전소의 개수마다 생산력 +10%"/>
+    <Infra id="2" name="자아도취" lock="E2" icon="" target="통제실" info="제어 센터 배치 시 LANCET-2가 발전소에 있을 경우 2개의 발전소가 추가로 있다고 간주함(시설의 수에만 영항을 미침)"/>
+  </Info>
   <Info name="호시구마" en_name="Hoshiguma">
     <Infra id="1" name="디펜더 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 디펜더 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
     <Infra id="1" name="반야" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 디펜더 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+60%&lt;/color&gt;"/>
@@ -152,6 +161,11 @@
     <Infra id="1" name="독거" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 자신의 컨디션 회복 속도 &lt;color=#34BBFF&gt;+0.7&lt;/color&gt;"/>
     <Infra id="1" name="귀찮음 기피자" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 자신의 컨디션 회복 속도 &lt;color=#34BBFF&gt;+0.85&lt;/color&gt;"/>
   </Info>
+  <Info name="에이프릴" en_name="April">
+    <Infra id="1" name="오더 관리 α" lock="E0" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율 +10%, 오더 상한 +2"/>
+    <Infra id="1" name="오더 관리 β" lock="E2" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율 +10%, 오더 상한 +4"/>
+    <Infra id="2" name="격려" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 해당 숙소 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도 +0.1(동종 효과 중 가장 높은 수치만 적용)"/>
+  </Info>
   <Info name="블루포이즌" en_name="Bluepoison">
     <Infra id="1" name="독리학·α" lock="E0" icon="" target="가공소" info="가공소에 배치 후 정예화 재료 가공 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+75%&lt;/color&gt;"/>
     <Infra id="1" name="독리학·β" lock="E2" icon="" target="가공소" info="가공소에 배치 후 정예화 재료 생산 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+80%&lt;/color&gt;"/>
@@ -205,6 +219,9 @@
     <Infra id="1" name="라인테크·α" lock="E0" icon="" target="제조소" info="제조소 배치 시, 생산력 &lt;color=#34BBFF&gt;+15%&lt;/color&gt;"/>
     <Infra id="1" name="라인테크·β" lock="E2" icon="" target="제조소" info="제조소 배치 시, 생산력 &lt;color=#34BBFF&gt;+25%&lt;/color&gt;"/>
   </Info>
+  <Info name="Touch" en_name="Touch">
+    <Infra id="1" name="null" lock="E0" icon="" target="null" info="null"/>
+  </Info>
   <Info name="와파린" en_name="Wafarin">
     <Infra id="1" name="메딕 마스터리·α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 메딕 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
     <Infra id="1" name="메딕 마스터리·β" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 메딕 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+50%&lt;/color&gt;"/>
@@ -230,15 +247,27 @@
     <Infra id="1" name="구조역학" lock="E0" icon="" target="가공소" info="가공소 배치 시 기초 자재를 가공할 때, 부산물 산출 확률 +75%"/>
     <Infra id="2" name="광물탐사학" lock="E2" icon="" target="가공소" info="가공소 배치 후 기초 자재를 가공할 때, 컨디션 2 이상 소모하는 가공물은 컨디션 소모 -1"/>
   </Info>
+  <Info name="민트" en_name="Mint">
+    <Infra id="1" name="캐스터 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 스킬 훈련 속도 +30%"/>
+    <Infra id="2" name="박람군서" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 스킬 훈련 속도 +30%, 이번 훈련으로 스킬 마스터리의 랭크가 2가 되면 훈련속도 추가 +45%"/>
+    <Infra id="2" name="지질학 α" lock="E1" icon="" target="제조소" info="제조소에 배치 시, 오리지늄류에 대한 생산력 +30%"/>
+  </Info>
   <Info name="나이트메어" en_name="Nightmare">
     <Infra id="1" name="캐스터 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
     <Infra id="2" name="심리학" lock="E2" icon="" target="인사부" info="인사부 사무실에 배치 시, 인맥 레퍼런스의 누적 속도 &lt;color=#34BBFF&gt;+40%&lt;/color&gt;"/>
+  </Info>
+  <Info name="Pith" en_name="Pith">
+    <Infra id="1" name="null" lock="E0" icon="" target="null" info="null"/>
   </Info>
   <Info name="스카이파이어" en_name="Skyfire">
     <Infra id="1" name="캐스터 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
     <Infra id="1" name="캐스터 마스터리 β" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+50%&lt;/color&gt;"/>
   </Info>
-  
+  <Info name="토미미" en_name="Tomimi">
+    <Infra id="1" name="바베큐 마스터" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 해당 숙소 안에 자신을 제외하고 컨디션이 가득차지 않은 임의 오퍼레이터의 시간당 컨디션 회복 속도 +0.55(동종효과 중 가장 높은 수치만 적용); 대상이 가비알일 경우 회복효과 추가 +0.45"/>
+    <Infra id="2" name="일지반해" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 캐스터 오퍼레이터의 스킬 훈련 속도 +30% 이번 훈련으로 스킬 마스터리의 랭크가 1이 되면 훈련속도 추가 +45%"/>
+  </Info>
+
   <Info name="아스테시아" en_name="Astesia">
     <Infra id="1" name="단서수집·α" lock="E0" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
     <Infra id="1" name="천문학" lock="E2" icon="" target="응접실" info="응접실 배치 시, 단서 수집 속도 &lt;color=#34BBFF&gt;+25%&lt;/color&gt;"/>
@@ -259,6 +288,10 @@
     <Infra id="1" name="기교이론" lock="E0" icon="" target="가공소" info="가공소 배치 후 기술개요 가공 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+70%&lt;/color&gt;"/>
     <Infra id="1" name="최고의 경지" lock="E2" icon="" target="가공소" info="가공소 배치 후 기술개요 가공 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+80%&lt;/color&gt;"/>
     </Info>
+  <Info name="플린트" en_name="Flint">
+    <Infra id="1" name="가드 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 가드 오퍼레이터의 스킬 훈련 속도 +30%"/>
+    <Infra id="1" name="고행" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 가드 오퍼레이터의 스킬 훈련 속도 +30% 이번 훈련으로 스킬 마스터리의 랭크가 2가 되면 훈련속도 추가 +45%"/>
+  </Info>
   <Info name="프란카" en_name="Franka">
     <Infra id="1" name="가드 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 가드 오퍼레이터의 스킬 훈련 속도+30%"/>
     <Infra id="1" name="가드 마스터리 β" lock="E2" icon="" target="훈련실" info="훈련실에 배치 시, 가드 오퍼레이터의 스킬 훈련 속도+50%"/>
@@ -274,6 +307,9 @@
   <Info name="새비지" en_name="Savage">
     <Infra id="1" name="기교이론" lock="E0" icon="" target="가공소" info="가공소 배치 후 기술개요 가공 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+70%&lt;/color&gt;"/>
     <Infra id="2" name="요리" lock="E2" icon="" target="기숙사" info="숙소에 배치 시, 숙소에서 자신을 제외한 컨디션이 좋지 않은 오퍼레이터은 시간당 컨디션 회복 +0.35 (동종효과가 가장 높음), 동시에 자신의 컨디션 시간당 +0.35 회복"/>
+  </Info>
+  <Info name="Sharp" en_name="Sharp">
+    <Infra id="1" name="null" lock="E0" icon="" target="null" info="null"/>
   </Info>
   <Info name="사이드로카" en_name="Sideroca">
     <Infra id="1" name="가드 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 가드 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
@@ -392,6 +428,12 @@
     <Infra id="2" name="뱅가드 마스터리·β" lock="E1" icon="" target="훈련실" info="훈련실에 배치 시, 뱅가드 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+50%&lt;/color&gt;"/>
   </Info>
 
+  <Info name="애시드드롭" en_name="Aciddrop">
+    <Infra id="1" name="B-girl" lock="E0" icon="" target="인사부" 
+           info="인사부 사무실에 배치 시, 인맥 레퍼런스의 누적 속도 +40%"/>
+    <Infra id="2" name="Give me five" lock="E1" icon="" target="기숙사" 
+           info="숙소에 배치 시, 해당 숙소 안에 자신을 제외하고 컨디션이 가득차지 않은 임의 오퍼레이터의 시간당 컨디션 회복 속도 +0.35(동종 효과 중 가장 높은 수치만 적용); 동시에 자신의 시간당 컨디션 회복 속도 +0.35"/>
+  </Info>
   <Info name="엠브리엘" en_name="Ambriel">
     <Infra id="1" name="게으름뱅이" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 자신의 시간당 컨디션 회복 -0.1, 다른 모든 오퍼레이터들의 시간당 컨디션 회복 +0.2"/>
     <Infra id="2" name="오더 배포·β" lock="E1" icon="" target="무역소" info="무역소 배치 시, 오더 수주 효율 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
@@ -455,6 +497,14 @@
     <Infra id="2" name="오더 분배·β" lock="E1" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
   </Info>
 
+  <Info name="아렌" en_name="Arene">
+    <Infra id="1" name="가치를 발휘하는 물건" lock="E0" icon="" target="가공소"
+           info="가공소에 배치 후 정예화 재료 가공 시, 숙소 내 컨디션이 4 이하인 오퍼레이터 1명 당 부산물 산출 확률 +5%"/>
+    <Infra id="1" name="일 잘하는 사람" lock="E1" icon="" target="가공소"
+           info="가공소에 배치 후 정예화 재료 가공 시, 숙소 내 컨디션이 20 이하인 오퍼레이터 1명 당 부산물 산출 확률 +5%"/>
+    <Infra id="2" name="독거" lock="E1" icon="" target="기숙사" 
+           info="숙소에 배치 시, 자신의 컨디션 회복 속도 +0.7 ; 이 기숙사에 다른 오퍼레이터가 있을 시 1명 당 추가 컨디션 회복 속도 +0.05"/>
+  </Info>
   <Info name="비헌터" en_name="Beehunter">
     <Infra id="1" name="가드 마스터리 α" lock="E0" icon="" target="훈련실" info="훈련실 배치 시, 가드 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
     <Infra id="2" name="특훈 기록" lock="E0" icon="" target="가공소" info="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+70%&lt;/color&gt;"/>
@@ -548,11 +598,17 @@
     <Infra id="1" name="뱅가드 마스터리·α" lock="E0" icon="" target="훈련실" info="훈련실에 배치 시, 뱅가드 오퍼레이터의 스킬 훈련 속도 &lt;color=#34BBFF&gt;+30%&lt;/color&gt;"/>
     <Infra id="2" name="오더 관리·α" lock="E1" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율 &lt;color=#34BBFF&gt;+10%&lt;/color&gt; 및 오더 상한 &lt;color=#34BBFF&gt;+1&lt;/color&gt;"/>
   </Info>
+  <Info name="Reserve(Melee)" en_name="Reserve(Melee)">
+    <Infra id="1" name="null" lock="E0" icon="" target="null" info="null"/>
+  </Info>
   <Info name="바닐라" en_name="Vanilla">
     <Infra id="1" name="표준화·β" lock="E0" icon="" target="제조소" info="제조소에 배치 시, 생산력 &lt;color=#34BBFF&gt;+25%&lt;/color&gt;"/>
     <Infra id="2" name="오더 분배·α" lock="E1" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율 &lt;color=#34BBFF&gt;+20%&lt;/color&gt;"/>
   </Info>
-  
+
+  <Info name="Reserve(Sniper)" en_name="Reserve(Sniper)">
+    <Infra id="1" name="null" lock="E0" icon="" target="null" info="null"/>
+  </Info>
   <Info name="아드나키엘" en_name="Adnaciel">
     <Infra id="1" name="오더 분배·α" lock="E0" icon="" target="무역소" info="무역소에 배치 시, 오더 수주 효율 &lt;color=#34BBFF&gt;+20%&lt;/color&gt;"/>
     <Infra id="2" name="기능공" lock="E1" icon="" target="가공소" info="가공소에 배치 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+50%&lt;/color&gt;"/>
@@ -574,10 +630,16 @@
     <Infra id="1" name="자상함" lock="E0" icon="" target="기숙사" info="숙소에 배치 시, 자신을 제외한 임의 오퍼레이터의 시간당  컨디션 회복 속도 +0.55 (동종 효과 중 가장 높은 수치만 적용)"/>
     <Infra id="2" name="영양학" lock="E1" icon="" target="가공소" info="가공소에 배치 후 엘리트 재료 가공 시, 부산물 산출 확률 &lt;color=#34BBFF&gt;+70%&lt;/color&gt;"/>
   </Info>
-  
+  <Info name="Reserve(Logistic)" en_name="Reserve(Logistic)">
+    <Infra id="1" name="null" lock="E0" icon="" target="null" info="null"/>
+  </Info>
+
   <Info name="라바" en_name="Lava">
     <Infra id="1" name="열에너지 충전·α" lock="E0" icon="" target="발전소" info="발전소에 배치 시, 드론 회복 속도 &lt;color=#34BBFF&gt;+10%&lt;/color&gt;"/>
     <Infra id="2" name="오리지늄공예·β" lock="E1" icon="" target="제조소" info="제조소에 배치 시, 원석류에 대한 생산력 &lt;color=#34BBFF&gt;+35%&lt;/color&gt;"/>
+  </Info>
+  <Info name="Reserve(Caster)" en_name="Reserve(Caster)">
+    <Infra id="1" name="null" lock="E0" icon="" target="null" info="null"/>
   </Info>
   <Info name="스튜어드" en_name="Steward">
     <Infra id="1" name="담판" lock="E0" icon="" target="무역소" info="무역소에 배치 시, 오더 상한 &lt;color=#34BBFF&gt;+3&lt;/color&gt;, 시간당 컨디션 소모 -0.25"/>
