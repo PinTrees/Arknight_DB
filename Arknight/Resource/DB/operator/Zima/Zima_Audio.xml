@@ -1,0 +1,47 @@
+<DataList>
+  <Info code="Zima" language="KR">
+    <Audio code="S_1" name="획득" info="지마. 우루수스 학생자치단의 단장이다. 나는 뭐 어찌되든 상관 없는데, 동료들에게는 있을 곳이 필요해. 됐으니까 뭔가 일이나 줘. 여기에서 지내는게 공짜가 아닌 것 쯤은 알고 있어." />
+    <Audio code="H_1" name="인사" info="뭔데, 무슨 일이라도 있어?" />
+
+    <Audio code="T_1" name="대화 1" info="멋대로 돌아다니지 말라고? 책임자가 누군데. 너냐? 아니면 저놈들이냐? 귀찮아라. 일단 같이 가자." />
+    <Audio code="T_2" name="대화 2" info="뭔 말했어? 이어폰 끼고 있어서 안 들렸거든." />
+    <Audio code="T_3" name="대화 3" info="로도스의 대장은 이스티나보다 어리잖아. 왜 저런 아이를 싸우게 만드는건데, 응?" />
+    <Audio code="T_11" name="1차 정예화 후 대사" info="왜 쭉 보고 있냐고? … 너는 언제나 뭘 하고 있는지 관찰하고 있는 거야." />
+    <Audio code="T_12" name="2차 정예화 후 대사" info="대장의 위치에 서는것은 모든 병사들의 목표다. 너의 자리도 확 빼앗아버리고 싶어. 그럼 안되냐?" />
+    <Audio code="T_21" name="신뢰도 상승 후 대사 1" info="장래설계? 그런건 없어. 뭐야, 불만이냐? 아직 앞일을 걱정할 나이도 아니니까." />
+    <Audio code="T_22" name="신뢰도 상승 후 대사 2" info="이스티나랑 애들은 여행하는 중에 주웠어. 다른 애들도 있었지만… 처분했어. 얌전히 있으라고 했는데도 안 들어서 말이야." />
+    <Audio code="T_23" name="신뢰도 상승 후 대사 3" info="어? 체르노보그? 그런 절망밖에 없는 도시에 누가 돌아가? 로도스야말로 우리의 스타트지점이야. 그러니까, 앞으로도 잘 부탁한다고? 박사." />
+
+    <Audio code="M_1" name="어시스턴트 임명" info="도와주러 왔어. 그래서, 누굴 날려버리면 되는데?" />
+    <Audio code="M_2" name="방치" info="뭐 할거 없냐?" />
+    <Audio code="M_3" name="작전 기록 학습" info="이건 싫지 않은걸." />
+    
+    <Audio code="E_1" name="1차 정예화 시" info="승진? 재미있네. 성과를 계속 올리면 더 위로 올라갈 수 있다. 맞지?" />
+    <Audio code="E_2" name="2차 정예화 시" info="솔직히 말해. 내가 계속 승진하면 너의 자리, 확 빼앗아버릴 수도 있냐? 뭐? 농담? 미안하지만, 농담이 아니야." />
+    
+    <Audio code="M_11" name="팀 배치" info="대장이나 대원이나 어느쪽이라도 상관없어." />
+    <Audio code="M_12" name="팀장 임명" info="귀찮아라." />
+    <Audio code="M_13" name="시설에 배치" info="여긴 뭐하는 곳이야?" />
+    
+    <Audio code="TC_1" name="터치" info="응?" />
+    <Audio code="TC_2" name="신뢰도 터치" info="헤에, 너도 요즘에는 지휘관다워졌는데. 싸움도 재미있어졌지?" />
+
+    <Audio code="B_1" name="작전 출발" info="간다." />
+    <Audio code="B_2" name="작전 개시" info="가자." />
+    
+    <Audio code="B_11" name="오퍼레이터 선택 1" info="당연히 나지?" />
+    <Audio code="B_12" name="오퍼레이터 선택 2" info="해주겠다고." />
+    <Audio code="B_13" name="배치 1" info="겁쟁이 놈들이." />
+    <Audio code="B_14" name="배치 2" info="흥." />
+    
+    <Audio code="B_21" name="작전 중 1" info="쫄지 마라!" />
+    <Audio code="B_22" name="작전 중 2" info="한꺼번에 덤비라고!" />
+    <Audio code="B_23" name="작전 중 3" info="힘과 영광을!" />
+    <Audio code="B_24" name="전투 중 4" info="승리가 아니면 죽음을!" />
+    
+    <Audio code="B_31" name="작전 종료 - 하드모드" info="이제 죽고싶은 놈은 없냐? 마하의 속도로 저세상으로 보내주지." />
+    <Audio code="B_32" name="작전 종료 - 3★" info="나쁘지 않은 결과로군." />
+    <Audio code="B_33" name="작전 종료 - 1★,2★" info="일단, 여긴 함락시켰어." />
+    <Audio code="B_34" name="작전 실패" info="한심한 녀석이구만, 당장 꺼져!" />
+  </Info>
+</DataList>

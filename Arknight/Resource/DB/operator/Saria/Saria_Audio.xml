@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Saria" language="KR">
+    <Audio code="St_1" name="획득" info="내 이름은 사리아, 전 라인 생명연구소의 실험 팀 멤버다. 지금은...... 섭리에서 어긋난 자들을 바로잡기 위해, 로도스 아일랜드의 협력이 필요하다." />
+    <Audio code="Hi_1" name="인사" info="박사. 잘 있었나." />
+
+    <Audio code="Ta_1" name="대화 1" info="만물의 진화는 절대적인 섭리다. 그런데도 라인 랩은 이를 바꾸고, 지배하려고 까지 하고 있지. 어리석긴..." />
+    <Audio code="Ta_2" name="대화 2" info="너도 연구자로서, 금기를 건드리는 실험에 손을 댄 적은... 아냐, 안 했다면 그걸로 됐다." />
+    <Audio code="Ta_3" name="대화 3" info="로도스 아일랜드는 조금 시끄럽다고 생각하지 않나? 일은 조용히 집중해서 해야 한다. 게다가 넌, 부하들한테 너무 물러." />
+    <Audio code="Ta_el_1" name="1차 정예화 후 대사" info="나의 능력은 원래 구급과는 관계없지만, 네 작전에 맞춰 능력의 운용 방법을 약간 조정했다." />
+    <Audio code="Ta_el_2" name="2차 정예화 후 대사" info="칼슘화 아츠는 믿을만하지 못하다고 생각하지 않나? 최대한으로 제련하여 에나멜화한 방벽은, 그 누구도 뚫지 못하지." />
+    <Audio code="Ta_tr_1" name="신뢰도 상승 후 대사 1" info="사일런스와 언성을 높이는 모습을 봤다고? 흥, 늘 있는 일이다... 아니, 미안하다. 로도스 아일랜드에게도 네게도, 폐를 끼쳤군." />
+    <Audio code="Ta_tr_2" name="신뢰도 상승 후 대사 2" info="이프리트에게 전해줘... '지금부터 무슨 일이 있어도 내가 지켜주겠다'고... 만나라고? 아냐, 그건 아직 마음의 준비가..." />
+    <Audio code="Ta_tr_3" name="신뢰도 상승 후 대사 3" info="어떤 궁지에 빠지든 간에, 소중한 사람에게는 긍지에 찬 모습만을 보여줘야 한다고, 난 그렇게 믿고 있다. 너도 그렇지?" />
+
+    <Audio code="Ma_1" name="어시스턴트 임명" info="네 스케줄은 이미 확인했다. 지금은 휴식시간이지? 방해했군." />
+    <Audio code="Ma_idle_1" name="방치" info="...... 용무가 없다면, 방으로 돌아가겠다." />
+    <Audio code="Ma_2" name="작전 기록 학습" info="뭘 하고 있는 건가?" />
+    <Audio code="Ma_el_1" name="1차 정예화 시" info="잘 들어라, 부하에게의 영향력을 유지하고 싶다면, 너의 생각으로 그들을 계속 움직이게 해라." />
+    <Audio code="Ma_el_2" name="2차 정예화 시" info="승진? 높은 평가를 받는 건 바라던 바가 아니지만, 그 아이를 위해서라도 네 협력이 꼭 필요하다. 뒤틀려버린 모든 것들을 바로잡기 위해서...!" />
+    <Audio code="Ma_team_1" name="팀 배치" info="너의 지시에 대해서는, 나도 의견을 낼 권리가 있다." />
+    <Audio code="Ma_team_2" name="팀장 임명" info="그럼 바로 작전 브리핑을 시작하지." />
+    <Audio code="Ma_ifr_1" name="시설에 배치" info="이 방, 디자인이 재미있군. 개인적으로는 퓨처리즘을 반영한 디자인이 취향이긴 하지만." />
+    <Audio code="Ma_tc_1" name="터치" info="응? 뭐지?" />
+    <Audio code="Ma_tc_2" name="신뢰도 터치" info="박사. 시간에 여유가 있으면, 과거의 지식을 배워보는 것도 좋을 거야." />
+
+    <Audio code="Bt_1" name="작전 출발" info="전원, 규율은 제대로 지키도록." />
+    <Audio code="Bt_2" name="작전 개시" info="저 녀석들이 재난을 낳고, 전쟁을 일으킨 원흉인가?" />
+    <Audio code="Bt_op_1" name="오퍼레이터 선택 1" info="내가 가지." />
+    <Audio code="Bt_op_2" name="오퍼레이터 선택 2" info="놈들을 제압하겠다." />
+    <Audio code="Bt_s_1" name="배치 1" info="앞으로 전진한다." />
+    <Audio code="Bt_s_2" name="배치 2" info="...... 해충이." />
+    <Audio code="Bt_in_1" name="작전 중 1" info="이 정도로 멈출 거라 생각하지 마라." />
+    <Audio code="Bt_in_2" name="작전 중 2" info="금방 끝난다." />
+    <Audio code="Bt_in_3" name="작전 중 3" info="응고되어라." />
+    <Audio code="Bt_in_4" name="전투 중 4" info="포기하지 마." />
+    <Audio code="Bt_end_1" name="작전 종료 - 하드모드" info="너의 작전과 전술은 현대적이지만, 근본적인 사상은 낡아빠졌군. 대체 어느 시대 사람이냐?" />
+    <Audio code="Bt_end_2" name="작전 종료 - 3★" info="모든 것은 질서에 따라야 한다. 섭리에 반하려 한다면, 누구라도 용서치 않겠다." />
+    <Audio code="Bt_end_3" name="작전 종료 - 1★,2★" info="도망친 놈들이 원군을 부를 가능성이 있다. 색적을 게을리하지 마라." />
+    <Audio code="Bt_end_4" name="작전 실패" info="어디서 길을 잘못 든 거지...?" />
+  </Info>
+</DataList>

@@ -1,0 +1,6 @@
+<data>
+  <info code="event-AF-1" where="n" lock="PL_4" lock_count="1" />
+  <info code="event-AF-2" where="n" lock="XI_4" lock_count="1" />
+  <info code="event-AF-3" where="n" lock="RC_3" lock_count="1" />
+  <info code="event-AF-4" where="n" lock="SG_3" lock_count="1" />
+</data>

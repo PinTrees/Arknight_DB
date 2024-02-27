@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2932119221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 204838f76b79aa43c047c639e1cf1d78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18fedb666270a78b5872d527699d5c58
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/SettlingResource/Nearl/Nearl_Atlas.asset
+- Assets/SettlingResource/Nearl/Nearl.png
+- Assets/SettlingResource/Nearl/Nearl_SkeletonData.asset
+- Assets/SettlingResource/Nearl/Nearl_Material.mat
+- Assets/SettlingResource/Nearl/Nearl.atlas.txt
+- Assets/SettlingResource/Nearl/Nearl.skel.bytes
+Dependencies: []

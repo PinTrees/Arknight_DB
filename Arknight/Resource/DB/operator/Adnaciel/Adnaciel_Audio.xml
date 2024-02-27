@@ -1,0 +1,37 @@
+<DataList>
+  <Info code="Utage" language="KR">
+    <Audio code="JP_001" name="획득" info="라테라노 출신, 사격담당 아드나키엘입니다. 총을 다룰 자격은 아직 가지고 있지 않지만, 크로스보우의 실력이라면 선배님들에게도 지지 않아요!" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="그 기계, 상태가 좀 안 좋아보이는데 좀 봐도 될까요?" />
+    <Audio code="JP_003" name="인사" info="박사님. 당신에게도 하늘의 축복을." />
+
+    <Audio code="JP_004" name="대화 1" info="안녕하세요, 안셀. 카디는 건강해요. 그런데, 뭔가 도와줬으면 하는 일 없나요?" />
+    <Audio code="JP_005" name="대화 2" info="저희 팀, 재미있는 사람이 가득해요. 특히 멜란사가 말이죠. 왠지 저를 피하는 것 같은데… 향으로 알 수 있단 말이죠." />
+    <Audio code="JP_006" name="대화 3" info="카디, 뭐 하고 있어요? 즐거워보이네요." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="라테라노인이라고 해서 누구나 총을 다룰 자격이 있는 건 아니에요. 여하튼 저희에게는 정체를 알 수 없는 무기니까요. 제 고향에서는 총을 복제하는 기술의 발달과 더불어 크로스보우의 제조기술도 독자적으로 발달했어요. 생선 뼈를 소재로 한 크로스보우, 그런게 대체로 그렇게 만들어진거에요." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="제가 직접 만든 디저트, 어떠신가요? 부끄러운 일이지만 전, 아직 디저트는 25종류밖에 못 만들어요. 라테라노인으로서 실격이지요?" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="이 천사 고리요? 왜 비뚤어져있는지 저도 잘 모르겠어요. 켈시 선생님께서는 뇌의 해마에 이상이 어쩌고라고 하셨는데요." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="멀리에서 보고 있는 것 보다, 박사님과 함께 있는 편이 훨씬 즐거워요." />
+
+    <Audio code="JP_012" name="시설에 배치" info="여기… 분위기 좋네요!" />
+    <Audio code="JP_013" name="터치" info="어라?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사님, 함께할 수 있어서 저도 기뻐요!" />
+    <Audio code="JP_015" name="방치" info="박사님은, 주무시고 계실 때의 얼굴도 참 인상적이네요." />
+    <Audio code="JP_016" name="작전 기록 학습" info="저를 잔뜩 써주신다면 그걸로 만족해요!" />
+    <Audio code="JP_017" name="1차 정예화 시" info="발탁해주셔서 감사합니다!" />
+    <Audio code="JP_019" name="팀 배치" info="괜찮아요." />
+    <Audio code="JP_020" name="팀장 임명" info="뭔가 망가진 것이 있다면 제게 보여주세요. 고칠 수 있을지도 몰라요." />
+
+    <Audio code="JP_021" name="작전 출발" info="출발할 시간이에요. 준비는 되셨나요?" />
+    <Audio code="JP_022" name="작전 개시" info="여러분, 사냥을 시작합시다!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="지시에 따르겠습니다." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="응?" />
+    <Audio code="JP_025" name="배치 1" info="빨리 도망치는 게 좋을 거예요." />
+    <Audio code="JP_026" name="배치 2" info="OK." />
+    <Audio code="JP_027" name="작전 중 1" info="얍!" />
+    <Audio code="JP_028" name="작전 중 2" info="록 온!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="모든건 박사님의 계산 대로에요." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="박사님의 지시 덕분이네요." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="작전은 성공했지만… 뭔가 걸리지 않으세요?" />
+    <Audio code="JP_034" name="작전 실패" info="죄송합니다." />
+  </Info>
+</DataList>

@@ -1,0 +1,47 @@
+<DataList>
+  <Info code="Texas" language="KR">
+    <Audio code="S_1" name="획득" info="텍사스라고 한다. 차량 운전과 물자 수송, 그리고 요인 경호를 맡고 있다. 임무에 관한 지시는 되도록 간결하게 부탁한다." />
+    <Audio code="H_1" name="인사" info="안녕." />
+
+    <Audio code="T_1" name="대화 1" info="내가 과묵하다고? 그건 웬만한 일에는 아무 감흥이 없기 때문이지…" />
+    <Audio code="T_2" name="대화 2" info="우리 업무는 삶과 죽음을 나르는 것이다." />
+    <Audio code="T_3" name="대화 3" info="운전 중에는 보통 소라가 부른 곡들을 듣고 있다." />
+    <Audio code="T_11" name="1차 정예화 후 대사" info="담배냐고? 아니, 이건 초콜릿이다. 정기적인 열량 섭취는 필수적이니까. 어디 보자…커피 한잔하겠나?" />
+    <Audio code="T_12" name="2차 정예화 후 대사" info="언제부터 펭귄 로지스틱스에서 일하고 있냐고? … 언제부터 … 그런 건, 먼 옛날에 잊어버렸어." />
+    <Audio code="T_21" name="신뢰도 상승 후 대사 1" info="붉은 늑대는 조심하는 편이 좋아. 나쁜 녀석은 아니지만…우리와는 다르다." />
+    <Audio code="T_22" name="신뢰도 상승 후 대사 2" info="아무리 도망치려 해도, 언젠가는 과거에 따라잡히기 마련이지." />
+    <Audio code="T_23" name="신뢰도 상승 후 대사 3" info="자유로운 삶, 시끌벅적한 동료들 … 여러모로 귀찮지만, 지금은 그것도 나쁘지 않은 거 같아." />
+
+    <Audio code="M_1" name="어시스턴트 임명" info="다음 임무는 박사의 신변 경호인가." />
+    <Audio code="M_2" name="방치" info="지금은 휴식 시간인가?" />
+    <Audio code="M_3" name="작전 기록 학습" info="고맙군." />
+    
+    <Audio code="E_1" name="1차 정예화 시" info="보수라면 이걸로 충분해." />
+    <Audio code="E_2" name="2차 정예화 시" info="박사가 준 신뢰, 고마워." />
+    
+    <Audio code="M_11" name="팀 배치" info="뭘 하면 될나?" />
+    <Audio code="M_12" name="팀장 임명" info="다른 사람에게 지시를 내리는 건 잘 못하는데." />
+    <Audio code="M_13" name="시설에 배치" info="필요한 물자가 있나? 도와주도록 하지." />
+    
+    <Audio code="TC_1" name="터치" info="윽…" />
+    <Audio code="TC_2" name="신뢰도 터치" info="무슨 일이지, 박사." />
+
+    <Audio code="B_1" name="작전 출발" info="출발한다." />
+    <Audio code="B_2" name="작전 개시" info="엑시아, 지원 바란다." />
+    
+    <Audio code="B_11" name="오퍼레이터 선택 1" info="명령을 내려다오." />
+    <Audio code="B_12" name="오퍼레이터 선택 2" info="시작하지." />
+    <Audio code="B_13" name="배치 1" info="발도." />
+    <Audio code="B_14" name="배치 2" info="시작하지." />
+    
+    <Audio code="B_21" name="작전 중 1" info="흠!" />
+    <Audio code="B_22" name="작전 중 2" info="누구도 날 묶어두진 못해." />
+    <Audio code="B_23" name="작전 중 3" info="철저하게 베어 주마." />
+    <Audio code="B_24" name="전투 중 4" info="닥쳐라." />
+    
+    <Audio code="B_31" name="작전 종료 - 하드모드" info="훗…이 정도는 문제없다." />
+    <Audio code="B_32" name="작전 종료 - 3★" info="약하군." />
+    <Audio code="B_33" name="작전 종료 - 1★,2★" info="몇 명의 침입을 허용했다." />
+    <Audio code="B_34" name="작전 실패" info="이번 임무를 너무 우습게 본 모양이군…" />
+  </Info>
+</DataList>

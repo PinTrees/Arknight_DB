@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Perfumer" language="KR">
+    <Audio code="JP_001" name="획득" info="안녕, 박사 군. 나는 퍼퓨머 라나라고 해. 어머, 퍼퓨머라는 거 들어본 적 없니?" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="내가 하는 말, 잘 들어줘, 박사군." />
+    <Audio code="JP_003" name="인사" info="어머, 박사군. 안녕?" />
+
+    <Audio code="JP_004" name="대화 1" info="이 향, 어때? 편안해진다고? 멜란사에게 받은 샘플이 영감을 줬지." />
+    <Audio code="JP_005" name="대화 2" info="온실, 만들어줘서 고마워. 이걸로 모두 안심하고 편히 쉴 수 있을 거야." />
+    <Audio code="JP_006" name="대화 3" info="어머, 일어났어? 후후, 자는 동안 피로가 좀 풀렸지? 이 향이 잘 들었나 보네. 이거, 내 야심작이거든." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="수선화, 제비붓꽃, 칼랑코에, 참오동나무 꽃. 향료를 얻을 수 있는 꽃은 언제나 들고 다녀." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="어? 이 작은 여우 말하는거야? 작지만 향을 조합할 때에는 꽤나 도움이 돼." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="개미의 사회에서는 페로몬으로 관계를 유지하잖아? 퍼퓨머와 손님의 관계도 비슷한 거야." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="요즘 온실에 자주 오네? 어머, 소매에 꽃가루가 붙어있어. 응, 떨어졌다." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="꽤나 오랫동안 자고 있었던 것 같은데, 이번엔 어떤 꿈을 꾸었니?" />
+
+    <Audio code="JP_012" name="시설에 배치" info="역시 박사군의 곁이 가장 마음이 편해." />
+    <Audio code="JP_013" name="터치" info="어머." />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사 군은 말이야, 좋은 향이 나." />
+    <Audio code="JP_015" name="방치" info="어라? 박사 군? 라벤더 향이 너무 잘 들었나..." />
+    <Audio code="JP_016" name="작전 기록 학습" info="성과 확인, 잘 부탁해." />
+    <Audio code="JP_017" name="1차 정예화 시" info="승진한거를 굳이 알려주러 와준거야? 미안해, 박사군. 그건 그렇고 응, 옷깃이 비뚤어졌어. 잠깐 실례할게?" />
+    <Audio code="JP_018" name="2차 정예화 시" info="사실은 그런 야만스러운 싸움은 그리 좋아하지 않는데 말이야. 그래도 뭐, 박사 군을 위해서 열심히 할게."/>
+    <Audio code="JP_019" name="팀 배치" info="기꺼이!" />
+    <Audio code="JP_020" name="팀장 임명" info="조향과 치료, 어느 쪽에서도 박사 군의 요구를 만족시켜줄게." />
+
+    <Audio code="JP_021" name="작전 출발" info="얘들아, 아무쪼록 안전하게 가자." />
+    <Audio code="JP_022" name="작전 개시" info="어떤 싸움이 되려나." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="응." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="문제없단다." />
+    <Audio code="JP_025" name="배치 1" info="이게 전장이라고 하는 거구나." />
+    <Audio code="JP_026" name="배치 2" info="무섭지는 않아." />
+    <Audio code="JP_027" name="작전 중 1" info="정신 차리렴." />
+    <Audio code="JP_028" name="작전 중 2" info="자, 정신차리렴." />
+    <Audio code="JP_029" name="작전 중 3" info="이런 향은 좋아해?" />
+    <Audio code="JP_030" name="작전 중 4" info="침착하렴." />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="박사군이 지휘를 해주면, 반드시 이길 수 있을 거라고 믿고 있었단다." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="잘됐네, 박사군." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="다들 고생했어, 푹 쉬렴." />
+    <Audio code="JP_034" name="작전 실패" info="이번에는 아쉬웠지만… 이정도로 포기하지는 않는단다." />
+  </Info>
+</DataList>

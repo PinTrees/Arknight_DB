@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 32388991
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spine/yamin_nearl_1
+      Dependencies: {}
+    Info_1:
+      Name: spine/yamin_ambriel_1
+      Dependencies: {}

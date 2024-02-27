@@ -1,0 +1,35 @@
+<DataList>
+  <Info code="Noir_corne" language="KR">
+    <Audio code="JP_001" name="획득" info="중장 대원, 느와르 코르네. 요인경호라면 맡겨만 줘." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="무슨 일이야, 박사. 지금은 대기중이라고." />
+    <Audio code="JP_003" name="인사" info="박사, 이상 없어." />
+
+    <Audio code="JP_004" name="대화 1" info="이 방패 말이야? 사실은 이 녀석의 에너지 일부는 내 몸에서 공급하고 있어." />
+    <Audio code="JP_005" name="대화 2" info="마스크 안쪽은 어떻게 되어있냐고? 그건… 아니, 조금만 더 비밀로 하게 해줘." />
+    <Audio code="JP_006" name="대화 3" info="임무를 끝낸 후의 휴식은 최고야. 그렇지?" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="박사. 너를 아는 걸로 이 방패의 힘이 보다 더 강해지는 것 같아." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="물론, 자기 한계는 알고 있어. 그렇지만, 야토에게 근심을 끼치고 싶진 않아. 이건 최우선사항이다. 뭐, 다른 건 나중에 생각하자." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="어디에든 간에 나 같은건 필요하잖아? 아니, 건방지게 구는게 아니고… 그러니까, 높으신 분이 위험하실 때 그걸 몸을 날려서 막아줄 수 있는 녀석이 필요하다고. 그런 말이야." />
+
+    <Audio code="JP_012" name="시설에 배치" info="뭐, 푹 쉬자고." />
+    <Audio code="JP_013" name="터치" info="아앙?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="일 끝나면 한 잔 걸치러 갈래?" />
+    <Audio code="JP_015" name="방치" info="가끔씩은, 마스크를 벗고 숨을 돌려야지." />
+    <Audio code="JP_016" name="작전 기록 학습" info="그렇군. 레인저 할아범이 말하고 있던 전술이란게 이런 거였군." />
+    <Audio code="JP_019" name="팀 배치" info="또 일행이 느는건가?" />
+    <Audio code="JP_020" name="팀장 임명" info="앞으로 더 강해질거야!" />
+
+    <Audio code="JP_021" name="작전 출발" info="최전선에 서는 것이, 우리 중장 대원의 중요한 역할이라고." />
+    <Audio code="JP_022" name="작전 개시" info="작전을 시작한다." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="뭐, 말해보라고." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="무슨 일이야?" />
+    <Audio code="JP_025" name="배치 1" info="맡겨줘." />
+    <Audio code="JP_026" name="배치 2" info="나, 등장!" />
+    <Audio code="JP_027" name="작전 중 1" info="조심히 하라고!" />
+    <Audio code="JP_028" name="작전 중 2" info="방어를 튼튼히 해!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="이렇게까지 뜨거운 싸움을 견뎌내니까 나 같은 녀석도 기뻐하게 되는군." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="이 정도는 아무렇지도 않아." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="뭐, 이 정도려나." />
+    <Audio code="JP_034" name="작전 실패" info="좋은 마스크가 없으니까 이렇게 되는거야, 젠장할!" />
+  </Info>
+</DataList>

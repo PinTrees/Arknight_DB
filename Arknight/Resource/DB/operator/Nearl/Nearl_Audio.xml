@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Nearl" language="KR">
+    <Audio code="JP_001" name="획득" info="마가렛 니어. 카시미어의 기사… 가 아니라, 로도스의 오퍼레이터로서 그대의 긍지와 생명을 이 방패에 걸고 지키겠다." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="잘 있었나, 박사. 당신에게 빛의 가호가 함께하기를."/>
+    <Audio code="JP_003" name="인사" info="좋은 아침이야, 박사." />
+
+    <Audio code="JP_004" name="대화 1" info="가장 위험한 곳에 보내주길 원해. 이 방패와 내가, 모두를 지키겠어." />
+    <Audio code="JP_005" name="대화 2" info="기사라는 칭호는 명예로운 상징이겠지. 그게 언제부턴가 장사를 위한 도구로 전락해버린다면..." />
+    <Audio code="JP_006" name="대화 3" info="그 어떠한 잔학무도에게도 굴복하지 않겠다. 빛의 인도가 있는 한." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="박사에겐 언제나 감사하고 있다." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="카시미어의 기사도 정신은 괴로워하는 자들에게 구원의 손길을 건네기 위해서 생겨난 것이다. 하지만 이제와서는, 상층부의 자금조달을 위한 도구로 전락해버리고 말았어. 이 이상의 굴욕은 없다." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="샤이닝… 그녀는 나를 이끌어주는 빛, 그리고 내가 추구하는 희망이다." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="로도스라는 이름을 들었을 때, 샤이닝은 왜인지 동요하고 있었다. 하지만, 그 이유는 왜인지 모르겠어." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="광석병에 잠식당한 이 시대에, 로도스가 희망의 빛이 되기를." />
+
+    <Audio code="JP_012" name="시설에 배치" info="여기에서 순찰을 하도록 하지." />
+    <Audio code="JP_013" name="터치" info="적의 상태가 … 박사?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사, 그… 에헴, 집무실에 들여보내줄 수는 없겠나? 장서가 많이 있다고 들었다." />
+    <Audio code="JP_015" name="방치" info="잠깐동안의 평온함을." />
+    <Audio code="JP_016" name="작전 기록 학습" info="힘을 준 것에 감사한다." />
+    <Audio code="JP_017" name="1차 정예화 시" info="고맙다, 박사. 언제 어느때나 이 힘은 괴로워하는 사람들을 구하기 위해서라는 걸 명심하겠다." />
+    <Audio code="JP_018" name="2차 정예화 시" info="샤이닝은 새벽녘이 아직 멀었다고 말하지만, 나는 언젠가 반드시 잃어버린 영광을 되찾을 수 있다고 믿어."/>
+    <Audio code="JP_019" name="팀 배치" info="모든 해악은 내가 물리치겠다." />
+    <Audio code="JP_020" name="팀장 임명" info="로도스의 이름이 부끄럽지 않은 싸움을." />
+
+    <Audio code="JP_021" name="작전 출발" info="준비완료, 출발한다!" />
+    <Audio code="JP_022" name="작전 개시" info="그 긍지를, 지키기 위하여!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="그 이름을 걸고." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="이 힘, 당신을 위해서 다하겠다!" />
+    <Audio code="JP_025" name="배치 1" info="엄호하겠다!" />
+    <Audio code="JP_026" name="배치 2" info="내 뒤로 와라." />
+    <Audio code="JP_027" name="작전 중 1" info="빛이 있으라!" />
+    <Audio code="JP_028" name="작전 중 2" info="내가 함께한다!" />
+    <Audio code="JP_029" name="작전 중 3" info="걱정하지 마라." />
+    <Audio code="JP_030" name="전투 중 4" info="깨어나라!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="진정한 기사는 결코 폭력에 굴복하지 않는다. 이 심판의 철퇴 앞에 자신의 행실을 뉘우쳐라!" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="이 걸음을 계속 이어나간다면, 언젠가는 반드시…" />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="진정한 기사는 패자를 어디까지고 쫓아가지 않는다. 그 어떤 인간이라도 뉘우칠 기회는 주어져야 해." />
+    <Audio code="JP_034" name="작전 실패" info="여기에서 포기하면 안 된다." />
+  </Info>
+</DataList>

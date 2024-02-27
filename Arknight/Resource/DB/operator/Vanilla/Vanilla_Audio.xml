@@ -1,0 +1,39 @@
+<DataList>
+  <Info code="Vanilla" language="KR">
+    <Audio code="JP_001" name="획득" info="바닐라라고 합니다. 훈련생으로서 이곳에서 공부하도록 하겠습니다. 박사님, 앞으로 잘 부탁드립니다." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="대기 중이에요, 박사님." />
+    <Audio code="JP_003" name="인사" info="박사님, 좋은 아침이에요." />
+
+    <Audio code="JP_004" name="대화 1" info="BP팀 선배 두분도 여기 와 계신건가요? 그러면… 앞으로는 절 선배님들 팀에 넣어주실 수 있나요?" />
+    <Audio code="JP_005" name="대화 2" info="하아, 하아… 앞으로 3세트 더 하면 오늘 트레이닝 메뉴 반절이 끝나… 박사님, 죄송하지만 물병 좀 건네주실 수 있나요?" />
+    <Audio code="JP_006" name="대화 3" info="제 고향에 대해 듣고 싶다고요? 그곳은… 몹시 황폐한, 살아가는 것만으로 버거운 토지였어요. 거기와 비교하면 로도스는 정말 천국 같아요." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="BSW에서 실습을 하고 있었을 때보다 강해진 거 같아요!" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="BSW 규정 제 22조. 무기를 놓은 자는 일률적으로 해고에 처한다. … 그러니까 이 핼버드를 언제나 몸 가까이 지니고 있는 거예요. 네? 이게 적용되는건 훈련기간중인 대원뿐인가요? 그럴리가, 프란카씨, 그런 이야기는 못 들었다고요!" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="도베르만 선생님 너무해요! 왜 저만 살아있는 오리지니움 달팽이를 상대해야 하는 건데요?! 저, 저는 정말 못하겠다니까요!" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="저요, 프란카씨나 리스캄씨가 로도스에 남고 싶어하는 이유를 알게된 거 같아요. BSW 보다 이곳은 훨씬 집다운 곳이네요. 임무 이외에도 재미있는 일이 이렇게나 많다니." />
+
+    <Audio code="JP_012" name="시설에 배치" info="박사님의 지시를 따를게요." />
+    <Audio code="JP_013" name="터치" info="네?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="박사님, 저녁 같이 드실래요?" />
+    <Audio code="JP_015" name="방치" info="쉿… 조용히해주세요. 박사님이 주무시고 계세요." />
+    <Audio code="JP_016" name="작전 기록 학습" info="슬슬 노트를 정리해요. 새로운 지식은 바로바로 소화해야 하니까요." />
+    <Audio code="JP_017" name="1차 정예화 시" info="이건… 엘리트 메달? 이걸 제게 주시는 거예요? 감사합니다!" />
+    <Audio code="JP_019" name="팀 배치" info="여러분의 힘이 될 수 있도록 힘껏 노력하겠습니다." />
+    <Audio code="JP_020" name="팀장 임명" info="저 따위가 대장이라도 정말 괜찮은 거예요?" />
+
+    <Audio code="JP_021" name="작전 출발" info="남보다 갑절은 열심히 할게요!" />
+    <Audio code="JP_022" name="작전 개시" info="BSW분들의 얼굴에 먹칠을 할 수는 없어요!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="무슨 일인가요?" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="명령이 있으면 따를 뿐입니다." />
+    <Audio code="JP_025" name="배치 1" info="네." />
+    <Audio code="JP_026" name="배치 2" info="알겠습니다." />
+    <Audio code="JP_027" name="작전 중 1" info="이곳은 못 지나가요!" />
+    <Audio code="JP_028" name="작전 중 2" info="이 핼버드의 날카로움은 헛것이 아니에요!" />
+    <Audio code="JP_029" name="작전 중 3" info="전투는 경험으로만 의존하는 게 아니라고요!" />
+    <Audio code="JP_030" name="작전 중 4" info="이 일격을 받아라!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="하아, 완벽한 승리에요." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="작전은 성공했네요." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="더 열심히 했다면, 결과가 달라졌을지도 몰라요." />
+    <Audio code="JP_034" name="작전 실패" info="제 힘이… 부족했네요." />
+  </Info>
+</DataList>

@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Gavial" language="KR">
+    <Audio code="JP_001" name="획득" info="의료술사 가비알이다. 일단 말해두겠는데, 나를 겉보기로만 판단하지 마." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="쉴 때 정도는 제대로 쉬는 게 좋지 않아? 뭐, 지금 너에게 필요한 건 치료지만 말이야." />
+    <Audio code="JP_003" name="인사" info="여어, 박사." />
+
+    <Audio code="JP_004" name="대화 1" info="뭐? 상냥하고 부드럽게라고? 그건 간호사잖아. 나는 치료의 프로일뿐이야. 치료 이외엔 흥미 없다고." />
+    <Audio code="JP_005" name="대화 2" info="왜일까, 여기 와서 자주 켈시 선생님한테 설교를 듣는단 말이야. 환자에게는 상냥하게 대하라고." />
+    <Audio code="JP_006" name="대화 3" info="평범한 의사는 어떻게 자기 몸을 지킬 수 있을지 고민한다고 하지만, 나 같은 경우는 어떻게 해야 환자가 겁먹지 않을까가 가장 큰 고민이지." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="치료할 때는 내 말을 잘 들어 인마! 이쪽을 보고 양손을 들어! 제멋대로 움직이지 마!" />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="의사와 병사. 구하는 쪽과 죽이는 쪽. 막역한 존재라는 말을 자주 듣지만, 나에게는 어느쪽도 똑같아. 모두 희생자야." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="앙? 때린 적 없어. 그런 건 인사잖아, 인사. 봐, 이렇게 스킨십으로 거리를 좁힌다, 라고 하잖아?" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="조금은 고향이 그리워졌어. 스스로 선택한 길이긴 하지만, 설마 여기까지 올 줄이야. 인생의 갈림길이란 게 정말로 있나봐." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="박사도 나도 미지의 땅을 걸어가는 여행자인거야. 그러니까 서로를 이해할 수 있는거겠지." />
+
+    <Audio code="JP_012" name="시설에 배치" info="어디보자, 재미있어보이는 녀석은 있으려나?" />
+    <Audio code="JP_013" name="터치" info="야, 그만하라고!" />
+    <Audio code="JP_014" name="신뢰도 터치" info="내가 얌전히 있을 리 없잖아, 관둬!" />
+    <Audio code="JP_015" name="방치" info="이 녀석… 자고 있는건가? 하하." />
+    <Audio code="JP_016" name="작전 기록 학습" info="쳇, 격투 레슨이라고 생각했더니, 이건가." />
+    <Audio code="JP_017" name="1차 정예화 시" info="이 녀석이나 저 녀석이나 내 치료를 무서워하지만 말이야. 너뿐이야, 인정해준 거는. 고마워." />
+    <Audio code="JP_018" name="2차 정예화 시" info="뭐, 노는 건 여기까지인가. 여기부터는 진심으로 간다!"/>
+    <Audio code="JP_019" name="팀 배치" info="뒤는 나에게 맡기고, 너희는 일단 앞으로 돌진해." />
+    <Audio code="JP_020" name="팀장 임명" info="좋아, 일단 거기에 늘어서." />
+
+    <Audio code="JP_021" name="작전 출발" info="좋아, 너희들, 침착히 가자." />
+    <Audio code="JP_022" name="작전 개시" info="왔어." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="시작하자." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="뭘 하면 되는 거야?" />
+    <Audio code="JP_025" name="배치 1" info="치료 준비다." />
+    <Audio code="JP_026" name="배치 2" info="치료받고 싶은 녀석은 앞으로 나와." />
+    <Audio code="JP_027" name="작전 중 1" info="마법의 치료범위에 들어와!" />
+    <Audio code="JP_028" name="작전 중 2" info="뭘 하고 있는 거야!" />
+    <Audio code="JP_029" name="작전 중 3" info="정신 차려!" />
+    <Audio code="JP_030" name="작전 중 4" info="지금 구해줄게!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="이 정도의 상대인가. 여유롭다, 여유로워." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="녀석들… 너무 약한걸. 이 지팡이로 조금 더 날뛰고 싶었어." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="너희들, 응급처치 훈련은 어쨌어?" />
+    <Audio code="JP_034" name="작전 실패" info="젠장…! 아무리 부상자가 나왔다고 해도…! 이걸로 내가 포기할거라 생각하지 마!" />
+  </Info>
+</DataList>

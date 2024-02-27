@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Franka" language="KR">
+    <Audio code="JP_001" name="획득" info="생체방호 오퍼레이터 프란카야. 오리지니움 오염을 최대한으로 억제할 수 있도록 힘을 빌려줄게." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="교대시간이긴 한데, 그대로 일하고 있어 박사. 나에 대해선 신경쓰지 않아도 되니까." />
+    <Audio code="JP_003" name="인사" info="박사, 좋은 아침이야." />
+
+    <Audio code="JP_004" name="대화 1" info="BSW에서는 생태방호처치대원, 통칭 'BPRS'이라고 하는 포지션을 맡고 있었어. 맞아, 모두가 잘 알고 있는 양동이 같은 방호복을 입고 말이지." />
+    <Audio code="JP_005" name="대화 2" info="으응? 내가 결벽증이라고? 박사는 의외로 거리낌 없을 때도 있단 말이지… 배짱 참 좋은데?" />
+    <Audio code="JP_006" name="대화 3" info="일부 멤버의 방은 정화처리를 하는게 좋다고 생각해. 그 건방진 우등생님의 방이라던가 말이야. 어때?" />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="이 검의 문양을 보고 싶다고? 자, 제대로 들어! 절대로 놓으면 안된다? 이 검, 3초 지나면 2500도의 온도까지… 하하, 농담이야, 농담! 그렇게 겁먹지 마." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="화학가스나 유독물질, 방사선이 가득한 방은 조심해야해! … 그래, 켈시 선생님의 연구실이라던가 말이지…!" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="생태방호의 마음가짐? 그렇지… 식후 양치질은 빼먹지 않는다! 라던가?" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="리스캄의 승진후 모습은 참 좋지, ‘나를 봐줘.’라고 말하고 있는 거나 마찬가지잖아?" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="아… 여기가 이렇게 자유롭다면, BSW를 그만둬도 좋지 않을까? 그래도 리스캄은 슬퍼하겠지." />
+
+    <Audio code="JP_012" name="시설에 배치" info="있잖아, 홍차는 없어?" />
+    <Audio code="JP_013" name="터치" info="무슨 일이라도 있어?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="BSW에 있을때의 일, 알고 싶어?" />
+    <Audio code="JP_015" name="방치" info="손목에 모기가 앉았어, 박사." />
+    <Audio code="JP_016" name="작전 기록 학습" info="이런 테크닉이면 여러 장면에서 살릴 수 있을 거 같아." />
+    <Audio code="JP_017" name="1차 정예화 시" info="헤에… 승진시켜주는 거야? BSW에 있었을 때보다 훨씬 재미있는데." />
+    <Audio code="JP_018" name="2차 정예화 시" info="이 검이 더 빛나는걸 보고 싶다고? 아쉽지만… 박사에겐 아직 그럴 자격이 없어. 더 노력해준다면 언젠가 그럴 날이 올지도 모르겠지만 말이야."/>
+    <Audio code="JP_019" name="팀 배치" info="좋아, 준비 끝났어!" />
+    <Audio code="JP_020" name="팀장 임명" info="좋은 부하를 길러내는 이득은 귀찮은 일을 떠맡길 수 있다는 점이지." />
+
+    <Audio code="JP_021" name="작전 출발" info="그럼, 가자." />
+    <Audio code="JP_022" name="작전 개시" info="아쉽지만 녀석들은 오염되어있는 것 같아." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="시간이 없어!" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="망설이고 있을 시간은 없어." />
+    <Audio code="JP_025" name="배치 1" info="공격은 내 전문이 아니긴 한데…" />
+    <Audio code="JP_026" name="배치 2" info="중장갑 같은건 너무 무서워! …농담이야." />
+    <Audio code="JP_027" name="작전 중 1" info="약점, 찾았다!" />
+    <Audio code="JP_028" name="작전 중 2" info="불타렴." />
+    <Audio code="JP_029" name="작전 중 3" info="목숨을 끊어줄게." />
+    <Audio code="JP_030" name="전투 중 4" info="농담이야." />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="힘에 휩싸여버리다니, 어리석은 놈들이네." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="흠잡을 데 없는 싸움이었어. ‘잘 했어요’." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="당연한 결과네." />
+    <Audio code="JP_034" name="작전 실패" info="여기서 침울해져 있어봤자 아무 소용 없잖아, 어서 철수하자." />
+  </Info>
+</DataList>

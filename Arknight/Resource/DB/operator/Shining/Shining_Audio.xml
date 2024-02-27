@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Shining" language="KR">
+    <Audio code="St_1" name="획득" info="유랑 의사, 샤이닝이라고 합니다. 어디선가 만난 적이 있다고요? 여행 중에 스쳐지나간 적이 있을지도 모르겠네요." />
+    <Audio code="Hi_1" name="인사" info="박사님, 오늘의 기분은 어떠신가요?" />
+
+    <Audio code="Ta_1" name="대화 1" info="얼굴빛이 안 좋아요. 가슴이 아프신가요? 무리하지 마시고, 어서 쉬세요. 안심하세요. 제가 곁에 있을게요. 괜찮아요." />
+    <Audio code="Ta_2" name="대화 2" info="제 치료 마법... 어디선가 본 적이 있으시다고요? 그건 착각일 거예요. 네, 분명..." />
+    <Audio code="Ta_3" name="대화 3" info="사죄사? 어째서 그 이름을... 죄송합니다, 그 이야기 만큼은 할 수 없어요." />
+    <Audio code="Ta_el_1" name="1차 정예화 후 대사" info="저희 사카즈는 태어날 때부터 지니고 있는 마법의 소질에 오리지니움의 힘을 융합한 치료 마법을 개발하여 지금까지 적극적으로 난민 구조를 실시해왔습니다." />
+    <Audio code="Ta_el_2" name="2차 정예화 후 대사" info="지금 말인가요? 지금은 이미 아무것도 남아있지 않아요. 그 전쟁이 모든 희망을 빼앗아갔어요." />
+    <Audio code="Ta_tr_1" name="신뢰도 상승 후 대사 1" info="저와 니어씨 말인가요? 좋은 여행동무이면서, 서로 목숨을 맡긴 사이이기도 하죠." />
+    <Audio code="Ta_tr_2" name="신뢰도 상승 후 대사 2" info="괴로워하는 사람을 구하기 위해서라면, 자기 자신의 모든 것을 희생하는 것도 꺼리지 않는다... 니어씨는 그런 사람이니까요." />
+    <Audio code="Ta_tr_3" name="신뢰도 상승 후 대사 3" info="한때, 빛으로 반짝이는 사람을 쫓고 있었어요. 그 반짝임이 음모에 의해 다해버리기까지요. 이번에야말로, 이 반짝임이 없어지게 하진 않을 거예요. 제 목숨과 바꿔서라도..." />
+
+    <Audio code="Ma_1" name="어시스턴트 임명" info="안녕하세요, 박사님. 뭔가 이야기라도 하실래요?" />
+    <Audio code="Ma_idle_1" name="방치" info="이 고요함... 고향에서의 나날들을 떠오르게 하네요." />
+    <Audio code="Ma_2" name="작전 기록 학습" info="사람을 치유하는 힘만으로는, 부족해요." />
+    <Audio code="Ma_el_1" name="1차 정예화 시" info="그저 의사로만 있는다면, 이 이상의 사람들을 구할 순 없어요." />
+    <Audio code="Ma_el_2" name="2차 정예화 시" info="네, 의사로서의 일 뿐만이 아니라, 수호자로서 살아가는 것은 예전부터의 목표였어요. 박사님, 제 이 맹세를 들어주시겠어요?" />
+    <Audio code="Ma_team_1" name="팀 배치" info="전장으로 향하는 건가요?" />
+    <Audio code="Ma_team_2" name="팀장 임명" info="이건 우리 자신을 구하기 위한 싸움, 이지요?" />
+    <Audio code="Ma_ifr_1" name="시설에 배치" info="혼자서 조용히 있을 수 있는 공간만 있다면, 그걸로 됐어요." />
+    <Audio code="Ma_tc_1" name="숙소 터치" info="무슨 일이에요?" />
+    <Audio code="Ma_tc_2" name="신뢰도 터치" info="오랜만에 조용하고, 평온한 기분이에요. 당신의 고동마저 들릴 정도로." />
+
+    <Audio code="Bt_1" name="작전 출발" info="싸움은 피할 수 없는 법." />
+    <Audio code="Bt_2" name="작전 개시" info="싸우는 것으로 구해낼 수 있다면..." />
+    <Audio code="Bt_op_1" name="오퍼레이터 선택 1" info="시작하죠." />
+    <Audio code="Bt_op_2" name="오퍼레이터 선택 2" info="네, 듣고 있어요." />
+    <Audio code="Bt_s_1" name="배치 1" info="번영인가, 혹은 멸망인가." />
+    <Audio code="Bt_s_2" name="배치 2" info="그저... 한 순간입니다." />
+    <Audio code="Bt_in_1" name="작전 중 1" info="당신은 제가 지키겠습니다." />
+    <Audio code="Bt_in_2" name="작전 중 2" info="걱정하지 말아요." />
+    <Audio code="Bt_in_3" name="작전 중 3" info="이건... 너무 슬퍼요." />
+    <Audio code="Bt_in_4" name="전투 중 4" info="괴로움을... 잊은 적은 없어요." />
+    <Audio code="Bt_end_1" name="작전 종료 - 하드모드" info="적이 강대하면 강대할 수록 투쟁심, 그리고 살 의지가 끓어올라요." />
+    <Audio code="Bt_end_2" name="작전 종료 - 3★" info="어떤 죄를 지어왔던간에, 그 목숨과 함께 먼지로 돌아가겠죠." />
+    <Audio code="Bt_end_3" name="작전 종료 - 1★,2★" info="지금 전장으로 돌아간다고 해도, 여기에서는 그 누구도 구할 수 없어요." />
+    <Audio code="Bt_end_4" name="작전 실패" info="승리와... 패배... 그건 무한하게 돌아가는 순환의 일부에 지나지 않아요." />
+  </Info>
+</DataList>

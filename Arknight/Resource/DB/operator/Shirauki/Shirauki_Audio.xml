@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Shirauki" language="KR">
+    <Audio code="JP_001" name="획득" info="나의 이름은 시라유키. 공주님의 명에 의해 첸 공의 보좌로 왔다. 당신의 지시에도 따르지." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="시라유키. 왔다." />
+    <Audio code="JP_003" name="인사" info="음. 당신인가." />
+
+    <Audio code="JP_004" name="대화 1" info="공주님이야 말로 나의 주인. 당신은 나의 고용주." />
+    <Audio code="JP_005" name="대화 2" info="취미? 곶에서 눈을 바라보는 것." />
+    <Audio code="JP_006" name="대화 3" info="소속? 말할 수 없다." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="출신? 극동의 나라." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="무기? 수리검 실버윈드. 동방중공업제품." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="좋아하는 음식? 스시." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="나이? 알려줄 수 없소." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="직무. 당신의 호위." />
+
+    <Audio code="JP_012" name="시설에 배치" info="좋은 방이다." />
+    <Audio code="JP_013" name="터치" info="음." />
+    <Audio code="JP_014" name="신뢰도 터치" info="당신의 배려, 이 시라유키, 명심하겠다." />
+    <Audio code="JP_015" name="방치" info="조용하군." />
+    <Audio code="JP_016" name="작전 기록 학습" info="감사한다." />
+    <Audio code="JP_017" name="1차 정예화 시" info="승진? 시라유키. 명을 받들겠다." />
+    <Audio code="JP_018" name="2차 정예화 시" info="시라유키. 보다 강한 힘을 바치겠다."/>
+    <Audio code="JP_019" name="팀 배치" info="알겠다." />
+    <Audio code="JP_020" name="팀장 임명" info="명을 받들겠다." />
+
+    <Audio code="JP_021" name="작전 출발" info="행동을 개시한다." />
+    <Audio code="JP_022" name="작전 개시" info="눈폭풍과 같이, 전장에서 휘날려보이겠다." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="음." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="준비." />
+    <Audio code="JP_025" name="배치 1" info="알았다." />
+    <Audio code="JP_026" name="배치 2" info="알겠다." />
+    <Audio code="JP_027" name="작전 중 1" info="죽어라." />
+    <Audio code="JP_028" name="작전 중 2" info="파쇄한다." />
+    <Audio code="JP_029" name="작전 중 3" info="무정한 바람이여." />
+    <Audio code="JP_030" name="작전 중 4" info="단절해라." />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="나의 전진. 즉 적의 전멸이리니." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="적의 전멸. 완승하였다." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="도망친 적 있으니, 방심 금물." />
+    <Audio code="JP_034" name="작전 실패" info="다시 싸울 날 온다면, 이 빚, 백배로 하여 되갚을 것이다." />
+  </Info>
+</DataList>

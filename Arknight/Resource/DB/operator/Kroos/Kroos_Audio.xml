@@ -1,0 +1,38 @@
+<DataList>
+  <Info code="Kroos" language="KR">
+    <Audio code="JP_001" name="획득" info="네, 네~ 크루스에요. 부족한 몸이지만 앞으로 열심히 할게요." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="박사? 이렇게 날씨도 좋은데 조금 자자." />
+    <Audio code="JP_003" name="인사" info="박사, 하암..." />
+
+    <Audio code="JP_004" name="대화 1" info="으응? 슬슬 출발? 지금 막 일어났는데… 그런데, 여기 박사 방이야? 왜 내가?" />
+    <Audio code="JP_005" name="대화 2" info="내가 눈을 가늘게 뜨고 있는 이유? 눈을 보이고 싶지 않거든, 누구에게도." />
+    <Audio code="JP_006" name="대화 3" info="언제나 무심코 다치곤 해, 그래도 하이비스가 치료해주니까 무섭지 않아. 핫, 치유의 요리만큼은 별개야. 그건 정말 지옥이야." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="박사! 베개 아래에 자명종이 10개나 놓여있었어! 너무하지?! 도대체 누가 놓은걸까?" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="박사, 게임하지 않을래? 머리에 빨간 사과 올리는거." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="언제나 즐거운걸 찾고 있는건 병의 괴로움을 달래기 위해서려나. 모두가 기뻐하는 얼굴을 볼 수 있는 건 즐거운 일이니까." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="언젠가 말이야, 로도스의 여행이 끝나고 모두와 따뜻한 햇볕에서 푹 자고, 깨지않을 꿈을 꾸고 싶어. 그게 나의 가장 큰 꿈이야." />
+
+    <Audio code="JP_012" name="시설에 배치" info="여기라면 잘 잘 수 있으려나." />
+    <Audio code="JP_013" name="터치" info="흐으..." />
+    <Audio code="JP_014" name="신뢰도 터치" info="엇? 나 성장 했어?" />
+    <Audio code="JP_015" name="방치" info="나보다 박사가 더 잘 자고 있다니..." />
+    <Audio code="JP_016" name="작전 기록 학습" info="고마워~" />
+    <Audio code="JP_017" name="1차 정예화 시" info="승진인가, 이건 좋은 꿈인걸. 어라? 꿈 속이 아니야?" />
+    <Audio code="JP_019" name="팀 배치" info="어, 집합 장소는 어디야?" />
+    <Audio code="JP_020" name="팀장 임명" info="에, 대장은 팽인게 더 좋은데." />
+
+    <Audio code="JP_021" name="작전 출발" info="다들, 응. 긴장풀고 있어도 좋으니까." />
+    <Audio code="JP_022" name="작전 개시" info="왜 다들 사이좋게 지낼 수 없는걸까?" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="네에." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="천천히 해도 돼~" />
+    <Audio code="JP_025" name="배치 1" info="응, 응. 듣고 있어." />
+    <Audio code="JP_026" name="배치 2" info="싸우고 있을 때는 안 잔다니까." />
+    <Audio code="JP_027" name="작전 중 1" info="여기에 있었구나." />
+    <Audio code="JP_028" name="작전 중 2" info="여기에요~" />
+    <Audio code="JP_029" name="작전 중 3" info="조준해서~" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="후우, 힘들었어" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="나쁘지 않다고 생각해." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="으응… 조금 아쉬웠으려나." />
+    <Audio code="JP_034" name="작전 실패" info="미, 미안. 다음에는 더 열심히 할거니까." />
+  </Info>
+</DataList>

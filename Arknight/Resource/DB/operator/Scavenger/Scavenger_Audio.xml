@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Scavenger" language="KR">
+    <Audio code="JP_001" name="획득" info="스캐빈저다. 더러운 일은 맡겨줘. 너도 다른 녀석들과 똑같아. 돈만 쥐어주면 된다고." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="느릿느릿 말할 여유가 있으면, 어서 일이나 끝내." />
+    <Audio code="JP_003" name="인사" info="임무인가?" />
+
+    <Audio code="JP_004" name="대화 1" info="기억해두는 게 좋을 거다. 환경이 가혹하다던 말던 거기에 적응 못하는 녀석은 그저 짐일뿐이야." />
+    <Audio code="JP_005" name="대화 2" info="일하고, 먹고, 도망친다… 그 반복. 별거 아니야. 이런 시대에 모두 다 비슷하잖아?" />
+    <Audio code="JP_006" name="대화 3" info="나는 말이야, 윗 사람의 귀찮을 일을 처리하는 게 일이었어. 그래서, 스캐빈저라고 불리게 되었지." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="동전에 앞과 뒤가 있는 것처럼. 아무리 아름다워 보이더라도 그 뒤에 반드시 더러운 일면이 있어." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="막 왔을 때보다 훨씬 익숙해진 거 같다고? 쳇, 그럴 리가 있냐. 지상에서의 일에 익숙해진 것뿐이야." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="프로방스라는 게 저 녀석이지? ‘사람을 돕겠다’라고 하곤 천재에 달려들어가서 감염한 녀석. 꼬리가 저렇게나 커져서 말이야." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="알고 있나? 박사. 원래 나는 누군가 협력해서 뭔가를 하는게 싫었어. 서로의 방식이 마음에 안 들게 되는 거 같아서. 그렇지만, 언젠가부터 그렇게 생각하지 않게 되었어." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="그 아이가 아직 살아있다면… 지금은, 그 아이의 뜻을 짊어지고 살아갈 수밖에 없어." />
+
+    <Audio code="JP_012" name="시설에 배치" info="나는 구석에 어두운 곳이면 만족해." />
+    <Audio code="JP_013" name="터치" info="윽...! 이거 놔!" />
+    <Audio code="JP_014" name="신뢰도 터치" info="너도 청소당하고 싶은 건가?" />
+    <Audio code="JP_015" name="방치" info="왜 이 녀석은 이렇게 무방비한 곳에서 잘 수 있는 거야?" />
+    <Audio code="JP_016" name="작전 기록 학습" info="아직이다. 아직 부족해!" />
+    <Audio code="JP_017" name="1차 정예화 시" info="아직 부족해. 나는 더욱 더 강해질 거다." />
+    <Audio code="JP_018" name="2차 정예화 시" info="고마워, 박사. 내가 싸우는 이유, 알 것만 같아."/>
+    <Audio code="JP_019" name="팀 배치" info="고작 입대인데 뭔가 말해야 하는 건가?" />
+    <Audio code="JP_020" name="팀장 임명" info="너희들, 내 발목을 잡지 마라." />
+
+    <Audio code="JP_021" name="작전 출발" info="들키지 않도록, 기척을 죽이고 가!" />
+    <Audio code="JP_022" name="작전 개시" info="흥, 쓰레기 치울 시간이다." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="빨리 해라." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="할 건가?" />
+    <Audio code="JP_025" name="배치 1" info="쳇." />
+    <Audio code="JP_026" name="배치 2" info="한다." />
+    <Audio code="JP_027" name="작전 중 1" info="쓰레기가." />
+    <Audio code="JP_028" name="작전 중 2" info="시궁창에서 몸부림이나 쳐라!" />
+    <Audio code="JP_029" name="작전 중 3" info="너는 이제 못 돌아간다고!" />
+    <Audio code="JP_030" name="작전 중 4" info="너에게 베풀 정따윈 없다!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="이건 또 생각지도 못한 주문이었군." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="흥. 이 결말은 놈들이 약한 게 불러온 결과다." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="쳇. 몇 명인가 놓쳤나. 하아. 너의 지휘 실력이 이정도라면, 기대에 엄청 어긋나는걸." />
+    <Audio code="JP_034" name="작전 실패" info="젠장… 또 저질러버렸다…!" />
+  </Info>
+</DataList>

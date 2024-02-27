@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Exusiai" language="KR">
+    <Audio code="St_1" name="획득" info="암구호는 ‘펭귄제국 만세!’, 당신이 이번 고용주야? 엑시아라 불러줘. 저 사교성 없는 늑대랑은 달리, 난 말만 하면 언제든지 놀아 줄게!" />
+    <Audio code="Hi_1" name="인사" info="야~호! 리더!" />
+
+    <Audio code="Ta_1" name="대화 1" info="리더, 파티 한번 하지 않을래? 힙합 음악을 틀고, 애플파이 같은 걸 구워 먹는 거야. 완벽한 인생에는 파티를 빼놓을 수 없지. 노 파티, 노 라이프라고!" />
+    <Audio code="Ta_2" name="대화 2" info="탄약 장전, 준비 오케이~★ 리더, 오늘 배달할 건 뭐야?" />
+    <Audio code="Ta_3" name="대화 3" info="돈만 있으면 뭐든 손에 넣을 수 있다고 떠드는 놈들도 있지만, 나한텐 안 통해. 아무리 부자라도 저세상으로 보내주면 거기서 끝이지~" />
+    <Audio code="Ta_el_1" name="1차 정예화 후 대사" info="첫 번째 부탁이야! 총을 한 여덟 자루만 선물해 줘. 우리 천사들은 다들 자기만의 수호총을 갖고 있지만, 한 자루만 가지고선 폼이 안 나거든!" />
+    <Audio code="Ta_el_2" name="2차 정예화 후 대사" info="두 번째 부탁인데…누가 이 머리 위에 달린 형광등 좀 없애 줘!" />
+    <Audio code="Ta_tr_1" name="신뢰도 상승 후 대사 1" info="텍사스가 저렇게 생기 넘치는 것도 다 내 덕분이라고. 이런 건 꼭 말하지 않아도 알잖아?" />
+    <Audio code="Ta_tr_2" name="신뢰도 상승 후 대사 2" info="혹시라도 검은 뿔이 있고 온몸에서 위험한 기운을 뿜어내는 천사를 만난다면, 엑시아는 너를 잊지 않았다고 전해줬으면 좋겠어." />
+    <Audio code="Ta_tr_3" name="신뢰도 상승 후 대사 3" info="리더, 펭귄 로지스틱스도 꽤 괜찮지? 내 상사로 입사해 보는 건 어때? 후후, 농담이야~" />
+
+    <Audio code="Ma_1" name="어시스턴트 임명" info="리더, 뭐라도 좀 시켜줘." />
+    <Audio code="Ma_idle_1" name="방치" info="... 주님. 이 사람에게도 구원이 필요할까요?" />
+    <Audio code="Ma_2" name="작전 기록 학습" info="이런 거 좋겠는데!" />
+    <Audio code="Ma_el_1" name="1차 정예화 시" info="각별히 신경 써 줘서 고마워~" />
+    <Audio code="Ma_el_2" name="2차 정예화 시" info="리더… 아니, 의인이시여. 최후의 심판이 내릴 날까지 그대를 지켜낼 것을 이 총에 맹세합니다." />
+    <Audio code="Ma_team_1" name="팀 배치" info="팀으로 싸우는 건 익숙하니 맡겨만 줘~!" />
+    <Audio code="Ma_team_2" name="팀장 임명" info="너, 사람을 보는 눈이 있구나? 나만큼 팀장에 어울리는 사람이 또 없지!" />
+    <Audio code="Ma_ifr_1" name="시설에 배치" info="여기, 마음에 들었어!" />
+    <Audio code="Ma_tc_1" name="숙소 터치" info="요!" />
+    <Audio code="Ma_tc_2" name="신뢰도 터치" info="리더, 내 무기 한번 시험해 볼래?" />
+
+    <Audio code="Bt_1" name="작전 출발" info="간다! 폭풍처럼 부숴버려 주마!" />
+    <Audio code="Bt_2" name="작전 개시" info="너희를 위해서 지옥의 가장 비싼 곳에 방을 준비해 뒀으니까! 마음놓고 다녀와!" />
+    <Audio code="Bt_op_1" name="오퍼레이터 선택 1" info="좋아~!" />
+    <Audio code="Bt_op_2" name="오퍼레이터 선택 2" info="내 차례야?" />
+    <Audio code="Bt_s_1" name="배치 1" info="따라오라고!" />
+    <Audio code="Bt_s_2" name="배치 2" info="장난 좀 쳐 볼까?" />
+    <Audio code="Bt_in_1" name="작전 중 1" info="Deo volente! (신의 뜻이다!)" />
+    <Audio code="Bt_in_2" name="작전 중 2" info="로큰롤~!" />
+    <Audio code="Bt_in_3" name="작전 중 3" info="탄막! (Barrage!)" />
+    <Audio code="Bt_in_4" name="전투 중 4" info="애플파이!" />
+    <Audio code="Bt_end_1" name="작전 종료 - 하드모드" info="좋아! 이대로 뚫고 가자!" />
+    <Audio code="Bt_end_2" name="작전 종료 - 3★" info="총탄의 비로 너희를 고통에서 구원하리라." />
+    <Audio code="Bt_end_3" name="작전 종료 - 1★,2★" info="승전보는 곧 달콤한 복음이지. 기분이다, 한잔하러 가자고!" />
+    <Audio code="Bt_end_4" name="작전 실패" info="뭐…총도 걸릴 때가 있잖아, 인생도 똑같은 거야. 괜찮아 괜찮아~" />
+  </Info>
+</DataList>

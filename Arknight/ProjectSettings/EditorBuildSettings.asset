@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Initialize.unity
+    guid: db53a6e8baf01f24b8dad1a04d610168
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 7e73cb79f50c28645b3587deca156036
+  - enabled: 1
+    path: Assets/Scenes/public_offer.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level_Calculator.unity
+    guid: 6371a7c02451e1242bfc3bfe54e18404
+  - enabled: 1
+    path: Assets/Scenes/operator_info.unity
+    guid: 30937e2f175d9654e86f872b87c45388
+  - enabled: 1
+    path: Assets/Scenes/EnemyInfo.unity
+    guid: 8d54ae27f9bc8a94096c912fe349b392
+  - enabled: 1
+    path: Assets/Scenes/StageInfo.unity
+    guid: d5539c74b5396654d928e8f455695008
+  - enabled: 1
+    path: Assets/Scenes/DWSimulator.unity
+    guid: 15a6ba1fcdadb7f4bae2202cecd79b84
+  - enabled: 1
+    path: Assets/Scenes/spineViewer.unity
+    guid: dec8352fd024a2145ab1dd9c1e695dbf
+  - enabled: 1
+    path: Assets/Scenes/MaterialInfo.unity
+    guid: 201bad8326788774f8a89b0c808d61f0
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: cded16d06bc3cdf4f913d749209ae1f7
+  - enabled: 1
+    path: Assets/Scenes/CL_Operator.unity
+    guid: 724f03eaa9a50b94cb09df29a097c6b9
+  m_configObjects: {}

@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Ifrit" language="KR">
+    <Audio code="St_1" name="획득" info="나는 이프리트다! 로도스는 차분히 지낼 수 있는 곳이라고 사일런스가 말해줬지만, 너 같이 흰 가운 입은 놈들은 정말로 싫다고. … 사일런스는 괜찮지만." />
+    <Audio code="Hi_1" name="인사" info="어? 나한테 뭔 볼일이라도 있어?" />
+
+    <Audio code="Ta_1" name="대화 1" info="흐응, 이 책 꽤 비싼가 본데? 하핫, 이프리트 님이라고 불러주면 돌려주지!" />
+    <Audio code="Ta_2" name="대화 2" info="뭐? 나보고 책을 이만큼이나 읽으라고? 내가 제일 싫어하는… 응? 사일런스가 그러라고 했다고? 으… 이 글자는 뭐라고 읽으면 되냐?" />
+    <Audio code="Ta_3" name="대화 3" info="흰옷 입은 놈들이 빤히 쳐다보는 게 제일 싫다고... 너 말이야, 너! 보지 마! 저쪽 봐!" />
+    <Audio code="Ta_el_1" name="1차 정예화 후 대사" info="으... 알았어. 이제 불로 사람들 놀라게 안 한다고..." />
+    <Audio code="Ta_el_2" name="2차 정예화 후 대사" info="가까이 오지 마! 너... 이렇게 가까이 와서 뭘 할 셈이야?! 설마 너도 날 실험대로…?" />
+    <Audio code="Ta_tr_1" name="신뢰도 상승 후 대사 1" info="사리아가 왔었다고? 나도 만나게- 사일런스가 안 된다고 했다고? …상관없잖아! 몰래 데려가 줘!" />
+    <Audio code="Ta_tr_2" name="신뢰도 상승 후 대사 2" info="사일런스랑 사리아, 왜 싸우는거야? 도대체가 모르겠네. 야, 어떻게 말리는 방법 없어? 있으면 알려달라니까." />
+    <Audio code="Ta_tr_3" name="신뢰도 상승 후 대사 3" info="나한테는 안그래도 되지만, 사일런스에게는 절대로 잘 대해줘야해. 그 사람이 원하는게 있다면 죽을 각오로 손에 넣어오라고. 그럴 수 있다면… 나, 나는 뭐든 해줄 수 있으니까." />
+
+    <Audio code="Ma_1" name="어시스턴트 임명" info="뭐야, 이 개 추운 방은! 야, 저거 태워버려도 되냐?" />
+    <Audio code="Ma_idle_1" name="방치" info="야, 나를 혼자 내버려두고 잔다니 배짱이 두둑한데?" />
+    <Audio code="Ma_2" name="작전 기록 학습" info="강화? 으응? 내 불꽃이 더 강해진다는 말이야?" />
+    <Audio code="Ma_el_1" name="1차 정예화 시" info="뭐야 이게? 로도스 대원 승진 매뉴얼? 뭐야. 승진하면 이런 귀찮은 규칙이 잔뜩 있는 거야? 못해먹겠구만." />
+    <Audio code="Ma_el_2" name="2차 정예화 시" info="히히, 이걸로 된거야. 자잘한건 잘 모르겠고. 내가 필요하다고, 내가 없으면 안 된다고 말해주면 된다고." />
+    <Audio code="Ma_team_1" name="팀 배치" info="알았어, 알았어." />
+    <Audio code="Ma_team_2" name="팀장 임명" info="내가 대장이라고? 사일런스처럼 하면 되는 거야?" />
+    <Audio code="Ma_ifr_1" name="시설에 배치" info="어디야 여긴… 아?" />
+    <Audio code="Ma_tc_1" name="터치" info="뭐하는거야! 이거 놔!" />
+    <Audio code="Ma_tc_2" name="신뢰도 터치" info="히히, 너, 생각보다 좋은 놈이네. 같이 놀아줄까?" />
+
+    <Audio code="Bt_1" name="작전 출발" info="야, 대장은 나니까 출격명령도 내가 할 일이잖아!" />
+    <Audio code="Bt_2" name="작전 개시" info="야, 오랜만에 바베큐나 해보자." />
+    <Audio code="Bt_op_1" name="오퍼레이터 선택 1" info="야!" />
+    <Audio code="Bt_op_2" name="오퍼레이터 선택 2" info="느려!" />
+    <Audio code="Bt_s_1" name="배치 1" info="대지여, 끓어라!" />
+    <Audio code="Bt_s_2" name="배치 2" info="지옥의 업화, 언제든지 가능하다고." />
+    <Audio code="Bt_in_1" name="작전 중 1" info="아파? 아프냐?" />
+    <Audio code="Bt_in_2" name="작전 중 2" info="하하! 더 소리를 질러!" />
+    <Audio code="Bt_in_3" name="작전 중 3" info="네 비명 따윈 아무한테도 안 들린다고!" />
+    <Audio code="Bt_in_4" name="전투 중 4" info="거기에 줄 서있어라!" />
+    <Audio code="Bt_end_1" name="작전 종료 - 하드모드" info="모자라, 모자라! 한참 모자라! 그 누구도 날 이길 수는 없다고!" />
+    <Audio code="Bt_end_2" name="작전 종료 - 3★" info="이런 쓰레기 자식들, 전부 불태워버리자고! 따듯해지잖아!" />
+    <Audio code="Bt_end_3" name="작전 종료 - 1★,2★" info="꺼진 불이야, 꺼진 불. 이런거 나 혼자서도 충분했는데." />
+    <Audio code="Bt_end_4" name="작전 실패" info="젠장… 너야, 너때문에 내가 이런 치욕을 겪은거야!" />
+  </Info>
+</DataList>

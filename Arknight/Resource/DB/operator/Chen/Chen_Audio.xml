@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Exusiai" language="KR">
+    <Audio code="St_1" name="획득" info="용문근위국 특별감찰대 대장 첸이다. 사정에 의해 잠시동안 이곳에 있도록 하겠어. 전에 같이 싸웠으니 서로에 대해 잘 알고 있겠지. 지금 바로 현장에 데려가 줄 수 있겠어?" />
+    <Audio code="Hi_1" name="인사" info="음. 박사인가." />
+
+    <Audio code="Ta_1" name="대화 1" info="로도스의 동향에 대해서는 계속 이상하다고 느끼는게 있어. 물론 지금도 그래." />
+    <Audio code="Ta_2" name="대화 2" info="왜 이쪽을 쭉 보고 있는거야? 일은 어쨌어." />
+    <Audio code="Ta_3" name="대화 3" info="흥." />
+    <Audio code="Ta_el_1" name="1차 정예화 후 대사" info="용문의 모든 거리를 있는대로 모두 돌아다녔어. 항구, 도심의 간판이나 언덕길. 마음에 새겨진 이 도시의 풍경을 나는 언제까지고 잊지 않겠지." />
+    <Audio code="Ta_el_2" name="2차 정예화 후 대사" info="요즘엔 주변지역의 정세가 급변하고 있어. 이쪽은 언제나 경계태세를 유지하고 있지만, 부디 방심하지 않도록 해." />
+    <Audio code="Ta_tr_1" name="신뢰도 상승 후 대사 1" info="언젠가는 그 사람에게 인정받을 수 있을지도 몰라. 그때까지는..." />
+    <Audio code="Ta_tr_2" name="신뢰도 상승 후 대사 2" info="아미야는 너를 무척 신뢰하고 있는 것 같네. 너희 둘을 보고 있으면 내게도 그런 사람이 있으면 어떨까 하고 나도 모르게 생각하게 돼." />
+    <Audio code="Ta_tr_3" name="신뢰도 상승 후 대사 3" info="나는... 지금까지 그 누구에게도 뒤를 맡긴 적이 없어. 그 사람에게 조차..." />
+
+    <Audio code="Ma_1" name="어시스턴트 임명" info="박사. 지금부터 너의 호위를 담당하겠어." />
+    <Audio code="Ma_idle_1" name="방치" info="... 박사? 자고 있나. 흥, 긴장감 없는 녀석이군." />
+    <Audio code="Ma_2" name="작전 기록 학습" info="이 모든건 더욱 더 빈틈없는 임무수행을 위해." />
+    <Audio code="Ma_el_1" name="1차 정예화 시" info="승진? 나에겐 딱히 신기한 일이 아닌걸." />
+    <Audio code="Ma_el_2" name="2차 정예화 시" info="알겠다. 평범한 오퍼레이터에게 버거운 임무는 모두 내게 맡겨라." />
+    <Audio code="Ma_team_1" name="팀 배치" info="문제 없어." />
+    <Audio code="Ma_team_2" name="팀장 임명" info="총원, 서로 잘 연계하고 효율적으로 움직여줘." />
+    <Audio code="Ma_ifr_1" name="시설에 배치" info="여기가 로도스의 내부시설인가, 의외로 넓은데." />
+    <Audio code="Ma_tc_1" name="숙소 터치" info="이봐, 뭘 하는 거야!" />
+    <Audio code="Ma_tc_2" name="신뢰도 터치" info="박사. 기분이 좋아보이는건 요즘 작전이 순조로워서 그런건가? 그거 참 신기하네, 나도 그래." />
+
+    <Audio code="Bt_1" name="작전 출발" info="총원, 전투준비!" />
+    <Audio code="Bt_2" name="작전 개시" info="준비 되었나, 그럼 작전 준비!" />
+    <Audio code="Bt_op_1" name="오퍼레이터 선택 1" info="여기는 첸." />
+    <Audio code="Bt_op_2" name="오퍼레이터 선택 2" info="언제든 괜찮아." />
+    <Audio code="Bt_s_1" name="배치 1" info="간다!" />
+    <Audio code="Bt_s_2" name="배치 2" info="금방 처리할게." />
+    <Audio code="Bt_in_1" name="작전 중 1" info="참!" />
+    <Audio code="Bt_in_2" name="작전 중 2" info="섬!" />
+    <Audio code="Bt_in_3" name="작전 중 3" info="무기를 버려라!" />
+    <Audio code="Bt_in_4" name="전투 중 4" info="얕보지 마!" />
+    <Audio code="Bt_end_1" name="작전 종료 - 하드모드" info="나쁜 짓은 결코 용서하지 않아. 무슨 수를 써서라도 저지하겠어." />
+    <Audio code="Bt_end_2" name="작전 종료 - 3★" info="나에게 맞서려고 했던 자신감은 어디에서 나온거야?" />
+    <Audio code="Bt_end_3" name="작전 종료 - 1★,2★" info="부상자는 대기하고 의료반의 도움을 기다려. 그 외 대원들은 주위 경계를 철저히 하도록 해." />
+    <Audio code="Bt_end_4" name="작전 실패" info="서두르지 말고 순서대로 철수해, 절대 대열을 무너뜨리지 않도록!" />
+  </Info>
+</DataList>

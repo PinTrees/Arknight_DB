@@ -1,0 +1,111 @@
+
+Nearl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_스카프
+  rotate: false
+  xy: 414, 131
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+11_눈썹
+  rotate: false
+  xy: 2, 2
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+11_머리카락
+  rotate: true
+  xy: 560, 475
+  size: 138, 208
+  orig: 138, 208
+  offset: 0, 0
+  index: -1
+12_방패
+  rotate: false
+  xy: 560, 615
+  size: 180, 403
+  orig: 180, 403
+  offset: 0, 0
+  index: -1
+1_꼬리
+  rotate: false
+  xy: 2, 129
+  size: 410, 347
+  orig: 410, 347
+  offset: 0, 0
+  index: -1
+2_머리카락
+  rotate: false
+  xy: 559, 270
+  size: 174, 104
+  orig: 174, 104
+  offset: 0, 0
+  index: -1
+3_스카프
+  rotate: false
+  xy: 559, 376
+  size: 200, 97
+  orig: 200, 97
+  offset: 0, 0
+  index: -1
+4_무기
+  rotate: false
+  xy: 432, 506
+  size: 126, 512
+  orig: 126, 512
+  offset: 0, 0
+  index: -1
+5_다리_1
+  rotate: true
+  xy: 2, 21
+  size: 106, 296
+  orig: 106, 296
+  offset: 0, 0
+  index: -1
+5_다리_2
+  rotate: false
+  xy: 414, 157
+  size: 143, 319
+  orig: 143, 319
+  offset: 0, 0
+  index: -1
+6_팔_1
+  rotate: false
+  xy: 742, 782
+  size: 243, 236
+  orig: 243, 236
+  offset: 0, 0
+  index: -1
+7_몸
+  rotate: false
+  xy: 2, 478
+  size: 428, 540
+  orig: 428, 540
+  offset: 0, 0
+  index: -1
+8_팔_2
+  rotate: true
+  xy: 742, 672
+  size: 108, 270
+  orig: 108, 270
+  offset: 0, 0
+  index: -1
+9_눈
+  rotate: true
+  xy: 987, 958
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+9_얼굴
+  rotate: false
+  xy: 300, 41
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1

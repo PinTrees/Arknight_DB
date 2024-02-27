@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Indra" language="KR">
+    <Audio code="JP_001" name="획득" info="나는 인드라. 딱히 특이한 능력은 가지고 있지 않아. 이 주먹으로 살아가고 있어. 뭐 그럼, 잘 부탁해." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="적이 있으면 크게 소리를 질러. 넌 내가 지켜줄 거야." />
+    <Audio code="JP_003" name="인사" info="여어, 박사" />
+
+    <Audio code="JP_004" name="대화 1" info="그 녀석 어디갔어? 언제나 왕 옆에 있는 작고 새까만 녀석 말이야. 이름은 모건이라고 하는… 앗, 야 인마! 도망치지 마!" />
+    <Audio code="JP_005" name="대화 2" info="서로 존중한다는 거는 중요해. 나를 존중해주면 너는 언제나 오체만족한 상태로 있을 수 있게 해줄게." />
+    <Audio code="JP_006" name="대화 3" info="우리의 왕은 아무래도 너를 마음에 들어한다더라. 정말 별 희한한 일이 다 있네. 그다지 같은 장소에 오래 있지 않으니까 말야, 우리는." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="일이 되었던 뭐가 되었던 간에, 마음가짐이다, 마음가짐!" />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="아아, 서두르지 말고 천천히 먹으라고. 어이! 고기 더 가져와! 이 녀석에겐 한참 부족하다고!" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="모건 그 자식… 언제나 한가해보이지만, 일단은 우리 참모로서 할 일은 하고 있어. 한가할 때는 나를 잔뜩 방해하니까 짜증나지만 말이야. 쳇." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="해머를 한 손에 들고 서 있는 왕, 멋지지? 그렇지만 나는 검을 휘두르는 왕도 보고 싶어." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="말해봐라, 야, 사양하지 말라니까? 누굴 쳐부수면 되는거야?" />
+
+    <Audio code="JP_012" name="시설에 배치" info="뭐야 이 방? 전에 있던 곳보다 훨씬 좁잖아." />
+    <Audio code="JP_013" name="터치" info="어이, 너 이 자식 쳐맞고 싶은 거냐?" />
+    <Audio code="JP_014" name="신뢰도 터치" info="자, 뛰어 들어와보라고! 그 뭐냐… 허그라는 거 말하는 거야!" />
+    <Audio code="JP_015" name="방치" info="흥, 얼빠진 얼굴을 하고는… 호랑이에게 잡아먹혀도 모른다?" />
+    <Audio code="JP_016" name="작전 기록 학습" info="오, 이건 마음에 드는데?" />
+    <Audio code="JP_017" name="1차 정예화 시" info="승진은 물론, 싸움도 비슷하게 즐거워." />
+    <Audio code="JP_018" name="2차 정예화 시" info="내가 지켜줄거니까, 뒤로 물러나서 얌전히 있으라고."/>
+    <Audio code="JP_019" name="팀 배치" info="전장은 어디야?" />
+    <Audio code="JP_020" name="팀장 임명" info="쳐맞고 싶은건 누구냐?" />
+
+    <Audio code="JP_021" name="작전 출발" info="나에 대해선 신경 끄고, 너 할일이나 하고 있어!" />
+    <Audio code="JP_022" name="작전 개시" info="어이어이, 덤비라고!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="어이!" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="우물쭈물 하지 마!" />
+    <Audio code="JP_025" name="배치 1" info="하하.  " />
+    <Audio code="JP_026" name="배치 2" info="좋아! 내가 나설 차례다!" />
+    <Audio code="JP_027" name="작전 중 1" info="이 자식!" />
+    <Audio code="JP_028" name="작전 중 2" info="뭐에 쫄았는데?" />
+    <Audio code="JP_029" name="작전 중 3" info="네 목숨도 끝이다!" />
+    <Audio code="JP_030" name="전투 중 4" info="소용없다!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="이 느낌이야, 정말 좋은데!" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="피가 없는 싸움은 재미없으니까 말이야." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="쳇, 도망친 녀석이 있군, 빌어먹을 놈." />
+    <Audio code="JP_034" name="작전 실패" info="꽤 하네. 두고보자!" />
+  </Info>
+</DataList>

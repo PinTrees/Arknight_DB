@@ -1,0 +1,30 @@
+<MaterialList>
+  <Info_Default id="0" code="CA" name="칩 보조제" rare="5"/>
+  
+  <Info_Default id="1" code="GD_1" name="가드 듀얼 칩" rare="5"/>
+  <Info_Default id="2" code="VG_1" name="뱅가드 듀얼 칩" rare="5"/>
+  <Info_Default id="3" code="DF_1" name="디펜더 듀얼 칩" rare="5"/>
+  <Info_Default id="4" code="CS_1" name="캐스터 듀얼 칩" rare="5"/>
+  <Info_Default id="5" code="SN_1" name="스나이퍼 듀얼 칩" rare="5"/>
+  <Info_Default id="6" code="SP_1" name="서포터 듀얼 칩" rare="5"/>
+  <Info_Default id="7" code="MD_1" name="메딕 듀얼 칩" rare="5"/>
+  <Info_Default id="8" code="SS_1" name="스페셜리스트 듀얼 칩" rare="5"/>
+
+  <Info_Default id="11" code="GD_2" name="가드 칩셋" rare="4"/>
+  <Info_Default id="12" code="VG_2" name="뱅가드 칩셋" rare="4"/>
+  <Info_Default id="13" code="DF_2" name="디펜더 칩셋" rare="4"/>
+  <Info_Default id="14" code="CS_2" name="캐스터 칩셋" rare="4"/>
+  <Info_Default id="15" code="SN_2" name="스나이퍼 칩셋" rare="4"/>
+  <Info_Default id="16" code="SP_2" name="서포터 칩셋" rare="4"/>
+  <Info_Default id="17" code="MD_2" name="메딕 칩셋" rare="4"/>
+  <Info_Default id="18" code="SS_2" name="스페셜리스트 칩셋" rare="4"/>
+
+  <Info_Default id="21" code="GD_3" name="가드 칩" rare="3"/>
+  <Info_Default id="22" code="VG_3" name="뱅가드 칩" rare="3"/>
+  <Info_Default id="23" code="DF_3" name="디펜더 칩" rare="3"/>
+  <Info_Default id="24" code="CS_3" name="캐스터 칩" rare="3"/>
+  <Info_Default id="25" code="SN_3" name="스나이퍼 칩" rare="3"/>
+  <Info_Default id="26" code="SP_3" name="서포터 칩" rare="3"/>
+  <Info_Default id="27" code="MD_3" name="메딕 칩" rare="3"/>
+  <Info_Default id="28" code="SS_3" name="스페셜리스트 칩" rare="3"/>
+</MaterialList>

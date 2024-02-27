@@ -1,0 +1,47 @@
+<DataList>
+  <Info code="Firewatch" language="KR">
+    <Audio code="S_1" name="획득" info="저격수 파이어워치다. 나의 복수를 위해, 힘을 빌려줬으면 해." />
+    <Audio code="H_1" name="인사" info="응... 박사구나." />
+
+    <Audio code="T_1" name="대화 1" info="너에게 향하는 시선에는 악의를 담은것도 있어. 로도스에 있다고 할지라도 안전하다고는 할 수 없어." />
+    <Audio code="T_2" name="대화 2" info="보이지 않는 적에게 겁먹을 필요는 없어. 죄인이 어디에 숨어있다고 해도, 나의 눈은 속일 수 없어." />
+    <Audio code="T_3" name="대화 3" info="내 복수… 이 목숨을 바쳐서라도 반드시 해내고 말거야…!" />
+    <Audio code="T_11" name="1차 정예화 후 대사" info="가족도 친구도 모두 고향의 숲에서 목숨을 잃었어. 그것을 애도한 것은 숲들의 나무들이 떨어트린 낙엽 뿐이었다." />
+    <Audio code="T_12" name="2차 정예화 후 대사" info="이 석궁은 죄인을 심판하기 위해 만든거야. 언젠가 내가 놈들에게 최후의 심판을 내리기 위해…!" />
+    <Audio code="T_21" name="신뢰도 상승 후 대사 1" info="메테오라이트. 나의 옛 전우다. 고향이 망했을 때, 우리 몇 명만이 어떻게든 도망쳐나왔어." />
+    <Audio code="T_22" name="신뢰도 상승 후 대사 2" info="그 ‘배신자’를 계속 찾고 있어. 반란군을 고향으로 끌어들인 죄인은… 설마, 메테오라이트…? 아니, 그녀일 리가…" />
+    <Audio code="T_23" name="신뢰도 상승 후 대사 3" info="… 잠들어 있었던 건가, 미안해. 요즘 순찰을 도는 시간이 길어져서. 아니, 괜찮다고 해도 말이야... 신경써줘서, 고마워." />
+
+    <Audio code="M_1" name="어시스턴트 임명" info="주변의 경계는 내가 하고 있어. 문제 없어." />
+    <Audio code="M_2" name="방치" info="나도, 조금 졸려…" />
+    <Audio code="M_3" name="작전 기록 학습" info="힘이 더 필요해." />
+    
+    <Audio code="E_1" name="1차 정예화 시" info="명령을 감사히 받을게." />
+    <Audio code="E_2" name="2차 정예화 시" info="임명, 고마워. 앞으로 나의 힘을 적절히 사용해줘. 그렇지 못하면…"/>
+    
+    <Audio code="M_11" name="팀 배치" info="편성 완료." />
+    <Audio code="M_12" name="팀장 임명" info="알겠다." />
+    <Audio code="M_13" name="시설에 배치" info="시끄러운 방은 그리 익숙해지지가 않는걸." />
+    
+    <Audio code="TC_1" name="터치" info="핫..." />
+    <Audio code="TC_2" name="신뢰도 터치" info="그… 뿔을 만지면 그… 곤란해. 간지러워…" />
+
+    <Audio code="B_1" name="작전 출발" info="총원 출격." />
+    <Audio code="B_2" name="작전 개시" info="적을 포착. 바로 행동에 들어간다." />
+    
+    <Audio code="B_11" name="오퍼레이터 선택 1" info="알겠어." />
+    <Audio code="B_12" name="오퍼레이터 선택 2" info="지령을." />
+    <Audio code="B_13" name="배치 1" info="지금부터 적을 찾는다." />
+    <Audio code="B_14" name="배치 2" info="목표지점에 도착." />
+    
+    <Audio code="B_21" name="작전 중 1" info="엄호하겠다." />
+    <Audio code="B_22" name="작전 중 2" info="조준..." />
+    <Audio code="B_23" name="작전 중 3" info="발사!" />
+    <Audio code="B_24" name="전투 중 4" info="파이어!" />
+    
+    <Audio code="B_31" name="작전 종료 - 하드모드" info="나는 멈추지 않는다. 복수를 해내기 전까진…!" />
+    <Audio code="B_32" name="작전 종료 - 3★" info="작전완료. 모든 목표의 소탕을 확인." />
+    <Audio code="B_33" name="작전 종료 - 1★,2★" info="전투종료. 남은 적 확인의 필요성 있음." />
+    <Audio code="B_34" name="작전 실패" info="바로... 철수한다...!" />
+  </Info>
+</DataList>

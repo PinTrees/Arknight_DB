@@ -1,0 +1,216 @@
+
+Ambriel.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_배경
+  rotate: false
+  xy: 2, 562
+  size: 811, 460
+  orig: 811, 460
+  offset: 0, 0
+  index: -1
+0_배경_1
+  rotate: false
+  xy: 865, 109
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+0_배경_2
+  rotate: false
+  xy: 286, 40
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+0_조각파편1
+  rotate: false
+  xy: 208, 2
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+0_조각파편2
+  rotate: true
+  xy: 313, 10
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+0_파편1_1
+  rotate: false
+  xy: 690, 37
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+0_파편1_2
+  rotate: true
+  xy: 565, 122
+  size: 31, 182
+  orig: 31, 182
+  offset: 0, 0
+  index: -1
+0_파편2_1
+  rotate: false
+  xy: 936, 183
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+0_파편2_2
+  rotate: true
+  xy: 2, 11
+  size: 30, 204
+  orig: 30, 204
+  offset: 0, 0
+  index: -1
+0_파편3_1
+  rotate: false
+  xy: 957, 436
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+0_파편3_2
+  rotate: true
+  xy: 538, 42
+  size: 28, 150
+  orig: 28, 150
+  offset: 0, 0
+  index: -1
+0_파편4_1
+  rotate: false
+  xy: 936, 122
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+0_파편4_2
+  rotate: true
+  xy: 360, 494
+  size: 66, 435
+  orig: 66, 435
+  offset: 0, 0
+  index: -1
+10_날개
+  rotate: true
+  xy: 815, 624
+  size: 398, 187
+  orig: 398, 187
+  offset: 0, 0
+  index: -1
+11_머리카락_1
+  rotate: false
+  xy: 829, 267
+  size: 153, 102
+  orig: 153, 102
+  offset: 0, 0
+  index: -1
+11_머리카락_2
+  rotate: false
+  xy: 613, 283
+  size: 214, 209
+  orig: 214, 209
+  offset: 0, 0
+  index: -1
+11_머리카락_3
+  rotate: false
+  xy: 419, 35
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+12_다리1
+  rotate: true
+  xy: 2, 43
+  size: 93, 282
+  orig: 93, 282
+  offset: 0, 0
+  index: -1
+12_다리2
+  rotate: true
+  xy: 2, 138
+  size: 162, 345
+  orig: 162, 345
+  offset: 0, 0
+  index: -1
+13_팔1
+  rotate: false
+  xy: 829, 371
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+13_팔2
+  rotate: false
+  xy: 797, 163
+  size: 137, 102
+  orig: 137, 102
+  offset: 0, 0
+  index: -1
+14_옷1
+  rotate: true
+  xy: 565, 155
+  size: 126, 230
+  orig: 126, 230
+  offset: 0, 0
+  index: -1
+14_옷_자켓1
+  rotate: true
+  xy: 349, 132
+  size: 166, 214
+  orig: 166, 214
+  offset: 0, 0
+  index: -1
+14_옷_자켓2
+  rotate: true
+  xy: 360, 300
+  size: 192, 251
+  orig: 192, 251
+  offset: 0, 0
+  index: -1
+14_옷_자켓3
+  rotate: false
+  xy: 815, 515
+  size: 179, 107
+  orig: 179, 107
+  offset: 0, 0
+  index: -1
+15_무기
+  rotate: false
+  xy: 2, 302
+  size: 356, 258
+  orig: 356, 258
+  offset: 0, 0
+  index: -1
+16_헤일로
+  rotate: false
+  xy: 538, 72
+  size: 150, 48
+  orig: 150, 48
+  offset: 0, 0
+  index: -1
+17_얼굴
+  rotate: true
+  xy: 797, 99
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+17_얼굴_눈
+  rotate: true
+  xy: 957, 374
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+17_얼굴_눈썹
+  rotate: false
+  xy: 244, 2
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1

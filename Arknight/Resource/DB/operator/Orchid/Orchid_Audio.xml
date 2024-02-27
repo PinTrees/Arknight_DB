@@ -1,0 +1,39 @@
+<DataList>
+  <Info code="Orchid" language="KR">
+    <Audio code="JP_001" name="획득" info="행동예비대, A6의 대장. 오키드야. 박사라고 하는 건 당신을 말하는 거야? 앞으로 잘 부탁해" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="이런 일은 나에게 맡겨. 잘 처리할 테니까." />
+    <Audio code="JP_003" name="인사" info="안녕, 박사군. 오늘도 일을 잘 처리하자." />
+
+    <Audio code="JP_004" name="대화 1" info="박사군이 맡겨준 일을 하고 있는 동안에는 팀원들도 얌전히 있어주면 좋겠는데… 아아, 신경쓰기 시작하니까 일이 손에 안 잡히잖아!" />
+    <Audio code="JP_005" name="대화 2" info="차분한 일에, 차분한 생활. 그런 날들을 원하는 것뿐이야." />
+    <Audio code="JP_006" name="대화 3" info="있잖아, A6 멤버들과는 사이좋게 지내지 못하는 게 아니야. 언제나 날 곤란하게 만들 뿐이지." />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="하아… 귀찮은 일만 일으키는 대원들 때문에 정말 곤란해. 대화도 못하지, 말하는거 듣지도 않지, 하라고 한 일도 못하지…! 도대체 언제가 되면 차분하게 일할 수 있게 될까?" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="나도 이 팀에 왜 배치된건지 전혀 모르겠어. 나는 그저 평범하게 살 수 있으면 되었을 뿐인데. 왜 이런 문제아들을 돌봐줘야하는 건데? 미드나이트는 게다가 완전 다 큰 어른이잖아!" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="포프카는 쓰다듬어줘. 캐터펄트는 묶어놔. 스팟은 화내지 않게끔하고… 미드나이트는 실력행사로 혼내놔. 이것만 기억하면 박사군도 A6의 돌보미가 될 수 있을 거야" />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="직접 만든 케익을 팀원 모두에게 가져가려던 참이야. 박사군도 먹어볼래? 다들 과일 케익을 좋아해. A6 멤버는, 정말 애들 뿐이네. 정말이지." />
+
+    <Audio code="JP_012" name="시설에 배치" info="소란스러운 곳이네..." />
+    <Audio code="JP_013" name="터치" info="뭐하는 거야." />
+    <Audio code="JP_014" name="신뢰도 터치" info="뭐? 또 야근이라고? 칫, 그렇게 나올 줄 알았어." />
+    <Audio code="JP_015" name="방치" info="이제 슬슬 시간이 되었어. 오늘 일은 다 한거야? 박사군." />
+    <Audio code="JP_016" name="작전 기록 학습" info="정말 도움이 되는 강의 비디오였네. 잘 기억해둘게." />
+    <Audio code="JP_017" name="1차 정예화 시" info="정말 고마워. 앞으로도 더 좋은 성과를 올릴 수 있도록 내 자신을 갈고 닦는데 힘쓸게." />
+    <Audio code="JP_019" name="팀 배치" info="주어진 임무는 열심히 할게." />
+    <Audio code="JP_020" name="팀장 임명" info="모두, 전술 매뉴얼을 엄수하도록. 잘 부탁해." />
+
+    <Audio code="JP_021" name="작전 출발" info="행동개시! 모두, 조심해." />
+    <Audio code="JP_022" name="작전 개시" info="작전대로 움직여줘! 모두 배치위치로 가줘." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="말해." />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="응." />
+    <Audio code="JP_025" name="배치 1" info="오키드. 배치장소에 도착했어." />
+    <Audio code="JP_026" name="배치 2" info="계획대로." />
+    <Audio code="JP_027" name="작전 중 1" info="목표 포착!" />
+    <Audio code="JP_028" name="작전 중 2" info="적의 진행을 막을게!" />
+    <Audio code="JP_029" name="작전 중 3" info="방해하지마!" />
+    <Audio code="JP_030" name="작전 중 4" info="정말이지, 일을 늘리지 말아줘!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="역시 박사군이네. 이렇게나 많은 적을 상대해도 완벽하게 지휘를 할 수 있다니." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="좋아, 완벽해! 오늘은 푹 쉴수 있겠네." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="다음번엔 더 정신 차려야겠어." />
+    <Audio code="JP_034" name="작전 실패" info="모두 괜찮아? 어서 철수하자." />
+  </Info>
+</DataList>

@@ -1,0 +1,35 @@
+<DataList>
+  <Info code="Ranger" language="KR">
+    <Audio code="JP_001" name="획득" info="저격 담당의 레인저일세. 언제 불러도 상관없다네." />
+    <Audio code="JP_002" name="어시스턴트 임명" info="박사. 자네의 배짱은 존경할만 하다네. 호위를 맡게 해줘서 고맙네." />
+    <Audio code="JP_003" name="인사" info="박사. 뭐든 말해보게나." />
+
+    <Audio code="JP_004" name="대화 1" info="나의 경험으로부터 말하자면, 박사는 장래 훌륭한 리더가 되겠구만." />
+    <Audio code="JP_005" name="대화 2" info="내 몸 색깔이 신기한겐가? 전에 바이오 랩에 침입했을때에 살짝 말이지… 왜 그러나, 농담일세." />
+    <Audio code="JP_006" name="대화 3" info="수면을 취할 때도 반드시 이 스카프를 매고 있다네. 목이 차가워지니까 말일세." />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="외진 마을의 주민에게 나의 모습은 신기해보이나 보더구먼. 뭐, 이상하다는 시선을 받는 것도 하는 수 없다네." />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="설마, 박사가 그렇게까지 신경 써 주다니. 두린 이외의 녀석이 근황을 묻는 것은 무척 오랜만이구먼." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="사실은 말일세, 맨발로 있으면 지면의 진동에 의지해서 거리를 잴 수 있어서 적에게 접근하기 쉬워진다네." />
+
+    <Audio code="JP_012" name="시설에 배치" info="해줬으면 하는 게 있다면 사양말고 말해보게나." />
+    <Audio code="JP_013" name="터치" info="으윽, 꼬리만큼은 잡아당기지 말아주게나." />
+    <Audio code="JP_014" name="신뢰도 터치" info="나 같은 자가 마음에 든다니." />
+    <Audio code="JP_015" name="방치" info="흐음. 코를 고는건 좋지 않다네. 다른 레인저들에게 들키니까 말일세." />
+    <Audio code="JP_016" name="작전 기록 학습" info="나쁘지 않구먼." />
+    <Audio code="JP_019" name="팀 배치" info="내가 나설 차례구먼." />
+    <Audio code="JP_020" name="팀장 임명" info="음. 나의 활약을 보고 있게나." />
+
+    <Audio code="JP_021" name="작전 출발" info="출발이다." />
+    <Audio code="JP_022" name="작전 개시" info="사냥감이 보인다. 작전 개시다." />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="명령은 아직인가?" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="지시는 있는가?" />
+    <Audio code="JP_025" name="배치 1" info="좋아." />
+    <Audio code="JP_026" name="배치 2" info="알겠네." />
+    <Audio code="JP_027" name="작전 중 1" info="찾았다!" />
+    <Audio code="JP_028" name="작전 중 2" info="나의 화살을 맛보아라!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="끝이 없는 도전이라는 거구먼. 바라는 바일세. 그렇지 않나? 느와르여." />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="마음껏 싸웠구먼." />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="일득일실. 나쁘지 않구먼." />
+    <Audio code="JP_034" name="작전 실패" info="좋지못하군. 호흡이 진정되지 않는다네." />
+  </Info>
+</DataList>

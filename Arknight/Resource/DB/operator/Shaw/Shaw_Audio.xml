@@ -1,0 +1,41 @@
+<DataList>
+  <Info code="Shaw" language="KR">
+    <Audio code="JP_001" name="획득" info="안녕하세요 상관님, 용문소방서 소속의 쇼라고 합니다, 잘 부탁드립니다!" />
+    <Audio code="JP_002" name="어시스턴트 임명" info="언제나 지시를 기다리고 있습니다, 상관님." />
+    <Audio code="JP_003" name="인사" info="임무입니까, 상관님!" />
+
+    <Audio code="JP_004" name="대화 1" info="여러분의 안전을 위해 피난경로와 소방시설을 확인하고있습니다 잠시만 기다려주십시오." />
+    <Audio code="JP_005" name="대화 2" info="통로에서는 화기엄금입니다. 대원여러분 여기에서의 흡연은 삼가주시길 바랍니다. 협조 감사드립니다." />
+    <Audio code="JP_006" name="대화 3" info="소방지식의 숙지철저도 소관이 맡은 업무의 일환입니다. 우선 상관님인 당신부터 지식을 숙지하여 주십시오!" />
+    <Audio code="JP_007" name="1차 정예화 후 대사" info="꼬맹이라고 얕보지 말아주십시오, 소관밖에 할수없는 임무도 있다구요." />
+    <Audio code="JP_008" name="2차 정예화 후 대사" info="저, 사, 사실은 엄청 긴장했습니다. 소관, 말하는 걸, 잘 못해서… 배려해주셔서 고맙습니다!" />
+    <Audio code="JP_009" name="신뢰도 상승 후 대사 1" info="말하기 시작하면 멈추지 못하는 경우가 자주 있습나다만 상관님은 이런 거 싫어하십니까? 하아…" />
+    <Audio code="JP_010" name="신뢰도 상승 후 대사 2" info="상관님, 이 전구를 갈아끼워주실 수 없습니까? 그 소관은, 손이 닿지 않아서… 아, 켜졌다." />
+    <Audio code="JP_011" name="신뢰도 상승 후 대사 3" info="상관님 으아아아 저 사람들 또 방에서 바베큐 하고 있습니다 빨리 멈춰야 으아아아악! 소관의 소화기를 이프리트씨의 화염방사기로 바꾼 건 누구입니까! 괜찮으십니까 상관님?" />
+
+    <Audio code="JP_012" name="시설에 배치" info="여기가 소관이 살 곳이군요!" />
+    <Audio code="JP_013" name="터치" info="우왓." />
+    <Audio code="JP_014" name="신뢰도 터치" info="아으어으아어아!" />
+    <Audio code="JP_015" name="방치" info="곧 휴식시간이 끝나니 조심하십시오 상관님!" />
+    <Audio code="JP_016" name="작전 기록 학습" info="연습비디오를 보는 것도 훈련에 들어가는겁니까?" />
+    <Audio code="JP_017" name="1차 정예화 시" info="관심 가셔주셔서 감사합니다 상관님!" />
+    <Audio code="JP_018" name="2차 정예화 시" info="이건… 엘리트 메달! 네, 넵! 앞으로 여러분을 위해, 상관님을 위해서 정진하겠습니다!"/>
+    <Audio code="JP_019" name="팀 배치" info="준비 완료!" />
+    <Audio code="JP_020" name="팀장 임명" info="소관이 지휘하겠습니다." />
+
+    <Audio code="JP_021" name="작전 출발" info="출동합니다!" />
+    <Audio code="JP_022" name="작전 개시" info="이쪽으로 불이옵니다, 여러분 준비해주세요!" />
+    <Audio code="JP_023" name="오퍼레이터 선택 1" info="네!" />
+    <Audio code="JP_024" name="오퍼레이터 선택 2" info="알겠습니다!" />
+    <Audio code="JP_025" name="배치 1" info="읏차." />
+    <Audio code="JP_026" name="배치 2" info="으응." />
+    <Audio code="JP_027" name="작전 중 1" info="하압!" />
+    <Audio code="JP_028" name="작전 중 2" info="비켜비켜!" />
+    <Audio code="JP_029" name="작전 중 3" info="소화기 분사합니다!" />
+    <Audio code="JP_030" name="작전 중 4" info="소방규칙에의거하여 위반행위로 처벌한다!" />
+    <Audio code="JP_031" name="작전 종료 - 하드모드" info="이런 대규모 화재는 상관님과 여러분의 노력없이는 끌 수 없었다고 생각합니다!" />
+    <Audio code="JP_032" name="작전 종료 - 3★" info="소화완료 했습니다, 언제든지 철수가능합니다!" />
+    <Audio code="JP_033" name="작전 종료 - 1★,2★" info="불기운은 거의 수그러들었습니다만, 소관은 남아서 사후처리를 해야 할까요?" />
+    <Audio code="JP_034" name="작전 실패" info="이, 이런! 불이 이쪽으로 옵니다!" />
+  </Info>
+</DataList>
