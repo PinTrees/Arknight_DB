@@ -8,6 +8,8 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 using TMPro;
+
+
 namespace FilesInfo
 {
     public class IconFile
@@ -27,6 +29,7 @@ namespace FilesInfo
         public string fileCount;
     }
 }
+
 namespace Setting
 {
     public class DataBaseSetting
@@ -624,6 +627,7 @@ public class Download : MonoBehaviour
         yield return new WaitForSeconds(.1f);
         List<FILEInfo> downloadFiles = XML.This.Get_FileInfo("OperatorAudioFile.xml");
         yield return StartCoroutine(FileCheckAudio(downloadFiles, ver, bar_main, value_main));
+
         // ====================================================================================================================
         // DownLoad Data Refresh ========================================================================================================
         if (ver.Equals("ALL"))
@@ -634,11 +638,11 @@ public class Download : MonoBehaviour
             for (int i = 0; i < downloadFiles.Count; i++)
                 if (!downloadFiles[i].compulsion.Equals("1"))
                 {
-                    downloadFiles.RemoveAt(i);
-                    i--;
+                    downloadFiles.RemoveAt(i--);
                 }
         }
         fileCount = downloadFiles.Count;
+
         // DownLoad Start ========================================================================================================
         fileName.text = "오디오 파일 다운로드중...";
         yield return new WaitForSeconds(.1f);
@@ -653,6 +657,7 @@ public class Download : MonoBehaviour
             bar_main.fillAmount = curCount / (float)fileCount;
             yield return null;
         }
+
         // ============================================================================================================================
         // DownLoad File Check ========================================================================================================
         fileName.text = "오디오 파일 설치 확인중...";  
@@ -680,6 +685,7 @@ public class Download : MonoBehaviour
             }
             yield return new WaitForSeconds(.1f);
         }
+
         // ===========================================================================================================================
         XML.This.Save_VersionCode("null", ver);
         UI.SetActive(false);

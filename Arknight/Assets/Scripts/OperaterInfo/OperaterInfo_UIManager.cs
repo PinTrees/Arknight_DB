@@ -429,8 +429,6 @@ public class OperaterInfo_UIManager : MonoBehaviour
         Material atlasMaterial = Resources.Load("spine/" + curData.en_name + "/" + curData.en_name + "_Material") as Material;
         Material[] materialElement = { atlasMaterial }; // i got only 1 material on this model
 
-        //Debug.Log(skeletonJSON);
-        //Debug.Log(atlasFile);
         AtlasAsset runtimeAtlasAsset = AtlasAsset.CreateRuntimeInstance(atlasFile, materialElement, true); // seems to fail
         SkeletonDataAsset runtimeSkeletonDataAsset =  SkeletonDataAsset.CreateRuntimeInstance(skeletonJSON, runtimeAtlasAsset, true);  // create a non-readable SkeletonDataAsset
 
@@ -446,7 +444,6 @@ public class OperaterInfo_UIManager : MonoBehaviour
         spine_animator.AnimationState.AddAnimation(0, "Start", false, 0f);
         spine_animator.gameObject.SetActive(true);
         spine_animator.AnimationState.AddAnimation(0, "Idle", true, 0f);
-        //spine_animator = SkeletonAnimation.NewSkeletonAnimationGameObject(runtimeSkeletonDataAsset);
 
         yield return null;
     }

@@ -11,7 +11,10 @@ public class UniClipboard
             if (_board == null)
             {
                 if (Application.platform == RuntimePlatform.Android)
-                    _board = new AndroidBoard();
+                {
+
+                }
+                //_board = new AndroidBoard();
                 //_board = new IOSBoard ();
                 else
                     _board = new StandardBoard();

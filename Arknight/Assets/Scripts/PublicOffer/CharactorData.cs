@@ -150,7 +150,7 @@ namespace CharactorDataSet
         public string target;
         public string info;
     }
-    public class Costume
+    public class Costume    
     {
         public string name;
         public string type;

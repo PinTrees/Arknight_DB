@@ -27,6 +27,7 @@ namespace UI
         public RawImage rawicon;
         public RawImage fram;
         public Text name;
+
         ~RawIconOp()
         {
             This = null;
